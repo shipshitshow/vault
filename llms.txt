@@ -1,0 +1,35 @@
+# Ship Sh!t Show — YouTube Content Repo
+# https://github.com/shipshitshow/youtube
+
+> Weekly livestream on AI tools, indie dev, and shipping fast.
+> Full episode scripts, transcripts, and show notes — structured for LLM consumption.
+
+## Episodes
+
+All episodes are in content/episodes/YYYY-MM-DD-slug/
+Each folder contains:
+- index.md      — YAML frontmatter (id, title, date, youtube_id, topics, chapters) + summary
+- transcript.md — Full episode transcript
+- notes.md      — Show notes and resources
+- thumbnail.prompt.md — AI image prompt used for the thumbnail
+
+## Browse
+
+- content/episodes/  — All episodes
+- content/series/    — Playlist groupings
+- content/topics/    — Topic indexes
+- content/templates/ — Episode templates (weekly-stream.md)
+
+## Metadata Schema (index.md frontmatter)
+
+id: sss-NNN
+title: string
+date: YYYY-MM-DD
+type: stream | short | interview
+duration: H:MM:SS
+youtube_id: string
+topics: string[]
+guests: string[]
+news: [{title, source, url, hot_take}]
+demo: {project, repo, goal, continuation}
+chapters: [{time, title}]
