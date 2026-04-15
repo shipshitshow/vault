@@ -1,0 +1,51 @@
+{
+  "centerStrength": 0.4,
+  "close": false,
+  "collapse-color-groups": false,
+  "collapse-display": false,
+  "collapse-filter": false,
+  "collapse-forces": false,
+  "colorGroups": [
+    {
+      "color": {
+        "a": 1,
+        "rgb": 16444375
+      },
+      "query": "file:\"00 Home\" OR file:\"01 Content Map\" OR file:\"02 Content Canvas\" OR file:\"index\""
+    },
+    {
+      "color": {
+        "a": 1,
+        "rgb": 7029503
+      },
+      "query": "path:\"shipshitshow/Livestreams\""
+    },
+    {
+      "color": {
+        "a": 1,
+        "rgb": 4160941
+      },
+      "query": "path:\"shipshitshow/Videos\""
+    },
+    {
+      "color": {
+        "a": 1,
+        "rgb": 15512134
+      },
+      "query": "path:\"shipshitshowclips/Shorts\""
+    }
+  ],
+  "hideUnresolved": true,
+  "lineSizeMultiplier": 1.1,
+  "linkDistance": 180,
+  "linkStrength": 1,
+  "nodeSizeMultiplier": 1.2,
+  "repelStrength": 14,
+  "scale": 0.9,
+  "search": "-path:\"_admin\" -path:\".agents\" -file:\"README\"",
+  "showArrow": false,
+  "showAttachments": false,
+  "showOrphans": false,
+  "showTags": false,
+  "textFadeMultiplier": 0
+}

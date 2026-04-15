@@ -1,120 +1,84 @@
-# Ship Sh!t Show YouTube
+# Ship Sh!t Show Vault
 
-Open-source content repository for the [Ship Sh!t Show](https://www.youtube.com/@ShipShitDev) YouTube channel.
+This repo is a pure Obsidian vault for the two YouTube channels:
 
-## What's Inside
+- `shipshitshow`
+- `shipshitshowclips`
 
-- **Episode content** - Show notes, transcripts, and metadata for every episode
-- **CLI tool** - Generate thumbnails, fetch transcripts, manage episodes
-- **LLM-friendly** - Structured markdown with frontmatter for easy AI consumption
+## Entry Points
 
-## Quick Start
+- [00 Home](./00 Home.md)
+- [01 Content Map](./01 Content Map.md)
+- [02 Content Canvas](./02 Content Canvas.canvas)
+- [shipshitshow](./shipshitshow/index.md)
+- [shipshitshowclips](./shipshitshowclips/index.md)
 
-```bash
-# Install dependencies
-bun install
+## Vault Layout
 
-# Build CLI
-bun run build
+### Main channel
 
-# Link CLI globally (optional)
-cd packages/cli && bun link
-```
+- [shipshitshow/index.md](./shipshitshow/index.md)
+- [shipshitshow/Livestreams](./shipshitshow/Livestreams)
+- [shipshitshow/Videos](./shipshitshow/Videos)
 
-## CLI Commands
+### Clips channel
 
-```bash
-# Create new episode
-sss new 2026-02-08-ai-tools-roundup
+- [shipshitshowclips/index.md](./shipshitshowclips/index.md)
+- [shipshitshowclips/Shorts](./shipshitshowclips/Shorts)
 
-# Generate thumbnail via GenFeed.ai
-GENFEED_API_KEY=your-key sss thumbnail 2026-02-08-ai-tools-roundup
+### Admin
 
-# Fetch transcript from YouTube
-sss transcript dQw4w9WgXcQ --episode 2026-02-08-ai-tools-roundup
+- [_admin/docs](./_admin/docs)
+- [_admin/scripts](./_admin/scripts)
+- [_admin/templates](./_admin/templates)
 
-# List all episodes
-sss list
-```
+## Content Model
 
-## Directory Structure
+Each content chain is linked together:
 
-```
-content/
-├── episodes/                    # Episode content
-│   └── YYYY-MM-DD-slug/
-│       ├── index.md             # Metadata + summary
-│       ├── transcript.md        # Full transcript
-│       ├── notes.md             # Show notes
-│       └── thumbnail.png        # Generated thumbnail
-├── series/                      # Playlist groupings
-└── topics/                      # Topic indexes
+- livestream -> recap video -> derived shorts
+- overview notes link to related entries in the other channel folders
+- transcripts live beside each entry as `transcript.md`
+- Notion notes, where imported, live beside the livestream as `notes.md`
 
-prompts/
-└── thumbnail.default.md         # Default thumbnail prompt
+Navigation notes:
 
-packages/
-└── cli/                         # @shipshitshow/cli
-```
+- [01 Content Map](./01 Content Map.md) is the note-based MOC
+- [02 Content Canvas](./02 Content Canvas.canvas) is the manual canvas layout
+- Obsidian Graph View is configured through [.obsidian/graph.json](./.obsidian/graph.json)
 
-## Episode Format
+## Formatting
 
-Each episode's `index.md` contains structured frontmatter:
+Biome is used for vault-side formatting with spaces, not tabs.
 
-```yaml
----
-id: sss-001
-title: "Episode Title"
-date: 2026-02-01
-type: stream
-duration: "1:25:00"
-youtube_id: "abc123"
-topics: ["vibe-coding", "claude-code"]
-guests: []
-chapters:
-  - time: "00:00"
-    title: "Intro"
-thumbnail: ./thumbnail.png
----
-```
+- Config: [biome.json](./biome.json)
+- Formatter script: [_admin/scripts/format_vault.sh](./_admin/scripts/format_vault.sh)
 
-## Thumbnail Generation
-
-Thumbnails are generated using [GenFeed.ai](https://genfeed.ai) with customizable prompt templates.
-
-**Default prompt** (`prompts/thumbnail.default.md`):
-- Uses FLUX Pro model
-- 1920x1080 resolution
-- Interpolates episode metadata (title, topics, guests)
-
-**Custom prompts**: Add `thumbnail.prompt.md` to any episode folder to override.
+Run:
 
 ```bash
-# Preview prompt without generating
-sss thumbnail 2026-02-01-pilot --dry-run
-
-# Generate with extra context
-sss thumbnail 2026-02-01-pilot --prompt "neon colors, cyberpunk style"
-
-# Generate multiple variations
-sss thumbnail 2026-02-01-pilot --count 4
+./_admin/scripts/format_vault.sh
 ```
 
-## For LLMs
+## Frontmatter Rules
 
-This repo is designed to be easily consumed by AI assistants:
+YouTube keyword phrases must use `youtube_tags`, not `tags`.
 
-- **Structured frontmatter** - All metadata in YAML format
-- **Consistent paths** - Predictable file locations
-- **Topic indexes** - Browse by subject area
-- **Full transcripts** - Complete episode text for context
+See:
 
-## Contributing
+- [_admin/docs/FRONTMATTER.md](./_admin/docs/FRONTMATTER.md)
 
-1. Fork the repo
-2. Create episode content following the existing format
-3. Submit a PR
+## Current State
 
-## License
+- YouTube videos are imported
+- YouTube livestreams are imported
+- YouTube shorts are imported
+- thumbnails are stored beside imported YouTube entries
+- transcripts were backfilled from available captions
+- completed livestream notes from Notion were imported where available
 
-MIT
+## Notes
+
+- `shipshitshow` and `shipshitshowclips` are the actual vault roots for channel content
+- `_admin` is only support material for maintaining the vault
+- `.obsidian` contains the Obsidian workspace, graph, and plugin config

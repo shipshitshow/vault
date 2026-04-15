@@ -13,6 +13,9 @@ dist/
 .idea/
 .vscode/
 *.swp
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.trash/
 
 # OS
 .DS_Store
