@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,880
+ Some people told me, why do you even test it yourself? Because AI is smarter and it will
+
+2
+00:00:04,880 --> 00:00:11,120
+ save you a lot of time if you just have AI test everything. But I tried it and me doing it in
+
+3
+00:00:11,120 --> 00:00:17,360
+ steps and testing myself as well, just as a final part, after all the AI is debugging each other.
+
+4
+00:00:17,360 --> 00:00:23,360
+ If I look at my total time, I'm faster doing every branch checking myself than fully trusting AI and
+
+5
+00:00:23,360 --> 00:00:26,000
+ then needing to debug everything. - Yeah.
+

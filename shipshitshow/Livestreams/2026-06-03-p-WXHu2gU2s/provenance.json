@@ -1,0 +1,12 @@
+{
+  "youtube_id": "p-WXHu2gU2s",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "f946436770506ebe895472274e7cd1e122baa1fc4c53698dbee09dc45748ab08",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-03-livestream-claude-opus-4-8-masterclass-everything-you-need-to-know.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

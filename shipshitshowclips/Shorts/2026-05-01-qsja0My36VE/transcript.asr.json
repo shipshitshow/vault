@@ -1,0 +1,230 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:01,720"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 1720
+      },
+      "text": " - Do you ever ask the question,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:01,720",
+        "to": "00:00:03,840"
+      },
+      "offsets": {
+        "from": 1720,
+        "to": 3840
+      },
+      "text": " what could I have prompted differently"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,840",
+        "to": "00:00:05,780"
+      },
+      "offsets": {
+        "from": 3840,
+        "to": 5780
+      },
+      "text": " and how could I have differently asked the question"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,780",
+        "to": "00:00:06,860"
+      },
+      "offsets": {
+        "from": 5780,
+        "to": 6860
+      },
+      "text": " to get a better result?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,860",
+        "to": "00:00:09,240"
+      },
+      "offsets": {
+        "from": 6860,
+        "to": 9240
+      },
+      "text": " - Not really, I just like fix that shit."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,240",
+        "to": "00:00:11,300"
+      },
+      "offsets": {
+        "from": 10240,
+        "to": 11300
+      },
+      "text": " - Yeah, okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,200",
+        "to": "00:00:13,040"
+      },
+      "offsets": {
+        "from": 12200,
+        "to": 13040
+      },
+      "text": " - Do you?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,040",
+        "to": "00:00:13,880"
+      },
+      "offsets": {
+        "from": 13040,
+        "to": 13880
+      },
+      "text": " - Yeah, I do."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,880",
+        "to": "00:00:16,280"
+      },
+      "offsets": {
+        "from": 13880,
+        "to": 16280
+      },
+      "text": " Because sometimes you just get the first output"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,280",
+        "to": "00:00:17,760"
+      },
+      "offsets": {
+        "from": 16280,
+        "to": 17760
+      },
+      "text": " and it's really bad."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,760",
+        "to": "00:00:20,120"
+      },
+      "offsets": {
+        "from": 17760,
+        "to": 20120
+      },
+      "text": " And then you're like working for 30 minutes"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,120",
+        "to": "00:00:21,760"
+      },
+      "offsets": {
+        "from": 20120,
+        "to": 21760
+      },
+      "text": " to get a result that you want."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,760",
+        "to": "00:00:23,480"
+      },
+      "offsets": {
+        "from": 21760,
+        "to": 23480
+      },
+      "text": " And that's the moment when I ask,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,480",
+        "to": "00:00:27,720"
+      },
+      "offsets": {
+        "from": 23480,
+        "to": 27720
+      },
+      "text": " okay, what could I have asked you in the initial prompt"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:27,720",
+        "to": "00:00:29,400"
+      },
+      "offsets": {
+        "from": 27720,
+        "to": 29400
+      },
+      "text": " to get this result directly"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,400",
+        "to": "00:00:31,080"
+      },
+      "offsets": {
+        "from": 29400,
+        "to": 31080
+      },
+      "text": " and please give me a few steps?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:31,080",
+        "to": "00:00:34,440"
+      },
+      "offsets": {
+        "from": 31080,
+        "to": 34440
+      },
+      "text": " And I write those down and when creating the next prompt,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:34,440",
+        "to": "00:00:35,880"
+      },
+      "offsets": {
+        "from": 34440,
+        "to": 35880
+      },
+      "text": " I just put those steps in."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,260"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4260
+      },
+      "text": " The novel MPL separation attack generated a signed package of 10 stack, a collection"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,260",
+        "to": "00:00:06,300"
+      },
+      "offsets": {
+        "from": 4260,
+        "to": 6300
+      },
+      "text": " of open source libraries for web development."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,300",
+        "to": "00:00:11,660"
+      },
+      "offsets": {
+        "from": 6300,
+        "to": 11660
+      },
+      "text": " The attack combined the GitHub pull request target vulnerability, GitHub action cache"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,660",
+        "to": "00:00:14,280"
+      },
+      "offsets": {
+        "from": 11660,
+        "to": 14280
+      },
+      "text": " poisoning and runtime memory extraction."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,280",
+        "to": "00:00:19,100"
+      },
+      "offsets": {
+        "from": 14280,
+        "to": 19100
+      },
+      "text": " Misconfigured pull request target workflow gave outside code access the repo secrets."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:19,100",
+        "to": "00:00:23,600"
+      },
+      "offsets": {
+        "from": 19100,
+        "to": 23600
+      },
+      "text": " Explored GitHub workflow cache poisoning, which has, as far as I know, been an issue"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,600",
+        "to": "00:00:24,600"
+      },
+      "offsets": {
+        "from": 23600,
+        "to": 24600
+      },
+      "text": " for a while."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:24,600",
+        "to": "00:00:29,380"
+      },
+      "offsets": {
+        "from": 24600,
+        "to": 29380
+      },
+      "text": " Did GitHub also post somewhere that they are firing all the devs and have everybody in"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,380",
+        "to": "00:00:32,340"
+      },
+      "offsets": {
+        "from": 29380,
+        "to": 32340
+      },
+      "text": " a company make full requests with AI?"
+    }
+  ]
+}

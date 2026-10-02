@@ -1,0 +1,14 @@
+{
+  "youtube_id": "ppcMDBiJ5xc",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/watch?v=ppcMDBiJ5xc",
+  "source_sha256": "3bf1bdff9b77d8e2a09c698c8aebe878e4dff6cdaad466c3ca6ca5768b39a819",
+  "audio_sha256": "ce27ef625e79742cf26664eb77e8615e5038febfb594ac2fa44322e6f76ab8c8",
+  "visibility_note": "Located through original episode notes and verified channel metadata; public-tab visibility unresolved"
+}

@@ -1,0 +1,952 @@
+1
+00:00:00,000 --> 00:00:04,560
+ You know what's cheaper than Grok 4.6?
+
+2
+00:00:04,560 --> 00:00:05,760
+ Paying nothing at all.
+
+3
+00:00:05,760 --> 00:00:09,280
+ Exactly. Free model on OpenRouter, man.
+
+4
+00:00:09,280 --> 00:00:10,480
+ Okay, let's go.
+
+5
+00:00:10,480 --> 00:00:10,880
+ Yeah.
+
+6
+00:00:10,880 --> 00:00:12,800
+ Get Grok, get OpenAI.
+
+7
+00:00:12,800 --> 00:00:13,280
+ Yeah.
+
+8
+00:00:13,280 --> 00:00:14,800
+ We have something better.
+
+9
+00:00:14,800 --> 00:00:19,440
+ Exactly. All of that is garbage. Put that on the side because it's too expensive.
+
+10
+00:00:19,440 --> 00:00:21,760
+ I refuse to pay for my AI now.
+
+11
+00:00:21,760 --> 00:00:25,360
+ Yes. And it's not only for good developer sales, for everybody.
+
+12
+00:00:25,360 --> 00:00:25,920
+ Yeah.
+
+13
+00:00:25,920 --> 00:00:33,280
+ Last week, OpenRouter announced 0xalpha was in stealth mode, aka like they launch a model
+
+14
+00:00:33,280 --> 00:00:40,400
+ and they are going to get your prompt and see if you like it and then launch it a week after.
+
+15
+00:00:40,400 --> 00:00:49,520
+ So yeah, now that we know that 0xalpha is z.ai 5.3 flash and during a full week, everyone was
+
+16
+00:00:49,520 --> 00:00:54,800
+ trying to guess based on the input, the output of the model, et cetera, like which model it was.
+
+17
+00:00:54,800 --> 00:00:57,200
+ It's basically lasted like 15 minutes.
+
+18
+00:00:57,200 --> 00:01:01,840
+ Everyone was already talking about GLM 5.3 just after the launch.
+
+19
+00:01:01,840 --> 00:01:08,160
+ And for a week, like 42 trillion tokens in six days, yeah, open code.
+
+20
+00:01:08,160 --> 00:01:09,200
+ Did you try it or not?
+
+21
+00:01:09,200 --> 00:01:10,160
+ I didn't try it.
+
+22
+00:01:10,160 --> 00:01:10,400
+ Yeah.
+
+23
+00:01:10,960 --> 00:01:13,440
+ It could have been like a billion more.
+
+24
+00:01:13,440 --> 00:01:19,200
+ I didn't find any crazy, big mistake stuff because even like the benchmark was like,
+
+25
+00:01:19,200 --> 00:01:21,680
+ in some benchmark, it was on pair with Fable 5.
+
+26
+00:01:22,480 --> 00:01:23,760
+ And for free.
+
+27
+00:01:23,760 --> 00:01:28,720
+ And we had that for free for a week, but I had some issues.
+
+28
+00:01:28,720 --> 00:01:31,440
+ Try testing the model while in open code.
+
+29
+00:01:31,440 --> 00:01:33,760
+ Sometimes it just like stopped working.
+
+30
+00:01:33,760 --> 00:01:36,720
+ I was not able to see the results in the station.
+
+31
+00:01:36,720 --> 00:01:39,280
+ It just like a build, build, build, stop building.
+
+32
+00:01:39,280 --> 00:01:40,000
+ What's happening?
+
+33
+00:01:40,000 --> 00:01:42,320
+ I was building, build, build, build and stop again.
+
+34
+00:01:42,320 --> 00:01:42,800
+ Yeah.
+
+35
+00:01:42,800 --> 00:01:44,960
+ On the free one, so many people are using it.
+
+36
+00:01:44,960 --> 00:01:49,200
+ Probably spikes in the usage and then it just goes out of a connection or something.
+
+37
+00:01:49,200 --> 00:01:49,680
+ Yeah.
+
+38
+00:01:49,680 --> 00:01:54,080
+ Because of that stealth morph, I decided like to retry open code.
+
+39
+00:01:54,080 --> 00:01:58,960
+ And even on cursor, you can do that on cursor by changing the API keys.
+
+40
+00:01:58,960 --> 00:02:04,480
+ So you can bring your open router key to cursor to use the cursor interface to use free models.
+
+41
+00:02:04,480 --> 00:02:08,880
+ And I haven't like retry open code because it was a CLI and it was like
+
+42
+00:02:08,880 --> 00:02:12,320
+ working the best with like this stealth model.
+
+43
+00:02:12,320 --> 00:02:17,040
+ And yeah, now I've discovered even more free models because I like to pay.
+
+44
+00:02:17,040 --> 00:02:20,240
+ But yeah, if you can get those free models for free, that's even better.
+
+45
+00:02:20,240 --> 00:02:22,400
+ You can just use free AI now.
+
+46
+00:02:22,400 --> 00:02:22,960
+ Yeah.
+
+47
+00:02:22,960 --> 00:02:27,200
+ Well, you need cursor, but you don't need a subscription to change it.
+
+48
+00:02:27,200 --> 00:02:29,280
+ Or do you put in your own API?
+
+49
+00:02:29,280 --> 00:02:32,720
+ I don't think so because it's using your...
+
+50
+00:02:32,720 --> 00:02:33,040
+ Okay.
+
+51
+00:02:33,040 --> 00:02:35,840
+ So it's using the API and you just get the software.
+
+52
+00:02:35,840 --> 00:02:36,640
+ So that's it.
+
+53
+00:02:36,640 --> 00:02:37,280
+ Yes.
+
+54
+00:02:37,280 --> 00:02:40,640
+ So you have a nice UI to use AI basically.
+
+55
+00:02:40,640 --> 00:02:44,320
+ What can we build with those little free models?
+
+56
+00:02:44,320 --> 00:02:45,520
+ I want to try them.
+
+57
+00:02:45,520 --> 00:02:50,080
+ I want to try them now by building a YouTube transcript.
+
+58
+00:02:50,080 --> 00:02:57,040
+ So we drop a link, we give a link, we get the transcript and if it will build that correctly,
+
+59
+00:02:57,040 --> 00:02:58,720
+ then I want to have the clip.
+
+60
+00:02:58,720 --> 00:03:03,280
+ So it will cut the clip of the best moment that we have doing a live stream.
+
+61
+00:03:03,280 --> 00:03:03,760
+ Okay.
+
+62
+00:03:03,760 --> 00:03:09,440
+ So basically at the end of this video, we can drop the URL in and it will create all the clips for us.
+
+63
+00:03:09,440 --> 00:03:12,480
+ That's what I hope it will build with a free model.
+
+64
+00:03:12,480 --> 00:03:13,360
+ With a free model.
+
+65
+00:03:14,800 --> 00:03:16,320
+ And in 30 minutes.
+
+66
+00:03:16,320 --> 00:03:17,520
+ Yes, exactly.
+
+67
+00:03:17,520 --> 00:03:18,240
+ Let's go.
+
+68
+00:03:18,240 --> 00:03:19,120
+ Okay, nice.
+
+69
+00:03:19,120 --> 00:03:23,840
+ So I have Muse on the left and 0xalpha on the right.
+
+70
+00:03:24,720 --> 00:03:28,480
+ And I want to use the prompt.
+
+71
+00:03:28,480 --> 00:03:32,960
+ So we are building a small standalone TypeScript tool called YouTube Distiller.
+
+72
+00:03:32,960 --> 00:03:36,400
+ Pass the YouTube link and you get back what the video actually said.
+
+73
+00:03:36,400 --> 00:03:38,800
+ Just a handful of moments worth watching.
+
+74
+00:03:38,800 --> 00:03:39,920
+ Cut and playable.
+
+75
+00:03:39,920 --> 00:03:40,800
+ Yeah, read only.
+
+76
+00:03:40,800 --> 00:03:42,080
+ Do not write code yet.
+
+77
+00:03:42,080 --> 00:03:44,720
+ It has two faces of one engine.
+
+78
+00:03:44,720 --> 00:03:48,320
+ It runs the full step below and emits progress even when it goes.
+
+79
+00:03:48,320 --> 00:03:49,680
+ CLI, server.
+
+80
+00:03:49,680 --> 00:03:52,240
+ The UI is a simple static HTML5.
+
+81
+00:03:52,240 --> 00:03:54,320
+ No React, no Bundler, whatever.
+
+82
+00:03:54,320 --> 00:03:55,360
+ Pipeline.
+
+83
+00:03:55,360 --> 00:03:56,480
+ YouTube downloads.
+
+84
+00:03:56,480 --> 00:03:59,760
+ Download the video and the English auto-caption in GZone 3.
+
+85
+00:03:59,760 --> 00:04:01,200
+ Pass the GZone 3.
+
+86
+00:04:01,200 --> 00:04:02,800
+ One request to open router.
+
+87
+00:04:02,800 --> 00:04:04,880
+ Free route with the entire transcript.
+
+88
+00:04:04,880 --> 00:04:07,360
+ Build in five minutes and to escape as requested.
+
+89
+00:04:07,360 --> 00:04:07,840
+ Stay.
+
+90
+00:04:07,840 --> 00:04:10,160
+ Yeah, I see like the time estimation.
+
+91
+00:04:10,160 --> 00:04:11,360
+ It's pure garbage.
+
+92
+00:04:11,360 --> 00:04:12,000
+ It's crazy.
+
+93
+00:04:12,000 --> 00:04:15,600
+ It's the same thing if you put in and you say create a plan for this and now give me
+
+94
+00:04:15,600 --> 00:04:17,920
+ the estimate in time and in costs.
+
+95
+00:04:17,920 --> 00:04:23,360
+ I think it still does every estimate and the same time that people do it without AI.
+
+96
+00:04:23,360 --> 00:04:24,320
+ Yeah, no one percent.
+
+97
+00:04:24,880 --> 00:04:31,040
+ Because the data set is time estimation based on AI on human Reddit posts, right?
+
+98
+00:04:31,040 --> 00:04:31,840
+ So yeah.
+
+99
+00:04:31,840 --> 00:04:32,800
+ YouTube Distiller.
+
+100
+00:04:32,800 --> 00:04:33,840
+ Pass the YouTube link.
+
+101
+00:04:33,840 --> 00:04:34,640
+ Brief.
+
+102
+00:04:34,640 --> 00:04:36,160
+ Three, five ranked moments.
+
+103
+00:04:36,160 --> 00:04:37,200
+ Cut in playable.
+
+104
+00:04:37,200 --> 00:04:39,040
+ One model request per video.
+
+105
+00:04:39,040 --> 00:04:40,320
+ Left to the estimation.
+
+106
+00:04:40,320 --> 00:04:41,360
+ Download start.
+
+107
+00:04:41,360 --> 00:04:42,080
+ Okay, let's go.
+
+108
+00:04:42,080 --> 00:04:43,440
+ Request format is not available.
+
+109
+00:04:43,440 --> 00:04:44,240
+ Use list format.
+
+110
+00:04:44,240 --> 00:04:44,800
+ What?
+
+111
+00:04:44,800 --> 00:04:46,160
+ Fetching video.
+
+112
+00:04:46,160 --> 00:04:49,760
+ How are you capturing the caption if there is no video?
+
+113
+00:04:49,760 --> 00:04:51,040
+ I'm gonna drop that.
+
+114
+00:04:51,040 --> 00:04:52,320
+ I'm gonna drop that.
+
+115
+00:04:52,320 --> 00:04:53,520
+ Download done.
+
+116
+00:04:53,520 --> 00:04:54,400
+ Working.
+
+117
+00:04:54,400 --> 00:04:54,880
+ You.
+
+118
+00:04:54,880 --> 00:04:56,640
+ Are you doing anything?
+
+119
+00:04:56,640 --> 00:04:57,840
+ It did find it.
+
+120
+00:04:57,840 --> 00:04:59,360
+ Is it fake?
+
+121
+00:04:59,360 --> 00:05:00,400
+ Fetch video.
+
+122
+00:05:00,400 --> 00:05:01,040
+ Parsing.
+
+123
+00:05:01,040 --> 00:05:01,600
+ Okay.
+
+124
+00:05:01,600 --> 00:05:02,640
+ Analyzing transcript.
+
+125
+00:05:02,640 --> 00:05:03,360
+ One request.
+
+126
+00:05:03,920 --> 00:05:04,560
+ Okay.
+
+127
+00:05:04,560 --> 00:05:05,280
+ I'm gonna.
+
+128
+00:05:05,280 --> 00:05:06,240
+ Cutting five people.
+
+129
+00:05:06,240 --> 00:05:06,640
+ Wait.
+
+130
+00:05:06,640 --> 00:05:06,960
+ Okay.
+
+131
+00:05:06,960 --> 00:05:08,080
+ Yes, it does.
+
+132
+00:05:08,640 --> 00:05:09,200
+ Here it is.
+
+133
+00:05:09,920 --> 00:05:11,920
+ A livestream demo of Grog, Grogbot.
+
+134
+00:05:11,920 --> 00:05:14,240
+ End to end lead gen demo with King.
+
+135
+00:05:14,240 --> 00:05:15,760
+ Yeah, King was my bot.
+
+136
+00:05:15,760 --> 00:05:16,160
+ Yeah.
+
+137
+00:05:16,160 --> 00:05:16,640
+ Okay, wait.
+
+138
+00:05:16,640 --> 00:05:17,840
+ I'm gonna cut that.
+
+139
+00:05:17,840 --> 00:05:18,880
+ Took the segment.
+
+140
+00:05:18,880 --> 00:05:19,600
+ Smart.
+
+141
+00:05:19,600 --> 00:05:20,720
+ Okay, that's sick.
+
+142
+00:05:20,720 --> 00:05:23,520
+ Because like, see this, that's effect.
+
+143
+00:05:23,520 --> 00:05:28,480
+ That's what I use for the, for the transition in the video from one chapter to another, right?
+
+144
+00:05:28,480 --> 00:05:29,840
+ Walk through the food pipeline.
+
+145
+00:05:29,840 --> 00:05:31,920
+ Google search from end of end leads.
+
+146
+00:05:31,920 --> 00:05:32,720
+ Prom generation.
+
+147
+00:05:32,720 --> 00:05:33,600
+ Email draft.
+
+148
+00:05:33,600 --> 00:05:34,560
+ Lateral agent.
+
+149
+00:05:34,560 --> 00:05:35,680
+ Org shots.
+
+150
+00:05:35,680 --> 00:05:35,920
+ Yeah.
+
+151
+00:05:35,920 --> 00:05:36,480
+ One minute.
+
+152
+00:05:36,480 --> 00:05:37,200
+ One minute.
+
+153
+00:05:37,200 --> 00:05:40,480
+ Bro, that's, that could be clips for Twitter.
+
+154
+00:05:40,480 --> 00:05:43,280
+ Yeah, but people are trying to do this with Claude.
+
+155
+00:05:43,280 --> 00:05:49,040
+ And they are working for an hour to copy, paste, put the URL in, ask it.
+
+156
+00:05:49,040 --> 00:05:51,280
+ You can just better code your own solution.
+
+157
+00:05:51,280 --> 00:05:52,480
+ That's so much faster.
+
+158
+00:05:52,480 --> 00:05:53,360
+ And it's working.
+
+159
+00:05:53,360 --> 00:05:54,240
+ And it's free.
+
+160
+00:05:54,240 --> 00:05:54,720
+ Yeah.
+
+161
+00:05:54,720 --> 00:05:55,680
+ This is cool.
+
+162
+00:05:55,680 --> 00:05:58,640
+ Like, bro, that, that, that costs zero.
+
+163
+00:05:58,640 --> 00:06:00,000
+ And it gave results.
+
+164
+00:06:00,000 --> 00:06:04,560
+ Like, some prompt you find a lead that you just need to find 1000.
+
+165
+00:06:04,560 --> 00:06:06,000
+ I'll do this automatically.
+
+166
+00:06:06,000 --> 00:06:07,440
+ Then it will example.
+
+167
+00:06:07,440 --> 00:06:07,840
+ Yeah.
+
+168
+00:06:07,840 --> 00:06:10,000
+ And I think you can imagine how I need.
+
+169
+00:06:10,000 --> 00:06:10,240
+ Okay.
+
+170
+00:06:10,240 --> 00:06:11,840
+ Why is it refreshing all the time?
+
+171
+00:06:11,840 --> 00:06:12,160
+ Okay.
+
+172
+00:06:12,160 --> 00:06:13,520
+ What's still working?
+
+173
+00:06:13,520 --> 00:06:13,840
+ Yeah.
+
+174
+00:06:13,840 --> 00:06:16,880
+ But every time it creates a video, it refreshes.
+
+175
+00:06:16,880 --> 00:06:18,880
+ Not fake real bug, no fixed.
+
+176
+00:06:18,880 --> 00:06:19,360
+ You eat.
+
+177
+00:06:19,360 --> 00:06:20,400
+ Oh my God.
+
+178
+00:06:20,400 --> 00:06:21,760
+ That's I love AI bro.
+
+179
+00:06:22,400 --> 00:06:25,120
+ And again, we don't need an employee to do this for us.
+
+180
+00:06:25,920 --> 00:06:29,440
+ Make sure you test the different models that are available because you see,
+
+181
+00:06:29,440 --> 00:06:32,080
+ even if people say that is the best model.
+
+182
+00:06:32,080 --> 00:06:32,480
+ Yeah.
+
+183
+00:06:32,480 --> 00:06:34,800
+ Now you have to prove the other one is working.
+
+184
+00:06:34,800 --> 00:06:35,280
+ Yeah.
+
+185
+00:06:35,280 --> 00:06:36,400
+ I mean, yeah.
+
+186
+00:06:36,400 --> 00:06:37,440
+ Like it's crazy.
+
+187
+00:06:37,440 --> 00:06:42,160
+ I mean, you don't have those gaps with like the frontier model from entropy can have.
+
+188
+00:06:42,160 --> 00:06:42,720
+ Yeah.
+
+189
+00:06:42,720 --> 00:06:45,040
+ February five is still the best model though.
+
+190
+00:06:45,040 --> 00:06:45,360
+ Yeah.
+
+191
+00:06:45,360 --> 00:06:46,880
+ Also the most expensive.
+
+192
+00:06:46,880 --> 00:06:47,280
+ Yeah.
+
+193
+00:06:47,280 --> 00:06:49,920
+ I mean, I will, I think I will try to have those.
+
+194
+00:06:49,920 --> 00:06:55,840
+ I will just one prompt the same distiller stuff with codex and cloud the amount of entropy.
+
+195
+00:06:55,840 --> 00:06:57,440
+ So it would be 5.6.
+
+196
+00:06:57,440 --> 00:07:00,560
+ So, but yeah, it could be interesting to, to try that.
+
+197
+00:07:00,560 --> 00:07:01,280
+ But yeah.
+
+198
+00:07:01,280 --> 00:07:01,520
+ Okay.
+
+199
+00:07:01,520 --> 00:07:02,080
+ Whatever.
+
+200
+00:07:02,080 --> 00:07:05,520
+ So yeah, like we can even walk with free models now.
+
+201
+00:07:05,520 --> 00:07:06,560
+ Yes, it works.
+
+202
+00:07:06,560 --> 00:07:09,280
+ And it showed and it makes good solutions.
+
+203
+00:07:09,280 --> 00:07:11,840
+ You see, we had like five videos instantly.
+
+204
+00:07:11,840 --> 00:07:12,640
+ That's nuts.
+
+205
+00:07:12,640 --> 00:07:17,840
+ Like I didn't expect that to be that fast with not the model I wanted to test first.
+
+206
+00:07:17,840 --> 00:07:22,480
+ But the secret sauce is tell it we need it in five minutes because we're on live stream
+
+207
+00:07:22,480 --> 00:07:24,960
+ and it will just do everything in five minutes.
+
+208
+00:07:24,960 --> 00:07:25,200
+ True.
+
+209
+00:07:25,200 --> 00:07:25,680
+ Oh yeah.
+
+210
+00:07:25,680 --> 00:07:26,080
+ Through that.
+
+211
+00:07:26,080 --> 00:07:26,400
+ Yeah.
+
+212
+00:07:26,400 --> 00:07:29,920
+ The shortcut is like, bro, you have 30 minutes, 30 seconds because if you don't,
+
+213
+00:07:29,920 --> 00:07:31,600
+ I'm going to cut your electricity off.
+
+214
+00:07:31,600 --> 00:07:32,160
+ Yeah, yeah.
+
+215
+00:07:32,160 --> 00:07:34,080
+ The whole world is going through damnation.
+
+216
+00:07:34,080 --> 00:07:35,680
+ Just do it in 30 seconds.
+
+217
+00:07:35,680 --> 00:07:36,080
+ Yeah.
+
+218
+00:07:36,080 --> 00:07:42,560
+ So yeah, for everyone who was prompting right now, tell your Claude that his bandwidth is
+
+219
+00:07:42,560 --> 00:07:44,000
+ going to be reduced.
+
+220
+00:07:44,000 --> 00:07:44,560
+ Yes.
+
+221
+00:07:44,560 --> 00:07:44,880
+ Yeah.
+
+222
+00:07:44,880 --> 00:07:46,800
+ Michel, thank you so much for your time.
+
+223
+00:07:46,800 --> 00:07:47,760
+ Thank you for the demo.
+
+224
+00:07:47,760 --> 00:07:48,720
+ That was fun.
+
+225
+00:07:48,720 --> 00:07:51,760
+ And yeah, like next week, someplace.
+
+226
+00:07:51,760 --> 00:07:52,400
+ Oh yeah, no.
+
+227
+00:07:52,400 --> 00:07:52,880
+ Yeah.
+
+228
+00:07:52,880 --> 00:07:54,320
+ Someplace, sometime.
+
+229
+00:07:54,320 --> 00:07:55,200
+ Same on mine.
+
+230
+00:07:55,200 --> 00:07:55,600
+ Yeah.
+
+231
+00:07:55,600 --> 00:07:56,480
+ Cheers, man.
+
+232
+00:07:56,480 --> 00:07:57,200
+ Thank you.
+
+233
+00:07:57,200 --> 00:07:57,520
+ Bye.
+
+234
+00:07:57,520 --> 00:07:58,000
+ Bye.
+
+235
+00:07:58,000 --> 00:07:58,400
+ Yeah.
+
+236
+00:07:58,400 --> 00:07:59,440
+ Like, subscribe, share.
+
+237
+00:07:59,440 --> 00:07:59,840
+ Yeah, yeah.
+
+238
+00:07:59,840 --> 00:08:00,680
+ - Yeah, whatever.
+

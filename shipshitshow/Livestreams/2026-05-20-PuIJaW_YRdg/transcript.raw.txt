@@ -1,0 +1,1452 @@
+And we are live. Good morning. Good
+morning. Are you good afternoon?
+The morning is just just went by. Yeah,
+it's a morning somewhere, right?
+Exactly. Depends on how long did you
+stay awake and how long did you when did
+you wake up?
+Okay, [snorts]
+actually I meant
+there is some people who are not going
+to have a good day right now.
+>> [laughter]
+>> No, they woke up to a
+to a ton of [ __ ]
+Yeah, that nuts. Like it's crazy and
+we're going to need to talk about it
+right now.
+Okay, so introduction.
+Bath, bath, okay, cool.
+Are you using NPM?
+And do you think you are secure?
+Maybe you're not. There is another
+supply chain attack on NPM registries
+right now and it already happened last
+week, couple of days ago.
+And
+it just burned million of user on
+using the all of those packages.
+What's the solution? Is it all because
+of AI workflows and capabilities?
+Watch this video right now and
+subscribe.
+>> [laughter]
+>> Okay, that speed up route but that will
+do.
+Yeah,
+Mitchell, are you updating all of your
+package every day?
+No. No.
+>> [laughter]
+>> And not after our conversation from last
+week. Yeah.
+And really not I'm really sure I'm not
+going to update daily after today. It's
+it's it's crazy. So, yeah, like what we
+So, yeah, this morning
+at 6:00 a.m. ET
+Socket security, I think I'm going to
+follow this account and put them on
+notification
+every day it's happening, right?
+Socket
+is investigating an active NPM supply
+chain attack compromising hundreds of
+package in the NV ecosystem. If they say
+investigating, then you're you're
+already too late. Yeah. Yeah, like it's
+bad because
+NPM won't compromise. Where is the
+package? NV, yes.
+back
+path
+That's probably not this one. Is it this
+No, it's not this one.
+Okay, let's go.
+Yes.
+Oh, it's a Okay, okay, okay.
+9 years ago?
+What?
+What's the package?
+Maybe Okay, wait. I'm going to
+NV active NPM NV packages
+Okay, let's go. What Why Why did I lost
+the
+technical analysis payload NV
+Why can't I find it?
+I should have searched
+before the stream.
+U T components
+6 months ago. Is it this one?
+Uh could be.
+Is it a view? I don't any it because
+it's completely
+it's not related to TypeScript and
+stuff.
+But
+no no last update, that's not possible.
+Yeah yeah, but few years is used a lot
+in big Yeah. frameworks.
+Wait, do they have the list of package?
+Ooh.
+No.
+Yeah.
+Where? Okay, they don't have the list.
+Yeah, I had the list somewhere.
+Obtain a result of friendly
+They added envy setup.
+text and dependency mirror technical
+provision
+love
+version skip
+network
+Oh, yes. Okay, I'm stupid.
+It's at the package artifact.
+Like electronic
+Uh okay, nice. NPM boom.
+publish three year what?
+Wait, how is that possible to
+have a package published three years ago
+with a version?
+But it's an attack.
+Yeah.
+>> [snorts]
+>> This package has been flagged has been
+flagged and fired by signal confirmed.
+What?
+Wait, okay, let's read the
+attack.
+So act active supply chain attack
+compromise envy packages on NPM active
+Oh.
+Are we live? Oh oh.
+Yeah, you need to restart.
+Are you Am I here? Yeah, you're back.
+Yes.
+Okay, cool.
+Nice. Live.
+And we are okay, we're still live.
+Uh
+What's going on?
+You keep dropping out.
+Damn.
+No, that's sad.
+I'm Oh.
+Okay, no, I'm
+Am I here? Yeah, yeah, you're back.
+Okay.
+Because I can still see you. Okay, it's
+probably like a stream. Good.
+Uh
+whatever.
+It goes.
+Damn. Okay, so uh
+active supply chain compromise and the
+packages in fast-moving malicious
+published wave tied to mini shy root.
+So, it's exactly the same thing than um
+uh last week with Stan stack.
+Uh Socket thread research. The attack
+affected packages tied to the NPM
+maintainer account. Oh. Mhm.
+Including H
+H chart for React.
+Back.
+Okay.
+Uh
+H chart for React.
+Nice.
+H chart for React, a widely used React
+wrapper for Apache H charts with roughly
+1 million
+weekly download.
+Okay, H chart for React.
+Back. Back.
+Uh
+4 months ago. They probably deprecated
+some versions.
+Latest beta.
+Yeah.
+Uh
+A widely used React wrapper for Apache
+ECharts was Roshan. Socket quickly
+detected the malicious published web and
+classified the affected version as known
+malware.
+Uh
+the affected packages that include
+widely used NV package such NVG2, G6,
+X6. What What the [ __ ] is that?
+Did you ever use any of those?
+Well, I don't, but I think the biggest
+issue is that most people don't know
+what they use because if you install a
+package, it can include additional
+packages.
+Yeah. Oh yeah, yeah, because yeah, you
+install package and then it's a
+dependency of someone else, so you can't
+even track it, but it's uh yeah, you
+have the whole collection behind it.
+Yeah. And even if you then just redeploy
+your project because you did a small
+update on something that doesn't impact
+anything, it reinstalls all the packages
+and it installs all the malicious code
+and steals your codes and your account.
+Yeah.
+Good. Okay. Uh so yeah, we already
+talked about that last week, but like do
+you think there is a world when every
+like each developer will rewrite their
+own packages?
+I don't think they will do that, but if
+you have
+code that can never go offline,
+to be honest, right now you always have
+your your install every NPM package
+every time that you deploy.
+Yeah. So if you want to have a really
+stable code, I know it a lot of
+developers are going to hate the
+solution, but
+download it once and just push it in the
+deploy and don't install it.
+Install it one Yeah, but I mean like
+when you deploy, you also freeze the
+version.
+Well, not everybody does that.
+Oh, they Yeah, I mean You can freeze the
+version, but if you use package one and
+that's the only one that you include and
+that includes additional other ones, it
+can still install the latest updates of
+the other ones, even if you set the
+version to a static version.
+>> Oh, yeah. So, the dependency is on
+latest uh version,
+and you install always the same, but the
+dependency will be
+That will be the malicious ones, and
+that's the biggest issue, I think.
+Because you don't know what the other
+ones are, and you don't even care
+because you trust on your NPM package
+that it's correct. Yeah. And then it
+works.
+Isn't that the biggest issue that people
+trust the the code from other devs and
+just install it without looking? But
+there's way too much to research
+everything. Yeah, exactly. Like, welcome
+to open source software.
+Yeah.
+Like, you push you push something
+publicly, it's used by a million of
+other people, and then you get [ __ ]
+because you forget your 2FA on your
+ex-girlfriend's
+phone.
+Yes.
+>> [laughter]
+>> Yeah.
+That's a problem, for sure. Okay, so
+this one
+consists of progressive visualization
+grammar. It's a visualization grammar
+for dashboard building, data
+exploration, and storytelling.
+What? Yeah, but I don't know if you go
+to the GitHub URL, if
+packages as well.
+Uh I don't know Yeah, what's happened
+with your mic, but you were underwater.
+Oh. I'm back or not yet? Yeah, it's
+good.
+Uh
+Go to the GitHub URL, if you can see
+that it includes additional packages as
+well.
+Oh, yeah, you have you will have the
+dependencies, right? Yeah.
+It should be there.
+So, package.
+Oh, wait.
+Wait. You want dependencies.
+And you never check these because you
+just
+only install one,
+and it installs everything additional.
+Yeah.
+Yeah, and like because it's like a
+carrot.
+Is it a carrot?
+Like a yeah, was exposed on exposed
+Uh
+you you install all of the version above
+like 2.1.9. So,
+you can install three.
+And three is compromised.
+Exactly. But
+And then the next question is what if
+that dependency installs additional
+dependencies dependencies?
+Yeah. Yeah.
+I don't know if people know how many
+they install when they deploy something
+because they don't check it. They just
+trust that it works. Every time I
+install like a NPM package then I have a
+node module of like 3 GB of garbage.
+Especially in the mono repo, right?
+Because you have all of the package of
+API blah blah blah. But then you you
+also have um
+a bun uh package manager that are also
+smart. So, they are like installed like
+version of it then it's cached and then
+you don't need to redownload it, but
+then it's like symlinked correctly
+inside the the project. So, you don't
+download the same
+40 GB of uh node modules every time you
+switch a project. Yeah, but developers
+know how that works. People who are just
+doing vibe coding I mean
+>> [clears throat]
+>> they just accept everything. And the
+only test they do is when I click the
+button does it do what I wanted to do?
+Yeah, no exactly. But also like a vibe
+coder will not have an impact of a
+million dollar company that in revenue
+is like proper setup, you know?
+I have seen some vibe coders who just
+say, "Okay, I want to have some software
+to manage my leads and my clients. Let
+me just vibe code it, deploy it on
+lovable, and just load in all my
+customer data."
+People are vibe coding really
+important [ __ ] and not thinking about
+security.
+Yeah.
+Okay. May
+Do you think they played communicated
+about that?
+I don't think so. That's not a problem,
+right?
+I trust in replicate agent. Yeah, I
+know.
+I mean, that's not the audience like
+they don't they don't want to talk about
+security issue, I guess.
+Uh
+like
+Uh publish technical under the package
+is carried out. What was the maintenance
+account become the blast radius package
+level radius already too late. Thank
+you, AI.
+Yeah, but then the question is what do
+you do right now?
+If you need to deploy or update your
+project,
+are you going to just do it? Are you
+going to wait?
+Like
+I mean, yeah, like for example, for
+after our conversation on burn, I set up
+like the
+uh 3 days or 3 hours. I think 3 hours
+because 3 days was like too long. Mhm.
+But uh so, yeah, I have this thought,
+but um
+yeah.
+Those issues are like
+caught up really quickly, though.
+Yeah, yeah. I think they trigger
+instantly some some notification
+somewhere and then
+I think then you need a dev who is going
+to check it, right?
+Yeah, I know. Exactly. Yeah, yeah.
+Yeah, see basically that is acquire NPM
+and Mentos flash go into safety.
+Yeah.
+>> [laughter]
+>> I am really If you see what Mentos has
+done in the in the last weeks, the the
+big leaks that it found, Yeah.
+Uh
+Mentos We are not safe at all.
+Uh
+I think I
+I see.
+Like
+Uh
+I see.
+What is it? What What was the issue?
+I think Mitus was the one that also
+found the the the leak in the Apple M5,
+right?
+Apple
+M5
+Yeah, and if you see how much money they
+spend on improving it
+and they found it in just a few days.
+Yeah, yeah, it's not and also Mitus is
+coming, right? So, that would be
+interesting. Uh,
+Mitus
+version 4.6
+I
+Naruto, I'm not sure about Naruto. What
+is it?
+Uh, Google
+if you
+Yeah.
+Google Mitus Yes, I think that's the
+one. Yes.
+Uh, Anthropic Cloud Mitus model has been
+spotted on Google Cloud Console. Cloud
+Mitus, it's hard to imagine that
+Anthropic would change its mind and
+release it publicly, but they could act
+as a model provider for those company
+who have access to the model and wrote
+that their stuff on Google Cloud
+Platform. Yeah, so you need to ask uh
+permission to use it. Yeah. But uh yeah,
+because even it's expensive, it's still
+expensive as far as I can remember, but
+if you are Google, you want to have
+access to it, right? Yes.
+But it's coming. It's this Cloud Mitus
+is coming. So, yeah, what's going to
+happen
+um
+in the next few weeks, that's going to
+be interesting.
+What if without Cloud Mitus we get like
+big hacks like this one on the NPM
+packages?
+I think you can call those the small
+ones if you see what's coming. Yeah, But
+it's going to be interesting.
+>> [laughter]
+>> Everybody was laughing about these.
+But what if if cloud meters can find it
+and disguise it so that the firewall
+doesn't find it?
+Or the security check. So there is no
+ping to a deaf one, "Hey, something
+weird happened here." It just is done as
+separate functions that just
+control it together. Yeah.
+Yeah. That makes it really hard.
+And it's the same thing like we had the
+the attacks last week where they faked
+the credential where they faked the The
+cache the cache poisoning, right?
+Yeah, people didn't see it. Or they and
+then they come on to a desktop and they
+try to fake
+um like like the security and everything
+so that your device trusts the new
+update.
+Yeah, then you're already too late.
+Yeah, and then you update to the new the
+new version but it's already cracked
+too.
+>> Yeah, it it uses the certificates that
+the application normally uses as well.
+So it all looks legit. Yeah, but because
+it's all
+it's in the cache, right? So you have
+been validated by the right certificate
+in the cache and then the cache is
+getting like it is got I mean
+it will be validated after
+the legit push used the cache of the
+infected uh request. So
+Yes, but but that's why like the whole
+trust publisher setup and in NPM it's
+garbage.
+But yeah. But the problem is like
+GitHub knew and even NPM so because NPM
+got bought by GitHub Mhm. a few years
+ago, I think like 5 6 years ago, and it
+bought it bought by Microsoft.
+So NPM is part of Microsoft. Yeah, well
+And we have the same issues on NPM that
+people are like screaming about on about
+GitHub.
+Yeah. I think Microsoft has a lot of
+leaks right now. Yeah, it's not.
+Like yeah, use Google platform access to
+meet us to investigate all of your
+Microsoft product.
+It's it's crazy.
+Yeah, but does this mean that security
+is going to be the next uh
+multi-billion dollar market for every
+dev? For sure.
+Like it's
+security is hard
+and everyone will have access to
+security skills with a smart model.
+So Yeah, but not everybody uses how to
+know it.
+Yeah.
+>> give everybody tools, but they don't
+know how to build the house. But do you
+need to know security issues to use
+cloud to prompt and attack a domain name
+that have been vibe coded by
+a 6-year-old that is
+going to cut before it start cutting?
+No, no, [laughter] no. No, not by vibe
+coded uh
+applications. Those should be easy.
+Yeah.
+So yeah, and then you can vibe code like
+a stripe like app and then you got a
+stripe card number.
+>> Even vibe coders even don't add the
+functionality to add a security against
+brute force or something. So
+They don't think about it. They just
+vibe code and say I need a login. You
+don't think about it because you don't
+know about it. Yeah, that's the issue.
+Uh
+this is really bad. Yeah, also technical
+analysis malicious payload a review of a
+compromised and the artifact identified
+install time payload consistent with a
+mini shade Hulu supply malware family a
+root level index payload modified
+package.json to execute it during
+installation. Yeah, like um there is I
+think it's PM PM that
+you can block every NPM package that
+have a pre-install
+uh
+script.
+Yes, but then your project doesn't work.
+I mean not
+Yeah, and you need to debug everything
+manually. Yeah.
+Uh injected file is heavily obfuscated.
+It use a large string array. Look at the
+table, runtime screen, blah blah blah.
+Yeah, okay, whatever. Uh collected data
+is analyzed. Okay, so yeah. I mean it's
+a pre-install attack again. Yeah.
+And then the next issue is because of
+course if you have this in your
+development machine, you're using not
+using real API keys. Everything is
+dummy. Everything is going to something
+different than not the live location.
+But it also steals your GitHub
+credentials, so it has access to
+everything. Yeah.
+I mean yeah. I don't want to know how
+many people secretly have some passwords
+or
+AI keys, API keys in their in their
+code. Yeah.
+I mean you can
+scan that on GitHub right now. But even
+like
+you know on AWS and Google Cloud, you
+have secret manager
+uh vault, right? Mhm. [clears throat]
+So
+instead of having those [ __ ] dot env
+install files,
+everyone should use those secret vault.
+Yes. On cloud platform. Yeah, protect
+them with good password and make sure
+they're encrypted. And yeah, probably
+need to nuke all of those dot
+env.production files. Yeah, yeah. And if
+you have them, please replace all the
+passwords and regenerate new ones. I
+mean for now, I don't know about you,
+but like I don't get any
+impacted by any of those packages. I'm
+not going to say that out loud. I know
+how that works. Because next week we
+have to reschedule because I'm doing
+[laughter]
+hot fixes everywhere, but yeah, right
+now
+and it is not that I'm not using the
+software that's getting hacked, but
+I'm just reviewing everything, checking
+everything before I publish, before I
+push. Don't use the latest versions.
+Just being careful. Do you use Socket?
+Almost not. Yeah, maybe maybe we should
+do a live stream on to install Socket.
+How to install Socket Socket and how to
+get hacked.
+I mean, I can do it. Am I connected?
+Uh perfect. Yeah, I'm not connected on
+that account. But uh yeah, I I think uh
+yeah, I think I I have that in my to-do
+list.
+But um
+yeah, probably going to have like add
+more one more GitHub action.
+Like
+perfect perfect
+add
+Socket
+to
+projects.
+>> [snorts]
+>> But do you think it will become worse
+and
+then what are we going to do to fix it?
+What? About Socket? About the No, no,
+about the NPM attacks and everything.
+Yes. Uh wait.
+So like um yes, it is it's going to get
+worse for sure.
+Because again, like more people are
+building stuff, more people are vibe
+coding stuff, and the models are getting
+smarter.
+Um
+to have
+to to run security pen test and all
+everything that's what we paid like 5
+years ago some security firm to check
+the our infrastructure for 15 grand,
+right? So
+everyone everyone can can create a new
+business that will be yeah, will you
+will charge like 500 bucks a month and
+you can monitor security stuff.
+So, yeah.
+Like
+Where there is money to be made, there
+is like
+uh
+more people to try to do it, right?
+Yeah. And
+>> think security is going to be a bigger
+and bigger part of coding.
+It's going to be
+I mean, it we have to secure apps
+anyway, right? Or Yeah, but before when
+you got somewhere, the first question
+you got is hey, do you write Python? Can
+you write PHP? Can you do a React yes?
+And everybody [clears throat] can do all
+of those right now. Mhm. Because you
+have AI. So, the next question is what
+are you going to do to make sure to make
+sure that our servers are secure?
+Yeah. I mean
+>> How fast do you act when you see that
+something is getting hacked or that
+there's an issue?
+I mean, like I would I would almost say
+like it's on the
+on the bigger providers like for example
+Cloudflare or Amazon or yeah, Google
+Cloud Platform to solve those issues.
+Because everyone is impacted. Well, I
+haven't Vercel. Like for example, you
+have a front end, Vercel can have an
+agent running searching for all of the
+package of every [ __ ] project they're
+pushing.
+Yeah. Yeah, yeah, they can, but
+That's Yeah. That's big. But
+>> Yeah. I think they can have an other
+plugin like the pro version then you
+start paying for that as a useful like
+five bucks a month add-on stuff. Mhm.
+And then you say, "Okay, monitor all of
+my project and tell me which version
+blah blah blah."
+That That's an infrastructure play,
+right? And you need that you you need
+like socket.dev applications, no?
+More than ever, I guess.
+Yeah. Because you will have agent that
+will attack, but you will have defenders
+agent, too.
+Yeah, it will
+it will be an AI war. Yeah, exactly.
+Yeah.
+Uh I mean, that would be that would be a
+good business, for sure.
+Can we fight code SocketDev?
+Yeah, we can fight code it. I'm just
+curious how long does it take before you
+get your first hack, and then it's
+completely gone.
+Yeah, yeah, I mean, because yeah, people
+are trying to attack your your shield.
+We should do like shield
+ship ship dev.
+Yeah, open source. I think if we if we
+just
+um
+create a a management portal for your
+version control and notifications,
+that's the first big setup. Yeah.
+Yeah, okay. So, you attach your repo,
+you watch all of the version of the
+packages, and you see what's uh
+Yeah, and we just keep scraping all the
+updates and all the security issues, and
+check everything. Mhm.
+Yeah. Well, that's pro that's probably
+what Socket is doing, anyway. Yeah,
+yeah. I I I'm really sure they're doing
+that.
+But that yeah, that makes sense. We're
+not going to make those projects like
+mandatory, for sure. Yeah. But you were
+going to show us how to set it up,
+right?
+Oh, yeah. I mean, yes, I can.
+Tada! There it is. Hot crazy hot.
+Install. Yeah, I'm going to
+it sign. Okay, I'm going to I'm going to
+stop.
+We need to do like this, huh? So, we
+don't see your password.
+Okay.
+Tag unlock path.
+Tag.
+Path. Yeah, and then I'll allow
+two-factor authentication code 444.
+>> [laughter]
+>> I have the
+I have the
+uh one password.
+I don't know that.
+That's a way.
+>> [laughter]
+>> Uh install.
+Uh
+change feed. Why not?
+Let's get off.
+Off.
+Let's go.
+Out of my emails. Let's go.
+>> [laughter]
+>> Nobody's watching. You can cut it out
+later.
+Let's work Almost there.
+Link installation. Ready.
+Insta What? Oh, okay.
+Okay. Organization. Organization.
+Change.
+.ai
+repository workspace.
+Welcome to the new site.
+Next, uh,
+sidebar menu. Yes, thank you. You have a
+sidebar menu. Let's go.
+Okay. Okay. User settings. Okay. Help
+information. Okay. Secure product. Let's
+go. So, repo.
+This feature is not available in the
+Really?
+You need to pay first.
+I don't want to pay first. I want to try
+first.
+Why do you have a free plan if you can't
+do anything free? Because it's free.
+>> [laughter]
+>> Uh, or maybe it's not on the
+on the
+It is What?
+Oh, wait. Connect
+configure a change feed repository.
+A
+What?
+Okay, I guess I'm going to install that
+offline in because it doesn't make
+sense.
+But, uh, I don't that Why would I
+connect the repository if I can't do
+anything?
+Dependencies, okay, currently, okay.
+Or did I install No, you don't install
+it correctly.
+Oh.
+Block default ideal for commerce, okay.
+Block one supply chain amount Okay, so
+that's an example, right?
+Okay.
+Yeah, this is an example.
+>> Yeah, it's an example.
+Yeah, whatever. Uh legal
+publicity or building, whatever.
+Okay, I'm going to I'm going to install
+it and then I will report it. I'm going
+to make a tweet to see if it's useful or
+not.
+Uh threat intel
+Let me see Ruby on Rails, okay.
+We're viewing a limited set of attack
+campaign, okay.
+Okay, I'm I'm going to organize that for
+Oh.
+Manage boards develop GitHub.
+Oh, it was the scan, okay. Generate
+generating scan result. Okay, cool.
+Okay.
+I don't know what's the what happened,
+but
+uh
+>> Yeah, it's over 30% already.
+That's nice. Wait, but what's Okay, I
+don't understand what's the
+difference between that
+I don't know. I have never used it.
+>> and that.
+Okay, so let's check that.
+Please don't like any
+Maybe you have to check it offline
+first.
+Uh path, okay.
+So, I'm going to We're going to keep
+that running.
+Um okay, cool. So, yeah, NPM Next.js, we
+talked about that.
+Uh yeah, Mozilla
+path
+Yeah, yeah, maybe
+we can check those.
+Um yeah, Reddit
+>> [snorts]
+>> Reddit post uh maintainer account got
+got hacked blah blah blah, but what's
+interesting is like the secret like NPM
+is known for non being crazy secure, no?
+The S in NPM stands for security.
+>> [laughter]
+>> All right.
+The blockchain attack blah blah blah.
+Okay.
+Uh
+is it impractical to go off on a bug
+fixed release in three 30 days? Then
+depend about post to script update.
+Uh disable build scripts or would you
+require uh any release to be a day a
+week
+three to five days?
+Yeah.
+Maybe I should increase that. I'm not
+sure.
+>> Yeah, yeah, yeah.
+I'm really sure. If they are just too
+late by not giving a notification, three
+hours is not that much. Yeah, true.
+Uh people need to stop using this nano
+packages. Time ago, you can throw that
+yourself. Every dependency you take is
+an supply chain risk.
+Yeah, cool that. Yeah.
+I mean, yeah, I would again, are we
+going to rewrite every like React
+component or like PHP module stuff that
+uh
+If you have a lot of customers, you
+might just you can have AI recreate
+everything. Yeah. Yeah, I mean You set
+up your own thing. Yeah, you you can you
+can get like the repository. Yeah, but
+then like you're going to ask AI to
+rewrite it and then the AI will re will
+will rewrite it with like the same
+package and say, "Yeah, it's done." No,
+no, no. Yeah, actually just build it
+yourself.
+>> Yeah.
+Yeah.
+Depending on how complex it should be,
+but that should be no issue at all.
+What's the package manager for PHP?
+P N P M P P No, no.
+No, no, no. I'm using composer just. I
+composer, yes.
+Uh study one scanning still scanning or
+what? Are we moving? We not moving.
+Okay, cool. Let's go.
+Uh
+not super easy with time zone. Okay,
+whatever. Uh could be potential was a
+error of slope, yeah.
+The P N N What does this keep happening
+to you?
+Only package manager where is it
+happening regularly?
+Why does this keep happening to us? Ask
+only
+What?
+NPM since the Windows for package
+manager, yeah.
+Bad.
+Uh
+like uh
+behind the scenes
+hardening Firefox with Cloud Metos.
+Like, if we have browser's issues
+directly,
+that's going to be fun, too.
+Yeah. I think most of the people won't
+even know that there are issues at the
+moment. Yeah. But there probably are.
+T
+A 15-year-old bug in the legend element
+triggered by meticulous orchestration of
+H keys across distant part
+uh parts of the browser including weaker
+recursion stack death limit
+expando properties and cycle collection
+like
+>> [snorts]
+>> Okay.
+Cool.
+A raw 9 crossing an IPC boundary can
+masquerade as a tagged GS object
+pointer.
+Cool.
+How do you find those bugs? Yeah, that's
+why I have Metos. But that's also if
+they didn't find the bugs for 15 years,
+Yeah, no, exactly. That if we didn't
+have AI, it could be in there for
+another 15.
+Yeah, easy. That's what we had with like
+the uh
+OpenBSD
+kernel issue, right? Yeah.
+Um
+AI will be the answer of AI issues.
+But maybe these are just the hiccups
+that that we need to go through to get
+everything optimized in security. Yeah.
+Uh say again?
+Right now our security we think our
+security is good because
+uh pen test people don't find all the
+issues. We have 15-year-old bugs and we
+never found them and we are happy with
+how everything is going. It's not
+getting hacked. But AI is coming in, so
+maybe this is just a transitioning
+phase. Yeah, exactly. I think so.
+>> For everything to improve security.
+Yeah.
+And I'm really sure if somebody comes
+and says, "Hey, we have a new solution
+for NPM packages. We can do the same,
+but we can do it secure. Nothing goes
+into your system without a double check
+up front."
+Then everybody switches. Yeah. Not
+exactly. Yeah, yeah, again, like if the
+whole the big providers have access to
+the model like 3 months before the
+public, then the race is like it's okay,
+right? Yeah, yeah, they will make sure
+that a lot of bugs and issues are solved
+before it even reaches us.
+>> Yeah.
+Oh, or And they have to. That's the
+That's their income.
+Yeah, no, exactly. But it it's Yeah, but
+it makes sense again to reach that
+point, too. And we will get there like,
+okay. So, first,
+uh
+thanks for
+uh Ross for your comment. I've reached
+the point where I no longer wants to
+download anything from anywhere due to
+the fear of contamination of everything.
+Yeah, it's crazy.
+Like, that's I think that's the point of
+a lot of uh where a a lot of developer
+are right now. Yeah. Yeah. And with bugs
+before you and and security issues, you
+need to download it first and on
+execution, you get the issue. So, you
+can scan it, but this is during the
+installation. This is This is a bigger
+issue. And it's
+Yeah. It it sounds like, you know like
+in crypto when
+when you we have when we had like some
+new stuff to try on new tools etc.
+If it was a download
+exam or like DMG whatever you don't you
+just don't do it. No. Like a lot of
+YouTubers are getting attacked like
+that. They don't know the PDF and then
+they get [ __ ] right?
+>> Yeah, yeah, there was a script in the
+PDF. We are here
+with Dev. Yeah.
+>> [laughter]
+>> And still it's impossible to check
+everything. Yeah. Yeah, exactly. Yeah,
+how do you install like for example ship
+code?
+Are you going to run like a brew install
+ship code which is like a ID slasher
+project management tool for AI and then
+I think yeah I think
+How could how could I get
+authentic
+orchestrator? Yes. An orchestrator and
+I'm going to install that on my computer
+and maybe the bundle is corrupted.
+Well, the only thing I can do is I still
+have my Mac mini here that's that's
+clean.
+I just use it for testing. That's it.
+Are you going to test every component in
+a docker container then?
+No, but if that's needed and that's the
+only thing to keep it secure, how many
+choices do you have? Exactly.
+But then I would rather because okay, I
+had docker on local because it's taking
+like 40 gigabytes for a [ __ ] one
+container. Yes. So then
+we are going to do local host Dev in the
+cloud.
+Yeah, or just have a big server at your
+own place. Yeah.
+Yeah, we are going back to hardware.
+I'm really sure that a lot of companies
+going back to locally hosted servers in
+their own
+offices with a big firewall in front of
+it. And the only way to get in is a VPN.
+Yeah.
+Yeah, but then you you will have like
+AWS
+instances and then all of you there will
+connect to those instances. I don't know
+how that works in like a big company
+like if they have
+There is basically like a your computer
+is just like a Google Google What was
+the computer like the Google the
+the the one one hundred percent in the
+cloud. Yeah, the Chromebooks. Yeah, the
+Chromebook. Everything would be a
+Chromebook that's connected to your
+internal server and you code on that and
+all of the agent are running on that
+blah blah blah and you just pro because
+you don't need resources anymore. Yeah,
+but it's the same that they did with the
+thin clients, right? The smaller PCs and
+you just use Windows log into an
+external computer and you work in the
+external computer.
+That's it.
+A virtual desktop.
+I like that. I [clears throat] [ __ ]
+maybe I should do that for myself
+anyway.
+Because even to run like like my issue
+on my local machine right now it's like
+when I test like end-to-end test. Mhm.
+[ __ ] annoying to to run and like it's
+just killing my CPU and then I like say
+oh what's going on?
+Mhm. Now I understand why
+Theo was upset that you can't
+drag and drop an image via SSH in the
+cloud CLI. Yeah, because that makes it
+harder because you want to do it here
+and then drag it through the SSH and
+your cloud is running on the other side.
+Okay.
+Damn.
+And that's what I like with the the the
+Mac shared windows.
+If you have all your working places on
+the Apple ID and in the same environment
+and your same local setup,
+you can just open a window see the auto
+Mac, and drag and drop between Macs.
+That works perfectly.
+Oh.
+Yeah, but my Mac mini is too small to
+manage anything. But, yeah.
+Hmm.
+Okay, I have so many ideas of
+implementation of [ __ ] I just think
+that
+we need different setups.
+Even if you have multiple big customers,
+you can't have them all on the same uh
+working place. You need like two Mac
+minis and separate them, or whatever. If
+one gets Even if you're not in full
+control of all the code Uh
+and another dev is working on that as
+well, you don't know what he is pushing
+and you you need to check everything.
+So,
+you want to separate it.
+Yeah.
+[ __ ] Want to total isolation. Yeah.
+Frictionless totally segregation between
+project and stuff. Yeah, but try
+explaining that you to your biggest
+customer that they got hacked because
+another dev from smaller company was
+working with you on a small project.
+That's impossible. Yeah.
+Yeah, Jesus.
+I mean, yeah, okay.
+Uh why we on this page?
+>> [laughter]
+>> You were checking the the Metos what it
+was doing for Firefox. Exactly.
+And this chart is also like speaking for
+itself because Okay, bug fixes by
+months. And since they have Metos, they
+also found those issues. So, those
+issues were founded by Metos uh for
+Well, got founded by Metos and they got
+fixed by Metos. It would be cool to have
+the employee account working on the bug
+fixing
+uh in this table as well.
+Oh, yeah.
+To com Yeah.
+To compare how many people were fixing
+bugs, and then you see Metos coming and
+you have less people working on bug
+fixing, but you have like a 6x on the
+amount of bugs that it fixed.
+I mean, it's probably like
+I don't have an expect like a lot of new
+software engineer using metas to find
+bugs. It's just like
+uh slash go find bugs. Yeah.
+>> [laughter]
+>> And solve them. Uh
+Uh yeah, takeaways. Anyone building
+software can start using an harness with
+a modern model to find bugs in Arden
+that codes today. We recommend getting
+started now. You will find bugs and you
+will set yourself to take advantages of
+new models as soon as they become
+available. Yeah.
+Um in all of my project, I don't know if
+you use that maybe not because
+you're doing some PHP stuff, but React
+Doctor
+Uh like this one.
+Uh I'm running that
+uh actions and even like on on my pull
+request
+to detect like yeah, if I can find any
+you know, loop with like use effect and
+stuff like that with React React Doctor
+and I try to reach 100% Uh like I'm
+refactoring a project right now and it's
+full it's not it was like 24. I'm just
+like cleaning that.
+Um based on the recommendation of other
+and like better software engineers
+stuff. So, I like that. And I have uh
+[ __ ] I um
+Vercel
+DeepSec
+from Vercel Labs. So, it's
+>> [clears throat]
+>> a Git.
+Um
+NPM NPX DeepSec in it.
+Uh it's basically like doing some code
+review
+in the security aspect of it.
+Uh and then cool vulnerability scanner
+that you can run in your own
+infrastructure optimized to perform on
+demand review of all code in existing
+large-scale repo. So, for a mono repo, a
+gigantic like mono repo stuff, deep
+sack.
+And uh Peter
+also launched a new one. Uh Peter
+glow patch.
+I think I sent you that.
+Um
+glow patch.
+Yes.
+Automated code review with explicit
+fixes.
+And I have this package running again.
+Uh
+to check
+my code base, my mono repo. Um I I like
+to reach 100% or 80 plus. It's It's the
+new test coverage, basically. Yeah, but
+this shows that you're you're you're not
+developing yourself anymore. You are a
+team lead setting up everything to make
+sure that it works perfectly. Yeah.
+Yeah. So, hopefully those all of those
+combination of packages are helping me
+like uh create uh
+better apps, at least more secure. Mhm.
+And not doing like some crazy uh obvious
+issues.
+Uh
+yeah, feature mapping, code review. So,
+feature mapping, you will have all of
+the yeah, features of your software and
+it will try It will base on the features
+map to then uh have the code review. It
+will um
+What do we say? Uh
+exactly. Uh
+each feature is include includes entry
+point, own files,
+context files. And as she said, test
+giving AI reviewer the right context to
+understand your code. So, yes, that's a
+Yeah, that's to build the context of the
+the next task, which it will be the code
+review. Mhm. And that's why it's split
+by features. Yeah, you need a proper
+documentation first before you can do
+the actual testing. And glow patch does
+all of that. So, from time to time, I
+run glow patch on my code and I try to
+reach um
+a high score. And when it's everything
+more stable then I will push to
+GitHub actions and then like keep
+running on pull request. Yes. It's like
+code rabbit, gray tile, all of that.
+I mean, I don't I don't see a
+a disadvantage of loading as as many
+like a good providers of security and
+code review. So, let's go.
+Yeah, that sounds good. It's a It's a
+good basis. Yeah, I know, exactly. I
+mean, it's better than just me not doing
+any of that, so.
+And just pushing.
+Uh
+cool. Okay, so next GS we talked about
+that.
+Uh yeah.
+Oh.
+Uh you you think that only NPM package
+packages are [ __ ] but also curl.
+Curl is impacted by those security
+issues.
+Uh non-access AI has kind of curls
+before the first mythos report. We had
+already scanned curl with several
+different very capable AI powered tools.
+Addition of running number of normal
+static code analyzer, blah blah blah.
+Uh of the years primarily well, whatever
+whatever. It was scrutinized the code
+with AI those tools and analyzed they
+have
+They have done have triggered somewhere
+between two and 300 bug fix merging
+curl.
+Uh
+so, yeah, you can already find something
+with like smaller models. But then,
+nowadays we also use like copilot, blah
+blah blah.
+Where is it? Oh, yes. Okay. Uh
+great and the first source code analysis
+report generated with mythos another
+chance for us to find areas to improve
+and bug fix.
+Makes it a better curl. The initial scan
+was made on curl git repository and its
+master branch of a certain it contained
+170 lines of code analyzing the assets
+subdirectory. I thought it was errors.
+It's going to be errors. We found 200k
+errors. No, no, no, no. It just They I
+don't think they are even going to tell
+you. They're first going to fix it.
+Yeah, yeah. No, but that I think that's
+Mitosis find the current vulnerability.
+Yeah, okay. One.
+Find a current vulnerability, right?
+Yeah. Uh
+Mitosis performed a search and has
+focused a phone not in the top of the
+report.
+One of the most frozen audited C code
+base in existence, blah, blah, blah.
+Is unlikely, okay. Found no problems in
+this area.
+Types of curl finding Five findings
+become one. The report concluded it
+confirmed five confirmed security
+vulnerability. I think use the term
+confirmed is a little amusing.
+Five issues felt like nothing and were
+not expected an executive list.
+Um
+The single confirmed vulnerability is
+going to end up a severity low
+CVE plan to get publication sync.
+Uh blah, blah, blah.
+Not particularly dangerous, okay.
+Can however not end up
+with anything else than the big hype
+around this model so far was primarily
+marketing.
+Yeah, but but the biggest danger why
+Mitosis is dangerous, it finds so many
+small leaks and so many small bugs and
+combines them into one big exploit.
+Yeah.
+Yeah, I know. Exactly.
+People don't even understand that all
+the separate small issues
+are giving you the option to get
+exploited. So Yeah. I It's like you
+know, like in a plane crash, right? Like
+when a plane crash occurs, it's not only
+one small or one big
+defect. It's like 25 Yeah. small issues
+that compounded and then the plane
+crashes.
+>> It can fly without one of the engines.
+It can fly without this, without that,
+but if it's always combined,
+you have big problem. Yeah, exactly.
+Exactly. So, yeah, it looks like it's
+going to be like uh
+uh
+cat and cat and mouse. Who do you say
+that?
+So, when do you expect the next one? We
+have the NPM packages today, so tomorrow
+morning we will have the next big one?
+>> Oh, yeah, yeah, yeah.
+You can have You can have like the
+um socket accounts notification on and
+they will tweet.
+You will get up to 50 tweets. They they
+they will they will they will tweet
+again. Yeah. Maybe maybe we should all
+like follow and subscribe to them for
+sure because it's not the last one. But
+then, the other question, eh?
+Um everybody was also talking about
+slash gold going to bed, waking up the
+next morning and your code base was
+updated fully with everything and it was
+working while you're sleeping. Do you
+even trust that with all these hacks?
+It's
+Again, like um I think quality
+review is
+um
+it's mandatory, of course. Like you need
+to review, but again, like you can't
+review everything
+by yourself that AI can do because then
+you become the bottleneck. Yeah. All
+right. The problem I have right now is
+like on the front end side, the AI is
+still not do like keeping consistency
+between the pre the previous component
+to you to use that to use it like
+properly 100% of the time. Mhm.
+Sometimes it's great like an element
+that I didn't ask it. It's a It's a
+small scope, right? But you can have the
+same um
+the same kind of uh hack from the the
+models to pass a quality gate, for
+example. Like
+the first run of the React Doctor, Mhm.
+when I run it on a new code base, it
+uh it disabled all of the check rules. I
+said, "Oh, yeah, we reached 100%." I
+said.
+>> [laughter]
+>> Yeah, yeah. What did you do?
+But but I
+For example, when that happened, like
+the next step is like me creating a
+skills react doctor and uh don't uh
+create filters for the
+fix everything, fix the errors, and then
+fix the warning, blah blah blah.
+It just
+You're talking to an intern and you need
+guidance. That's it.
+>> Yeah. Because
+if you cannot find any issues, then
+you're 100% safe.
+Yeah, I'm saying so.
+>> [laughter]
+>> Yeah, man, it's
+It's a strange world, but uh yeah. We're
+we're still trying to figure out anyway,
+right? Yes. Yeah.
+What do you think?
+I think we just keep on going because we
+are secure so far and we are doing
+proper checks, we have proper setups, we
+don't just push everything. So,
+it's about knowing what you're doing as
+well and not just white coding. Mhm.
+>> [clears throat]
+>> Yeah. I mean, like uh yeah, we probably
+like minorly we are probably like
+injected some
+uh
+security vulnerabilities and we we are
+not aware of it.
+Yeah, well,
+they will get fixed eventually. Yeah.
+Inshallah.
+Okay, that's the We should stop here,
+right?
+Yeah, I think we did most of it. Yes.
+So, that's going to be a good intro. So,
+yeah, thank you, Michelle. Thank you,
+Ross, for your comments. I don't know if
+you're still here, but if you're still
+here, thank you for watching and for the
+watch hours.
+Thank you. And uh yeah, Michelle, uh
+enjoy the rest of your day. Thank you.
+Same for you. Everyone else, subscribe,
+comment, uh help us with the algo the
+algorithm
+because uh we need subscribers. So,
+let's go.

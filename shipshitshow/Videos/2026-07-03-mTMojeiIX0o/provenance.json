@@ -1,0 +1,12 @@
+{
+  "youtube_id": "mTMojeiIX0o",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "ccdab631c5050216aa11fd1ece1e763ea792bb1549980ccfcb7c9f8899beb726",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-07-03-video-fable-5-is-back-sonnet-5-got-complicated.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

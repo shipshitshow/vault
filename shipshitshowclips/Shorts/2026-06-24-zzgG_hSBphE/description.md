@@ -1,0 +1,1 @@
+Eliminated Zendesk for a custom ticket system. Local Mac Mini pulls database hourly, providing instant access to ticket details and conversation history. Simple, effective. #DIY #Tech #Productivity #Automation #SelfHosted

@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,360"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5360
+      },
+      "text": " attacker open a normal looking pull request on the tan stack repo github automatically runs ci on"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,360",
+        "to": "00:00:12,400"
+      },
+      "offsets": {
+        "from": 5360,
+        "to": 12400
+      },
+      "text": " the pier code inside the ps stole the workflow github action cache write token during the test"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,400",
+        "to": "00:00:18,880"
+      },
+      "offsets": {
+        "from": 12400,
+        "to": 18880
+      },
+      "text": " run the attacker used that token to plant poison file in the share build cache the pier could be"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,880",
+        "to": "00:00:25,760"
+      },
+      "offsets": {
+        "from": 18880,
+        "to": 25760
+      },
+      "text": " closed afterwards the poison cache stays wait did they even merge it holy shit it poisoned github"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,760",
+        "to": "00:00:26,600"
+      },
+      "offsets": {
+        "from": 25760,
+        "to": 26600
+      },
+      "text": " - Cash."
+    }
+  ]
+}

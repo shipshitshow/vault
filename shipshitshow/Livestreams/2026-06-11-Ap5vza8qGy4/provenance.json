@@ -1,0 +1,12 @@
+{
+  "youtube_id": "Ap5vza8qGy4",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "2f67c81b793136e1b153fca28542031e1e49381317d05f67d7f36b77a5ab0833",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-11-livestream-claude-fable-5-we-re-building-an-ai-native-indie-game-studio.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

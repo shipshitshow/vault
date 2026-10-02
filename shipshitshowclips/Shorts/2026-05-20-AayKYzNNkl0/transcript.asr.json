@@ -1,0 +1,142 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,280"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2280
+      },
+      "text": " I've reached the point where I no longer wants to download"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,280",
+        "to": "00:00:04,840"
+      },
+      "offsets": {
+        "from": 2280,
+        "to": 4840
+      },
+      "text": " anything from anywhere due to the fear of contamination"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,840",
+        "to": "00:00:05,680"
+      },
+      "offsets": {
+        "from": 4840,
+        "to": 5680
+      },
+      "text": " of everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,680",
+        "to": "00:00:06,500"
+      },
+      "offsets": {
+        "from": 5680,
+        "to": 6500
+      },
+      "text": " Yeah, it's crazy."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,500",
+        "to": "00:00:08,560"
+      },
+      "offsets": {
+        "from": 6500,
+        "to": 8560
+      },
+      "text": " I think that's the point where a lot of developer"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,560",
+        "to": "00:00:09,400"
+      },
+      "offsets": {
+        "from": 8560,
+        "to": 9400
+      },
+      "text": " are right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,400",
+        "to": "00:00:11,800"
+      },
+      "offsets": {
+        "from": 9400,
+        "to": 11800
+      },
+      "text": " - And with bugs before you and security issues,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,800",
+        "to": "00:00:14,860"
+      },
+      "offsets": {
+        "from": 11800,
+        "to": 14860
+      },
+      "text": " you need to download it first and on execution,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,860",
+        "to": "00:00:16,620"
+      },
+      "offsets": {
+        "from": 14860,
+        "to": 16620
+      },
+      "text": " you get the issue so you can scan it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,620",
+        "to": "00:00:20,320"
+      },
+      "offsets": {
+        "from": 16620,
+        "to": 20320
+      },
+      "text": " But this is during the installation, it's a bigger issue."
+    }
+  ]
+}

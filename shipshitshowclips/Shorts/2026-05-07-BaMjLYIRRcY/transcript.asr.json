@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,880"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4880
+      },
+      "text": " Some people told me, why do you even test it yourself? Because AI is smarter and it will"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,880",
+        "to": "00:00:11,120"
+      },
+      "offsets": {
+        "from": 4880,
+        "to": 11120
+      },
+      "text": " save you a lot of time if you just have AI test everything. But I tried it and me doing it in"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,120",
+        "to": "00:00:17,360"
+      },
+      "offsets": {
+        "from": 11120,
+        "to": 17360
+      },
+      "text": " steps and testing myself as well, just as a final part, after all the AI is debugging each other."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,360",
+        "to": "00:00:23,360"
+      },
+      "offsets": {
+        "from": 17360,
+        "to": 23360
+      },
+      "text": " If I look at my total time, I'm faster doing every branch checking myself than fully trusting AI and"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,360",
+        "to": "00:00:26,000"
+      },
+      "offsets": {
+        "from": 23360,
+        "to": 26000
+      },
+      "text": " then needing to debug everything. - Yeah."
+    }
+  ]
+}

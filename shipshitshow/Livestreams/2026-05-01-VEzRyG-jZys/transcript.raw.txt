@@ -1,0 +1,322 @@
+Last week, Antropic and OpenAI, yeah,
+that's a big company, shipped their own
+Frontier models, Opus 4.7 and Codex 5.5.
+The whole timeline is telling you that
+the best model is the one they're going
+to use. We're going to do that, too. But
+we're going to compare that and we're
+going to even go deeper. If you want to
+know how to use those models, stay watch
+this video, subscribe to the channel,
+and yeah, that's it. Enjoy. Bye. So, how
+was your first impression of first?
+Yeah. 4.7 and 5.5. Michelle,
+&gt;&gt; 4.7 was like all token spend in 10
+minutes and the first on 5.5 was all
+token spent in 20 minutes, but they made
+an update.
+&gt;&gt; Yes. And since then it works.
+&gt;&gt; Yeah. And even on 4.6 it's still better.
+&gt;&gt; Yeah, that's that's what I think. So
+like I prefer 4.6.
+&gt;&gt; You are using it for orchestration of
+the entire product and you're having 5.5
+doing the coding. players. I still plan
+with Opus and I I I do I run the Codex
+Adversary review and execute with 5.5.
+&gt;&gt; I'm just keep swapping because it feels
+like every week they have a different
+way of working and a different output.
+&gt;&gt; Yeah.
+&gt;&gt; I I don't even know which one to trust
+properly to just set it as a default to
+continue coding all the time.
+&gt;&gt; Yeah. No, 100%. one week to another like
+the whole harness on their side on the
+like entropic servers and OpenAI server
+stuff changed and it [&nbsp;__&nbsp;] up
+everything. It's kind of like annoying.
+&gt;&gt; Also, the amount of tokens you can burn.
+I was using Cordex 5.5 on my business
+account, but the business account is is
+smaller. You have less amount of tokens.
+So I swapped to the pro account and
+before I was out in like 20 minutes my
+five 5 hour limit was reached and now
+I'm at 98% after four hours of work.
+&gt;&gt; When you have entropic like throttling
+everyone and and introducing like peak
+hours limit and then you have open AAI
+guys just resating the limit because
+it's it's what it's Tuesday. I mean the
+choice is a no-brainer. GPT 5.5 plus OPU
+4.7 or 4.6 you have a good stack.
+&gt;&gt; Yeah. Yeah. It should be the just the
+basic and you can just let them check
+each other. So it should be no problem.
+&gt;&gt; Basically we use our shitty promp for
+4.6 to 4.7 and then the quy is [&nbsp;__&nbsp;]
+because it almost doesn't work the same
+way.
+&gt;&gt; Yeah. And then it thinks I will do it
+for you. It starts burning tokens going
+searches and you will get something
+completely different than you asked.
+&gt;&gt; 20% more expensive.
+&gt;&gt; Yeah. But if you can use it to do it
+properly by having chip by codeex 5.5
+writing the prompt in details then it
+should be fine. If you need to do a
+different prompting just to use the
+&gt;&gt; exactly
+&gt;&gt; model in the optimal way then do the
+benchmarks even make sense because you
+the benchmark is the same prompt for
+every model.
+&gt;&gt; Yeah. Yeah. Yeah. I mean, yeah, you
+still want to push some output on new
+ways to code for like not GPT but like
+Opus 5 for example. You can prepare
+people to even if you lose the benchmark
+first but you prepare for the next
+generation.
+&gt;&gt; Do you ever ask the question what could
+I have prompted differently and how
+could I have differently asked the
+question to get a better result?
+&gt;&gt; Not really. I just like fix that [&nbsp;__&nbsp;]
+&gt;&gt; Yeah. Okay.
+&gt;&gt; Do you?
+&gt;&gt; Yeah. Yeah, I do. I ask it what could I
+because sometimes you just get the first
+output and it's really bad.
+&gt;&gt; Yeah.
+&gt;&gt; And then you're like working for 30
+minutes to get the result that you want
+and that's the moment when I ask okay
+what could I have asked you in the
+initial prompt to get this result
+directly and please give me a few steps
+and I write those down and when creating
+the next prompt I just put those steps
+in.
+&gt;&gt; Okay. So and do you create a skill to
+ask but like a prompt engineer skill
+stuff? Yeah. I just don't I don't
+install the skills. I just
+&gt;&gt; put them, but you can write them for you
+for yourself, right?
+&gt;&gt; Yeah. Yeah. And I choose which ones to
+just include. The thing is 5.5 is really
+smart.
+&gt;&gt; Yeah.
+&gt;&gt; I get faster to the results that I want
+and I have to correct it less times.
+&gt;&gt; Yeah.
+&gt;&gt; So even if it's double in tokens, I
+don't mind because it understands
+exactly what I want in like one or two
+questions instead of six.
+&gt;&gt; Yeah. Yeah. But like see like 5.5 is way
+more efficient than 5.4. So yeah,
+&gt;&gt; yeah, like there's no point of staying
+on 5.5. So even for us, you can plan
+with entropic and use 5.5 low to execute
+the plan that you have with from
+entropic.
+&gt;&gt; Yeah, but yeah, from codec. But I would
+still say you can also just use X high
+for planning and use the low for coding
+and then use X high again for checking.
+&gt;&gt; Is that what you do inside the CLI?
+Because now you can plan you can set the
+effort on planning and executing right
+&gt;&gt; well before with now in Codex I didn't
+set it up but before with Opus when I
+was using 4.6
+&gt;&gt; I would use the most smartest model the
+highest model on planning and I say you
+are not allowed to code you need to
+spawn agents that code and I would use
+sonet to do all the coding. Okay. Yeah.
+Oh yeah. Yeah. Yeah. Yeah. So, okay. So,
+you plan and like the when you exit the
+plane, the sub agent are triggered and
+they use sun.
+&gt;&gt; Yeah. Yeah. And they report back to the
+main agent that's using the opus the the
+high model.
+&gt;&gt; Yeah.
+&gt;&gt; And he checks the code that he gets. But
+I'm still using codeex as well, but he
+is just checking the plan that was made
+by Opus.
+&gt;&gt; Yeah. Then Yeah. Okay. So then ship code
+is useful when you use both and not just
+one.
+&gt;&gt; Yeah. Exactly.
+&gt;&gt; Love it. because I see that even if I
+say to opus I want to have three
+different approaches to tackle this
+problem and all three are still similar
+it's just like it's stuck in a in a
+certain way of thinking but then I use
+op I use codeex and I say I need two
+additional ways to tackle this problem
+and I get totally different approaches
+and I merge them both into one by saying
+to opus hey check the other two that
+were created by Codex and then he says
+oh that's a great idea I can merge merge
+it into my ideas, cross reference
+problem approaches by different models
+and that works really good. And two
+weeks ago if I I had them merge all the
+ideas into one plan of how to approach
+and how to build it and I made a final
+question to both of them to Opus and to
+Codex and my final question was which of
+the models need to do the coding and
+which of the models needs to do the
+checking and both of them agreed. Damn.
+Both of them said Opus needs to do the
+coding and Kodak needs to do the checks
+and and the feedback.
+&gt;&gt; That's crazy.
+&gt;&gt; And I would imagine that Codex would say
+no, I'm better at coding and Opus the
+same way. But both of them said you need
+to let Opus do the coding.
+&gt;&gt; Did you workflow like recently or it was
+like something you did six month?
+&gt;&gt; No, I've been doing this like like for
+two or three months already every week
+on different projects
+&gt;&gt; and you get different result.
+&gt;&gt; Yes. So that's why I think it's
+impossible to fully automate the entire
+flow because you will miss after an
+update. You will miss opportunities.
+&gt;&gt; Well, that means like you you have to
+force it. You have to force the flow
+like you don't ask the agent, oh yeah,
+which one should go. It's like you you
+set up you you opinionated the workflow
+and you lock it like you put the guard
+rail. So you lose that that maybe the
+evaluation of the model or you have one
+more model that's evaluating always only
+doing that. So if you don't have the
+syncing in instead of using your
+component you have defined like six
+months ago is going to use the HTML tag
+blue.
+&gt;&gt; Yeah. Yeah. But is there a way to just
+automatically switch the model like low,
+medium, high depending on the question
+that I ask?
+&gt;&gt; Is it is it doing efficiently?
+&gt;&gt; I don't know. Is it possible to have it
+analyze my question, make an an estimate
+on what model it needs to do and then
+switch the model and perform?
+&gt;&gt; I don't know. I think it changed the f
+like I'm not sure but I think entropic
+has auto mode on effort. No.
+&gt;&gt; Yeah. But I don't trust the auto mode. I
+think
+&gt;&gt; so then then that's what you were
+thinking like you need to build your own
+auto like the effort routter.
+&gt;&gt; Yeah.
+Instead of trusting the entropic
+&gt;&gt; Yeah. Instead of trusting the entropic
+that's going to charge you at the end of
+the month anyway, right? So yeah like a
+spawn sub agent to isolate context
+paralyze independent work offload bulks
+mechanical task that's basically what
+you're doing. Yeah. Yeah. Yeah. Yeah.
+For sure.
+&gt;&gt; Pick the cheapest model that can do the
+subtask well. AU B mechanical no
+judgment. Sun scope research code
+exploration and opus subtask needed real
+planning. So you're good. You're good
+usage. Good job.
+&gt;&gt; Yeah. And some you have to test.
+&gt;&gt; Yeah. And yeah the clo disable one
+minute context. This one this features
+is useless bro. Disable it. Same thing
+for auto compact at 80%. I do that too
+and I have better result too I think. So
+lock to model session start having MCP.
+I I don't have any MCP running except
+context 7. I I yeah I mean two years ago
+MCP were like burning context. I don't
+know if they are better now. I don't
+have any.
+&gt;&gt; I don't know. The only thing I know is
+that my customers that do use an MCP
+they are out of token so fast but they
+just they also because it's so easy to
+ask information they use it for
+everything.
+&gt;&gt; Context bloke keeps rereading the files.
+Let's go. system prompt clear compact.
+Yeah. A compact sub agent and rewind.
+Did you ever use rewind?
+&gt;&gt; Nope.
+&gt;&gt; Disable 1 million 1 million context and
+80% 200k context is plenty to do that.
+Just take to spawn them. They run in a
+clean window. So that's what you do,
+right? With with your plan.
+&gt;&gt; Yes.
+&gt;&gt; Load lean. Move rules to skills to
+custom custom
+custom tools. The [&nbsp;__&nbsp;] reference MD5
+progressive disclosure disable unus MTP
+yeah whatever keep the search reference
+search task close to great okay I don't
+use it compact at 50% or after every
+task okay after about no try keep a
+failure in context for new text no try
+keeps the failure in context okay
+interesting okay maybe maybe we should
+start rewind quality op 4.7 is excite
+if there race to max for dement work.
+Yeah. Yeah. But like if you do that
+&gt;&gt; Yeah, I did it in my settings because it
+was burning so many tokens.
+&gt;&gt; Yeah, exactly. Spell out when to use OP
+Sony AU. Okay, we saw that too. GBT 5
+5.5 is 34% cheaper than 4.7 like what I
+thought it was.
+&gt;&gt; I think this is this shows that it
+depends on how do you use it, what
+prompts do you give it, etc., etc., etc.
+And that all gives you a different
+result each time.
+&gt;&gt; It's It's nuts.
+&gt;&gt; And then people put it in a chart and
+they just post it and everybody's happy.
+&gt;&gt; Yeah. 100K views. Let's go.
+&gt;&gt; Yeah. We still need conclusion, right?
+Which model is better?
+&gt;&gt; Yeah. You want to conclude?
+&gt;&gt; I want to conclude. It doesn't matter
+which model you use. You just have to
+give the proper input.
+&gt;&gt; Yeah.
+&gt;&gt; And use both.
+&gt;&gt; Use both. Have them correct each other.
+&gt;&gt; So, let's go. Uh thank you so much. Uh
+we will see you all uh next week.
+Subscribe to the channel. Uh like, share
+with your dev friends and non-dev
+friends because we need people on the
+channel. So ch
+&gt;&gt; and uh yeah, see you next week. Bye
+&gt;&gt; bye.
+&gt;&gt; Bye. Why?

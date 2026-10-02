@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:03,640
+ - Do you have more bugs when you start a project
+
+2
+00:00:03,640 --> 00:00:08,640
+ from scratch with AI than having a code base?
+
+3
+00:00:08,800 --> 00:00:11,400
+ You add a AI layer on top of it?
+
+4
+00:00:11,400 --> 00:00:14,280
+ - You need to have AI do an infantilization
+
+5
+00:00:14,280 --> 00:00:16,520
+ of all the rules to go to framework,
+
+6
+00:00:16,520 --> 00:00:17,800
+ then you don't get any bugs.
+
+7
+00:00:17,800 --> 00:00:21,480
+ But if you say, hey, this is the system, go create this,
+
+8
+00:00:21,480 --> 00:00:24,200
+ you're getting a lot of bugs because it just focuses
+
+9
+00:00:24,200 --> 00:00:27,240
+ on that step and doesn't read everything else in the frame.
+

@@ -1,0 +1,4120 @@
+1
+00:00:00,000 --> 00:00:02,580
+ (upbeat music)
+
+2
+00:00:29,820 --> 00:00:31,520
+ - And we are live.
+
+3
+00:00:31,520 --> 00:00:32,360
+ - Yes.
+
+4
+00:00:32,360 --> 00:00:34,640
+ - Welcome back on the Shibshid show.
+
+5
+00:00:34,640 --> 00:00:36,820
+ - You had to miss us a whole week.
+
+6
+00:00:36,820 --> 00:00:37,660
+ - Yeah.
+
+7
+00:00:39,720 --> 00:00:40,560
+ - Michel?
+
+8
+00:00:40,560 --> 00:00:41,400
+ - Yes.
+
+9
+00:00:41,400 --> 00:00:42,860
+ - How's life, how was your day?
+
+10
+00:00:42,860 --> 00:00:46,920
+ - Well, I think we hacked cloud Opus today, right?
+
+11
+00:00:47,800 --> 00:00:50,440
+ - Right, I don't know what's going on with that shit.
+
+12
+00:00:50,440 --> 00:00:52,780
+ Like, bro, like you said, you type hello world
+
+13
+00:00:52,780 --> 00:00:54,380
+ and then you are at 50%.
+
+14
+00:00:56,560 --> 00:00:59,760
+ - Yeah, and you don't have, you cannot make a typo.
+
+15
+00:00:59,760 --> 00:01:02,040
+ - Because it will cost you an additional 10%.
+
+16
+00:01:02,040 --> 00:01:06,600
+ - Yeah, like I spent my day like rewriting my skills,
+
+17
+00:01:06,600 --> 00:01:09,280
+ like all of the repo, like cleaning up all of the skills,
+
+18
+00:01:09,280 --> 00:01:12,040
+ stuff like that, done grading the CLI.
+
+19
+00:01:12,040 --> 00:01:14,600
+ - Yes, that was the best one.
+
+20
+00:01:14,600 --> 00:01:16,840
+ - Yeah, 1%.
+
+21
+00:01:16,840 --> 00:01:19,200
+ So I watched like a couple of, yeah,
+
+22
+00:01:19,200 --> 00:01:21,360
+ there was videos and stuff and explain
+
+23
+00:01:21,360 --> 00:01:23,080
+ like why the fuck it's going.
+
+24
+00:01:23,080 --> 00:01:28,040
+ And like some guys are able to compare result
+
+25
+00:01:28,040 --> 00:01:33,040
+ and yeah, they have the numbers,
+
+26
+00:01:33,200 --> 00:01:36,480
+ they're legit burning more tokens to less,
+
+27
+00:01:38,400 --> 00:01:40,800
+ but to fall a shittier result.
+
+28
+00:01:40,800 --> 00:01:44,120
+ - Yeah, get less results, pay more.
+
+29
+00:01:44,120 --> 00:01:45,040
+ - Yeah, exactly.
+
+30
+00:01:45,040 --> 00:01:46,880
+ I mean, it's a good business model.
+
+31
+00:01:46,880 --> 00:01:48,360
+ - Yeah, well, not that good.
+
+32
+00:01:48,360 --> 00:01:50,140
+ I think people are leaving.
+
+33
+00:01:50,140 --> 00:01:55,140
+ - I think so, like, I keep my subscription
+
+34
+00:01:55,640 --> 00:01:57,680
+ because I know they will fix it
+
+35
+00:01:57,680 --> 00:02:01,000
+ and they will, like the next release
+
+36
+00:02:01,000 --> 00:02:03,320
+ should be hopefully better.
+
+37
+00:02:03,320 --> 00:02:06,160
+ But, and I think we will have a ping pong to do
+
+38
+00:02:06,160 --> 00:02:10,040
+ like all the time we're between cloud and codex anyway,
+
+39
+00:02:10,040 --> 00:02:12,040
+ like yeah, OpenAI, so.
+
+40
+00:02:12,040 --> 00:02:15,400
+ - Yeah, but still, they release a new update.
+
+41
+00:02:15,400 --> 00:02:18,320
+ You get automatically updated in your CLI.
+
+42
+00:02:18,320 --> 00:02:19,260
+ So you have no choice.
+
+43
+00:02:19,260 --> 00:02:21,980
+ Cloud code just goes to Opus 4.7
+
+44
+00:02:21,980 --> 00:02:24,580
+ and there is no explanation, no documentation.
+
+45
+00:02:24,580 --> 00:02:27,960
+ You just know, because all the people on X posting,
+
+46
+00:02:27,960 --> 00:02:31,600
+ they have figured it out and they say it's worse.
+
+47
+00:02:31,600 --> 00:02:33,900
+ And then after a day you get blocked
+
+48
+00:02:33,900 --> 00:02:36,040
+ because you're out of tokens.
+
+49
+00:02:36,040 --> 00:02:37,520
+ - Yeah, no, it's not like, yeah.
+
+50
+00:02:37,520 --> 00:02:42,520
+ I use my weekly stuff on a day or two
+
+51
+00:02:43,840 --> 00:02:46,880
+ and maybe it's about the skills and stuff,
+
+52
+00:02:46,880 --> 00:02:49,840
+ but codex are loading the same,
+
+53
+00:02:49,840 --> 00:02:52,680
+ like I have global skills for both, right?
+
+54
+00:02:54,320 --> 00:02:56,360
+ And codex, I've got everything
+
+55
+00:02:56,360 --> 00:03:00,760
+ with X I effort and it works perfectly.
+
+56
+00:03:00,760 --> 00:03:03,900
+ - Yeah, but also now you're rolled back to 4.6, right?
+
+57
+00:03:03,900 --> 00:03:04,740
+ - Yes, yes.
+
+58
+00:03:04,740 --> 00:03:06,600
+ So for, I didn't even upgrade it
+
+59
+00:03:06,600 --> 00:03:08,360
+ because yeah, like you said, like the.
+
+60
+00:03:08,360 --> 00:03:11,760
+ - Oh yeah, you had the automatic upgrading disabled.
+
+61
+00:03:11,760 --> 00:03:15,680
+ - Yeah, so there is that, but so, yeah.
+
+62
+00:03:15,680 --> 00:03:19,920
+ So I don't grade it to the CLI, the stable one
+
+63
+00:03:19,920 --> 00:03:24,520
+ and I never changed the model 4.7.
+
+64
+00:03:24,520 --> 00:03:27,600
+ - So maybe for the viewers, if you go to the cloud folder
+
+65
+00:03:27,600 --> 00:03:30,820
+ and you change the settings file,
+
+66
+00:03:30,820 --> 00:03:31,700
+ - Yeah.
+
+67
+00:03:31,700 --> 00:03:33,660
+ - Just disable automatic updates.
+
+68
+00:03:33,660 --> 00:03:35,740
+ - Yeah, I will have the tweets.
+
+69
+00:03:35,740 --> 00:03:39,680
+ Oh yeah, because we've been talking about that.
+
+70
+00:03:39,680 --> 00:03:44,220
+ - Yeah, we can say we know how to downgrade
+
+71
+00:03:44,220 --> 00:03:45,700
+ and how to disable it,
+
+72
+00:03:45,700 --> 00:03:48,700
+ but I don't know if everybody knows what it is.
+
+73
+00:03:50,080 --> 00:03:54,280
+ - Tech, path, pack, apply.
+
+74
+00:03:55,480 --> 00:03:57,400
+ That's what, yeah, what's that we have done?
+
+75
+00:03:57,400 --> 00:04:02,320
+ Downgraded to 2.1.96, blah, blah, blah.
+
+76
+00:04:02,320 --> 00:04:05,240
+ Disable enable tool search
+
+77
+00:04:05,240 --> 00:04:09,440
+ and auto update channels, auto update channels stable.
+
+78
+00:04:09,440 --> 00:04:11,360
+ I think that's the most important one.
+
+79
+00:04:11,360 --> 00:04:13,200
+ I think disable the tool search
+
+80
+00:04:13,200 --> 00:04:16,080
+ because like there's one guy talking about it.
+
+81
+00:04:16,080 --> 00:04:18,560
+ I suggest to use code stable.
+
+82
+00:04:18,560 --> 00:04:19,720
+ It's the same as three,
+
+83
+00:04:19,720 --> 00:04:21,960
+ but can be done at the terminal shell
+
+84
+00:04:21,960 --> 00:04:24,720
+ and the current stable release is a 2.1.5.
+
+85
+00:04:24,720 --> 00:04:29,720
+ And it was like 20 days ago, almost 15 days ago.
+
+86
+00:04:29,760 --> 00:04:33,000
+ So basically a lifetime in AI, but.
+
+87
+00:04:34,360 --> 00:04:38,080
+ - But normally you just always work on stable, right?
+
+88
+00:04:38,080 --> 00:04:41,180
+ And you only update when you disable it.
+
+89
+00:04:41,180 --> 00:04:46,180
+ - I had, I do like a brew upgrade every day.
+
+90
+00:04:46,200 --> 00:04:47,040
+ - Ah, okay.
+
+91
+00:04:47,040 --> 00:04:48,440
+ - So yeah.
+
+92
+00:04:48,440 --> 00:04:51,680
+ - Yes, last version is the best one.
+
+93
+00:04:51,680 --> 00:04:54,560
+ - Exactly, yeah, it's supposed to be.
+
+94
+00:04:54,560 --> 00:04:57,780
+ But because of that,
+
+95
+00:04:57,780 --> 00:05:01,800
+ I expected to only get the stable version.
+
+96
+00:05:01,800 --> 00:05:06,800
+ And if I do upgrade, I stay on the stable path
+
+97
+00:05:07,840 --> 00:05:10,720
+ because of that config, but it's cool.
+
+98
+00:05:10,720 --> 00:05:11,560
+ - Yeah.
+
+99
+00:05:11,560 --> 00:05:14,360
+ - And I didn't do that and it's fine.
+
+100
+00:05:14,360 --> 00:05:15,700
+ - But how I understood it,
+
+101
+00:05:15,700 --> 00:05:18,680
+ they just are trying to tweak cloud to be more.
+
+102
+00:05:20,560 --> 00:05:21,400
+ - Yeah, more.
+
+103
+00:05:21,400 --> 00:05:22,480
+ - Be better and then.
+
+104
+00:05:23,680 --> 00:05:26,280
+ - So like Theo explained that where,
+
+105
+00:05:26,280 --> 00:05:29,680
+ so also there is some hardware behind the hood,
+
+106
+00:05:29,680 --> 00:05:30,860
+ like from Entropic.
+
+107
+00:05:32,240 --> 00:05:36,500
+ For every request, you can get dispatched to another server
+
+108
+00:05:36,500 --> 00:05:39,200
+ and a server can be on another hardware
+
+109
+00:05:39,200 --> 00:05:42,520
+ and AI doesn't function, just works the same
+
+110
+00:05:42,520 --> 00:05:47,320
+ if it's using a Nvidia server or like something else
+
+111
+00:05:47,320 --> 00:05:49,600
+ or even GPU, whatever, whatever.
+
+112
+00:05:49,600 --> 00:05:50,840
+ If it's a different hardware,
+
+113
+00:05:50,840 --> 00:05:52,600
+ you will get two different outputs.
+
+114
+00:05:53,720 --> 00:05:54,560
+ - Yes.
+
+115
+00:05:54,560 --> 00:05:58,480
+ - And you get different routing to a different server,
+
+116
+00:05:58,480 --> 00:06:02,440
+ every search tool, every,
+
+117
+00:06:02,440 --> 00:06:06,880
+ so all the time you are talking to somewhere else.
+
+118
+00:06:06,880 --> 00:06:11,140
+ - Yeah, well, that makes sense why it's more expensive.
+
+119
+00:06:11,140 --> 00:06:16,140
+ - Yeah, talk about non-deterministic outputs, they're no shit.
+
+120
+00:06:18,000 --> 00:06:19,600
+ - But we fixed it.
+
+121
+00:06:19,600 --> 00:06:20,840
+ - Yeah, but just like. - For now.
+
+122
+00:06:20,840 --> 00:06:25,840
+ - Yeah, yeah, just going back to the future of the past.
+
+123
+00:06:26,720 --> 00:06:28,480
+ - But are you going to test every update?
+
+124
+00:06:28,480 --> 00:06:29,880
+ Are you just waiting for people
+
+125
+00:06:29,880 --> 00:06:31,640
+ to explain what they are doing?
+
+126
+00:06:31,640 --> 00:06:36,640
+ - Yeah, I will wait for my subscription to reset first.
+
+127
+00:06:37,200 --> 00:06:39,160
+ (laughing)
+
+128
+00:06:39,160 --> 00:06:40,480
+ - Yeah.
+
+129
+00:06:40,480 --> 00:06:43,120
+ - And yeah, we'll see, like, okay.
+
+130
+00:06:43,120 --> 00:06:47,480
+ I think if it works, I will not upgrade shit
+
+131
+00:06:47,480 --> 00:06:49,740
+ until like another model.
+
+132
+00:06:49,740 --> 00:06:54,160
+ I think I'll avoid all of the fucking CLI update stuff
+
+133
+00:06:54,160 --> 00:06:57,220
+ between two models, 'cause fuck it.
+
+134
+00:06:57,220 --> 00:06:58,520
+ Like I don't want to spend days
+
+135
+00:06:58,520 --> 00:07:02,000
+ on configuring like cloud dot settings.
+
+136
+00:07:02,000 --> 00:07:04,560
+ - Yeah, that's ID rule one.
+
+137
+00:07:04,560 --> 00:07:06,360
+ If it works, don't touch it.
+
+138
+00:07:06,360 --> 00:07:09,960
+ - Yeah, except with AI, when they push something
+
+139
+00:07:09,960 --> 00:07:12,720
+ and then it gives you 50% more token.
+
+140
+00:07:12,720 --> 00:07:15,680
+ Oh, that's token, that's interesting.
+
+141
+00:07:15,680 --> 00:07:16,520
+ - Yeah.
+
+142
+00:07:17,820 --> 00:07:21,900
+ - Yeah, but anyway, there was a big update
+
+143
+00:07:21,900 --> 00:07:23,520
+ while we were searching for a topic
+
+144
+00:07:23,520 --> 00:07:27,720
+ for the live stream that happened, like it was live.
+
+145
+00:07:27,720 --> 00:07:29,320
+ - Yeah, it's daily updates.
+
+146
+00:07:29,320 --> 00:07:32,040
+ - Yes, yeah, we should do more than one a week,
+
+147
+00:07:32,040 --> 00:07:33,960
+ but yeah, when we will have an audience.
+
+148
+00:07:33,960 --> 00:07:36,300
+ So if you are here, please like and subscribe
+
+149
+00:07:36,300 --> 00:07:39,520
+ because every view counts, so.
+
+150
+00:07:39,520 --> 00:07:40,360
+ - Thank you, thank you.
+
+151
+00:07:40,360 --> 00:07:41,480
+ - Yeah, thank you, thank you.
+
+152
+00:07:41,480 --> 00:07:43,800
+ And I don't think there's anybody.
+
+153
+00:07:43,800 --> 00:07:44,640
+ That's okay.
+
+154
+00:07:45,560 --> 00:07:46,640
+ - One moment.
+
+155
+00:07:46,640 --> 00:07:47,480
+ - Oh, sure.
+
+156
+00:07:53,760 --> 00:07:55,360
+ Oh yeah, thank you.
+
+157
+00:07:55,360 --> 00:07:56,200
+ Thank you, sir.
+
+158
+00:07:58,920 --> 00:07:59,760
+ Tag.
+
+159
+00:08:04,820 --> 00:08:07,080
+ Thank you, okay, nice.
+
+160
+00:08:07,080 --> 00:08:10,520
+ So why we were basically 30 minutes ago,
+
+161
+00:08:10,520 --> 00:08:15,520
+ no, one hour ago, one, nope, this one, yes.
+
+162
+00:08:17,520 --> 00:08:18,700
+ - This one.
+
+163
+00:08:18,700 --> 00:08:23,700
+ - So one hour ago, OpenAI with GPT images 2.0,
+
+164
+00:08:25,240 --> 00:08:28,240
+ and it's great, it's fantastic.
+
+165
+00:08:28,240 --> 00:08:29,560
+ - You already tried it?
+
+166
+00:08:29,560 --> 00:08:32,300
+ - Yes, to make the thumbnail of this live stream.
+
+167
+00:08:32,300 --> 00:08:33,200
+ - Cool.
+
+168
+00:08:33,200 --> 00:08:37,440
+ - So, but we are going to try it even more together
+
+169
+00:08:37,440 --> 00:08:40,780
+ because yeah, I want you to like have me prompt
+
+170
+00:08:40,780 --> 00:08:42,080
+ some crazy stuff.
+
+171
+00:08:44,920 --> 00:08:46,080
+ - Let's see how it works.
+
+172
+00:08:47,680 --> 00:08:49,760
+ - Okay, I'm gonna zoom in.
+
+173
+00:08:49,760 --> 00:08:51,700
+ Okay, wait, video path.
+
+174
+00:08:51,700 --> 00:08:55,380
+ So a state of thought image model that can take
+
+175
+00:08:55,380 --> 00:08:59,320
+ on complex visual tasks and produce precise immediately,
+
+176
+00:09:01,300 --> 00:09:04,560
+ immediately usable visual with sharper editing,
+
+177
+00:09:04,560 --> 00:09:07,380
+ rich layout and syncing level intelligence.
+
+178
+00:09:07,380 --> 00:09:10,720
+ There is syncing into this image model.
+
+179
+00:09:10,720 --> 00:09:13,480
+ So it's interesting because instead of like a loading
+
+180
+00:09:13,480 --> 00:09:17,640
+ OpenAI logo into your image output,
+
+181
+00:09:17,640 --> 00:09:20,680
+ you can reference OpenAI logo as,
+
+182
+00:09:20,680 --> 00:09:24,740
+ and then it will go as a web search.
+
+183
+00:09:24,740 --> 00:09:26,200
+ - Oh, that's cool.
+
+184
+00:09:26,200 --> 00:09:30,020
+ - Yes, so I mean, I think it's supposed to work like that.
+
+185
+00:09:32,280 --> 00:09:37,080
+ - And the video, boom, perfect.
+
+186
+00:09:40,140 --> 00:09:41,200
+ You hear the sound?
+
+187
+00:09:41,200 --> 00:09:43,400
+ - Yeah, we hear the sound.
+
+188
+00:09:43,400 --> 00:09:45,980
+ (upbeat music)
+
+189
+00:09:52,900 --> 00:09:56,740
+ (singing in foreign language)
+
+190
+00:10:01,300 --> 00:10:03,880
+ (upbeat music)
+
+191
+00:10:27,380 --> 00:10:28,520
+ - That's crazy.
+
+192
+00:10:31,200 --> 00:10:32,720
+ - Okay, I can zoom, fuck.
+
+193
+00:10:32,720 --> 00:10:34,120
+ But I think, yeah.
+
+194
+00:10:34,120 --> 00:10:36,700
+ (upbeat music)
+
+195
+00:10:38,020 --> 00:10:40,700
+ The quality, the consistency, it's kind of crazy, right?
+
+196
+00:10:40,700 --> 00:10:41,540
+ - Yeah.
+
+197
+00:10:41,540 --> 00:10:44,120
+ (upbeat music)
+
+198
+00:10:54,680 --> 00:10:56,020
+ - Okay, so that's--
+
+199
+00:10:56,020 --> 00:10:58,480
+ - It went crazy on chameleon images.
+
+200
+00:10:58,480 --> 00:11:00,560
+ - Yeah, I like that.
+
+201
+00:11:00,560 --> 00:11:05,200
+ So chat GPT, it's just great music.
+
+202
+00:11:05,200 --> 00:11:06,040
+ - Yeah.
+
+203
+00:11:08,340 --> 00:11:10,000
+ - Chat GPT image with a step change
+
+204
+00:11:10,000 --> 00:11:11,740
+ in details instruction following,
+
+205
+00:11:11,740 --> 00:11:14,560
+ placing, yeah, okay, all of your prompt are fucked.
+
+206
+00:11:14,560 --> 00:11:16,240
+ You need to change everything.
+
+207
+00:11:16,240 --> 00:11:18,200
+ Change your harness, change everything.
+
+208
+00:11:18,200 --> 00:11:19,200
+ - Okay.
+
+209
+00:11:19,200 --> 00:11:21,960
+ - Yeah, that one, okay.
+
+210
+00:11:25,880 --> 00:11:27,000
+ Detailing instruction following,
+
+211
+00:11:27,000 --> 00:11:28,840
+ placing and erasing object accurately
+
+212
+00:11:28,840 --> 00:11:31,400
+ and rendering dense text
+
+213
+00:11:31,400 --> 00:11:34,160
+ with the ability to generate across aspect ratio.
+
+214
+00:11:34,160 --> 00:11:37,040
+ They have way more ratio than nano pro or something,
+
+215
+00:11:37,040 --> 00:11:39,440
+ like it's kind of an interesting feature.
+
+216
+00:11:39,440 --> 00:11:42,120
+ It's also accurate across languages
+
+217
+00:11:42,120 --> 00:11:46,800
+ where you can prompt different, yeah, again,
+
+218
+00:11:46,800 --> 00:11:48,420
+ languages in the same pictures
+
+219
+00:11:48,420 --> 00:11:52,040
+ and able to translate an image or something like that.
+
+220
+00:11:52,040 --> 00:11:54,320
+ So it gets smaller image with less prompting.
+
+221
+00:11:56,200 --> 00:11:59,560
+ Okay, a great precision and control.
+
+222
+00:12:00,720 --> 00:12:02,080
+ Yeah, okay, that's cool.
+
+223
+00:12:02,080 --> 00:12:02,960
+ - That's hard.
+
+224
+00:12:04,800 --> 00:12:06,100
+ - Yeah, yeah.
+
+225
+00:12:08,040 --> 00:12:10,920
+ Like if we're able to generate that,
+
+226
+00:12:15,320 --> 00:12:18,200
+ can conceptualize more sophisticated images
+
+227
+00:12:18,200 --> 00:12:22,320
+ and then actually bring that vision to life effectively.
+
+228
+00:12:22,320 --> 00:12:24,840
+ Able to follow an instruction, element,
+
+229
+00:12:24,840 --> 00:12:28,280
+ choose action, zoom in on the right.
+
+230
+00:12:28,280 --> 00:12:29,120
+ Oh, wait, what?
+
+231
+00:12:33,400 --> 00:12:34,880
+ - Can you zoom in?
+
+232
+00:12:34,880 --> 00:12:37,920
+ Oh, see, that's really good.
+
+233
+00:12:40,960 --> 00:12:42,360
+ - Okay.
+
+234
+00:12:42,360 --> 00:12:44,800
+ - It will be cool if you eventually find out
+
+235
+00:12:44,800 --> 00:12:46,200
+ you used a real image.
+
+236
+00:12:47,740 --> 00:12:51,720
+ - I mean, what do you mean like the real image?
+
+237
+00:12:51,720 --> 00:12:54,060
+ - Yeah, like a real photograph as an example,
+
+238
+00:12:54,060 --> 00:12:56,060
+ because it looks so good.
+
+239
+00:12:56,060 --> 00:12:58,160
+ - I mean, yeah, like you can see like the,
+
+240
+00:12:58,160 --> 00:13:02,800
+ there is no like wrong artifact, right?
+
+241
+00:13:02,800 --> 00:13:06,160
+ Like it looks like a real right grain.
+
+242
+00:13:06,160 --> 00:13:09,360
+ - Yeah, yeah, no longer persons with six or seven fingers.
+
+243
+00:13:10,200 --> 00:13:12,800
+ - Oh, at least not here.
+
+244
+00:13:12,800 --> 00:13:13,640
+ - Yeah.
+
+245
+00:13:13,640 --> 00:13:15,160
+ - I think this example generated
+
+246
+00:13:15,160 --> 00:13:18,840
+ like after 20 hours of rendering.
+
+247
+00:13:18,840 --> 00:13:19,680
+ - But the same is here.
+
+248
+00:13:19,680 --> 00:13:20,740
+ At first you had the issue.
+
+249
+00:13:20,740 --> 00:13:22,960
+ If you just want to print your company name,
+
+250
+00:13:23,960 --> 00:13:25,800
+ inside the image on the logo,
+
+251
+00:13:25,800 --> 00:13:27,280
+ it would always make a typo.
+
+252
+00:13:27,280 --> 00:13:30,220
+ And now it shows you a full letter.
+
+253
+00:13:30,220 --> 00:13:32,200
+ - Yeah, that's not, even like look,
+
+254
+00:13:32,200 --> 00:13:36,560
+ like there is like some different gray that.
+
+255
+00:13:36,560 --> 00:13:37,920
+ - Yeah, like the pen.
+
+256
+00:13:37,920 --> 00:13:41,200
+ - Yeah, and it, yeah, it looks like different pressure
+
+257
+00:13:41,200 --> 00:13:42,880
+ of the world, like of the world.
+
+258
+00:13:42,880 --> 00:13:47,800
+ And there is even like a coffee, coffee mark
+
+259
+00:13:47,800 --> 00:13:49,660
+ on the top corner, that's crazy.
+
+260
+00:13:50,560 --> 00:13:55,560
+ - Like a chapter, blah, blah, blah, yeah, back here.
+
+261
+00:13:55,960 --> 00:14:00,960
+ Boom, boom, strong, stronger across languages
+
+262
+00:14:01,520 --> 00:14:03,400
+ can produce image with non-English text.
+
+263
+00:14:03,400 --> 00:14:05,400
+ That's not only rendered correctly,
+
+264
+00:14:05,400 --> 00:14:07,440
+ but with language that flow currently.
+
+265
+00:14:07,440 --> 00:14:12,440
+ Okay, so that could be one piece.
+
+266
+00:14:12,800 --> 00:14:15,400
+ Like I have an example that that's why it come to mind,
+
+267
+00:14:15,400 --> 00:14:20,000
+ but like you can generate one piece episode with that.
+
+268
+00:14:20,560 --> 00:14:25,560
+ That could be, that's a manga, like that's a, yeah.
+
+269
+00:14:30,240 --> 00:14:33,520
+ If you're a good storyteller, you can generate your manga.
+
+270
+00:14:33,520 --> 00:14:35,160
+ - You can create whatever you want.
+
+271
+00:14:35,160 --> 00:14:36,080
+ - Yeah.
+
+272
+00:14:36,080 --> 00:14:38,600
+ - Well, I'm eager to try something.
+
+273
+00:14:38,600 --> 00:14:42,980
+ - Bro, like that's good.
+
+274
+00:14:46,680 --> 00:14:49,900
+ - So now even manga and comic writers are out of work.
+
+275
+00:14:50,920 --> 00:14:53,760
+ - Yeah, that's good quality.
+
+276
+00:14:53,760 --> 00:14:57,800
+ Who waits in a place like this?
+
+277
+00:14:57,800 --> 00:14:58,640
+ I had no choice.
+
+278
+00:14:58,640 --> 00:15:00,880
+ You came alone, we don't have much time.
+
+279
+00:15:00,880 --> 00:15:05,880
+ Okay, there is, answer the question and get to the point.
+
+280
+00:15:07,440 --> 00:15:08,260
+ Okay, what?
+
+281
+00:15:08,260 --> 00:15:09,100
+ I don't.
+
+282
+00:15:09,100 --> 00:15:12,000
+ (laughing)
+
+283
+00:15:12,000 --> 00:15:13,120
+ - It's an example.
+
+284
+00:15:13,120 --> 00:15:13,960
+ - Yeah, okay.
+
+285
+00:15:15,920 --> 00:15:17,900
+ But yeah, oh shit.
+
+286
+00:15:19,320 --> 00:15:20,560
+ Let's get back to it.
+
+287
+00:15:20,560 --> 00:15:23,700
+ - But it is already live in Jet GPT.
+
+288
+00:15:23,700 --> 00:15:26,560
+ - Yeah, like we're gonna prompt some example after that,
+
+289
+00:15:26,560 --> 00:15:31,560
+ but it's accessible on API and the interface.
+
+290
+00:15:35,600 --> 00:15:38,880
+ Flexible Asper ratio, so yeah, that's like, yeah.
+
+291
+00:15:38,880 --> 00:15:43,040
+ That kind of format, they moded that during the...
+
+292
+00:15:44,560 --> 00:15:47,640
+ - Yeah, you can make different sizes of images.
+
+293
+00:15:47,640 --> 00:15:51,000
+ - I mean that, yeah, like you have to have a use case
+
+294
+00:15:51,000 --> 00:15:52,400
+ for that, like...
+
+295
+00:15:53,600 --> 00:15:57,920
+ - Yeah, but before if you put social media ahead,
+
+296
+00:15:58,880 --> 00:16:01,680
+ it's always hard to get the correct form.
+
+297
+00:16:01,680 --> 00:16:04,200
+ - Yeah, for sure.
+
+298
+00:16:04,200 --> 00:16:06,460
+ But I mean, like for, yeah, I mean for TikTok
+
+299
+00:16:06,460 --> 00:16:09,720
+ or like Instagram posts and stuff, we had that.
+
+300
+00:16:09,720 --> 00:16:10,980
+ So why not?
+
+301
+00:16:11,940 --> 00:16:16,940
+ Visual Throw Partner, Jet GPT image is our first image model
+
+302
+00:16:17,000 --> 00:16:19,700
+ with thinking capabilities, okay, that's it.
+
+303
+00:16:19,700 --> 00:16:21,760
+ When a thinking model is selected in Jet GPT,
+
+304
+00:16:21,760 --> 00:16:25,080
+ image 2.0 can search the web for real-time information,
+
+305
+00:16:25,080 --> 00:16:28,520
+ create multiple distinct images from one prompt,
+
+306
+00:16:28,520 --> 00:16:32,760
+ double-check its own output
+
+307
+00:16:32,760 --> 00:16:35,800
+ and even create functional QR codes, okay.
+
+308
+00:16:35,800 --> 00:16:39,200
+ This allow it to take one more,
+
+309
+00:16:39,200 --> 00:16:42,660
+ on more on the heavy lifting between ID and image,
+
+310
+00:16:42,660 --> 00:16:45,560
+ especially when accuracy, up-to-date information,
+
+311
+00:16:45,560 --> 00:16:48,440
+ consistency, visual cohesion matters.
+
+312
+00:16:48,440 --> 00:16:50,640
+ That would be interesting to see if we can,
+
+313
+00:16:50,640 --> 00:16:52,240
+ yeah, like famous people,
+
+314
+00:16:52,240 --> 00:16:54,440
+ if you can generate some famous people stuff.
+
+315
+00:16:55,960 --> 00:17:00,840
+ Okay, thinking mode searches, okay.
+
+316
+00:17:00,840 --> 00:17:02,360
+ When AI, oh yeah, that's the store,
+
+317
+00:17:02,360 --> 00:17:04,380
+ I think the store they had.
+
+318
+00:17:04,380 --> 00:17:07,300
+ Okay, cool, real world intelligence.
+
+319
+00:17:09,240 --> 00:17:14,020
+ Has an updated knowledge cutoff of December 25, okay.
+
+320
+00:17:15,120 --> 00:17:18,400
+ Enter visual proof or a contradiction of the real number.
+
+321
+00:17:18,400 --> 00:17:23,240
+ And what, okay, there is too much math in here.
+
+322
+00:17:23,240 --> 00:17:24,640
+ I said, good job.
+
+323
+00:17:24,640 --> 00:17:25,480
+ - It works.
+
+324
+00:17:25,480 --> 00:17:26,300
+ - Yeah, it works.
+
+325
+00:17:27,280 --> 00:17:28,720
+ Is it cheaper than mid journey?
+
+326
+00:17:28,720 --> 00:17:33,720
+ Yes, so we have, I have like the pricing here,
+
+327
+00:17:35,440 --> 00:17:37,840
+ pricing, tech, tech, tech,
+
+328
+00:17:39,680 --> 00:17:43,080
+ path, path, path, path.
+
+329
+00:17:44,480 --> 00:17:45,680
+ Tech.
+
+330
+00:17:45,680 --> 00:17:47,700
+ - Yeah, and also the question is,
+
+331
+00:17:47,700 --> 00:17:50,760
+ the consistency is better than mid journey.
+
+332
+00:17:50,760 --> 00:17:52,560
+ If you see the chameleon or the manga,
+
+333
+00:17:52,560 --> 00:17:57,200
+ every frame had the exact same figure in it.
+
+334
+00:17:57,200 --> 00:17:59,220
+ - I think it's because they use the,
+
+335
+00:18:00,880 --> 00:18:02,560
+ like the image reference too, right?
+
+336
+00:18:02,560 --> 00:18:06,120
+ But the consistency is kind of solved, honestly,
+
+337
+00:18:06,120 --> 00:18:09,840
+ even with like Nano Pro, like all of the image,
+
+338
+00:18:09,840 --> 00:18:14,240
+ like all of our thumbnails were like nano-geneted video.
+
+339
+00:18:14,240 --> 00:18:15,280
+ - Banana too.
+
+340
+00:18:15,280 --> 00:18:17,960
+ - Yeah, and I always use the same input
+
+341
+00:18:17,960 --> 00:18:20,240
+ and we have like pretty.
+
+342
+00:18:20,240 --> 00:18:22,240
+ - Yeah, because with mid journey, I don't know,
+
+343
+00:18:22,240 --> 00:18:24,080
+ the last time I used it,
+
+344
+00:18:24,080 --> 00:18:27,960
+ I had issues creating the same image over and over again.
+
+345
+00:18:27,960 --> 00:18:30,960
+ - I mean, yeah, I didn't test mid journey
+
+346
+00:18:30,960 --> 00:18:33,020
+ for the last two years.
+
+347
+00:18:34,800 --> 00:18:38,400
+ Image, so it's basically the same price than 1.5.
+
+348
+00:18:41,120 --> 00:18:46,120
+ T2, input eight, eight for 1.5, 1.5, yeah, okay.
+
+349
+00:18:46,860 --> 00:18:48,780
+ Cash input two, sorry.
+
+350
+00:18:48,780 --> 00:18:53,780
+ So like HDRack, do you compare to those pricing?
+
+351
+00:18:55,480 --> 00:18:57,460
+ Like, do you know the input and output?
+
+352
+00:18:57,460 --> 00:19:02,460
+ Maybe you can look at it, like mid journey pricing.
+
+353
+00:19:05,140 --> 00:19:08,040
+ - Yeah, I don't know if he has a fixed fee for mid journey.
+
+354
+00:19:11,480 --> 00:19:14,620
+ - 'Cause here it are API pricing per million tokens.
+
+355
+00:19:14,620 --> 00:19:17,160
+ So it depends on how many tokens you use per image.
+
+356
+00:19:17,160 --> 00:19:20,760
+ - Yeah, yeah, and like the speed of the generation too,
+
+357
+00:19:20,760 --> 00:19:25,260
+ right, but even here.
+
+358
+00:19:26,640 --> 00:19:29,200
+ - If you prompt like four or 500 images per month,
+
+359
+00:19:29,200 --> 00:19:30,280
+ it can go hard.
+
+360
+00:19:30,280 --> 00:19:32,280
+ - Yeah, no, no, no, 1%.
+
+361
+00:19:32,280 --> 00:19:33,120
+ Nano two.
+
+362
+00:19:40,220 --> 00:19:45,220
+ Nano was at 0.607 for one care resolution
+
+363
+00:19:48,120 --> 00:19:51,180
+ and sent for 2K and 4K 15.
+
+364
+00:19:52,100 --> 00:19:55,200
+ That was quite cheap, but I think the price
+
+365
+00:19:55,200 --> 00:19:56,560
+ is not that crazy.
+
+366
+00:19:57,960 --> 00:19:59,880
+ - Yeah, it's a subscription.
+
+367
+00:19:59,880 --> 00:20:00,720
+ - Yeah, yeah.
+
+368
+00:20:02,520 --> 00:20:07,300
+ Mid journey, mid journey price.
+
+369
+00:20:09,880 --> 00:20:12,400
+ (indistinct)
+
+370
+00:20:12,400 --> 00:20:15,820
+ But you still have like a, okay,
+
+371
+00:20:15,820 --> 00:20:18,080
+ because they use the GPU time.
+
+372
+00:20:18,080 --> 00:20:21,680
+ So it takes like, if generating an image is fast,
+
+373
+00:20:21,680 --> 00:20:23,840
+ then you can have a shit ton of them, right?
+
+374
+00:20:25,000 --> 00:20:29,200
+ Yeah, like HD, I did not choose mid journey since forever.
+
+375
+00:20:29,200 --> 00:20:33,760
+ I'm using like Nano Pro, so a Nano 2 event.
+
+376
+00:20:36,240 --> 00:20:37,560
+ - Yeah, but what are you paying?
+
+377
+00:20:37,560 --> 00:20:38,740
+ Like the basic plan?
+
+378
+00:20:39,640 --> 00:20:40,820
+ (speaks in foreign language)
+
+379
+00:20:40,820 --> 00:20:41,660
+ - Yeah.
+
+380
+00:20:45,880 --> 00:20:47,760
+ 'Cause like, yes, three hours of compute,
+
+381
+00:20:47,760 --> 00:20:49,140
+ that's not that much.
+
+382
+00:20:50,800 --> 00:20:53,080
+ - No, and a maximum of 10 jobs queued.
+
+383
+00:20:53,080 --> 00:20:56,600
+ - That's for, that's for video.
+
+384
+00:20:56,600 --> 00:20:59,240
+ Like, do they have the image?
+
+385
+00:20:59,240 --> 00:21:02,200
+ - Yeah, but also depends what you are using it for.
+
+386
+00:21:02,200 --> 00:21:04,360
+ - But unlimited image generation with the last month,
+
+387
+00:21:04,360 --> 00:21:07,680
+ subscribe, boost on our pro omega, and okay.
+
+388
+00:21:09,000 --> 00:21:11,960
+ Tag, unlimited video generation and starts most
+
+389
+00:21:11,960 --> 00:21:13,720
+ we keeps you imagine video private.
+
+390
+00:21:13,720 --> 00:21:15,280
+ (speaks in foreign language)
+
+391
+00:21:15,280 --> 00:21:16,740
+ Unlimited images, okay.
+
+392
+00:21:17,620 --> 00:21:19,080
+ Fuck, okay, that's good.
+
+393
+00:21:21,000 --> 00:21:22,520
+ Is that the same, I have a yearly,
+
+394
+00:21:22,520 --> 00:21:24,400
+ but it's not persistent enough, basic.
+
+395
+00:21:24,400 --> 00:21:27,440
+ - Yeah, so that's like 100 bucks per year.
+
+396
+00:21:27,440 --> 00:21:28,260
+ - Yeah.
+
+397
+00:21:30,040 --> 00:21:33,320
+ I mean, if, yeah, it depends of like how much you make,
+
+398
+00:21:33,320 --> 00:21:34,600
+ right?
+
+399
+00:21:34,600 --> 00:21:37,000
+ Did you use mid journey recently, Mitchell?
+
+400
+00:21:37,000 --> 00:21:38,020
+ - No, I didn't.
+
+401
+00:21:39,320 --> 00:21:40,440
+ I haven't used it a lot
+
+402
+00:21:40,440 --> 00:21:45,440
+ because the overview I had was really bad in Discord.
+
+403
+00:21:46,360 --> 00:21:48,800
+ - Yeah, I think they changed that a long time ago,
+
+404
+00:21:48,800 --> 00:21:50,440
+ like you have the web app, right?
+
+405
+00:21:50,440 --> 00:21:51,960
+ - That's how long I didn't use it.
+
+406
+00:21:51,960 --> 00:21:52,800
+ - Yeah.
+
+407
+00:22:02,360 --> 00:22:04,920
+ Yeah, they have like a studio like that.
+
+408
+00:22:04,920 --> 00:22:09,160
+ - It's the same, like you see in "Tragedy" for Sora.
+
+409
+00:22:09,160 --> 00:22:12,000
+ - Yeah, maybe Sora copy Mitchell.
+
+410
+00:22:12,000 --> 00:22:12,840
+ - Yeah.
+
+411
+00:22:14,680 --> 00:22:19,680
+ - Create, it's (speaks in foreign language)
+
+412
+00:22:20,960 --> 00:22:22,520
+ Okay, whatever.
+
+413
+00:22:22,520 --> 00:22:26,420
+ Where can I, I just want to see images.
+
+414
+00:22:29,740 --> 00:22:31,560
+ - Nope, you need to pay first.
+
+415
+00:22:31,560 --> 00:22:34,680
+ - Okay, so bye.
+
+416
+00:22:35,760 --> 00:22:39,160
+ But also like, it was kind of cheap to,
+
+417
+00:22:39,160 --> 00:22:42,840
+ I mean, I didn't see my subscription on "Cha GPT"
+
+418
+00:22:42,840 --> 00:22:45,160
+ going down because I generated like two images.
+
+419
+00:22:45,160 --> 00:22:49,600
+ So it's, yeah.
+
+420
+00:22:49,600 --> 00:22:51,720
+ I mean, it's kind of included in all stuff.
+
+421
+00:22:52,640 --> 00:22:57,640
+ Anyway, back to the thread,
+
+422
+00:22:57,920 --> 00:23:00,040
+ image was available starting today on "Cha GPT"
+
+423
+00:23:00,040 --> 00:23:03,020
+ and collect user is thinking available to "Cha GPT"
+
+424
+00:23:03,020 --> 00:23:05,880
+ four plus four, okay, so we have that.
+
+425
+00:23:05,880 --> 00:23:10,640
+ Some example below the thread, so that's it, that's it.
+
+426
+00:23:10,640 --> 00:23:14,220
+ Okay, multiple distinct image, yeah, I was thinking, okay.
+
+427
+00:23:16,080 --> 00:23:19,720
+ Okay, okay, no, that's good.
+
+428
+00:23:19,720 --> 00:23:20,960
+ That's high fidelity.
+
+429
+00:23:20,960 --> 00:23:22,440
+ - Yeah, that's good quality.
+
+430
+00:23:22,440 --> 00:23:23,280
+ - Yeah.
+
+431
+00:23:25,900 --> 00:23:30,580
+ But wait, I saw, okay, so I have a couple of images.
+
+432
+00:23:32,840 --> 00:23:37,840
+ Example, yes, tag, tag, path, okay, so this one,
+
+433
+00:23:42,460 --> 00:23:45,160
+ that's all of the base use case for "GPT" images
+
+434
+00:23:45,160 --> 00:23:49,120
+ and the illustration was generated by a "GPT" image too.
+
+435
+00:23:49,120 --> 00:23:53,160
+ So text to image, realistic image, artistic image editing,
+
+436
+00:23:53,160 --> 00:23:55,920
+ because in the conversation in "Cha GPT"
+
+437
+00:23:55,920 --> 00:23:58,640
+ you can edit a video directly in the conversation,
+
+438
+00:23:58,640 --> 00:24:02,080
+ like I think they did that with image one,
+
+439
+00:24:02,080 --> 00:24:05,440
+ so that's an interesting workflow.
+
+440
+00:24:05,440 --> 00:24:07,400
+ Background generation, product visualization,
+
+441
+00:24:07,400 --> 00:24:10,880
+ concept art, character generation, which like, yeah,
+
+442
+00:24:10,880 --> 00:24:12,800
+ if you have like good consistency, that's good.
+
+443
+00:24:12,800 --> 00:24:13,880
+ And you can even like, you know,
+
+444
+00:24:13,880 --> 00:24:17,800
+ have the three by three spreadsheet or characters
+
+445
+00:24:17,800 --> 00:24:20,400
+ and with different angle, so then you validate that
+
+446
+00:24:20,400 --> 00:24:23,920
+ and then you can animate it based on that score.
+
+447
+00:24:23,920 --> 00:24:25,120
+ Pretty tedious.
+
+448
+00:24:25,120 --> 00:24:30,080
+ Background, infographic, UX/UI, storyboarding, okay,
+
+449
+00:24:30,080 --> 00:24:33,840
+ marketing, social media, print, packaging, design,
+
+450
+00:24:33,840 --> 00:24:35,460
+ illustration, photo announcement,
+
+451
+00:24:35,460 --> 00:24:40,460
+ meme and fun creation, and I had another one,
+
+452
+00:24:40,520 --> 00:24:45,520
+ which is tag, one piece, wait, fuck, I didn't save it.
+
+453
+00:24:52,400 --> 00:24:56,680
+ Image nest, blah, blah, blah, fuck, I lost it.
+
+454
+00:24:56,680 --> 00:25:01,320
+ Okay, path, what's really staying?
+
+455
+00:25:04,800 --> 00:25:08,760
+ "Cha GPT" is running out, running out, running out, okay.
+
+456
+00:25:08,760 --> 00:25:13,120
+ Singularity, the new "Cha GPT" image
+
+457
+00:25:13,120 --> 00:25:15,920
+ is a new standard for photorealistic images.
+
+458
+00:25:17,720 --> 00:25:21,040
+ Oh, that's not, that's really good.
+
+459
+00:25:21,040 --> 00:25:22,560
+ - It's a lot of details.
+
+460
+00:25:22,560 --> 00:25:23,920
+ - Yeah. - It is cool.
+
+461
+00:25:23,920 --> 00:25:24,760
+ - Oh, that's nice.
+
+462
+00:25:27,120 --> 00:25:28,200
+ Oh my God.
+
+463
+00:25:32,680 --> 00:25:34,200
+ - I think you have to integrate this one
+
+464
+00:25:34,200 --> 00:25:35,620
+ in your API as well.
+
+465
+00:25:35,620 --> 00:25:39,040
+ - Yeah, we'll be down.
+
+466
+00:25:39,920 --> 00:25:41,760
+ - Well, it should be easy, right?
+
+467
+00:25:41,760 --> 00:25:43,120
+ Everything you developed.
+
+468
+00:25:43,120 --> 00:25:48,120
+ - Yeah, 100%, tag, project, as "Cha GPT".
+
+469
+00:25:53,220 --> 00:25:55,980
+ Oh, wait, share some issues.
+
+470
+00:25:57,280 --> 00:25:58,980
+ - Is front and back.
+
+471
+00:25:58,980 --> 00:25:59,820
+ - Yeah.
+
+472
+00:26:02,140 --> 00:26:07,140
+ - Okay, friends, trying image to grow.
+
+473
+00:26:09,900 --> 00:26:10,740
+ That's nuts.
+
+474
+00:26:11,840 --> 00:26:16,840
+ The hand is a bit weird here, but that's a family picture.
+
+475
+00:26:17,120 --> 00:26:19,920
+ - Yeah, and you just have to look for it
+
+476
+00:26:19,920 --> 00:26:22,840
+ and make some final changes and then it's perfect.
+
+477
+00:26:25,680 --> 00:26:27,560
+ - This is awesome for web shops.
+
+478
+00:26:27,560 --> 00:26:29,780
+ - Yeah, yeah.
+
+479
+00:26:29,780 --> 00:26:32,960
+ I mean, we were already capable to do that with Dano, right?
+
+480
+00:26:32,960 --> 00:26:35,040
+ - Yeah, but each time they make it easier
+
+481
+00:26:35,040 --> 00:26:36,420
+ and even more consistent.
+
+482
+00:26:37,940 --> 00:26:39,840
+ - But that's what, like, bro, like it's,
+
+483
+00:26:41,200 --> 00:26:43,620
+ there is no point of taking pictures anymore.
+
+484
+00:26:45,520 --> 00:26:48,480
+ Like, okay, yeah, you can fake.
+
+485
+00:26:48,480 --> 00:26:52,080
+ - Yeah, the only thing is if you show your daughter
+
+486
+00:26:52,080 --> 00:26:53,880
+ and your wife that you went to Disneyland,
+
+487
+00:26:53,880 --> 00:26:55,120
+ they give them all the pictures,
+
+488
+00:26:55,120 --> 00:26:56,360
+ they won't believe you.
+
+489
+00:26:56,360 --> 00:26:58,040
+ - Yeah, wait, okay.
+
+490
+00:26:58,040 --> 00:27:00,360
+ What's the joke, "Cha GPT"?
+
+491
+00:27:00,360 --> 00:27:01,180
+ What?
+
+492
+00:27:03,160 --> 00:27:05,520
+ Oh, okay, maybe it's the, yeah.
+
+493
+00:27:05,520 --> 00:27:06,520
+ - It's the next one.
+
+494
+00:27:09,140 --> 00:27:10,840
+ - They changed the face too.
+
+495
+00:27:14,200 --> 00:27:15,020
+ That's a lot.
+
+496
+00:27:16,880 --> 00:27:20,320
+ Tag, path, okay.
+
+497
+00:27:24,160 --> 00:27:25,320
+ Okay, why not?
+
+498
+00:27:29,760 --> 00:27:33,200
+ Is that like, fuck, what is his name?
+
+499
+00:27:35,320 --> 00:27:36,960
+ - The white walker.
+
+500
+00:27:36,960 --> 00:27:40,980
+ - No, it's the Jason Momoa.
+
+501
+00:27:42,100 --> 00:27:42,940
+ No?
+
+502
+00:27:42,940 --> 00:27:45,320
+ - No, no, no, he isn't.
+
+503
+00:27:45,320 --> 00:27:46,160
+ - Okay.
+
+504
+00:27:46,160 --> 00:27:47,620
+ - I think.
+
+505
+00:27:47,620 --> 00:27:51,200
+ - Oh, that's a model, okay.
+
+506
+00:27:52,880 --> 00:27:56,080
+ Image two is not online, should have been just a few days.
+
+507
+00:27:56,080 --> 00:27:58,040
+ Even with a three-by-three, would have a struggle.
+
+508
+00:27:58,040 --> 00:28:00,600
+ Now we can do 10x complexity, yeah.
+
+509
+00:28:03,480 --> 00:28:04,480
+ That's kind of cool.
+
+510
+00:28:09,040 --> 00:28:09,860
+ Okay.
+
+511
+00:28:11,600 --> 00:28:14,940
+ mandatory vaccine checkpoint, tax the rich, and.
+
+512
+00:28:17,960 --> 00:28:22,200
+ Okay, so that's really, okay, so like,
+
+513
+00:28:22,920 --> 00:28:23,760
+ pretty nuts.
+
+514
+00:28:26,260 --> 00:28:29,580
+ As you react, like, would you use over like a mid journey
+
+515
+00:28:29,580 --> 00:28:33,280
+ to Cha GPT now, like if you see the images generated
+
+516
+00:28:33,280 --> 00:28:34,200
+ in example?
+
+517
+00:28:37,060 --> 00:28:38,360
+ We'll see if it will play.
+
+518
+00:28:38,360 --> 00:28:39,200
+ - Yes.
+
+519
+00:28:39,200 --> 00:28:43,460
+ - Okay, so that was, this one is like the blog post
+
+520
+00:28:43,460 --> 00:28:45,040
+ on the website.
+
+521
+00:28:45,040 --> 00:28:47,400
+ They have, I don't know if they had it last time,
+
+522
+00:28:47,400 --> 00:28:50,720
+ but like they have the, which is kind of cool.
+
+523
+00:28:50,720 --> 00:28:53,120
+ They have the text version and the image version
+
+524
+00:28:53,120 --> 00:28:53,960
+ of the article.
+
+525
+00:28:54,960 --> 00:28:58,320
+ So they generate like all of those image
+
+526
+00:28:58,320 --> 00:29:00,080
+ with the text they have here.
+
+527
+00:29:02,680 --> 00:29:03,500
+ Like that.
+
+528
+00:29:07,300 --> 00:29:10,340
+ So yeah, interesting Cha GPT image to anywhere
+
+529
+00:29:10,340 --> 00:29:12,420
+ of image generation.
+
+530
+00:29:12,420 --> 00:29:16,000
+ A year ago, we released Cha GPT image during the year,
+
+531
+00:29:16,000 --> 00:29:19,120
+ Jesus, both beautiful and useful.
+
+532
+00:29:19,120 --> 00:29:21,060
+ Image in the next step, set of art,
+
+533
+00:29:22,160 --> 00:29:24,640
+ step change instruction to extend model capability,
+
+534
+00:29:24,640 --> 00:29:26,160
+ the most complete task.
+
+535
+00:29:26,160 --> 00:29:27,380
+ Yeah, whatever, whatever.
+
+536
+00:29:27,380 --> 00:29:30,000
+ Greater precision and control.
+
+537
+00:29:30,000 --> 00:29:33,580
+ But yeah, that's not a screenshot.
+
+538
+00:29:33,580 --> 00:29:35,120
+ - No, no, that was generated.
+
+539
+00:29:37,520 --> 00:29:39,420
+ - Right, it looks perfect.
+
+540
+00:29:39,420 --> 00:29:41,180
+ - Yeah, you can show people your desktop
+
+541
+00:29:41,180 --> 00:29:42,120
+ that you're working.
+
+542
+00:29:43,020 --> 00:29:45,200
+ - Yeah, you can have a background, right?
+
+543
+00:29:45,200 --> 00:29:46,040
+ - Yeah.
+
+544
+00:29:47,240 --> 00:29:49,600
+ Like it's working on my PC.
+
+545
+00:29:49,600 --> 00:29:50,440
+ - Yeah.
+
+546
+00:29:54,120 --> 00:29:56,760
+ Yeah, bro, that's a screenshot.
+
+547
+00:29:59,120 --> 00:29:59,960
+ That's crazy.
+
+548
+00:30:07,880 --> 00:30:09,440
+ Create everything at once.
+
+549
+00:30:11,600 --> 00:30:12,840
+ Is that generated?
+
+550
+00:30:14,000 --> 00:30:14,940
+ The rice?
+
+551
+00:30:17,240 --> 00:30:20,880
+ Stronger across languages.
+
+552
+00:30:20,880 --> 00:30:21,720
+ Okay, yes.
+
+553
+00:30:21,720 --> 00:30:23,720
+ Okay, so you can, you can have it like,
+
+554
+00:30:23,720 --> 00:30:26,840
+ okay, you take a translation.
+
+555
+00:30:28,640 --> 00:30:31,760
+ You can take an original of a manga, for example,
+
+556
+00:30:31,760 --> 00:30:35,200
+ and you can do the translation with AI.
+
+557
+00:30:35,200 --> 00:30:37,720
+ And then you can place all of the,
+
+558
+00:30:37,720 --> 00:30:41,660
+ like the dialogue directly into the image and that's it.
+
+559
+00:30:43,440 --> 00:30:45,600
+ - Yeah, you only have to make it once
+
+560
+00:30:45,600 --> 00:30:48,600
+ and then you make it so easier to do the rest.
+
+561
+00:30:48,600 --> 00:30:50,040
+ - Yeah, it's not.
+
+562
+00:30:50,040 --> 00:30:50,880
+ It's Jirak.
+
+563
+00:30:52,000 --> 00:30:53,400
+ I will take a look at it for now.
+
+564
+00:30:53,400 --> 00:30:57,920
+ I'm not, I'm not using MG enough for the price it costs.
+
+565
+00:30:57,920 --> 00:30:59,320
+ Yes.
+
+566
+00:30:59,320 --> 00:31:00,480
+ Why are you based?
+
+567
+00:31:03,120 --> 00:31:04,360
+ Tag, well, okay.
+
+568
+00:31:08,560 --> 00:31:11,620
+ So basically images are solved, bro.
+
+569
+00:31:11,620 --> 00:31:15,940
+ Like no more hard stuff, no more Photoshop,
+
+570
+00:31:15,940 --> 00:31:18,360
+ no more editing, just prompt it.
+
+571
+00:31:18,360 --> 00:31:19,200
+ - Yeah, no, exactly.
+
+572
+00:31:19,200 --> 00:31:24,200
+ And you can edit a picture in the conversation.
+
+573
+00:31:27,320 --> 00:31:29,080
+ I'm gonna show you that right now.
+
+574
+00:31:31,560 --> 00:31:33,520
+ Wow, that's cool.
+
+575
+00:31:34,800 --> 00:31:37,160
+ I even like, yeah, see like the framing
+
+576
+00:31:37,160 --> 00:31:39,160
+ and the disposition of like the design.
+
+577
+00:31:39,160 --> 00:31:42,040
+ It's not like it's all the other, but it's not like
+
+578
+00:31:42,040 --> 00:31:43,960
+ completely like, you know, it stay in the box.
+
+579
+00:31:43,960 --> 00:31:47,440
+ It's like that and it goes above the boxes and stuff.
+
+580
+00:31:47,440 --> 00:31:49,260
+ That's pretty cool.
+
+581
+00:31:49,260 --> 00:31:53,840
+ GPT image and flexible as per ratio.
+
+582
+00:31:53,840 --> 00:31:54,940
+ So we saw that.
+
+583
+00:31:56,520 --> 00:31:57,520
+ That's kind of nice.
+
+584
+00:32:01,320 --> 00:32:04,200
+ Okay, real world intelligence.
+
+585
+00:32:04,200 --> 00:32:06,000
+ Okay, biggest.
+
+586
+00:32:06,000 --> 00:32:09,640
+ Oh yeah, that, okay, so that means the models.
+
+587
+00:32:09,640 --> 00:32:12,840
+ So why it was generating the image?
+
+588
+00:32:12,840 --> 00:32:15,000
+ - Yeah, it also put in the correct math.
+
+589
+00:32:15,000 --> 00:32:19,000
+ - Yeah, so maybe, how can you say if it's real or not?
+
+590
+00:32:19,000 --> 00:32:22,640
+ - Yeah, probably if they show it here, it's correct.
+
+591
+00:32:22,640 --> 00:32:23,760
+ - I hope so for them.
+
+592
+00:32:25,080 --> 00:32:29,680
+ Design trend, yeah, you can do illustrations and stuff.
+
+593
+00:32:29,680 --> 00:32:30,740
+ Wow, that's cool.
+
+594
+00:32:32,680 --> 00:32:36,920
+ I like blue, you can generate that for design,
+
+595
+00:32:36,920 --> 00:32:38,880
+ like website design and stuff.
+
+596
+00:32:38,880 --> 00:32:42,840
+ - Normally a designer would charge you like a lot of money
+
+597
+00:32:42,840 --> 00:32:45,160
+ just to show your product in different angles
+
+598
+00:32:45,160 --> 00:32:46,560
+ and different setups.
+
+599
+00:32:46,560 --> 00:32:48,100
+ Now it's one prompt.
+
+600
+00:32:48,100 --> 00:32:52,000
+ - Yeah, and then we can still charge 15 grand for that.
+
+601
+00:32:52,000 --> 00:32:52,840
+ - Yeah.
+
+602
+00:32:55,040 --> 00:32:57,320
+ - With just one prompt still.
+
+603
+00:32:57,320 --> 00:33:00,320
+ Okay, so that's an ad, let's go.
+
+604
+00:33:00,320 --> 00:33:03,680
+ Copy, okay, syncing, yeah, whatever, whatever.
+
+605
+00:33:03,680 --> 00:33:05,940
+ Okay, cool, let's play a little bit.
+
+606
+00:33:05,940 --> 00:33:08,020
+ - Yes, see what I can do.
+
+607
+00:33:08,020 --> 00:33:10,120
+ - The generation, so, okay.
+
+608
+00:33:10,120 --> 00:33:12,960
+ What I've done for the seminar of this live stream,
+
+609
+00:33:12,960 --> 00:33:17,960
+ live stream, I uploaded on like a little PFP.
+
+610
+00:33:19,400 --> 00:33:20,220
+ - Wow.
+
+611
+00:33:21,640 --> 00:33:24,800
+ - And I took a prompt that I have,
+
+612
+00:33:24,800 --> 00:33:26,700
+ a prompt template that I have from,
+
+613
+00:33:30,640 --> 00:33:34,240
+ Claude, 'cause I have the conversation there,
+
+614
+00:33:34,240 --> 00:33:35,760
+ just before it got cut.
+
+615
+00:33:36,640 --> 00:33:39,960
+ And that's the first one it generated.
+
+616
+00:33:39,960 --> 00:33:43,480
+ And I have three different variations, that one is cool.
+
+617
+00:33:43,480 --> 00:33:44,320
+ All right, I like this one.
+
+618
+00:33:44,320 --> 00:33:47,320
+ - Yeah, and it only had one reference image.
+
+619
+00:33:47,320 --> 00:33:51,800
+ - Yeah, and I didn't upload the OpenAI logo.
+
+620
+00:33:51,800 --> 00:33:53,040
+ - No, no, it just found it.
+
+621
+00:33:53,040 --> 00:33:57,160
+ Well, at least I know it has what the OpenAI logo is.
+
+622
+00:33:59,000 --> 00:34:01,480
+ And it generated that, and after,
+
+623
+00:34:03,600 --> 00:34:06,180
+ yeah, I asked it like to different variation
+
+624
+00:34:06,180 --> 00:34:10,720
+ of the same prompt, because I edited inside the conversation
+
+625
+00:34:10,720 --> 00:34:15,600
+ and like, yeah, it's not, this one is shit, but okay.
+
+626
+00:34:15,600 --> 00:34:20,200
+ So yeah, because I asked to show the different capability
+
+627
+00:34:20,200 --> 00:34:23,480
+ of the model, so different type of illustration,
+
+628
+00:34:23,480 --> 00:34:26,840
+ but then it had like the GPT image and I didn't like that.
+
+629
+00:34:26,840 --> 00:34:29,960
+ But yeah, and this one was another variation.
+
+630
+00:34:29,960 --> 00:34:32,520
+ - But to do it in NANABANANA 2,
+
+631
+00:34:32,520 --> 00:34:35,580
+ we had to put in multiple images of the person, right?
+
+632
+00:34:36,520 --> 00:34:39,400
+ - No, no, no, just one, like one output and stuff, so.
+
+633
+00:34:39,400 --> 00:34:40,240
+ - Okay, that was good.
+
+634
+00:34:40,240 --> 00:34:41,820
+ - That was pretty similar, yeah.
+
+635
+00:34:43,880 --> 00:34:48,120
+ But even to see between the face, like it's the same.
+
+636
+00:34:48,120 --> 00:34:50,440
+ Our face doesn't move, it just like move it,
+
+637
+00:34:50,440 --> 00:34:53,000
+ but keep the consistency between.
+
+638
+00:34:53,000 --> 00:34:54,880
+ - It's like it copy pasted the image.
+
+639
+00:34:54,880 --> 00:34:59,880
+ - 1%, like even here, same position, same everything.
+
+640
+00:35:00,320 --> 00:35:02,360
+ Okay, the hand moved a bit,
+
+641
+00:35:02,360 --> 00:35:06,760
+ but like my face doesn't change yours neither.
+
+642
+00:35:06,760 --> 00:35:07,960
+ Yeah, it's crazy.
+
+643
+00:35:09,920 --> 00:35:13,760
+ Okay, so let's try something else.
+
+644
+00:35:13,760 --> 00:35:18,520
+ Okay, so same thread and yes, okay.
+
+645
+00:35:21,280 --> 00:35:26,280
+ Let's create, imagine a manga page with those two men.
+
+646
+00:35:37,240 --> 00:35:42,240
+ They are meeting in the street, raining, raining.
+
+647
+00:35:51,280 --> 00:35:56,280
+ Midnight, and they are getting ready for a podcast.
+
+648
+00:36:02,640 --> 00:36:07,640
+ Noir at most fair manga style.
+
+649
+00:36:10,760 --> 00:36:11,800
+ Let's see how it goes.
+
+650
+00:36:12,920 --> 00:36:15,560
+ A manga page with those two men,
+
+651
+00:36:15,560 --> 00:36:18,560
+ they are meeting in the street, it's raining, midnight.
+
+652
+00:36:18,560 --> 00:36:20,600
+ Yeah, midnight dark, okay, let's see.
+
+653
+00:36:20,600 --> 00:36:23,640
+ Yeah, now we can also see how fast it is.
+
+654
+00:36:23,640 --> 00:36:24,680
+ - Not that fast.
+
+655
+00:36:24,680 --> 00:36:25,520
+ - Okay.
+
+656
+00:36:26,600 --> 00:36:29,760
+ - So yeah, if you want to talk about something else.
+
+657
+00:36:29,760 --> 00:36:30,760
+ - What did you do today?
+
+658
+00:36:30,760 --> 00:36:31,580
+ No.
+
+659
+00:36:32,680 --> 00:36:33,520
+ - Okay, so.
+
+660
+00:36:33,520 --> 00:36:37,040
+ - Well, the only thing I noticed is that your left menu,
+
+661
+00:36:37,040 --> 00:36:39,800
+ your recent, it's cleared.
+
+662
+00:36:39,800 --> 00:36:42,040
+ I have like 1,000 history videos.
+
+663
+00:36:42,040 --> 00:36:43,440
+ - I have archive everything.
+
+664
+00:36:43,440 --> 00:36:44,280
+ - Oh, okay.
+
+665
+00:36:45,480 --> 00:36:46,320
+ - Okay.
+
+666
+00:36:46,320 --> 00:36:47,880
+ - You clean up before the show.
+
+667
+00:36:47,880 --> 00:36:48,960
+ - Exactly.
+
+668
+00:36:48,960 --> 00:36:53,960
+ - Imagine Elon Musk playing Diablo 3, I'll.
+
+669
+00:37:00,960 --> 00:37:01,980
+ Oh, shit.
+
+670
+00:37:01,980 --> 00:37:02,820
+ - Yeah.
+
+671
+00:37:02,820 --> 00:37:03,640
+ - What is it again?
+
+672
+00:37:03,640 --> 00:37:04,800
+ - I was going to ask,
+
+673
+00:37:04,800 --> 00:37:06,600
+ does it know that when you type imagine
+
+674
+00:37:06,600 --> 00:37:08,840
+ that it needs to generate an image every time?
+
+675
+00:37:08,840 --> 00:37:09,680
+ - Where is it?
+
+676
+00:37:11,080 --> 00:37:12,680
+ - You lost it, it's gone.
+
+677
+00:37:13,840 --> 00:37:15,200
+ - Oh, okay.
+
+678
+00:37:16,820 --> 00:37:17,660
+ Oh.
+
+679
+00:37:17,660 --> 00:37:18,500
+ - Probably you have to refresh the game.
+
+680
+00:37:18,500 --> 00:37:19,340
+ - What?
+
+681
+00:37:24,680 --> 00:37:25,520
+ Hey, wait, wait, wait.
+
+682
+00:37:25,520 --> 00:37:27,480
+ - It is the wrong one, right?
+
+683
+00:37:27,480 --> 00:37:29,960
+ - Yeah, that's a,
+
+684
+00:37:29,960 --> 00:37:32,600
+ that's a, fuck.
+
+685
+00:37:32,600 --> 00:37:33,760
+ It's a Marvel character.
+
+686
+00:37:33,760 --> 00:37:34,680
+ - Yeah, Iron Man.
+
+687
+00:37:34,680 --> 00:37:35,520
+ - And.
+
+688
+00:37:36,560 --> 00:37:39,560
+ - Well, it's Iron Man combined with another one.
+
+689
+00:37:39,560 --> 00:37:40,400
+ - Yeah.
+
+690
+00:37:41,760 --> 00:37:43,120
+ - That's not Elon Musk.
+
+691
+00:37:44,800 --> 00:37:48,280
+ - I want to create and create.
+
+692
+00:37:49,440 --> 00:37:50,280
+ - But.
+
+693
+00:37:52,040 --> 00:37:52,880
+ Okay.
+
+694
+00:37:52,880 --> 00:37:54,960
+ - Now we try to make a game, it looks like.
+
+695
+00:37:57,760 --> 00:37:58,580
+ - Is it?
+
+696
+00:37:58,580 --> 00:37:59,420
+ - In case you had a quest
+
+697
+00:37:59,420 --> 00:38:01,320
+ that gave you what you can do with the side quest,
+
+698
+00:38:01,320 --> 00:38:03,820
+ so it made an idea for a game.
+
+699
+00:38:03,820 --> 00:38:05,720
+ - Ah, okay, interesting.
+
+700
+00:38:06,800 --> 00:38:09,120
+ And for that, ooh, ooh.
+
+701
+00:38:11,320 --> 00:38:13,480
+ Okay, we lost the faces, but.
+
+702
+00:38:13,480 --> 00:38:15,720
+ - Yeah, that doesn't matter.
+
+703
+00:38:15,720 --> 00:38:17,920
+ - Yeah, mine is more like,
+
+704
+00:38:17,920 --> 00:38:22,560
+ yeah, they got, we lost your reference.
+
+705
+00:38:24,240 --> 00:38:27,060
+ But, okay, bro, that's cool.
+
+706
+00:38:27,060 --> 00:38:29,560
+ You made it, yeah, let's do this.
+
+707
+00:38:29,560 --> 00:38:31,300
+ Some conversation don't just happen.
+
+708
+00:38:31,300 --> 00:38:32,200
+ They change everything.
+
+709
+00:38:32,200 --> 00:38:34,400
+ Tonight we build the future, what the fuck?
+
+710
+00:38:37,920 --> 00:38:42,260
+ Make it, not landscape, portrait.
+
+711
+00:38:44,120 --> 00:38:49,120
+ And put these boxes with one big central out.
+
+712
+00:38:54,280 --> 00:38:59,280
+ And keep the same face.
+
+713
+00:39:03,620 --> 00:39:06,660
+ VAF, Elon Musk, W3, okay.
+
+714
+00:39:08,320 --> 00:39:12,720
+ What if, ooh, ooh, holy shit.
+
+715
+00:39:14,640 --> 00:39:17,820
+ It put everything it wrote down around it.
+
+716
+00:39:17,820 --> 00:39:19,960
+ - So yeah, that's a character sheet, so.
+
+717
+00:39:19,960 --> 00:39:20,800
+ - Yeah.
+
+718
+00:39:20,800 --> 00:39:25,240
+ - Elon Musk, techno sorcerer, level 52 CEO, bro, that's sick.
+
+719
+00:39:26,960 --> 00:39:31,960
+ And that's the interface from Diablo 3.
+
+720
+00:39:32,000 --> 00:39:35,320
+ Okay, describe, edit, select.
+
+721
+00:39:35,320 --> 00:39:39,240
+ Yeah, okay, so you can select what you want to edit, okay?
+
+722
+00:39:39,240 --> 00:39:43,200
+ A spare ratio, ultra wide, glory, white portrait.
+
+723
+00:39:44,560 --> 00:39:49,480
+ Landscape square, oh, story, story?
+
+724
+00:39:50,840 --> 00:39:52,080
+ What does it mean, story?
+
+725
+00:39:53,280 --> 00:39:57,000
+ And I want to try, okay,
+
+726
+00:39:57,000 --> 00:40:02,000
+ imagine the last page of one piece.
+
+727
+00:40:07,160 --> 00:40:10,560
+ - Did you need to press the plus and select the image?
+
+728
+00:40:10,560 --> 00:40:12,200
+ Oh, now it does it right away.
+
+729
+00:40:12,200 --> 00:40:14,220
+ - Okay, that was fast as fuck.
+
+730
+00:40:14,220 --> 00:40:17,480
+ The final page, open in silence, no, no, no, no, no.
+
+731
+00:40:17,480 --> 00:40:19,840
+ - I think it just loaded a few images,
+
+732
+00:40:19,840 --> 00:40:21,700
+ it didn't create one because you.
+
+733
+00:40:25,320 --> 00:40:29,160
+ - Oh yeah, it take the resources, oh, bro, that's,
+
+734
+00:40:29,160 --> 00:40:31,400
+ oh, it search for the web and--
+
+735
+00:40:31,400 --> 00:40:33,440
+ - Yeah, yeah, yeah, you didn't press the plus
+
+736
+00:40:33,440 --> 00:40:35,400
+ that you want an image.
+
+737
+00:40:35,400 --> 00:40:37,560
+ - Oh yeah, it's Dr. Strange,
+
+738
+00:40:37,560 --> 00:40:41,000
+ that's the name of the character, like the sorcerer stuff.
+
+739
+00:40:41,000 --> 00:40:43,540
+ - My bad, okay, so perfect.
+
+740
+00:40:45,840 --> 00:40:50,840
+ Now create the image for it.
+
+741
+00:40:53,840 --> 00:40:58,840
+ It is creating the last page of one piece
+
+742
+00:41:03,840 --> 00:41:07,720
+ in live action.
+
+743
+00:41:11,040 --> 00:41:16,040
+ From Netflix, did you have, okay.
+
+744
+00:41:16,280 --> 00:41:20,360
+ Diablo three, boom, okay, so ratio, okay, nice.
+
+745
+00:41:22,160 --> 00:41:27,160
+ Okay, oh, and now, okay, put an alone in the Diablo three
+
+746
+00:41:33,000 --> 00:41:38,000
+ game, the image is a frame of Diablo three.
+
+747
+00:41:42,000 --> 00:41:45,560
+ Three, tough, I character shit,
+
+748
+00:41:45,560 --> 00:41:50,280
+ I think we can animate to create it, nice.
+
+749
+00:41:50,280 --> 00:41:54,240
+ - Ooh, you can make a full comic.
+
+750
+00:41:54,240 --> 00:41:59,240
+ - 100%, boom, boom, okay, so, okay,
+
+751
+00:42:00,280 --> 00:42:01,480
+ which sense do you read it?
+
+752
+00:42:01,480 --> 00:42:04,380
+ Because if it's a manga, it's going right to left, right?
+
+753
+00:42:04,380 --> 00:42:07,480
+ You made it, yeah, let's do this, boom.
+
+754
+00:42:07,480 --> 00:42:09,760
+ Tonight we build the future.
+
+755
+00:42:09,760 --> 00:42:13,360
+ - Storm conversation, don't just tap it, okay, okay.
+
+756
+00:42:13,360 --> 00:42:17,920
+ We need to write to think, to work on the storytelling,
+
+757
+00:42:17,920 --> 00:42:18,760
+ but.
+
+758
+00:42:18,760 --> 00:42:20,680
+ - Yeah, you also need to make a proper prompt,
+
+759
+00:42:20,680 --> 00:42:22,260
+ now it just copies the image.
+
+760
+00:42:22,260 --> 00:42:26,600
+ - Yeah, and this one is the same as like this one.
+
+761
+00:42:26,600 --> 00:42:31,160
+ - Yeah, so you need to tell it in the prompt
+
+762
+00:42:31,160 --> 00:42:34,240
+ that it needs to create a new image for each frame,
+
+763
+00:42:34,240 --> 00:42:36,080
+ but still, it doesn't matter.
+
+764
+00:42:39,280 --> 00:42:43,440
+ - Try asking if it can make this entire page,
+
+765
+00:42:43,440 --> 00:42:45,020
+ but then photo realistic.
+
+766
+00:42:46,480 --> 00:42:49,600
+ I've converted to a photo realistic page.
+
+767
+00:42:49,600 --> 00:42:54,600
+ - Okay, it's photo realistic, realistic, buff.
+
+768
+00:42:59,360 --> 00:43:01,360
+ One piece final scene, ooh.
+
+769
+00:43:01,360 --> 00:43:03,040
+ - See, that's.
+
+770
+00:43:03,040 --> 00:43:05,500
+ - Oh, wait, wait, wait, is that?
+
+771
+00:43:08,900 --> 00:43:11,420
+ Oh, fuck, it's opening the desktop.
+
+772
+00:43:14,360 --> 00:43:19,360
+ It, yeah, I'm gonna do that, but one piece.
+
+773
+00:43:27,320 --> 00:43:30,080
+ Did you watch the TV show?
+
+774
+00:43:30,080 --> 00:43:34,260
+ - Just a few, a few one, not a full show.
+
+775
+00:43:36,120 --> 00:43:39,820
+ That's all, bro, that's the fucking actors.
+
+776
+00:43:41,760 --> 00:43:43,280
+ - And this is not a real scene, right?
+
+777
+00:43:43,280 --> 00:43:44,120
+ This is creative.
+
+778
+00:43:44,120 --> 00:43:45,720
+ - No, no, no, no, that's one of,
+
+779
+00:43:45,720 --> 00:43:49,040
+ like all of the, some characters don't even exist.
+
+780
+00:43:49,040 --> 00:43:54,040
+ Okay, so yeah, Brooke is only on his human form,
+
+781
+00:43:58,360 --> 00:44:01,960
+ like the skeleton, these characters,
+
+782
+00:44:01,960 --> 00:44:02,960
+ okay, you don't see the mouse,
+
+783
+00:44:02,960 --> 00:44:04,680
+ but like this big guy on the right,
+
+784
+00:44:04,680 --> 00:44:08,200
+ he doesn't, he's not happy yet.
+
+785
+00:44:08,200 --> 00:44:12,200
+ And it's not exactly that, but we are like 90% here.
+
+786
+00:44:12,200 --> 00:44:14,440
+ - Yeah, so it actually did a Google search
+
+787
+00:44:15,740 --> 00:44:18,640
+ and it looked up all the characters and put them in here.
+
+788
+00:44:20,340 --> 00:44:24,320
+ Ah, cool, but still you see again
+
+789
+00:44:24,320 --> 00:44:27,760
+ that it takes out the person that we created
+
+790
+00:44:27,760 --> 00:44:29,840
+ and it actually copies it in here.
+
+791
+00:44:29,840 --> 00:44:33,920
+ So the consistency is really good.
+
+792
+00:44:33,920 --> 00:44:36,340
+ (indistinct)
+
+793
+00:45:04,200 --> 00:45:06,760
+ - Okay, so this one.
+
+794
+00:45:06,760 --> 00:45:11,760
+ - Oh, cool, see, it isn't fully, or is it?
+
+795
+00:45:13,560 --> 00:45:15,800
+ - It kind of like colorized it.
+
+796
+00:45:15,800 --> 00:45:16,640
+ - Yeah.
+
+797
+00:45:18,520 --> 00:45:19,360
+ - That's nuts.
+
+798
+00:45:20,960 --> 00:45:25,180
+ Tonight be that big ideas, no filter, real talk, let's go.
+
+799
+00:45:27,200 --> 00:45:28,360
+ That's nuts.
+
+800
+00:45:32,080 --> 00:45:33,880
+ Yeah, that's crazy.
+
+801
+00:45:35,720 --> 00:45:38,240
+ Okay, so what else can we do?
+
+802
+00:45:38,240 --> 00:45:43,240
+ Okay, so path create the image of, imagine.
+
+803
+00:45:50,160 --> 00:45:53,480
+ - Before you press enter, press the plus on the left.
+
+804
+00:45:54,800 --> 00:45:55,620
+ - Paris.
+
+805
+00:45:56,800 --> 00:45:59,440
+ - If you select create image, it works much better.
+
+806
+00:45:59,440 --> 00:46:04,440
+ Yes, imagine Paris in (indistinct)
+
+807
+00:46:10,120 --> 00:46:13,040
+ What can we do to test the capability?
+
+808
+00:46:13,040 --> 00:46:17,640
+ Blueprints, nightmare flash, anime, oh, yeah, wait.
+
+809
+00:46:19,000 --> 00:46:24,000
+ Give me an ad for (indistinct)
+
+810
+00:46:27,320 --> 00:46:28,140
+ That's it.
+
+811
+00:46:28,140 --> 00:46:29,520
+ Let's see if it Googles it.
+
+812
+00:46:29,520 --> 00:46:34,520
+ - Yes, Paris, okay, (indistinct)
+
+813
+00:46:35,560 --> 00:46:36,400
+ Holy fuck.
+
+814
+00:46:36,400 --> 00:46:37,240
+ - Oh, that's cool.
+
+815
+00:46:38,400 --> 00:46:40,900
+ And he even puts a Tesla logo on his back.
+
+816
+00:46:41,760 --> 00:46:46,760
+ - Holy shit, wow.
+
+817
+00:46:47,200 --> 00:46:48,900
+ - You should DM it to Elon.
+
+818
+00:46:51,440 --> 00:46:53,280
+ See if you can get a response.
+
+819
+00:46:58,140 --> 00:47:03,040
+ - Thank you for joining our party on Diablo.
+
+820
+00:47:05,480 --> 00:47:08,960
+ - Shit, shit, no, okay, no, I'm gonna use my account.
+
+821
+00:47:13,960 --> 00:47:18,960
+ I want that, I want that, I will retweet that.
+
+822
+00:47:23,840 --> 00:47:24,840
+ Yeah.
+
+823
+00:47:28,140 --> 00:47:30,560
+ (indistinct)
+
+824
+00:47:37,140 --> 00:47:39,700
+ - No, it can't be triggered, it can't be.
+
+825
+00:47:39,700 --> 00:47:42,120
+ (indistinct)
+
+826
+00:47:51,560 --> 00:47:55,120
+ - Welcome to Diablo 3 Templar for glory Elon Musk say,
+
+827
+00:47:55,120 --> 00:47:56,460
+ let's change the world.
+
+828
+00:47:58,140 --> 00:48:03,140
+ - Let's change the world, the one night at a time.
+
+829
+00:48:08,920 --> 00:48:13,920
+ - The world with GGT, no H 2.0, one night.
+
+830
+00:48:23,000 --> 00:48:25,500
+ One night or one night, one night.
+
+831
+00:48:25,500 --> 00:48:27,940
+ - One night, like this, that's better.
+
+832
+00:48:27,940 --> 00:48:32,940
+ Okay, let's change the demo through one at a time, thank you.
+
+833
+00:48:34,900 --> 00:48:36,300
+ Let's see if we can go viral.
+
+834
+00:48:38,900 --> 00:48:39,940
+ Okay, cool.
+
+835
+00:48:46,100 --> 00:48:50,420
+ Paris, shit, I saw the same prompt from London
+
+836
+00:48:50,420 --> 00:48:52,540
+ and it was exactly the same fucking shit.
+
+837
+00:48:54,220 --> 00:48:58,940
+ It still has some stuff that it just reuses every time.
+
+838
+00:48:58,940 --> 00:49:01,220
+ - Yeah, and like it's, yeah, okay,
+
+839
+00:49:01,220 --> 00:49:03,500
+ it's Paris because you have the fucking Eiffel Tower,
+
+840
+00:49:03,500 --> 00:49:07,620
+ but I can tell you there is nothing, yeah.
+
+841
+00:49:07,620 --> 00:49:09,140
+ - The styling is the same.
+
+842
+00:49:09,140 --> 00:49:09,980
+ - Yeah, exactly.
+
+843
+00:49:09,980 --> 00:49:12,020
+ - But then the question is if you give it a better prompt
+
+844
+00:49:12,020 --> 00:49:13,140
+ from, hey, this is cool,
+
+845
+00:49:13,140 --> 00:49:16,300
+ but I expected the aliens to be in it,
+
+846
+00:49:16,300 --> 00:49:19,060
+ so we have a multicultural with aliens and humans,
+
+847
+00:49:19,060 --> 00:49:21,620
+ can you create that, see if it does it differently?
+
+848
+00:49:25,060 --> 00:49:30,060
+ - Because that was the issue I had with Nana Banana One.
+
+849
+00:49:33,020 --> 00:49:36,300
+ It would not just keep on going, creating new stuff,
+
+850
+00:49:36,300 --> 00:49:39,220
+ eventually it would fall back to the main stuff every time.
+
+851
+00:49:53,900 --> 00:49:55,660
+ I'm gonna make the...
+
+852
+00:50:02,900 --> 00:50:04,460
+ The ads for giant feet, okay,
+
+853
+00:50:04,460 --> 00:50:05,660
+ that's a shitty illustration,
+
+854
+00:50:05,660 --> 00:50:08,820
+ but content that connects air that delivers.
+
+855
+00:50:08,820 --> 00:50:10,060
+ Oh, okay.
+
+856
+00:50:10,060 --> 00:50:12,100
+ Janet in second, built every goal.
+
+857
+00:50:12,100 --> 00:50:16,220
+ Yeah, it went on the website.
+
+858
+00:50:16,220 --> 00:50:17,820
+ - Yeah, it does know what you do.
+
+859
+00:50:17,820 --> 00:50:18,660
+ - Yeah.
+
+860
+00:50:24,820 --> 00:50:29,820
+ - Or humans with human touch and smiley face.
+
+861
+00:50:39,740 --> 00:50:41,420
+ You get all happy people.
+
+862
+00:50:44,420 --> 00:50:49,420
+ Give three variation of the end.
+
+863
+00:50:51,980 --> 00:50:53,740
+ Is that gonna output?
+
+864
+00:50:53,740 --> 00:50:56,660
+ That's emotional cost with final page.
+
+865
+00:51:01,700 --> 00:51:03,740
+ Okay, yeah, okay.
+
+866
+00:51:03,740 --> 00:51:05,980
+ I need to, okay.
+
+867
+00:51:05,980 --> 00:51:10,980
+ The empty throne and the next adventure, cool.
+
+868
+00:51:15,100 --> 00:51:15,940
+ Okay.
+
+869
+00:51:19,740 --> 00:51:24,740
+ Create image, illustrate version one.
+
+870
+00:51:27,660 --> 00:51:29,740
+ Cool, Paris, Paris.
+
+871
+00:51:29,740 --> 00:51:30,580
+ - What it did.
+
+872
+00:51:33,300 --> 00:51:35,740
+ - The style is the same, I mean.
+
+873
+00:51:35,740 --> 00:51:38,380
+ - It is the same type of buildings in it,
+
+874
+00:51:38,380 --> 00:51:40,780
+ the same type of trees and plants.
+
+875
+00:51:42,860 --> 00:51:45,860
+ It only added billboards and a few aliens on the street.
+
+876
+00:51:45,860 --> 00:51:46,700
+ - Yeah.
+
+877
+00:51:48,220 --> 00:51:50,260
+ - Yeah, it's not that crazy, crazy.
+
+878
+00:51:50,260 --> 00:51:51,700
+ You can't really use that.
+
+879
+00:51:53,580 --> 00:51:55,420
+ Okay, add request.
+
+880
+00:51:57,620 --> 00:51:59,300
+ - Now the question is how easy is it?
+
+881
+00:51:59,300 --> 00:52:00,700
+ This looks better.
+
+882
+00:52:00,700 --> 00:52:04,660
+ - That looks like an ad from the 2000s.
+
+883
+00:52:04,660 --> 00:52:05,500
+ - Yeah, yeah, yeah.
+
+884
+00:52:05,500 --> 00:52:09,380
+ You could fly this to all the neighbors in your neighborhood.
+
+885
+00:52:09,380 --> 00:52:12,020
+ - Yeah, you know, with the gradients
+
+886
+00:52:12,020 --> 00:52:14,060
+ and the purple and stuff, yeah, for sure.
+
+887
+00:52:16,820 --> 00:52:19,900
+ - Do you have the idea of generation?
+
+888
+00:52:27,660 --> 00:52:30,660
+ Oh, can we make the view of OpenAI?
+
+889
+00:52:39,780 --> 00:52:44,620
+ I think the view of entropy and property.
+
+890
+00:52:46,820 --> 00:52:51,820
+ Okay, let's see how good it does it with faces.
+
+891
+00:52:57,420 --> 00:53:00,700
+ - I'm curious if it's going to censor it or not.
+
+892
+00:53:00,700 --> 00:53:03,780
+ - Yeah, it should search people on internet, right?
+
+893
+00:53:03,780 --> 00:53:05,900
+ - No, but it should tell me to fuck off
+
+894
+00:53:05,900 --> 00:53:07,300
+ because it's too violent.
+
+895
+00:53:08,260 --> 00:53:11,740
+ - Oh, oh yeah, it depends on how it makes the image.
+
+896
+00:53:13,820 --> 00:53:16,740
+ All right, what, so you have what, okay.
+
+897
+00:53:17,940 --> 00:53:21,500
+ And then the period can disappear and then, okay.
+
+898
+00:53:22,420 --> 00:53:23,260
+ - The end.
+
+899
+00:53:24,260 --> 00:53:25,100
+ - It's weird.
+
+900
+00:53:26,820 --> 00:53:30,140
+ Okay, illustrate, illustrate.
+
+901
+00:53:34,220 --> 00:53:36,780
+ - Yeah, but your prompt is also really short.
+
+902
+00:53:36,780 --> 00:53:38,540
+ - Yeah, that's true.
+
+903
+00:53:38,540 --> 00:53:42,980
+ - Oh, is it always going to make Sam win?
+
+904
+00:53:44,820 --> 00:53:49,820
+ - Yeah, the name, the logo.
+
+905
+00:53:49,900 --> 00:53:50,740
+ - Yeah.
+
+906
+00:53:54,740 --> 00:53:56,380
+ - I'm going to do it there, Chip.
+
+907
+00:53:59,900 --> 00:54:01,940
+ - It only didn't use the cloud logo.
+
+908
+00:54:03,820 --> 00:54:04,660
+ - Oh, okay.
+
+909
+00:54:04,660 --> 00:54:06,660
+ - It even wrote and traffic with a slash in it.
+
+910
+00:54:08,060 --> 00:54:09,700
+ - And true, yeah.
+
+911
+00:54:09,700 --> 00:54:13,860
+ - Like one of them, they took the Wikipedia logo stuff.
+
+912
+00:54:15,180 --> 00:54:18,500
+ - Tech, tech, okay, path.
+
+913
+00:54:24,620 --> 00:54:25,460
+ Open AI.
+
+914
+00:54:28,900 --> 00:54:29,740
+ Open AI.
+
+915
+00:54:35,540 --> 00:54:36,900
+ Come on, copy the image.
+
+916
+00:54:40,540 --> 00:54:41,380
+ Thank you.
+
+917
+00:54:43,180 --> 00:54:45,340
+ Fast, yeah.
+
+918
+00:54:47,660 --> 00:54:50,180
+ Easy, wait.
+
+919
+00:54:50,180 --> 00:54:51,500
+ - I think we should pinch it.
+
+920
+00:54:51,500 --> 00:54:53,220
+ - Yeah, champion.
+
+921
+00:54:53,220 --> 00:54:54,060
+ Champion.
+
+922
+00:54:57,660 --> 00:54:58,500
+ Tech.
+
+923
+00:55:00,660 --> 00:55:02,860
+ Oh, let's go.
+
+924
+00:55:04,220 --> 00:55:05,060
+ - Let's see.
+
+925
+00:55:06,700 --> 00:55:08,980
+ - Okay, something that you have been struggling
+
+926
+00:55:08,980 --> 00:55:12,220
+ to generate with a image model.
+
+927
+00:55:12,220 --> 00:55:15,780
+ - Well, the only thing is company names
+
+928
+00:55:15,780 --> 00:55:20,340
+ or writing a name on a, for example, if you have an office
+
+929
+00:55:20,340 --> 00:55:22,900
+ and you want to write the company name on the door,
+
+930
+00:55:22,900 --> 00:55:24,740
+ it's always giving issues.
+
+931
+00:55:25,700 --> 00:55:29,300
+ - Okay, great.
+
+932
+00:55:29,300 --> 00:55:30,140
+ Page.
+
+933
+00:55:34,060 --> 00:55:39,060
+ Imagine easy read with the focus on the door
+
+934
+00:55:47,420 --> 00:55:52,420
+ with the logo of a ship ship, ship ship deaf on it 90 style.
+
+935
+00:56:02,980 --> 00:56:03,820
+ - Yes.
+
+936
+00:56:05,060 --> 00:56:05,900
+ - Tech.
+
+937
+00:56:10,980 --> 00:56:13,940
+ Ooh, ooh, that's good.
+
+938
+00:56:13,940 --> 00:56:17,980
+ It could have never worked, but it was never the point.
+
+939
+00:56:17,980 --> 00:56:22,980
+ Bro, that's, yeah, you can make a storyboard on that.
+
+940
+00:56:23,100 --> 00:56:24,580
+ - Yeah, yeah, and if you play with it
+
+941
+00:56:24,580 --> 00:56:26,100
+ and just keep improving your prompt,
+
+942
+00:56:26,100 --> 00:56:27,900
+ you can make some really cool stuff.
+
+943
+00:56:31,460 --> 00:56:32,540
+ - Storyboard.
+
+944
+00:56:35,060 --> 00:56:40,060
+ Um, well, storyboard, um, yeah, that's it.
+
+945
+00:56:46,620 --> 00:56:51,620
+ Okay, ship ship deaf, um, uh, window tinting,
+
+946
+00:56:54,540 --> 00:56:57,580
+ auto residential, video tinting.
+
+947
+00:56:57,580 --> 00:56:59,660
+ - It doesn't understand what ship ship is.
+
+948
+00:57:00,940 --> 00:57:04,220
+ - Software development, Unix is user-friendly.
+
+949
+00:57:05,380 --> 00:57:06,220
+ That's good.
+
+950
+00:57:09,220 --> 00:57:10,180
+ - I mean.
+
+951
+00:57:10,180 --> 00:57:13,860
+ - I mean, we have, we have the,
+
+952
+00:57:19,300 --> 00:57:24,300
+ we have the name correct, change the style of the door.
+
+953
+00:57:30,940 --> 00:57:35,940
+ Okay, so what if we have.
+
+954
+00:57:39,060 --> 00:57:40,540
+ - Oh, it's already done.
+
+955
+00:57:40,540 --> 00:57:41,380
+ Oh no.
+
+956
+00:57:42,380 --> 00:57:43,220
+ - What?
+
+957
+00:57:44,100 --> 00:57:47,460
+ - I told to give the message on top that was already done,
+
+958
+00:57:47,460 --> 00:57:48,580
+ but it isn't.
+
+959
+00:57:48,580 --> 00:57:49,420
+ Yeah.
+
+960
+00:57:50,980 --> 00:57:55,500
+ - So, I don't know if it's, it's still being, okay.
+
+961
+00:57:55,500 --> 00:57:56,340
+ - Yeah, yeah.
+
+962
+00:57:56,340 --> 00:57:59,700
+ - Tech, and I wanted to check if they have more.
+
+963
+00:58:01,100 --> 00:58:02,740
+ - Illustration in there.
+
+964
+00:58:08,460 --> 00:58:09,300
+ Ooh, okay.
+
+965
+00:58:09,300 --> 00:58:11,380
+ - That can be hard as well with mirrors.
+
+966
+00:58:12,700 --> 00:58:17,620
+ - GPT 1.5 versus 10 prompt difference is not impressive.
+
+967
+00:58:17,620 --> 00:58:20,700
+ Yeah, yeah, with mirror, yeah,
+
+968
+00:58:20,700 --> 00:58:23,540
+ because you have to have the consistency from one room.
+
+969
+00:58:23,540 --> 00:58:27,020
+ Yeah, uh, that's, that's way cleaner.
+
+970
+00:58:31,940 --> 00:58:33,380
+ - Uh, create an image.
+
+971
+00:58:33,380 --> 00:58:36,060
+ It gave context of the image based on your memory
+
+972
+00:58:36,060 --> 00:58:38,220
+ and your past conversation, create my view.
+
+973
+00:58:41,860 --> 00:58:43,460
+ That's a bit busy, but that's,
+
+974
+00:58:43,460 --> 00:58:45,660
+ that's a movie poster for sure.
+
+975
+00:58:48,660 --> 00:58:49,500
+ Okay.
+
+976
+00:58:52,900 --> 00:58:53,900
+ That's crazy.
+
+977
+00:58:58,580 --> 00:59:01,060
+ Okay, charge it in.
+
+978
+00:59:01,060 --> 00:59:04,060
+ (keyboard clicking)
+
+979
+00:59:13,540 --> 00:59:14,540
+ That's cool.
+
+980
+00:59:19,340 --> 00:59:22,220
+ And generation by this somewhat entity, as yeah, yeah.
+
+981
+00:59:23,580 --> 00:59:24,420
+ Okay.
+
+982
+00:59:26,740 --> 00:59:27,580
+ In free.
+
+983
+00:59:27,580 --> 00:59:28,900
+ - Wow, wow, wow, wow, wow.
+
+984
+00:59:28,900 --> 00:59:30,260
+ That's, that's a magazine.
+
+985
+00:59:31,340 --> 00:59:32,420
+ All right.
+
+986
+00:59:32,420 --> 00:59:34,580
+ - No more expensive editors needed.
+
+987
+00:59:35,940 --> 00:59:36,940
+ - That's nuts.
+
+988
+00:59:36,940 --> 00:59:40,540
+ Ooh, amazing update will be nano brains cinematography.
+
+989
+00:59:40,540 --> 00:59:41,660
+ Yeah, man.
+
+990
+00:59:41,660 --> 00:59:43,260
+ That's nice with the reflection.
+
+991
+00:59:43,260 --> 00:59:44,260
+ That's pretty cool.
+
+992
+00:59:47,220 --> 00:59:48,500
+ Wow, that's nuts.
+
+993
+00:59:51,580 --> 00:59:53,180
+ - That's crazy.
+
+994
+00:59:53,180 --> 00:59:54,100
+ Okay, that's good.
+
+995
+00:59:56,980 --> 00:59:59,900
+ But okay, so do we have anything?
+
+996
+00:59:59,900 --> 01:00:01,340
+ Okay, it's midnight already.
+
+997
+01:00:02,460 --> 01:00:05,900
+ Do we have anything else we wanted to explore?
+
+998
+01:00:05,900 --> 01:00:07,700
+ - No, I think we already saw a lot.
+
+999
+01:00:07,700 --> 01:00:10,860
+ So I'm pretty curious to see what other people can do.
+
+1000
+01:00:14,340 --> 01:00:15,180
+ Yeah.
+
+1001
+01:00:16,660 --> 01:00:20,980
+ - That's like, and it's full, like it's copy paste.
+
+1002
+01:00:22,060 --> 01:00:23,820
+ Like the characters are copy pasted.
+
+1003
+01:00:27,100 --> 01:00:28,220
+ - Nice, nice, nice.
+
+1004
+01:00:28,220 --> 01:00:29,380
+ Okay, cool.
+
+1005
+01:00:29,380 --> 01:00:30,220
+ That's it.
+
+1006
+01:00:31,100 --> 01:00:33,940
+ - Well, it's time to make some images.
+
+1007
+01:00:33,940 --> 01:00:34,780
+ - Yes.
+
+1008
+01:00:34,780 --> 01:00:37,780
+ Like, yeah, I think it's gonna, it's quite cheap.
+
+1009
+01:00:37,780 --> 01:00:39,860
+ I will need to compare the pricing
+
+1010
+01:00:39,860 --> 01:00:43,940
+ once it's gonna be on the replicate directly via the API.
+
+1011
+01:00:43,940 --> 01:00:48,020
+ But I don't think it's really gonna be expensive.
+
+1012
+01:00:48,020 --> 01:00:48,860
+ So.
+
+1013
+01:00:54,780 --> 01:00:56,740
+ - So we might have a new main model.
+
+1014
+01:00:57,380 --> 01:01:02,380
+ - Yeah, that's gonna, that's gonna, yeah.
+
+1015
+01:01:02,420 --> 01:01:04,460
+ That's gonna make something else
+
+1016
+01:01:04,460 --> 01:01:06,020
+ in the next few weeks for sure.
+
+1017
+01:01:06,900 --> 01:01:08,300
+ We're gonna have some fun.
+
+1018
+01:01:08,300 --> 01:01:11,180
+ - Yes, well, looking forward to it.
+
+1019
+01:01:11,180 --> 01:01:13,780
+ - Yes, let's go, let's go.
+
+1020
+01:01:13,780 --> 01:01:15,140
+ Thank you, Mitchell, for your time.
+
+1021
+01:01:15,140 --> 01:01:18,980
+ Thank you, Edgerock, for your participation.
+
+1022
+01:01:18,980 --> 01:01:23,420
+ And yeah, if you're here, subscribe, like the video too,
+
+1023
+01:01:23,420 --> 01:01:25,540
+ please, thank you, because we need views.
+
+1024
+01:01:25,540 --> 01:01:26,620
+ - And follow us.
+
+1025
+01:01:26,620 --> 01:01:28,060
+ - And follow us everywhere.
+
+1026
+01:01:28,060 --> 01:01:30,180
+ And maybe Elon Musk will do that soon.
+
+1027
+01:01:30,180 --> 01:01:34,500
+ So yeah, you could say you were there.
+
+1028
+01:01:34,500 --> 01:01:36,260
+ - Yeah, when we created Elon.
+
+1029
+01:01:38,060 --> 01:01:40,700
+ - Okay, Mitchell, thank you so much and have a good night.
+
+1030
+01:01:40,700 --> 01:01:41,620
+ - Yes, bye.
+

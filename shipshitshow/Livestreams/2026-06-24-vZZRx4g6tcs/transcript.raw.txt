@@ -1,0 +1,1375 @@
+And we are live. Welcome back everyone
+in the chat.
+What's up, Mitchell? How are you doing?
+&gt;&gt; Yes, good. How are you?
+&gt;&gt; Um um token maxing right now, like
+crazy.
+&gt;&gt; [laughter]
+&gt;&gt; On every account?
+&gt;&gt; Oh, yes. Uh yeah. I I I'm trying to save
+some tokens for the rest of the week,
+but uh can't wait for Friday, but not to
+go to weekend. Just to reset my Claude
+accounts.
+&gt;&gt; So, if you analyze like the Claude X and
+uh Claude data, they think you have like
+a 10-people company.
+&gt;&gt; Yeah. [laughter]
+Yeah. And also like today I I created a
+uh skill in Claude X to have the
+equivalent of Claude Ultra Claude mod.
+So, I'm
+going
+&gt;&gt; So, there there is a trick. Ultra Claude
+is just a skill.
+&gt;&gt; So, for Claude X, right? Because of
+Claude Ultra Claude it's basically X I
+plus workflows and slash sub agents.
+&gt;&gt; Mhm.
+&gt;&gt; So, if you have a skill that does that
+with Claude X until they implement it,
+and maybe 5.6, I hope 5.6 would have it.
+Yeah.
+Then
+that's going to be late. But, I'm
+once I'm going to end up the weekly
+My bad.
+&gt;&gt; No problem.
+&gt;&gt; But, Mike [laughter]
+Uh once I'm going to max out the weekly
+on my account, then I will try the truck
+on mode with Codex.
+And uh, it's going to be fun, but yeah,
+that's what I want.
+&gt;&gt; See how good that is.
+&gt;&gt; Yeah, because right now for me like
+Codex 5.5 is dumb as [&nbsp;__&nbsp;]
+&gt;&gt; Well, I still use it on the on the
+smaller task.
+&gt;&gt; Yeah.
+And maybe I should do that, but I don't
+have small
+&gt;&gt; That saves you some room because setting
+up a full workflow
+&gt;&gt; [laughter]
+&gt;&gt; and changing a a background color,
+that's a bit too much.
+&gt;&gt; No, but I dropped the beta issues like
+the whole P&amp;D. Like right this week I've
+done a lot of P&amp;D implementation and
+okay, also refactoring like some
+workflow workers
+so that took a lot.
+And split it from the API
+call to from the
+to have a
+another microservices.
+&gt;&gt; Okay, cool. So so you're rebuilding the
+entire app again.
+&gt;&gt; No, okay. So no okay, so wait.
+It's not for Genfit, it's for like a
+customer, but um
+I started to work on the workers
+implementation and I checked after what
+was the initial implementation and it
+merged the API and the workers service
+together and I don't want that. I want
+a clean separation of the API and the
+workers. So I moved some files away.
+&gt;&gt; Okay, cool.
+&gt;&gt; And that's also I think what it took a
+lot of tokens.
+Uh, yeah. I have a task that's taken
+about 2 million tokens output, but yeah.
+&gt;&gt; [laughter]
+&gt;&gt; What about At least you're you're maxing
+it out.
+&gt;&gt; Oh, oh yeah. Oh yeah. I'm maxing it.
+I'm scrapping every token out of the
+uh
+out of the weekly subscription for sure.
+What about you, man? What did you do
+this week?
+&gt;&gt; Uh, yeah, a lot of coding and I enjoyed
+the good weather.
+&gt;&gt; Oh, yeah. The weather is good.
+&gt;&gt; but like four agents are running, right?
+&gt;&gt; True.
+But like uh do you do you have like a
+hot weather hot chemical you know
+chemical hot stuff?
+&gt;&gt; No, no, no. We just set up the pool in
+the garden and that's it.
+&gt;&gt; Oh, nice.
+Okay. Nice.
+Oh, yeah.
+&gt;&gt; So,
+and then let the AI's work.
+&gt;&gt; Yes.
+Bringing the money home.
+&gt;&gt; Yes.
+&gt;&gt; So, you can buy a pool. Yeah.
+&gt;&gt; [snorts]
+&gt;&gt; And next year you can like ask someone
+to set up the pool for you.
+&gt;&gt; Yeah.
+&gt;&gt; [laughter]
+&gt;&gt; See if you can rent an AI to do it.
+&gt;&gt; Yeah, exactly. Yeah, well soon soon then
+we'll have a boat.
+&gt;&gt; That would be cool.
+&gt;&gt; Yeah, yeah. Okay, so we're going to talk
+about loops so we can max out your
+subscription, man.
+&gt;&gt; Yes, because I still didn't use them. Is
+that bad?
+&gt;&gt; The loops?
+&gt;&gt; Yeah.
+&gt;&gt; Okay, yeah. So, okay, we're going to
+talk about that but loops or basically
+basically cron jobs to trigger AI agent
+aka open claw
+smart trigger stuff that we had six
+months ago. Now, we have a term for that
+which is loops aka cron jobs.
+&gt;&gt; Yes.
+It is just keep on repeating until it
+works perfectly.
+&gt;&gt; Basically, yes. But okay, let me let me
+do the introduction. Yes. So,
+should be fun.
+Uh, it's going to be a good one.
+Okay.
+Are you maxing out
+I'm going to do that.
+&gt;&gt; [laughter]
+&gt;&gt; Rewind.
+&gt;&gt; Okay.
+Are you maxing out your
+Are you maxing out your subscription?
+Not yet? So, start triggering loops
+{slash} automation for Cloud and no,
+{slash} routing for Cloud and {slash}
+automation for CodeX. Is that it? Am I
+right? Or did I reversed it?
+Wait, let me check.
+AI transcript.
+Uh
+Claude is slash loop.
+&gt;&gt; Yes. Yes. So, routines for
+uh routines for Claude and automation
+for codex.
+&gt;&gt; I got it. I got it. I got it.
+I got it. Let me Okay.
+So, take
+&gt;&gt; Let's go. It's going to be a good one.
+Uh AI
+uh
+Cut from here for the introduction.
+Cuz I have an MCP to edit, so that's
+nice.
+&gt;&gt; Are you maxing out your subscription?
+No, not yet. So, start looping. Start
+Loop Engineering.
+Set up uh Claude automation. No, [&nbsp;__&nbsp;]
+And start Claude routines or codex uh
+automations and
+um
+implement some task uh autonomously.
+Yes? Let's go.
+&gt;&gt; Let's go.
+&gt;&gt; [laughter]
+&gt;&gt; Okay, that's that's a hard introduction.
+Um
+and if you want to know
+how to set up your loops,
+uh watch this video because we have some
+tools for you.
+And what? Subscribe. Thank you.
+Okay.
+&gt;&gt; We show you how to build a loop, to
+create your loop, and keep checking a
+loop.
+&gt;&gt; I mean, you can do that actually. Like
+uh yeah.
+&gt;&gt; Because okay, so right now for you, what
+did you do with like those automation
+routines, loop stuff, or even slash loop
+in Claude or even slash goal with codex?
+&gt;&gt; Yeah, well, I've been using those kind
+of setups for a long time, but I never
+use them like slash loop.
+I even just have some of my own systems
+that just keep on repeating.
+&gt;&gt; Yeah.
+I I yeah.
+&gt;&gt; And it's easy.
+&gt;&gt; So I mean
+&gt;&gt; To be honest, there is a lot of hype and
+if you don't use it, you can improve a
+lot, but
+it's not totally new.
+&gt;&gt; That I mean, ooh.
+&gt;&gt; [laughter]
+&gt;&gt; Okay.
+Okay, thank you.
+&gt;&gt; Um yeah, I think it came from like Peter
+and like Evan Open Claw because he
+started like some tweets. We're going to
+show that now.
+&gt;&gt; I mean, he's
+in the interview.
+&gt;&gt; Tag.
+Peter Standberger.
+So tag, puff.
+Where it was
+uh
+It was like a day
+weekly monthly reminder like here's
+simple loop like I how to use loops and
+how to basically set them up in clicks.
+All right, one example at least. Uh tell
+Kodak to maintain your repos, wake up
+every 5 minutes and direct work on
+thread that make it easy to paralyze
+plus tier work as needed. Uh yeah.
+I use an orchestrator skill combined
+with my triage plus auto review computer
+plus computer use skills so some work
+can land autonomously.
+And
+yeah.
+Like
+&gt;&gt; Do these loops still cause a lot of
+tokens because we had the Ralph loops
+and uh Open Claw had the same ones. It
+has a cron job in the background that
+just keeps on checking and every time
+even if there is nothing to do, you burn
+tokens.
+&gt;&gt; That's why you need like a safe stop if
+it loops
+again and again. It's kind of like you
+know when you have like
+usage
+based
+billing and then you have spent 200
+Amazon AWS credits. You just don't know
+why, but you forgot
+an instant that's running in since
+forever.
+&gt;&gt; Yes.
+&gt;&gt; Like
+&gt;&gt; You still have to back up of your
+database running.
+&gt;&gt; Yeah.
+Yeah, exactly. No, it's it's still
+tricky, but I mean for cleaning up a
+repo
+uh
+like that makes sense. Like you you can
+even like delete your branch or even
+for me like if
+work tree is merged on master, then I
+delete the work tree and I have a daily
+cron/automation
+doing that. And it also clean up the the
+remote origin like the GitHub repo.
+And you can have that for pull request,
+too.
+&gt;&gt; Mhm.
+&gt;&gt; Like on a open source project, you can
+have a daily pull request reviewer like
+ultra code or whatever and then it can
+check all of the pull request and then
+you merge like safely what's
+it's team wants to be
+integrated to the
+&gt;&gt; Yeah.
+&gt;&gt; project. So, it's helping you in the
+bigger project to maintain everything.
+&gt;&gt; I think so, yeah. And even like for me
+like when I have like 20 pull request to
+review, I just like ever have a loop
+ready to I can automation. Like it's
+kind of weird to buy like for me when
+people say loop, it's like almost a
+while
+one equal one just burn tokens.
+&gt;&gt; Yeah, yeah, yeah. And as long as it's
+below 10, keep on going.
+&gt;&gt; Yeah. And like what the Yeah, it's
+exactly. And uh
+what we talked about last week was when
+also it was expensive because we don't
+have like free tokens anyway like Peter.
+And that's why he spent like 1.3 mil on
+who God knows what.
+Uh
+because he has unlimited access to
+Codex.
+&gt;&gt; Yeah, he can just have the
+the bot check every minute is there a
+task active yes or no.
+&gt;&gt; He said that he said that he had
+every pull request is like reviewed
+multiple times.
+&gt;&gt; [clears throat]
+&gt;&gt; Mhm. Um
+by by 5.5.
+&gt;&gt; Yeah.
+&gt;&gt; So like
+it's not really applicable right now.
+Okay, so another
+Like this is becoming my
+is building another software like blood
+clot at SH to read Twitter. Let's go.
+Uh
+people are discussing what happened with
+open clot. The hype died down. We
+improve quality and grow a team and
+created non-profit where the competition
+Yeah, like a more and more people are
+using MS now.
+Uh multimodal routing
+&gt;&gt; Oh, yeah. You did you see that like the
+a new Japanese model that is multimodal
+routing that use multimodal routing as a
+features to uh kind of like open router
+{slash} auto but it's coming from
+Japanese labs.
+&gt;&gt; Yeah, that was the startup, right? Or
+was it a different one?
+&gt;&gt; Like the Suko
+Uh where is it?
+Yes, Sakana.
+&gt;&gt; Yeah, that one.
+&gt;&gt; Yes, they they got 20 million. That's
+crazy.
+They pushed that yesterday. That could
+be interesting to follow up. We can
+follow up on that
+next week, I think.
+Maybe we can
+add this stream blog. Yep.
+&gt;&gt; Let's see what what people created and
+what they did on checks and benchmarks
+and everything.
+&gt;&gt; Yeah, we can talk about that next week.
+But
+that could be also an interesting for us
+if we use like both Codex, Claude and
+stuff. Maybe there is something to do
+with that. Could be the next uh the next
+meta next week.
+Uh okay. So, uh buff
+&gt;&gt; As long as we don't have 5.6 for Codex
+this week, I think that will do a lot.
+&gt;&gt; Yes. And yeah, and again, I have if we
+have workflow on 5.6, that would be
+sick. Um
+it's supposed to drop this week, right?
+&gt;&gt; Mhm.
+&gt;&gt; I seen people saying Thursday.
+&gt;&gt; Oh.
+&gt;&gt; Who knows?
+&gt;&gt; Okay.
+And we will have like limit reset too.
+That's going to be fun.
+Uh okay. So, loop explain Is that not
+the article we read last week?
+&gt;&gt; Yes.
+&gt;&gt; [&nbsp;__&nbsp;]
+Damn. Forgot about that.
+&gt;&gt; [snorts]
+&gt;&gt; Uh how most people use AI yeah most yeah
+okay. That was the That was the tweet I
+mentioned like here you're mostly
+reminded that you should not be
+prompting coding agent anymore. You
+should be designing loops that prompt
+your agent.
+Uh
+[&nbsp;__&nbsp;] I took again like the same
+source.
+Damn.
+Okay. Yeah, that's exactly the same
+thing. Um
+but also since then
+I have another repo.
+Uh
+Where is it?
+Uh so, I built my own repository with my
+own loops.
+Like as a template, but where is
+&gt;&gt; Like a loop database.
+&gt;&gt; Yes.
+Uh for what feature? Yes. Loop library.
+And mine back.
+So,
+from
+What's his name again? Yes. Matt Berman.
+&gt;&gt; [clears throat]
+&gt;&gt; Do do do.
+Back. Uh
+I want to find him
+first.
+Damn.
+Uh
+Codex Loop. Oh, yeah. Yeah,
+that was a good fix.
+&gt;&gt; Yeah. [laughter]
+&gt;&gt; Uh tag Okay, so this one we don't care
+about that because that's a semantical
+in last week. That's my bad, but
+Where is he?
+Yes.
+So, Matthew Berman, he's a YouTuber like
+AI YouTuber.
+And he shared his uh Loop Library
+um to like set up automation {slash}
+routines in uh yeah, code and Codex.
+And
+like the uh yeah, the last one the lazy
+loops, I I can discover Discover will uh
+will uh look through your code base and
+start straight to find potential loops.
+It will design for you. It's kind of
+like a skill creator stuff,
+but on the loops. So, if you drop that
+into your uh code base, that should be
+I'm pretty sure there is some stuff that
+you can
+um
+implement as a loop.
+&gt;&gt; Okay, that's cool.
+&gt;&gt; Yeah, and his library
+uh Loop Library, what's a loop?
+Why loop a powerful AI agent can move
+quickly, but an open
+open-ended instruction like keeping
+improving this leaves too much room for
+guessing. A loop give gives the work a
+clear finish line and a consistent way
+to judge progress.
+&gt;&gt; Mhm.
+&gt;&gt; That makes the work easier to trust and
+easier to repeat. Yeah, again, like you
+need a self uh
+a safe end state.
+&gt;&gt; Yeah, you need boundaries.
+&gt;&gt; Yep.
+Uh so, what's the Loop Library skill
+does? Uh give you your agent direct
+access to the uh to the IDs in the
+library.
+Uh discover repeated work in the code
+base um coding thread and all those
+internal stored qualified candidate into
+a loop.
+Find a published loop that fits uh what
+you are doing to get down audit an
+existing loop for weak checks. Adapt the
+useful loops. Design a new loop new
+a new loop through a short and plain
+language conversation. Turn the result
+into a compact prompt.
+Okay, install I want the list of loops.
+Discover find loop doctor. Okay, audit a
+loop you passed. Okay, adapt tell or
+useful to you real tools. And design so
+that's exactly what I read.
+Uh
+Okay.
+Where is it?
+Okay.
+Oh, it's not even
+Oh.
+Okay, it's even different than I
+imagined. It's uh
+Okay, that's pretty smart. I thought it
+was a
+a list of loops he was using which is
+what I've done. But it's not it's
+something Okay, it's something smarter
+than what I thought because that dynamic
+you drop that and then
+you get the loops that you need.
+&gt;&gt; Yeah, so it actually analyzes your code.
+&gt;&gt; Yes.
+That's cool.
+Oh, yeah. Okay, no. Okay, so then I
+Okay, there's something I don't
+understand
+because that's the loops. Yeah, copy
+loops. The full product evaluation loop,
+the 5-minute repository maintainer, the
+refund follow-up loop, get my refund for
+Oh, okay.
+Get my refund for company and charging
+for start the claim now. Okay, latex
+document bro latex.
+Never use that.
+The one post week one post a week loop
+find a reliable weekly post format from
+approve account. Through a 6-week
+experiment.
+Oh, people are Okay, okay, okay. So, he
+used a tool to discover the loops and
+then you have a
+a
+for people to post their own loops.
+&gt;&gt; That's cool.
+Future proof.
+&gt;&gt; Yeah, and those are working like
+templates, right?
+&gt;&gt; Yeah, no, exactly.
+Um
+Copy the loop, build sanitize production
+scale local data under production like
+settings, inventory, every user facing
+feature, role button, root button input
+model state,
+define documented acceptance criteria,
+and
+finish risk-based edge case for each
+test as a real user logging every bug
+with reproduction evidence.
+Wait, what?
+Oh, inventory product product surface
+meets its documented acceptance
+criteria. Okay, that's cool. I mean,
+okay, that makes sense if you have a
+good
+user storyboard.
+&gt;&gt; Mhm.
+&gt;&gt; Is that something that you would drop in
+a repo that you have for a customer?
+&gt;&gt; Not without proper testing, but
+the question is, I want to run it
+because if you don't know and it keeps
+on looping and it keeps on making
+mistakes, it can be either very
+expensive
+or just mess up everything.
+And that's like one of the experiences I
+had with Ruby. I said, "Just keep on
+improving."
+&gt;&gt; Mhm.
+&gt;&gt; It had [clears throat] a bug. It looped
+it. It had to change something else
+uh to fix the bug, but that created
+another bug, and eventually it just kept
+on looping on fixing bugs.
+&gt;&gt; Yeah.
+&gt;&gt; So, you either need
+good boundaries like we just said or a
+very good preparation, but people who
+think that the loops are just something
+that you add and it creates the perfect
+system, I don't believe that's true.
+&gt;&gt; Yeah. I mean, like okay, so
+uh
+since the age of AI development,
+uh you need to be really good at product
+management.
+Like you need to really have good user
+stories and
+like
+Yeah,
+be clear with the architecture that you
+have in mind and like to know where
+you're going.
+Because yes, like the AI can code, but
+the AI will code crappy [&nbsp;__&nbsp;] if you
+don't have
+a GitHub view issues or PRDs and
+whatever, right?
+&gt;&gt; Yeah.
+&gt;&gt; It will just
+do everything to accomplish the task
+that you gave it without additional
+subtasks.
+&gt;&gt; Yeah.
+No, exactly. And even more if you don't
+have a
+deterministic
+end state of the loop.
+Because I watched the video like okay,
+no, I watched the video and then I drop
+it in the in the transcript to to code,
+but for example, for Matt uh yeah, Matt,
+right?
+Yeah, for Matthew,
+he talked about the loop stuff and he
+said, "Okay, so I have a loops that are
+deterministic, but also
+AI based where it tell the agents that
+um
+until do XYZ until it's
+uh
+acceptable.
+&gt;&gt; Yeah, but that's
+&gt;&gt; What does it mean?
+&gt;&gt; Yeah.
+&gt;&gt; So, yeah, I would rather have a loop
+that okay, reach
+uh 80%
+coverage or run for 2 hours.
+&gt;&gt; Yeah.
+What?
+I think that's the same thing like
+telling your kid you can watch TV when
+you're done yeah, cleaning the house and
+the cleaning needs to be acceptable.
+&gt;&gt; Yeah.
+&gt;&gt; So,
+they will just vacuum like the whole
+that's it and go watch TV.
+&gt;&gt; Yeah.
+I mean, yeah, and so the accept the
+acceptance criteria would be until I I I
+say so.
+Yeah. Yeah. So,
+&gt;&gt; You can set up the loop and it can do a
+lot of work, but the preparations need
+to be properly done. You need to know
+exactly what you want, how you want
+that, how secure does it need to be,
+what happens if A, what happens if B,
+and you can still do that discussing it
+with the AI, but
+&gt;&gt; Mhm.
+&gt;&gt; you cannot just trust that the loop
+makes all the right decisions.
+&gt;&gt; Yes, but that Okay, so yeah, I I agree
+with that, but like for example, I have
+automation that grab
+um
+a GitHub issue every four every four
+hours between 10:00 p.m. and 6:00 a.m.
+So, it runs three times, so I can
+monitor it in the morning. And it also
+like take
+um
+a feature to implement
+that is already on the GitHub board
+and with a special label on it.
+&gt;&gt; Yeah, so you you approved it up front.
+&gt;&gt; Yes, exactly. And then it's like
+secondary features or stuff like that,
+and it's it's working only when I'm not
+working myself.
+Yeah. So,
+like it's a good compromise and then I
+can reduce like the the time frame
+between like two backlog pick up or
+yeah, or even like
+do that multiple multiple times with
+other project and stuff like that. Um
+but if the That's why like the GitHub
+board is my
+IDE, you know? Like
+&gt;&gt; Mhm.
+&gt;&gt; And I clean the GitHub board and the
+GitHub issues every week and almost
+every day I do like a proper clean up.
+&gt;&gt; Yeah, but you can also create a loop
+that just takes any bugs that are
+registered and ask it to only add a
+solution.
+&gt;&gt; Yeah.
+&gt;&gt; So, you can approve it up front.
+&gt;&gt; Yeah, like you Yeah, you have the pull
+request open and I don't have any loop
+that auto merge anything because I want
+to have a clear view of every pull
+request
+that I have open.
+&gt;&gt; Yes.
+Exactly.
+&gt;&gt; Right. Yeah, I don't want to merge
+anything that I don't have a I don't
+if I don't know the title of the pull
+request or I don't know what's going on.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, not exactly. And I I've created
+like a stand-up skill, which is like
+give me the all of the commit summary of
+the last 7 days, 24 hours, whatever. Um
+so
+I have that, too.
+&gt;&gt; Okay, that's cool. Yeah, that's nice.
+&gt;&gt; And yeah, I can show you because I have
+the repo on GitHub. Everything is on
+GitHub because uh
+&gt;&gt; [clears throat]
+&gt;&gt; it's cool.
+&gt;&gt; [snorts]
+&gt;&gt; Uh okay.
+&gt;&gt; Eventually, you're just a team lead with
+your AI team.
+&gt;&gt; Mhm,
+100%.
+100%. So, that's my Vincent ship sits
+loops rip uh repo
+where uh yeah, clean template and prompt
+from Codex automation, cloud routines,
+and recurring agent uh loops.
+Blah blah blah, copy paste, install your
+prompt. Yeah, so you you drop that to
+your agent and it will um set up the
+uh loops for you.
+&gt;&gt; Mhm.
+&gt;&gt; [clears throat]
+&gt;&gt; So, the list of loops that I have,
+automation path, code hygiene, uh
+content factory maintenance, uh which is
+tag
+uh improve the project content docs,
+prompt, and skill pipeline with one uh
+small high-leverage maintenance pass.
+So, yeah, also reduce the size of the
+scope of the loop. Like, I want the loop
+to touch like five, 10 files max and not
+do a full
+uh crazy stuff.
+Um so, that Yeah, feature
+implementation, that's what I was
+talking about.
+Uh implement exactly one read ready
+issue from the canonical project board.
+And uh, so everything is on GitHub. You
+go You check the board. You check the
+pull request. Boom.
+Uh, work tree hard pull uh, GPT-5
+uh, excite work tree boom all of that.
+And you can drop all of that routines
+and boom it's ready to go.
+&gt;&gt; That's cool.
+&gt;&gt; Yeah, and it's edge on first. So, yeah,
+it's cool. Uh, sentry out fix recent
+commit review.
+Um, I just like yeah, double check all
+of the commits and yeah, review new
+commits on the GitHub repo master since
+the last successful review baseline or
+the last 24 hours.
+Uh, when the baseline exists. Uh,
+uh, fix only high confidence issues.
+&gt;&gt; Love it.
+&gt;&gt; And uh,
+tag and for Claude do I have anything
+different?
+Link example schedule task board hygiene
+dry refactor.
+Oh, yeah, yeah, yeah. That's also a loop
+that I like.
+Um,
+perform one small dry refactor in
+project. So, take whatever you want in
+the repo, make it better, dry it up.
+Boom.
+And that's it's not Okay, it's a ultra
+code 4.8 stuff, but uh, it's works
+pretty well. Uh, work tree prune. So,
+that's what I was saying like once
+every day, I think.
+&gt;&gt; Mhm.
+&gt;&gt; [clears throat]
+&gt;&gt; Um,
+Oh, there is not the time here. Okay.
+Um,
+Yeah, prune merge local work tree and
+branch for project. Uh, work only for
+the repo GitHub repository. Do not
+inspect modify summarize out of scope
+project.
+Fetch and prune remote never delete the
+main checkout current branch and merge
+work dirty work trees or branches with
+unpushed commit. Only remove work trees
+whose branch are our merged into masters
+or whose PR are merged.
+&gt;&gt; Mhm.
+&gt;&gt; And then I I I I
+I get like a gigabyte
+on my computer back because walk through
+your something else.
+And uh yeah, stuff like that.
+Uh react nightly expansion, yes, I like
+this one.
+Uh so, I have um
+I have
+uh nightly job
+where I can increase the end-to-end uh
+pass on the apps I work on and uh I just
+increase the coverage of the end-to-end
+and that's automation is doing it, too.
+&gt;&gt; That sounds good. So, how much of your
+work are you doing with loops right now?
+&gt;&gt; Uh so,
+I mean, some of them.
+Uh I still like
+uh work like she all day and I'm maxing
+out my subscription, but uh I have like
+So, right now on one account, I have
+four of six
+uh workflow. So, basically like the the
+one I said uh
+for cloud, it's it's more advanced uh
+tech.
+Uh I have the board hygiene, the bundle
+side watchdog, I don't have it. It's
+probably like a
+uh
+still. Dry refactor, feature
+implementation, nightly end-to-end,
+uh
+react fix pass, not really. Repro agent
+cleanup work. Or probably Okay, I'm
+going to redo that because it So, it
+sounds duplicate.
+Uh security fix pass, no. And uh walk
+through print. So, yeah, I have like
+four to six
+um loops per project that will help me
+maintain the GitHub board
+and uh my local host computer and
+implement some secondary features.
+Basically.
+So, I'm going slow because again, I need
+my subscription to last another week.
+&gt;&gt; Yeah, yeah.
+&gt;&gt; [laughter]
+&gt;&gt; Otherwise, you have like a few days off.
+&gt;&gt; Yeah.
+&gt;&gt; But, honestly, like, I don't know what's
+best of like between
+having those kind of loops and it's
+operates by itself, and then you can
+have a new loop
+like a feature implementation every 30
+minutes.
+Like, if you have the full um user story
+on your GitHub, what's
+uh
+uh what's the problem of starting this
+uh loop every 30 minutes if you have the
+token and the
+uh allocation for it?
+&gt;&gt; Yeah, you can just finish everything.
+&gt;&gt; Exactly.
+Which is not because it never happened
+before.
+Like
+&gt;&gt; You always had a huge backlog.
+&gt;&gt; Exactly. You can't
+clean up a GitHub board pretty eye.
+&gt;&gt; No.
+Yeah, unless you have like a big-ass
+expensive team.
+&gt;&gt; I'm pretty [snorts] sure Amazon never
+[&nbsp;__&nbsp;] clean up
+&gt;&gt; No.
+&gt;&gt; [snorts]
+&gt;&gt; Like, expensive or not, that's uh
+Because yeah, because you keep logging
+stuff faster than you can better But,
+again, again, like as a dev, like uh you
+are PM and your job is to have a always
+a GitHub issue ready for clothes to pick
+up.
+&gt;&gt; Yeah, that makes sense. You pay for it,
+so why not use it?
+&gt;&gt; Exactly, 100%. And so, is that like like
+Do you see like uh
+yourself working with that? Like, does
+that make sense even for your use case
+when
+&gt;&gt; Yeah, on bigger projects, it does. But,
+when you have multiple customers and you
+do small issues, it's easier to just do
+one prompt, push it, and be done.
+&gt;&gt; Mhm. Like, do you see that it as a goal?
+&gt;&gt; Uh the the one prompt?
+&gt;&gt; Like Like yeah, like the slash goal do
+that and don't stop until it's done.
+&gt;&gt; No, no, I I never did.
+&gt;&gt; Yeah.
+And um
+do you Yeah.
+So, basically the customers give you all
+this is broken or I need that and then
+you give it the
+like the features and then job done and
+then you go to the next customer?
+&gt;&gt; Yes.
+And and sometimes you're just working on
+multiple ones because you're doing
+research on one and you have the second
+one which you're working on your
+project.
+&gt;&gt; Mhm.
+And
+is there a way for you to have like
+proactive plans issues? Because then you
+don't have a GitHub board or issues
+ready to go at all, right? Because you
+don't know what's going to come
+&gt;&gt; No, it's more like a ticket system.
+&gt;&gt; Yeah. Mhm.
+&gt;&gt; So, you don't know and not everything is
+is smaller websites are not in GitHub.
+It It can be just a WordPress team.
+&gt;&gt; Oh, yeah, yeah, okay, okay, okay.
+&gt;&gt; Yeah,
+you can spend a lot of time on on
+setting it up and connecting everything,
+but you only have like 2 hours of work
+on that website each month. So, why set
+it up in this big
+&gt;&gt; Yeah.
+&gt;&gt; expensive solution if you are not using
+it.
+&gt;&gt; Yeah, true.
+Mhm.
+&gt;&gt; So, it's even faster to just download it
+by FTP and open cloud it in that folder.
+&gt;&gt; Yeah.
+Mhm.
+Wait Oh, wait. Wait. Wait. Wait. You
+don't have the WordPress on your local?
+&gt;&gt; Yeah, you do, but you can just swap
+teams and databases.
+&gt;&gt; Swapped what?
+&gt;&gt; Yeah, you have the local setup, but if
+it is just some team or whatever, you
+can just download the just some CSS. You
+can just download the team.
+&gt;&gt; Yes.
+&gt;&gt; Or if it's bug fixing you need to find a
+bug. You just download the team, check
+it, and that's it.
+&gt;&gt; Yeah, okay. Okay.
+&gt;&gt; So, this is cool for bigger projects
+where you have everything set up in
+GitHub, but if you do a lot of work, I
+still prefer prompting. And you can even
+say, uh do a loop or hit a goal or
+whatever, but
+&gt;&gt; Yeah, okay.
+&gt;&gt; Yeah.
+&gt;&gt; That makes sense.
+Yeah. Okay, because for you it's one
+short steps. So, there's not even like
+PM slash preparation of the board of the
+issue. Uh that uh that's tricky.
+&gt;&gt; Sometimes it's like 10 to 15 different
+customers a day.
+&gt;&gt; [sighs and gasps]
+&gt;&gt; Okay. That's an interesting workflow.
+So,
+you would even Okay, so what about Okay,
+I'm I'm looking for automation here. Uh
+what about you have
+a wrote an automation or code automation
+that check your email,
+and
+it would scope
+the issue, create a GitHub issue,
+and uh directly from the email, and I
+even start the implementation based on
+the email
+request. Or do you do back and forth
+between the customers and yourself?
+&gt;&gt; Well, I
+uh I deleted Zendesk, and I did my own
+my own ticket system. So, I have my
+local Mac mini that copies my database
+because I don't want it active in the in
+the actual database.
+So, it does a pull request, updates the
+database once per hour, and I can just
+say, "See ticket five, number five." And
+read it, and it looks up the tickets in
+my database, and it knows the exact
+conversation and the issue, and it knows
+what to do.
+&gt;&gt; What ticket?
+&gt;&gt; So, it is like a local setup on Mac
+mini.
+&gt;&gt; Does it start implementation by itself?
+&gt;&gt; Um
+I can have it do that because I have a
+uh a
+a table, a logging of what customer
+number is
+having a project in what folder. So, it
+knows exactly if it is Vincent then go
+to this folder and this is the project
+we're talking about.
+&gt;&gt; That's
+&gt;&gt; So, it can actually I point it to a
+ticket number
+and if it can't find it, it will just
+pull the database locally and it will
+analyze the tickets that we did. It will
+check the code and it will give me a
+solution and then I can say, "Okay,
+implement it or not." So, that's the
+automation I have right now.
+&gt;&gt; That's sick.
+Because it's it's even like we thought a
+fake cron job. It's like triggered on
+event already.
+&gt;&gt; Yeah.
+&gt;&gt; Nice.
+That's That's
+&gt;&gt; That's also why I'm looking. Why do I
+even want to build a get up and a loop
+for something so small?
+&gt;&gt; Yeah, I know exactly. Yeah, yeah, an
+event like it's even like
+based on an event. So, again, you don't
+know what's going to come next, but like
+for me I have a full road map of
+features to implement and stuff to So, I
+know what's coming up next and I can
+organize the queue of task and once one
+is done, bam, I push the next one.
+&gt;&gt; Yeah. And only cool thing is when you
+because we are actively managing, for
+example, 50 WordPress themes
+&gt;&gt; Mhm.
+&gt;&gt; and I know what plugins are in what
+WordPress. So, if you get a notification
+of a leak or
+security issue
+&gt;&gt; Mhm.
+&gt;&gt; I can just tell it, "Hey, this is the
+list of all the websites. Check it." And
+it just checks the code locally.
+It gives me back which ones are
+having issues and I can just deploy
+automatically solutions to solve it.
+&gt;&gt; Nice. That's cool. So, you have even
+like a bit Yeah, it's a it's a next
+version because again, it's event based.
+&gt;&gt; Yeah.
+&gt;&gt; So, it's even better than a cron job
+that run every 5 minutes then bounce
+token to check if there is something to
+do.
+You it's like a webhook stuff?
+&gt;&gt; Yeah. And if I have a crunchable webhook
+in it, it needs to check every minute if
+there is an update, but I know because
+I'm running it locally, I just have a
+Python script that initiates a task. So,
+the Python script is the crunchable and
+scraping it and it will cost me zero
+tokens.
+&gt;&gt; Nice. I only trigger the AI when I need
+to.
+&gt;&gt; Yeah.
+I see.
+&gt;&gt; And then the AI is not allowed to
+publish publicly, so it cannot push to
+live. I have to do that manually right
+now, but
+&gt;&gt; That makes sense.
+&gt;&gt; I think that's much better.
+&gt;&gt; Yeah, I know. I mean, like your your use
+case makes sense because like
+yeah, you have big customers with like
+production like live data, so yeah, you
+need to you need to review what you're
+going to push. Like for me, it's more
+greener apps, so
+uh
+if there is a bug, I can fix it.
+&gt;&gt; Yeah.
+&gt;&gt; I can
+&gt;&gt; And that was also the issue I had like
+how am I going to check data from an
+online database without accessing it and
+have maybe a possibility that the AI
+pushes a change to my database.
+&gt;&gt; Mhm.
+&gt;&gt; So, I just copy it locally.
+&gt;&gt; That makes
+&gt;&gt; something stupid, but it works.
+&gt;&gt; Yeah. I mean, maybe that's an issue with
+like the Wait, you have production data
+on your local?
+&gt;&gt; Yeah, I just pull a backup of my full
+database every hour.
+&gt;&gt; That's okay.
+Yeah, that's good.
+&gt;&gt; Even migrations, I can just test it
+locally. Yes.
+And if it works, I can push it live and
+I'm absolutely certain I don't corrupt
+any data. And if it goes wrong, I just
+press the button, I download the data
+again. And it's like a 1-minute
+download.
+&gt;&gt; Mhm. I have a GitHub action for that
+that
+it's it's a dry run the migration,
+take a snapshot,
+and then execute the
+migration and then finish the
+deployment.
+&gt;&gt; Yes.
+&gt;&gt; On GitHub. But uh yeah, I I don't trust
+those migration stuff. Like those seed
+stuff migration like it's
+&gt;&gt; I have had issues with them.
+So. [laughter]
+&gt;&gt; Yeah, no [&nbsp;__&nbsp;]
+Um
+okay, so yeah, maybe we can wrap it up.
+But uh okay, last I'm going to I'm going
+to going to talk about this ship ship
+skill repository quickly so we can make
+a story about it.
+Um okay, yes. So, we have pulled up
+together uh the ship ship dev {slash}
+skills repository and I have created so
+the standup stuff
+that I talk about. Uh
+standup, yes.
+So,
+it's from the I think uh yeah, I stole
+that from the Kiso yeah, see to Kiso
+team kit.
+&gt;&gt; Mhm.
+&gt;&gt; where you have a recap of everything
+that you have personally shipped in the
+last uh
+uh 7 days, but you can say whatever
+whatever
+&gt;&gt; you want.
+&gt;&gt; Uh from the Git history.
+So, that's cool. Yeah, turn your own Git
+history into a short honest recap and
+what you actually ship is a
+inward-facing twin of a change log
+generator because I had that before.
+Um
+Now, the change log generate the change
+log for the release and this one is
+giving me uh what I've done
+uh from those day
+uh date timestamp stuff.
+Uh
+so, I do that on my weekly call uh audit
+infrastructure bug uh bug all of that is
+like to create a GitHub issues that will
+be a bug with like a clear format on the
+PRD and stuff.
+Uh tag
+uh find the GitHub issues on of type
+bugs from a description structure a
+clear bug report blah blah blah.
+Uh if I see something that is not
+working. And then I can tell the agents
+to fix it in the next work tree.
+&gt;&gt; Yeah. So, you can even follow up the
+loop with a different loop.
+&gt;&gt; Exactly. Yes.
+I love it.
+&gt;&gt; Yeah.
+&gt;&gt; Uh
+code review uh
+code review, I think that's a peer
+review, right?
+Uh code review, correctness, security
+testing, whatever. Uh
+security gate, I can convicting finding
+only flag issues you're certain about.
+Uh ambiguity, default to request
+changes, structural concern, cohesion,
+abstraction. Uh stack rule, burn,
+tailwind, yeah. So, that's the tech
+stack. Uh
+a diff branch PR to review.
+Yes, and it could be even like a full
+code base, I think.
+Security, data isolation, TypeScript,
+database, all of that.
+It's lit. Uh
+stack and yeah, like you said, I can use
+those skills into a a loop and then
+uh
+the magic happens. Because then you have
+the guardrail from the skills and you
+have the loop, boom.
+&gt;&gt; Yes, and you can just follow up loop
+with different loop, and it is just a
+It's like a full factory creating a
+product.
+&gt;&gt; Exactly.
+And uh at the end, you can run this loop
+because uh you never know what the AI is
+is doing. So,
+uh you can just simplify and uh cleaning
+up the mess.
+And yeah, all of those skills for
+GitHub, uh tech tech tech, linters, LLM
+MCP.
+Uh Next.js, that's the back end I used.
+And PRD.js, all of those PRD stuff. Uh
+PRD quality gate.
+I have a format for the PRD to follow.
+Uh well, from PRD on the issue body that
+serve as one, must contain all of the
+following section as a markdown heading,
+executing, problem statement, goals,
+functional requirement, acceptance
+criteria, and verification plan. So, all
+of my PRD follow that.
+&gt;&gt; That's cool.
+&gt;&gt; Yeah.
+And uh yeah, and uh
+I make also like I ask Claude and Codex
+to make it like
+agent agentic first so the agent it it's
+also
+it will help the agents to understand
+what
+what it's doing.
+And like it's formatted the way it will
+understand it the most. I probably I
+should probably like uh
+I don't like writing PRDs and then PRD
+Does that make sense?
+I I should rename. Yeah, that should
+that should be that should start start
+with same kind of of what uh writing
+PRD. Yeah, okay, it's probably I need to
+consolidate that. And ultra code Okay,
+yes. I Yes, 4 hours.
+That's my ultra code uh code skill. Run
+a Codex on only high autonomy workflow
+to for difficult coding task. Inspect,
+plan, choose
+uh direct workflow, delegated mode, use
+bonded sub agent when useful, integrate
+in the parents of thread, verify and
+continue until done or generally
+blocked. Use when invoked with ultra
+code ultra code ultra code max maximum
+depth.
+Cool. And split across agent parallel
+agent blah blah blah.
+Uh discipline Codex workflow for science
+Codex coding task. The skill is not uh
+hiding hidden runtime background
+services or Claude ultra code to go.
+Um
+Yeah. So, that's that's my ultra code
+version of Claude ultra code for Codex.
+&gt;&gt; Okay. Keep me updated to to know how it
+works.
+&gt;&gt; I will do that this week because I'm
+I'm on my spot on Claude so
+this skill needs to work.
+&gt;&gt; Yes. And let's hope maybe even 5.6 has
+then.
+&gt;&gt; Yeah.
+That would be cool. Yes, if 5.6 drop and
+they have ultra code mode with workflow
+I'm trashing that skill and I will
+I will
+give Sam Altman all of my code base.
+&gt;&gt; Yeah.
+&gt;&gt; [laughter]
+&gt;&gt; Or maybe even do it with your skill and
+with their workflow and see what gives
+the best result. Otherwise, you can just
+send your skill to him.
+&gt;&gt; [laughter]
+&gt;&gt; Bro.
+&gt;&gt; Yeah.
+This performs like 200% better.
+&gt;&gt; Yeah.
+&gt;&gt; Please check it.
+&gt;&gt; Ish.
+&gt;&gt; [laughter]
+&gt;&gt; Uh okay. Okay. 47. Well, 3 minutes. 3
+minutes. 3 minutes. I wanted to talk
+about that, too, before we conclude.
+Uh not this one. This one. This loop
+automation is not inside of correct. Go
+go over every single features on this
+app. Create a user story with expected
+behavior based on the code keep uh on
+the code. Keep a single canonical
+spreadsheet tracking all of the fit
+feature status. When done, switch loop
+to testing every user story and document
+all errors. When done, fix every
+logistical errors or UX errors. Test
+every use case behavior against post
+fix.
+So, okay. That's probably [&nbsp;__&nbsp;] but uh
+That's all of that's previous user story
+stuff.
+&gt;&gt; That sounds like way expensive in code
+in tokens.
+&gt;&gt; Yes, probably.
+Uh 100 of user story being walked
+through like it's nothing. Uh yeah.
+183 user story. One of
+105 page router, etc.
+Yeah.
+&gt;&gt; And still, eh, I've had so many issues
+with his uh um
+uh front end prompt. He says fix every
+issue,
+but even without issues, it sometimes
+looks really bad. So, I always add take
+a screenshot of every page that you
+create, analyze it, and fix everything
+that's not working properly.
+&gt;&gt; Yeah. I mean, like, yeah, the screenshot
+in the conversation thread, that's
+really powerful, too. I loved it, too.
+Yes, but uh okay. So, let's do the
+conclusion because we have uh some
+customer to serve anyway. So, let's go.
+Uh okay, so are you going to loop?
+Are you going to
+&gt;&gt; to loop, yes.
+On the bigger projects, I'm going to
+loop and see.
+&gt;&gt; And uh yeah, I hope you're going to max
+uh token uh
+token maxing your subscription every
+week, man.
+&gt;&gt; Yes. Just make the max of what you're
+paying. If you are paying for for
+millions of tokens, don't stop at 1,000.
+&gt;&gt; If you're not burning 1 billion token
+per day, you're not even coding, bro.
+&gt;&gt; Yeah.
+&gt;&gt; Uh or maybe if you want to
+uh to burn those tokens,
+uh you can take some ship ship project
+uh open source project and uh give it
+some prompt to it.
+&gt;&gt; Yeah, and just improve it and push it
+and let us see what we can do with it.
+&gt;&gt; Yes, exactly. Okay,
+uh Mitchell, thank you so much for your
+time. Everyone in the chat, thank you,
+and we will see you uh in the video
+recap.
+&gt;&gt; Yes.
+&gt;&gt; Uh that's coming up in the next few
+days.
+Bye, everyone. Bye-bye.
+&gt;&gt; Bye.

@@ -1,0 +1,9 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+If I have a crunchable webhook in it, it needs to check every minute if there
+is an update, but I know because I'm running it locally, I just have a
+biten script that initiates a task.
+So the biten script is the cron job in scraping it and it will cost me zero tokens.
+I only trigger the AI when I need to.

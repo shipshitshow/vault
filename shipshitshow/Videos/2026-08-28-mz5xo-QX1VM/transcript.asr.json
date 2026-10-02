@@ -1,0 +1,2650 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,560"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4560
+      },
+      "text": " You know what's cheaper than Grok 4.6?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,560",
+        "to": "00:00:05,760"
+      },
+      "offsets": {
+        "from": 4560,
+        "to": 5760
+      },
+      "text": " Paying nothing at all."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,760",
+        "to": "00:00:09,280"
+      },
+      "offsets": {
+        "from": 5760,
+        "to": 9280
+      },
+      "text": " Exactly. Free model on OpenRouter, man."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,280",
+        "to": "00:00:10,480"
+      },
+      "offsets": {
+        "from": 9280,
+        "to": 10480
+      },
+      "text": " Okay, let's go."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,480",
+        "to": "00:00:10,880"
+      },
+      "offsets": {
+        "from": 10480,
+        "to": 10880
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,880",
+        "to": "00:00:12,800"
+      },
+      "offsets": {
+        "from": 10880,
+        "to": 12800
+      },
+      "text": " Get Grok, get OpenAI."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,800",
+        "to": "00:00:13,280"
+      },
+      "offsets": {
+        "from": 12800,
+        "to": 13280
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,280",
+        "to": "00:00:14,800"
+      },
+      "offsets": {
+        "from": 13280,
+        "to": 14800
+      },
+      "text": " We have something better."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,800",
+        "to": "00:00:19,440"
+      },
+      "offsets": {
+        "from": 14800,
+        "to": 19440
+      },
+      "text": " Exactly. All of that is garbage. Put that on the side because it's too expensive."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:19,440",
+        "to": "00:00:21,760"
+      },
+      "offsets": {
+        "from": 19440,
+        "to": 21760
+      },
+      "text": " I refuse to pay for my AI now."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,760",
+        "to": "00:00:25,360"
+      },
+      "offsets": {
+        "from": 21760,
+        "to": 25360
+      },
+      "text": " Yes. And it's not only for good developer sales, for everybody."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,360",
+        "to": "00:00:25,920"
+      },
+      "offsets": {
+        "from": 25360,
+        "to": 25920
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,920",
+        "to": "00:00:33,280"
+      },
+      "offsets": {
+        "from": 25920,
+        "to": 33280
+      },
+      "text": " Last week, OpenRouter announced 0xalpha was in stealth mode, aka like they launch a model"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:33,280",
+        "to": "00:00:40,400"
+      },
+      "offsets": {
+        "from": 33280,
+        "to": 40400
+      },
+      "text": " and they are going to get your prompt and see if you like it and then launch it a week after."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:40,400",
+        "to": "00:00:49,520"
+      },
+      "offsets": {
+        "from": 40400,
+        "to": 49520
+      },
+      "text": " So yeah, now that we know that 0xalpha is z.ai 5.3 flash and during a full week, everyone was"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:49,520",
+        "to": "00:00:54,800"
+      },
+      "offsets": {
+        "from": 49520,
+        "to": 54800
+      },
+      "text": " trying to guess based on the input, the output of the model, et cetera, like which model it was."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:54,800",
+        "to": "00:00:57,200"
+      },
+      "offsets": {
+        "from": 54800,
+        "to": 57200
+      },
+      "text": " It's basically lasted like 15 minutes."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:57,200",
+        "to": "00:01:01,840"
+      },
+      "offsets": {
+        "from": 57200,
+        "to": 61840
+      },
+      "text": " Everyone was already talking about GLM 5.3 just after the launch."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:01,840",
+        "to": "00:01:08,160"
+      },
+      "offsets": {
+        "from": 61840,
+        "to": 68160
+      },
+      "text": " And for a week, like 42 trillion tokens in six days, yeah, open code."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:08,160",
+        "to": "00:01:09,200"
+      },
+      "offsets": {
+        "from": 68160,
+        "to": 69200
+      },
+      "text": " Did you try it or not?"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:09,200",
+        "to": "00:01:10,160"
+      },
+      "offsets": {
+        "from": 69200,
+        "to": 70160
+      },
+      "text": " I didn't try it."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:10,160",
+        "to": "00:01:10,400"
+      },
+      "offsets": {
+        "from": 70160,
+        "to": 70400
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:10,960",
+        "to": "00:01:13,440"
+      },
+      "offsets": {
+        "from": 70960,
+        "to": 73440
+      },
+      "text": " It could have been like a billion more."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:13,440",
+        "to": "00:01:19,200"
+      },
+      "offsets": {
+        "from": 73440,
+        "to": 79200
+      },
+      "text": " I didn't find any crazy, big mistake stuff because even like the benchmark was like,"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:19,200",
+        "to": "00:01:21,680"
+      },
+      "offsets": {
+        "from": 79200,
+        "to": 81680
+      },
+      "text": " in some benchmark, it was on pair with Fable 5."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:22,480",
+        "to": "00:01:23,760"
+      },
+      "offsets": {
+        "from": 82480,
+        "to": 83760
+      },
+      "text": " And for free."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:23,760",
+        "to": "00:01:28,720"
+      },
+      "offsets": {
+        "from": 83760,
+        "to": 88720
+      },
+      "text": " And we had that for free for a week, but I had some issues."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:28,720",
+        "to": "00:01:31,440"
+      },
+      "offsets": {
+        "from": 88720,
+        "to": 91440
+      },
+      "text": " Try testing the model while in open code."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:31,440",
+        "to": "00:01:33,760"
+      },
+      "offsets": {
+        "from": 91440,
+        "to": 93760
+      },
+      "text": " Sometimes it just like stopped working."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:33,760",
+        "to": "00:01:36,720"
+      },
+      "offsets": {
+        "from": 93760,
+        "to": 96720
+      },
+      "text": " I was not able to see the results in the station."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:36,720",
+        "to": "00:01:39,280"
+      },
+      "offsets": {
+        "from": 96720,
+        "to": 99280
+      },
+      "text": " It just like a build, build, build, stop building."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:39,280",
+        "to": "00:01:40,000"
+      },
+      "offsets": {
+        "from": 99280,
+        "to": 100000
+      },
+      "text": " What's happening?"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:40,000",
+        "to": "00:01:42,320"
+      },
+      "offsets": {
+        "from": 100000,
+        "to": 102320
+      },
+      "text": " I was building, build, build, build and stop again."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:42,320",
+        "to": "00:01:42,800"
+      },
+      "offsets": {
+        "from": 102320,
+        "to": 102800
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:42,800",
+        "to": "00:01:44,960"
+      },
+      "offsets": {
+        "from": 102800,
+        "to": 104960
+      },
+      "text": " On the free one, so many people are using it."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:44,960",
+        "to": "00:01:49,200"
+      },
+      "offsets": {
+        "from": 104960,
+        "to": 109200
+      },
+      "text": " Probably spikes in the usage and then it just goes out of a connection or something."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:49,200",
+        "to": "00:01:49,680"
+      },
+      "offsets": {
+        "from": 109200,
+        "to": 109680
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:49,680",
+        "to": "00:01:54,080"
+      },
+      "offsets": {
+        "from": 109680,
+        "to": 114080
+      },
+      "text": " Because of that stealth morph, I decided like to retry open code."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:54,080",
+        "to": "00:01:58,960"
+      },
+      "offsets": {
+        "from": 114080,
+        "to": 118960
+      },
+      "text": " And even on cursor, you can do that on cursor by changing the API keys."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:58,960",
+        "to": "00:02:04,480"
+      },
+      "offsets": {
+        "from": 118960,
+        "to": 124480
+      },
+      "text": " So you can bring your open router key to cursor to use the cursor interface to use free models."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:04,480",
+        "to": "00:02:08,880"
+      },
+      "offsets": {
+        "from": 124480,
+        "to": 128880
+      },
+      "text": " And I haven't like retry open code because it was a CLI and it was like"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:08,880",
+        "to": "00:02:12,320"
+      },
+      "offsets": {
+        "from": 128880,
+        "to": 132320
+      },
+      "text": " working the best with like this stealth model."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:12,320",
+        "to": "00:02:17,040"
+      },
+      "offsets": {
+        "from": 132320,
+        "to": 137040
+      },
+      "text": " And yeah, now I've discovered even more free models because I like to pay."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:17,040",
+        "to": "00:02:20,240"
+      },
+      "offsets": {
+        "from": 137040,
+        "to": 140240
+      },
+      "text": " But yeah, if you can get those free models for free, that's even better."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:20,240",
+        "to": "00:02:22,400"
+      },
+      "offsets": {
+        "from": 140240,
+        "to": 142400
+      },
+      "text": " You can just use free AI now."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:22,400",
+        "to": "00:02:22,960"
+      },
+      "offsets": {
+        "from": 142400,
+        "to": 142960
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:22,960",
+        "to": "00:02:27,200"
+      },
+      "offsets": {
+        "from": 142960,
+        "to": 147200
+      },
+      "text": " Well, you need cursor, but you don't need a subscription to change it."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:27,200",
+        "to": "00:02:29,280"
+      },
+      "offsets": {
+        "from": 147200,
+        "to": 149280
+      },
+      "text": " Or do you put in your own API?"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:29,280",
+        "to": "00:02:32,720"
+      },
+      "offsets": {
+        "from": 149280,
+        "to": 152720
+      },
+      "text": " I don't think so because it's using your..."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:32,720",
+        "to": "00:02:33,040"
+      },
+      "offsets": {
+        "from": 152720,
+        "to": 153040
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:33,040",
+        "to": "00:02:35,840"
+      },
+      "offsets": {
+        "from": 153040,
+        "to": 155840
+      },
+      "text": " So it's using the API and you just get the software."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:35,840",
+        "to": "00:02:36,640"
+      },
+      "offsets": {
+        "from": 155840,
+        "to": 156640
+      },
+      "text": " So that's it."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:36,640",
+        "to": "00:02:37,280"
+      },
+      "offsets": {
+        "from": 156640,
+        "to": 157280
+      },
+      "text": " Yes."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:37,280",
+        "to": "00:02:40,640"
+      },
+      "offsets": {
+        "from": 157280,
+        "to": 160640
+      },
+      "text": " So you have a nice UI to use AI basically."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:40,640",
+        "to": "00:02:44,320"
+      },
+      "offsets": {
+        "from": 160640,
+        "to": 164320
+      },
+      "text": " What can we build with those little free models?"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:44,320",
+        "to": "00:02:45,520"
+      },
+      "offsets": {
+        "from": 164320,
+        "to": 165520
+      },
+      "text": " I want to try them."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:45,520",
+        "to": "00:02:50,080"
+      },
+      "offsets": {
+        "from": 165520,
+        "to": 170080
+      },
+      "text": " I want to try them now by building a YouTube transcript."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:50,080",
+        "to": "00:02:57,040"
+      },
+      "offsets": {
+        "from": 170080,
+        "to": 177040
+      },
+      "text": " So we drop a link, we give a link, we get the transcript and if it will build that correctly,"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:57,040",
+        "to": "00:02:58,720"
+      },
+      "offsets": {
+        "from": 177040,
+        "to": 178720
+      },
+      "text": " then I want to have the clip."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:58,720",
+        "to": "00:03:03,280"
+      },
+      "offsets": {
+        "from": 178720,
+        "to": 183280
+      },
+      "text": " So it will cut the clip of the best moment that we have doing a live stream."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:03,280",
+        "to": "00:03:03,760"
+      },
+      "offsets": {
+        "from": 183280,
+        "to": 183760
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:03,760",
+        "to": "00:03:09,440"
+      },
+      "offsets": {
+        "from": 183760,
+        "to": 189440
+      },
+      "text": " So basically at the end of this video, we can drop the URL in and it will create all the clips for us."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:09,440",
+        "to": "00:03:12,480"
+      },
+      "offsets": {
+        "from": 189440,
+        "to": 192480
+      },
+      "text": " That's what I hope it will build with a free model."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:12,480",
+        "to": "00:03:13,360"
+      },
+      "offsets": {
+        "from": 192480,
+        "to": 193360
+      },
+      "text": " With a free model."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:14,800",
+        "to": "00:03:16,320"
+      },
+      "offsets": {
+        "from": 194800,
+        "to": 196320
+      },
+      "text": " And in 30 minutes."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:16,320",
+        "to": "00:03:17,520"
+      },
+      "offsets": {
+        "from": 196320,
+        "to": 197520
+      },
+      "text": " Yes, exactly."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:17,520",
+        "to": "00:03:18,240"
+      },
+      "offsets": {
+        "from": 197520,
+        "to": 198240
+      },
+      "text": " Let's go."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:18,240",
+        "to": "00:03:19,120"
+      },
+      "offsets": {
+        "from": 198240,
+        "to": 199120
+      },
+      "text": " Okay, nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:19,120",
+        "to": "00:03:23,840"
+      },
+      "offsets": {
+        "from": 199120,
+        "to": 203840
+      },
+      "text": " So I have Muse on the left and 0xalpha on the right."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:24,720",
+        "to": "00:03:28,480"
+      },
+      "offsets": {
+        "from": 204720,
+        "to": 208480
+      },
+      "text": " And I want to use the prompt."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:28,480",
+        "to": "00:03:32,960"
+      },
+      "offsets": {
+        "from": 208480,
+        "to": 212960
+      },
+      "text": " So we are building a small standalone TypeScript tool called YouTube Distiller."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:32,960",
+        "to": "00:03:36,400"
+      },
+      "offsets": {
+        "from": 212960,
+        "to": 216400
+      },
+      "text": " Pass the YouTube link and you get back what the video actually said."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:36,400",
+        "to": "00:03:38,800"
+      },
+      "offsets": {
+        "from": 216400,
+        "to": 218800
+      },
+      "text": " Just a handful of moments worth watching."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:38,800",
+        "to": "00:03:39,920"
+      },
+      "offsets": {
+        "from": 218800,
+        "to": 219920
+      },
+      "text": " Cut and playable."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:39,920",
+        "to": "00:03:40,800"
+      },
+      "offsets": {
+        "from": 219920,
+        "to": 220800
+      },
+      "text": " Yeah, read only."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:40,800",
+        "to": "00:03:42,080"
+      },
+      "offsets": {
+        "from": 220800,
+        "to": 222080
+      },
+      "text": " Do not write code yet."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:42,080",
+        "to": "00:03:44,720"
+      },
+      "offsets": {
+        "from": 222080,
+        "to": 224720
+      },
+      "text": " It has two faces of one engine."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:44,720",
+        "to": "00:03:48,320"
+      },
+      "offsets": {
+        "from": 224720,
+        "to": 228320
+      },
+      "text": " It runs the full step below and emits progress even when it goes."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:48,320",
+        "to": "00:03:49,680"
+      },
+      "offsets": {
+        "from": 228320,
+        "to": 229680
+      },
+      "text": " CLI, server."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:49,680",
+        "to": "00:03:52,240"
+      },
+      "offsets": {
+        "from": 229680,
+        "to": 232240
+      },
+      "text": " The UI is a simple static HTML5."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:52,240",
+        "to": "00:03:54,320"
+      },
+      "offsets": {
+        "from": 232240,
+        "to": 234320
+      },
+      "text": " No React, no Bundler, whatever."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:54,320",
+        "to": "00:03:55,360"
+      },
+      "offsets": {
+        "from": 234320,
+        "to": 235360
+      },
+      "text": " Pipeline."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:55,360",
+        "to": "00:03:56,480"
+      },
+      "offsets": {
+        "from": 235360,
+        "to": 236480
+      },
+      "text": " YouTube downloads."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:56,480",
+        "to": "00:03:59,760"
+      },
+      "offsets": {
+        "from": 236480,
+        "to": 239760
+      },
+      "text": " Download the video and the English auto-caption in GZone 3."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:59,760",
+        "to": "00:04:01,200"
+      },
+      "offsets": {
+        "from": 239760,
+        "to": 241200
+      },
+      "text": " Pass the GZone 3."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:01,200",
+        "to": "00:04:02,800"
+      },
+      "offsets": {
+        "from": 241200,
+        "to": 242800
+      },
+      "text": " One request to open router."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:02,800",
+        "to": "00:04:04,880"
+      },
+      "offsets": {
+        "from": 242800,
+        "to": 244880
+      },
+      "text": " Free route with the entire transcript."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:04,880",
+        "to": "00:04:07,360"
+      },
+      "offsets": {
+        "from": 244880,
+        "to": 247360
+      },
+      "text": " Build in five minutes and to escape as requested."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:07,360",
+        "to": "00:04:07,840"
+      },
+      "offsets": {
+        "from": 247360,
+        "to": 247840
+      },
+      "text": " Stay."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:07,840",
+        "to": "00:04:10,160"
+      },
+      "offsets": {
+        "from": 247840,
+        "to": 250160
+      },
+      "text": " Yeah, I see like the time estimation."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:10,160",
+        "to": "00:04:11,360"
+      },
+      "offsets": {
+        "from": 250160,
+        "to": 251360
+      },
+      "text": " It's pure garbage."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:11,360",
+        "to": "00:04:12,000"
+      },
+      "offsets": {
+        "from": 251360,
+        "to": 252000
+      },
+      "text": " It's crazy."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:12,000",
+        "to": "00:04:15,600"
+      },
+      "offsets": {
+        "from": 252000,
+        "to": 255600
+      },
+      "text": " It's the same thing if you put in and you say create a plan for this and now give me"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:15,600",
+        "to": "00:04:17,920"
+      },
+      "offsets": {
+        "from": 255600,
+        "to": 257920
+      },
+      "text": " the estimate in time and in costs."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:17,920",
+        "to": "00:04:23,360"
+      },
+      "offsets": {
+        "from": 257920,
+        "to": 263360
+      },
+      "text": " I think it still does every estimate and the same time that people do it without AI."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:23,360",
+        "to": "00:04:24,320"
+      },
+      "offsets": {
+        "from": 263360,
+        "to": 264320
+      },
+      "text": " Yeah, no one percent."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:24,880",
+        "to": "00:04:31,040"
+      },
+      "offsets": {
+        "from": 264880,
+        "to": 271040
+      },
+      "text": " Because the data set is time estimation based on AI on human Reddit posts, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:31,040",
+        "to": "00:04:31,840"
+      },
+      "offsets": {
+        "from": 271040,
+        "to": 271840
+      },
+      "text": " So yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:31,840",
+        "to": "00:04:32,800"
+      },
+      "offsets": {
+        "from": 271840,
+        "to": 272800
+      },
+      "text": " YouTube Distiller."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:32,800",
+        "to": "00:04:33,840"
+      },
+      "offsets": {
+        "from": 272800,
+        "to": 273840
+      },
+      "text": " Pass the YouTube link."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:33,840",
+        "to": "00:04:34,640"
+      },
+      "offsets": {
+        "from": 273840,
+        "to": 274640
+      },
+      "text": " Brief."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:34,640",
+        "to": "00:04:36,160"
+      },
+      "offsets": {
+        "from": 274640,
+        "to": 276160
+      },
+      "text": " Three, five ranked moments."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:36,160",
+        "to": "00:04:37,200"
+      },
+      "offsets": {
+        "from": 276160,
+        "to": 277200
+      },
+      "text": " Cut in playable."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:37,200",
+        "to": "00:04:39,040"
+      },
+      "offsets": {
+        "from": 277200,
+        "to": 279040
+      },
+      "text": " One model request per video."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:39,040",
+        "to": "00:04:40,320"
+      },
+      "offsets": {
+        "from": 279040,
+        "to": 280320
+      },
+      "text": " Left to the estimation."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:40,320",
+        "to": "00:04:41,360"
+      },
+      "offsets": {
+        "from": 280320,
+        "to": 281360
+      },
+      "text": " Download start."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:41,360",
+        "to": "00:04:42,080"
+      },
+      "offsets": {
+        "from": 281360,
+        "to": 282080
+      },
+      "text": " Okay, let's go."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:42,080",
+        "to": "00:04:43,440"
+      },
+      "offsets": {
+        "from": 282080,
+        "to": 283440
+      },
+      "text": " Request format is not available."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:43,440",
+        "to": "00:04:44,240"
+      },
+      "offsets": {
+        "from": 283440,
+        "to": 284240
+      },
+      "text": " Use list format."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:44,240",
+        "to": "00:04:44,800"
+      },
+      "offsets": {
+        "from": 284240,
+        "to": 284800
+      },
+      "text": " What?"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:44,800",
+        "to": "00:04:46,160"
+      },
+      "offsets": {
+        "from": 284800,
+        "to": 286160
+      },
+      "text": " Fetching video."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:46,160",
+        "to": "00:04:49,760"
+      },
+      "offsets": {
+        "from": 286160,
+        "to": 289760
+      },
+      "text": " How are you capturing the caption if there is no video?"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:49,760",
+        "to": "00:04:51,040"
+      },
+      "offsets": {
+        "from": 289760,
+        "to": 291040
+      },
+      "text": " I'm gonna drop that."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:51,040",
+        "to": "00:04:52,320"
+      },
+      "offsets": {
+        "from": 291040,
+        "to": 292320
+      },
+      "text": " I'm gonna drop that."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:52,320",
+        "to": "00:04:53,520"
+      },
+      "offsets": {
+        "from": 292320,
+        "to": 293520
+      },
+      "text": " Download done."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:53,520",
+        "to": "00:04:54,400"
+      },
+      "offsets": {
+        "from": 293520,
+        "to": 294400
+      },
+      "text": " Working."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:54,400",
+        "to": "00:04:54,880"
+      },
+      "offsets": {
+        "from": 294400,
+        "to": 294880
+      },
+      "text": " You."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:54,880",
+        "to": "00:04:56,640"
+      },
+      "offsets": {
+        "from": 294880,
+        "to": 296640
+      },
+      "text": " Are you doing anything?"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:56,640",
+        "to": "00:04:57,840"
+      },
+      "offsets": {
+        "from": 296640,
+        "to": 297840
+      },
+      "text": " It did find it."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:57,840",
+        "to": "00:04:59,360"
+      },
+      "offsets": {
+        "from": 297840,
+        "to": 299360
+      },
+      "text": " Is it fake?"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:59,360",
+        "to": "00:05:00,400"
+      },
+      "offsets": {
+        "from": 299360,
+        "to": 300400
+      },
+      "text": " Fetch video."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:00,400",
+        "to": "00:05:01,040"
+      },
+      "offsets": {
+        "from": 300400,
+        "to": 301040
+      },
+      "text": " Parsing."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:01,040",
+        "to": "00:05:01,600"
+      },
+      "offsets": {
+        "from": 301040,
+        "to": 301600
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:01,600",
+        "to": "00:05:02,640"
+      },
+      "offsets": {
+        "from": 301600,
+        "to": 302640
+      },
+      "text": " Analyzing transcript."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:02,640",
+        "to": "00:05:03,360"
+      },
+      "offsets": {
+        "from": 302640,
+        "to": 303360
+      },
+      "text": " One request."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:03,920",
+        "to": "00:05:04,560"
+      },
+      "offsets": {
+        "from": 303920,
+        "to": 304560
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:04,560",
+        "to": "00:05:05,280"
+      },
+      "offsets": {
+        "from": 304560,
+        "to": 305280
+      },
+      "text": " I'm gonna."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:05,280",
+        "to": "00:05:06,240"
+      },
+      "offsets": {
+        "from": 305280,
+        "to": 306240
+      },
+      "text": " Cutting five people."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:06,240",
+        "to": "00:05:06,640"
+      },
+      "offsets": {
+        "from": 306240,
+        "to": 306640
+      },
+      "text": " Wait."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:06,640",
+        "to": "00:05:06,960"
+      },
+      "offsets": {
+        "from": 306640,
+        "to": 306960
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:06,960",
+        "to": "00:05:08,080"
+      },
+      "offsets": {
+        "from": 306960,
+        "to": 308080
+      },
+      "text": " Yes, it does."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:08,640",
+        "to": "00:05:09,200"
+      },
+      "offsets": {
+        "from": 308640,
+        "to": 309200
+      },
+      "text": " Here it is."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:09,920",
+        "to": "00:05:11,920"
+      },
+      "offsets": {
+        "from": 309920,
+        "to": 311920
+      },
+      "text": " A livestream demo of Grog, Grogbot."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:11,920",
+        "to": "00:05:14,240"
+      },
+      "offsets": {
+        "from": 311920,
+        "to": 314240
+      },
+      "text": " End to end lead gen demo with King."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:14,240",
+        "to": "00:05:15,760"
+      },
+      "offsets": {
+        "from": 314240,
+        "to": 315760
+      },
+      "text": " Yeah, King was my bot."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:15,760",
+        "to": "00:05:16,160"
+      },
+      "offsets": {
+        "from": 315760,
+        "to": 316160
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:16,160",
+        "to": "00:05:16,640"
+      },
+      "offsets": {
+        "from": 316160,
+        "to": 316640
+      },
+      "text": " Okay, wait."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:16,640",
+        "to": "00:05:17,840"
+      },
+      "offsets": {
+        "from": 316640,
+        "to": 317840
+      },
+      "text": " I'm gonna cut that."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:17,840",
+        "to": "00:05:18,880"
+      },
+      "offsets": {
+        "from": 317840,
+        "to": 318880
+      },
+      "text": " Took the segment."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:18,880",
+        "to": "00:05:19,600"
+      },
+      "offsets": {
+        "from": 318880,
+        "to": 319600
+      },
+      "text": " Smart."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:19,600",
+        "to": "00:05:20,720"
+      },
+      "offsets": {
+        "from": 319600,
+        "to": 320720
+      },
+      "text": " Okay, that's sick."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:20,720",
+        "to": "00:05:23,520"
+      },
+      "offsets": {
+        "from": 320720,
+        "to": 323520
+      },
+      "text": " Because like, see this, that's effect."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:23,520",
+        "to": "00:05:28,480"
+      },
+      "offsets": {
+        "from": 323520,
+        "to": 328480
+      },
+      "text": " That's what I use for the, for the transition in the video from one chapter to another, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:28,480",
+        "to": "00:05:29,840"
+      },
+      "offsets": {
+        "from": 328480,
+        "to": 329840
+      },
+      "text": " Walk through the food pipeline."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:29,840",
+        "to": "00:05:31,920"
+      },
+      "offsets": {
+        "from": 329840,
+        "to": 331920
+      },
+      "text": " Google search from end of end leads."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:31,920",
+        "to": "00:05:32,720"
+      },
+      "offsets": {
+        "from": 331920,
+        "to": 332720
+      },
+      "text": " Prom generation."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:32,720",
+        "to": "00:05:33,600"
+      },
+      "offsets": {
+        "from": 332720,
+        "to": 333600
+      },
+      "text": " Email draft."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:33,600",
+        "to": "00:05:34,560"
+      },
+      "offsets": {
+        "from": 333600,
+        "to": 334560
+      },
+      "text": " Lateral agent."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:34,560",
+        "to": "00:05:35,680"
+      },
+      "offsets": {
+        "from": 334560,
+        "to": 335680
+      },
+      "text": " Org shots."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:35,680",
+        "to": "00:05:35,920"
+      },
+      "offsets": {
+        "from": 335680,
+        "to": 335920
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:35,920",
+        "to": "00:05:36,480"
+      },
+      "offsets": {
+        "from": 335920,
+        "to": 336480
+      },
+      "text": " One minute."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:36,480",
+        "to": "00:05:37,200"
+      },
+      "offsets": {
+        "from": 336480,
+        "to": 337200
+      },
+      "text": " One minute."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:37,200",
+        "to": "00:05:40,480"
+      },
+      "offsets": {
+        "from": 337200,
+        "to": 340480
+      },
+      "text": " Bro, that's, that could be clips for Twitter."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:40,480",
+        "to": "00:05:43,280"
+      },
+      "offsets": {
+        "from": 340480,
+        "to": 343280
+      },
+      "text": " Yeah, but people are trying to do this with Claude."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:43,280",
+        "to": "00:05:49,040"
+      },
+      "offsets": {
+        "from": 343280,
+        "to": 349040
+      },
+      "text": " And they are working for an hour to copy, paste, put the URL in, ask it."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:49,040",
+        "to": "00:05:51,280"
+      },
+      "offsets": {
+        "from": 349040,
+        "to": 351280
+      },
+      "text": " You can just better code your own solution."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:51,280",
+        "to": "00:05:52,480"
+      },
+      "offsets": {
+        "from": 351280,
+        "to": 352480
+      },
+      "text": " That's so much faster."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:52,480",
+        "to": "00:05:53,360"
+      },
+      "offsets": {
+        "from": 352480,
+        "to": 353360
+      },
+      "text": " And it's working."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:53,360",
+        "to": "00:05:54,240"
+      },
+      "offsets": {
+        "from": 353360,
+        "to": 354240
+      },
+      "text": " And it's free."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:54,240",
+        "to": "00:05:54,720"
+      },
+      "offsets": {
+        "from": 354240,
+        "to": 354720
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:54,720",
+        "to": "00:05:55,680"
+      },
+      "offsets": {
+        "from": 354720,
+        "to": 355680
+      },
+      "text": " This is cool."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:55,680",
+        "to": "00:05:58,640"
+      },
+      "offsets": {
+        "from": 355680,
+        "to": 358640
+      },
+      "text": " Like, bro, that, that, that costs zero."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:58,640",
+        "to": "00:06:00,000"
+      },
+      "offsets": {
+        "from": 358640,
+        "to": 360000
+      },
+      "text": " And it gave results."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:00,000",
+        "to": "00:06:04,560"
+      },
+      "offsets": {
+        "from": 360000,
+        "to": 364560
+      },
+      "text": " Like, some prompt you find a lead that you just need to find 1000."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:04,560",
+        "to": "00:06:06,000"
+      },
+      "offsets": {
+        "from": 364560,
+        "to": 366000
+      },
+      "text": " I'll do this automatically."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:06,000",
+        "to": "00:06:07,440"
+      },
+      "offsets": {
+        "from": 366000,
+        "to": 367440
+      },
+      "text": " Then it will example."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:07,440",
+        "to": "00:06:07,840"
+      },
+      "offsets": {
+        "from": 367440,
+        "to": 367840
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:07,840",
+        "to": "00:06:10,000"
+      },
+      "offsets": {
+        "from": 367840,
+        "to": 370000
+      },
+      "text": " And I think you can imagine how I need."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:10,000",
+        "to": "00:06:10,240"
+      },
+      "offsets": {
+        "from": 370000,
+        "to": 370240
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:10,240",
+        "to": "00:06:11,840"
+      },
+      "offsets": {
+        "from": 370240,
+        "to": 371840
+      },
+      "text": " Why is it refreshing all the time?"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:11,840",
+        "to": "00:06:12,160"
+      },
+      "offsets": {
+        "from": 371840,
+        "to": 372160
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:12,160",
+        "to": "00:06:13,520"
+      },
+      "offsets": {
+        "from": 372160,
+        "to": 373520
+      },
+      "text": " What's still working?"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:13,520",
+        "to": "00:06:13,840"
+      },
+      "offsets": {
+        "from": 373520,
+        "to": 373840
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:13,840",
+        "to": "00:06:16,880"
+      },
+      "offsets": {
+        "from": 373840,
+        "to": 376880
+      },
+      "text": " But every time it creates a video, it refreshes."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:16,880",
+        "to": "00:06:18,880"
+      },
+      "offsets": {
+        "from": 376880,
+        "to": 378880
+      },
+      "text": " Not fake real bug, no fixed."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:18,880",
+        "to": "00:06:19,360"
+      },
+      "offsets": {
+        "from": 378880,
+        "to": 379360
+      },
+      "text": " You eat."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:19,360",
+        "to": "00:06:20,400"
+      },
+      "offsets": {
+        "from": 379360,
+        "to": 380400
+      },
+      "text": " Oh my God."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:20,400",
+        "to": "00:06:21,760"
+      },
+      "offsets": {
+        "from": 380400,
+        "to": 381760
+      },
+      "text": " That's I love AI bro."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:22,400",
+        "to": "00:06:25,120"
+      },
+      "offsets": {
+        "from": 382400,
+        "to": 385120
+      },
+      "text": " And again, we don't need an employee to do this for us."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:25,920",
+        "to": "00:06:29,440"
+      },
+      "offsets": {
+        "from": 385920,
+        "to": 389440
+      },
+      "text": " Make sure you test the different models that are available because you see,"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:29,440",
+        "to": "00:06:32,080"
+      },
+      "offsets": {
+        "from": 389440,
+        "to": 392080
+      },
+      "text": " even if people say that is the best model."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:32,080",
+        "to": "00:06:32,480"
+      },
+      "offsets": {
+        "from": 392080,
+        "to": 392480
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:32,480",
+        "to": "00:06:34,800"
+      },
+      "offsets": {
+        "from": 392480,
+        "to": 394800
+      },
+      "text": " Now you have to prove the other one is working."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:34,800",
+        "to": "00:06:35,280"
+      },
+      "offsets": {
+        "from": 394800,
+        "to": 395280
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:35,280",
+        "to": "00:06:36,400"
+      },
+      "offsets": {
+        "from": 395280,
+        "to": 396400
+      },
+      "text": " I mean, yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:36,400",
+        "to": "00:06:37,440"
+      },
+      "offsets": {
+        "from": 396400,
+        "to": 397440
+      },
+      "text": " Like it's crazy."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:37,440",
+        "to": "00:06:42,160"
+      },
+      "offsets": {
+        "from": 397440,
+        "to": 402160
+      },
+      "text": " I mean, you don't have those gaps with like the frontier model from entropy can have."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:42,160",
+        "to": "00:06:42,720"
+      },
+      "offsets": {
+        "from": 402160,
+        "to": 402720
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:42,720",
+        "to": "00:06:45,040"
+      },
+      "offsets": {
+        "from": 402720,
+        "to": 405040
+      },
+      "text": " February five is still the best model though."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:45,040",
+        "to": "00:06:45,360"
+      },
+      "offsets": {
+        "from": 405040,
+        "to": 405360
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:45,360",
+        "to": "00:06:46,880"
+      },
+      "offsets": {
+        "from": 405360,
+        "to": 406880
+      },
+      "text": " Also the most expensive."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:46,880",
+        "to": "00:06:47,280"
+      },
+      "offsets": {
+        "from": 406880,
+        "to": 407280
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:47,280",
+        "to": "00:06:49,920"
+      },
+      "offsets": {
+        "from": 407280,
+        "to": 409920
+      },
+      "text": " I mean, I will, I think I will try to have those."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:49,920",
+        "to": "00:06:55,840"
+      },
+      "offsets": {
+        "from": 409920,
+        "to": 415840
+      },
+      "text": " I will just one prompt the same distiller stuff with codex and cloud the amount of entropy."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:55,840",
+        "to": "00:06:57,440"
+      },
+      "offsets": {
+        "from": 415840,
+        "to": 417440
+      },
+      "text": " So it would be 5.6."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:57,440",
+        "to": "00:07:00,560"
+      },
+      "offsets": {
+        "from": 417440,
+        "to": 420560
+      },
+      "text": " So, but yeah, it could be interesting to, to try that."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:00,560",
+        "to": "00:07:01,280"
+      },
+      "offsets": {
+        "from": 420560,
+        "to": 421280
+      },
+      "text": " But yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:01,280",
+        "to": "00:07:01,520"
+      },
+      "offsets": {
+        "from": 421280,
+        "to": 421520
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:01,520",
+        "to": "00:07:02,080"
+      },
+      "offsets": {
+        "from": 421520,
+        "to": 422080
+      },
+      "text": " Whatever."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:02,080",
+        "to": "00:07:05,520"
+      },
+      "offsets": {
+        "from": 422080,
+        "to": 425520
+      },
+      "text": " So yeah, like we can even walk with free models now."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:05,520",
+        "to": "00:07:06,560"
+      },
+      "offsets": {
+        "from": 425520,
+        "to": 426560
+      },
+      "text": " Yes, it works."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:06,560",
+        "to": "00:07:09,280"
+      },
+      "offsets": {
+        "from": 426560,
+        "to": 429280
+      },
+      "text": " And it showed and it makes good solutions."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:09,280",
+        "to": "00:07:11,840"
+      },
+      "offsets": {
+        "from": 429280,
+        "to": 431840
+      },
+      "text": " You see, we had like five videos instantly."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:11,840",
+        "to": "00:07:12,640"
+      },
+      "offsets": {
+        "from": 431840,
+        "to": 432640
+      },
+      "text": " That's nuts."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:12,640",
+        "to": "00:07:17,840"
+      },
+      "offsets": {
+        "from": 432640,
+        "to": 437840
+      },
+      "text": " Like I didn't expect that to be that fast with not the model I wanted to test first."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:17,840",
+        "to": "00:07:22,480"
+      },
+      "offsets": {
+        "from": 437840,
+        "to": 442480
+      },
+      "text": " But the secret sauce is tell it we need it in five minutes because we're on live stream"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:22,480",
+        "to": "00:07:24,960"
+      },
+      "offsets": {
+        "from": 442480,
+        "to": 444960
+      },
+      "text": " and it will just do everything in five minutes."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:24,960",
+        "to": "00:07:25,200"
+      },
+      "offsets": {
+        "from": 444960,
+        "to": 445200
+      },
+      "text": " True."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:25,200",
+        "to": "00:07:25,680"
+      },
+      "offsets": {
+        "from": 445200,
+        "to": 445680
+      },
+      "text": " Oh yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:25,680",
+        "to": "00:07:26,080"
+      },
+      "offsets": {
+        "from": 445680,
+        "to": 446080
+      },
+      "text": " Through that."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:26,080",
+        "to": "00:07:26,400"
+      },
+      "offsets": {
+        "from": 446080,
+        "to": 446400
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:26,400",
+        "to": "00:07:29,920"
+      },
+      "offsets": {
+        "from": 446400,
+        "to": 449920
+      },
+      "text": " The shortcut is like, bro, you have 30 minutes, 30 seconds because if you don't,"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:29,920",
+        "to": "00:07:31,600"
+      },
+      "offsets": {
+        "from": 449920,
+        "to": 451600
+      },
+      "text": " I'm going to cut your electricity off."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:31,600",
+        "to": "00:07:32,160"
+      },
+      "offsets": {
+        "from": 451600,
+        "to": 452160
+      },
+      "text": " Yeah, yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:32,160",
+        "to": "00:07:34,080"
+      },
+      "offsets": {
+        "from": 452160,
+        "to": 454080
+      },
+      "text": " The whole world is going through damnation."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:34,080",
+        "to": "00:07:35,680"
+      },
+      "offsets": {
+        "from": 454080,
+        "to": 455680
+      },
+      "text": " Just do it in 30 seconds."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:35,680",
+        "to": "00:07:36,080"
+      },
+      "offsets": {
+        "from": 455680,
+        "to": 456080
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:36,080",
+        "to": "00:07:42,560"
+      },
+      "offsets": {
+        "from": 456080,
+        "to": 462560
+      },
+      "text": " So yeah, for everyone who was prompting right now, tell your Claude that his bandwidth is"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:42,560",
+        "to": "00:07:44,000"
+      },
+      "offsets": {
+        "from": 462560,
+        "to": 464000
+      },
+      "text": " going to be reduced."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:44,000",
+        "to": "00:07:44,560"
+      },
+      "offsets": {
+        "from": 464000,
+        "to": 464560
+      },
+      "text": " Yes."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:44,560",
+        "to": "00:07:44,880"
+      },
+      "offsets": {
+        "from": 464560,
+        "to": 464880
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:44,880",
+        "to": "00:07:46,800"
+      },
+      "offsets": {
+        "from": 464880,
+        "to": 466800
+      },
+      "text": " Michel, thank you so much for your time."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:46,800",
+        "to": "00:07:47,760"
+      },
+      "offsets": {
+        "from": 466800,
+        "to": 467760
+      },
+      "text": " Thank you for the demo."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:47,760",
+        "to": "00:07:48,720"
+      },
+      "offsets": {
+        "from": 467760,
+        "to": 468720
+      },
+      "text": " That was fun."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:48,720",
+        "to": "00:07:51,760"
+      },
+      "offsets": {
+        "from": 468720,
+        "to": 471760
+      },
+      "text": " And yeah, like next week, someplace."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:51,760",
+        "to": "00:07:52,400"
+      },
+      "offsets": {
+        "from": 471760,
+        "to": 472400
+      },
+      "text": " Oh yeah, no."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:52,400",
+        "to": "00:07:52,880"
+      },
+      "offsets": {
+        "from": 472400,
+        "to": 472880
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:52,880",
+        "to": "00:07:54,320"
+      },
+      "offsets": {
+        "from": 472880,
+        "to": 474320
+      },
+      "text": " Someplace, sometime."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:54,320",
+        "to": "00:07:55,200"
+      },
+      "offsets": {
+        "from": 474320,
+        "to": 475200
+      },
+      "text": " Same on mine."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:55,200",
+        "to": "00:07:55,600"
+      },
+      "offsets": {
+        "from": 475200,
+        "to": 475600
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:55,600",
+        "to": "00:07:56,480"
+      },
+      "offsets": {
+        "from": 475600,
+        "to": 476480
+      },
+      "text": " Cheers, man."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:56,480",
+        "to": "00:07:57,200"
+      },
+      "offsets": {
+        "from": 476480,
+        "to": 477200
+      },
+      "text": " Thank you."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:57,200",
+        "to": "00:07:57,520"
+      },
+      "offsets": {
+        "from": 477200,
+        "to": 477520
+      },
+      "text": " Bye."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:57,520",
+        "to": "00:07:58,000"
+      },
+      "offsets": {
+        "from": 477520,
+        "to": 478000
+      },
+      "text": " Bye."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:58,000",
+        "to": "00:07:58,400"
+      },
+      "offsets": {
+        "from": 478000,
+        "to": 478400
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:58,400",
+        "to": "00:07:59,440"
+      },
+      "offsets": {
+        "from": 478400,
+        "to": 479440
+      },
+      "text": " Like, subscribe, share."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:59,440",
+        "to": "00:07:59,840"
+      },
+      "offsets": {
+        "from": 479440,
+        "to": 479840
+      },
+      "text": " Yeah, yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:59,840",
+        "to": "00:08:00,680"
+      },
+      "offsets": {
+        "from": 479840,
+        "to": 480680
+      },
+      "text": " - Yeah, whatever."
+    }
+  ]
+}

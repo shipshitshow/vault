@@ -1,0 +1,12 @@
+{
+  "youtube_id": "BTb9O0Th8qs",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "5674ca5fa4d349720f46db63858742967e4dbd7c749dab8c352f2587c47bc62a",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-12-video-claude-fable-5-we-built-an-ai-native-game-studio.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

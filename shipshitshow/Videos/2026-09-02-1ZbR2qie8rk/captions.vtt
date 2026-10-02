@@ -1,0 +1,218 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.000
+ do you use the potato stack yourself or not yeah i did edit because i started with grogbot
+
+00:00:06.000 --> 00:00:11.840
+ and i decided to have it give me notifications on incoming tickets check the ticket and then give
+
+00:00:11.840 --> 00:00:17.680
+ me a concept of an email that can be replied and i either choose yes no or i get feedback on the
+
+00:00:17.680 --> 00:00:23.760
+ concept so it can improve the email and then reply because the usage goes so fast i don't want to use
+
+00:00:23.760 --> 00:00:29.040
+ it for coding yeah i don't want to run out in in four hours and then have to wait a full week
+
+00:00:29.040 --> 00:00:35.600
+ yeah but it got a bit out of hand first i had one pot and i told it well i also have people who were
+
+00:00:35.600 --> 00:00:41.040
+ supposed to send the email to the ticket system emailing me direct so scrape my mailbox forward
+
+00:00:41.040 --> 00:00:46.800
+ tickets i have a slack a notification on incoming tickets and other bots gives the concept and then
+
+00:00:46.800 --> 00:00:53.760
+ i tried to add another bot i said hey if it is a wordpress question about updating content on the
+
+00:00:53.760 --> 00:00:59.280
+ wordpress i have a system with one click login where you get a normal writer account no admin
+
+00:00:59.280 --> 00:01:06.560
+ account you can update the text please try it and before i knew i had a full flow of tickets coming
+
+00:01:06.560 --> 00:01:12.960
+ in where people were asking me to change text on their website and the bot did it it gave me the
+
+00:01:12.960 --> 00:01:18.400
+ solution to add another bot for quality checks it checked it they communicated and then it told me
+
+00:01:18.400 --> 00:01:23.200
+ check this link here it's online i check it i approve and email goes back and it even wrote
+
+00:01:23.200 --> 00:01:30.160
+ down hours where we can build a customer so that's like a full employee and then my usage was going
+
+00:01:30.160 --> 00:01:37.760
+ like skyrocketing within a few hours and that's where i used the eggbot from lawren from potato
+
+00:01:37.760 --> 00:01:44.480
+ and it's a yeah you have like 8k tokens for each and a prompt that you're using and it is scaled
+
+00:01:44.480 --> 00:01:51.040
+ down to 500 instead of 8k and i've been testing now for three days and it is really tight it works
+
+00:01:51.040 --> 00:01:57.280
+ perfectly i have no issues so she's saving me a lot of tokens if you tell i'd now put it on a
+
+00:01:57.280 --> 00:02:04.240
+ repeat i gave the the eggbot repetitive task to monday night check all my bots check the entire
+
+00:02:04.240 --> 00:02:12.240
+ flow check all the routines and optimize everything and the eggbot is even taking routines from certain
+
+00:02:12.240 --> 00:02:17.280
+ bots away and saying hey this needs to be a separate bot because if it has only one task it
+
+00:02:17.280 --> 00:02:22.880
+ focuses on that task and it has less tokens than when you are doing three tasks at the same time
+
+00:02:22.880 --> 00:02:27.920
+ yeah so do you still have like the chief of staff and you talk to only him and then he dispatch
+
+00:02:27.920 --> 00:02:33.760
+ stuff yeah yeah yeah i just have one point of communication no we we have waybooks right it
+
+00:02:33.760 --> 00:02:40.560
+ should not even be a chron drops it should be an event yeah crypto daily should be my crypto
+
+00:02:40.560 --> 00:02:45.360
+ channel but maybe i'm gonna nuke this one because i can save some token do you have the eggbot in
+
+00:02:45.360 --> 00:02:50.960
+ it yes here yeah just tell it to to check everything and optimize it and give you a
+
+00:02:50.960 --> 00:02:56.720
+ proposal on what will be better and ask it how many tokens you can save i can't because
+
+00:02:56.720 --> 00:03:03.280
+ i don't have usage oh yay of course i have some issue with i don't know if you have that see like
+
+00:03:03.280 --> 00:03:10.320
+ i have a message etc etc and i i need to ask the status about the task sometimes it doesn't give me
+
+00:03:10.320 --> 00:03:15.440
+ the response to it it's kind of yeah sometimes it's like it's skipping some things yeah checking
+
+00:03:15.440 --> 00:03:20.400
+ all of the status about all tasks running both formulas report blah blah blah so he's asking
+
+00:03:20.400 --> 00:03:25.760
+ the whole team like what to do if i have like 20 both then i'm burning token like crazy right
+
+00:03:25.760 --> 00:03:33.760
+ yeah mastering that you can you could even like have one job pair grok but super grok account stuff
+
+00:03:33.760 --> 00:03:40.880
+ yeah but it works like the same normal dev team if you just have everybody talking to everybody
+
+00:03:40.880 --> 00:03:45.920
+ at the end of the day they only work two hours and if you fully optimize it and are really strict on
+
+00:03:45.920 --> 00:03:51.360
+ your communication and optimize everything then you have a perfect dev team who works like seven
+
+00:03:51.360 --> 00:03:55.520
+ and a half of the eight hours so that's what you want to do here as well personally i should change
+
+00:03:55.520 --> 00:04:03.440
+ it to not code and just open prs and then i have the other agents codex cloud grok yeah build stuff
+
+00:04:03.440 --> 00:04:10.320
+ from those prs yeah they work on ship yet codes and that's exactly so only management verification
+
+00:04:10.320 --> 00:04:14.560
+ is all you need yes the most critical skills to have in your toolbox is a high quality
+
+00:04:14.560 --> 00:04:19.200
+ verification skill yeah like something like something for cicd right like you want to
+
+00:04:19.200 --> 00:04:26.000
+ disrupt the disloped skills of the p stack is really good i haven't tried it you should yeah
+
+00:04:26.000 --> 00:04:30.720
+ but okay i don't know if you should because you have also like legacy project stuff that you
+
+00:04:30.720 --> 00:04:36.480
+ should not refactor too much oh no no that will break everything i don't know if a disloped stuff
+
+00:04:36.480 --> 00:04:43.040
+ will refactor the whole code base for you and you will have a 24-hour session and you don't know why
+
+00:04:43.040 --> 00:04:47.440
+ because you disloped it let's be the verification skill together a create verification skill yeah
+
+00:04:47.440 --> 00:04:51.680
+ that's why in my grok bot it mentioned create verification skill because yeah i dropped the
+
+00:04:51.680 --> 00:04:57.440
+ articles so create verification skill dr heck bot that's what we both installed i think we need the
+
+00:04:57.440 --> 00:05:04.320
+ own v stack stack bro yeah but yeah there are so many options right now but on the other hand
+
+00:05:04.320 --> 00:05:10.000
+ i am waiting for this to be integrated into cursor i mean that that's it like you can create your
+
+00:05:10.000 --> 00:05:15.760
+ skill and then it's they're not going to standardize p stack to all of the things i mean
+
+00:05:16.480 --> 00:05:21.120
+ maybe they do it like in the back end you know yeah yeah but that's that's what i mean so they
+
+00:05:21.120 --> 00:05:25.760
+ integrate something like this because if so many people are using it and their internal teams are
+
+00:05:25.760 --> 00:05:31.120
+ doing it as well then why not make it a part of yeah cursor and just have it for everybody
+
+00:05:31.120 --> 00:05:37.760
+ available without adding additional integrations and plugins yeah yeah i mean but for them it's
+
+00:05:37.760 --> 00:05:44.720
+ make even more sense to keep as plug-inable friendly stuff then everyone is turning them
+
+00:05:44.720 --> 00:05:51.440
+ into their own use case right like everyone building their name stack because an ios developer
+
+00:05:51.440 --> 00:05:57.280
+ will not have the same needs than no that's a react to right so yes and also i like a lot of
+
+00:05:57.280 --> 00:06:03.120
+ developers wants to have control of their own stack and slash way of coding and stuff like that
+
+00:06:03.120 --> 00:06:08.320
+ right no junk in it so she has a skill to maintain it yeah that makes sense i have a skill to clean
+
+00:06:08.320 --> 00:06:14.560
+ up work trees and branches after i deploy right so why not i have p stack the tag bot yes and the
+
+00:06:14.560 --> 00:06:22.000
+ bot is using p stack into our own setup right my bot that helps to create high quality bot your
+
+00:06:22.000 --> 00:06:27.040
+ roster ships with space tag yes okay okay so what did we learn or what did we expect from grogbot to
+
+00:06:27.040 --> 00:06:31.520
+ come next grogbot is awesome but you have to optimize it otherwise you go out of tokens in
+
+00:06:31.520 --> 00:06:37.520
+ the day and you can't use it so we use her solution for adding eggbot and we just say
+
+00:06:37.520 --> 00:06:42.880
+ optimize everything and it's fixed yeah yeah you ask to optimize and then it's done and it did
+
+00:06:42.880 --> 00:06:47.120
+ yeah i need to do it okay i need to wait a couple of hours but after that should be fine
+
+00:06:47.120 --> 00:06:52.000
+ yes thank you everyone thank you for commenting and thank you arinad for joining us during the
+
+00:06:52.000 --> 00:06:57.600
+ live subscribe left the video like the video share it and i will see you next time next week next
+
+00:06:57.600 --> 00:06:59.760
+ time same place bye-bye
+

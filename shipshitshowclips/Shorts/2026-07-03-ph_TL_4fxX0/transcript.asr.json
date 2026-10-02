@@ -1,0 +1,98 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,460"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5460
+      },
+      "text": " Float code has a cloud extension browser that you download and it connect to your"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,520",
+        "to": "00:00:09,800"
+      },
+      "offsets": {
+        "from": 5520,
+        "to": 9800
+      },
+      "text": " float sessions and then it opened the browser and it can click or it can test"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,800",
+        "to": "00:00:12,600"
+      },
+      "offsets": {
+        "from": 9800,
+        "to": 12600
+      },
+      "text": " your button, test everything and you're going to love it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,680",
+        "to": "00:00:15,280"
+      },
+      "offsets": {
+        "from": 12680,
+        "to": 15280
+      },
+      "text": " It's not something that I vibe coded or something."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,280",
+        "to": "00:00:16,720"
+      },
+      "offsets": {
+        "from": 15280,
+        "to": 16720
+      },
+      "text": " It's an official extension."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,720",
+        "to": "00:00:17,520"
+      },
+      "offsets": {
+        "from": 16720,
+        "to": 17520
+      },
+      "text": " So let's go."
+    }
+  ]
+}

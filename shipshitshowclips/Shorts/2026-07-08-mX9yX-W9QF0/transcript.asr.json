@@ -1,0 +1,109 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:01,760"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 1760
+      },
+      "text": " - What are you going to build?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:01,760",
+        "to": "00:00:03,320"
+      },
+      "offsets": {
+        "from": 1760,
+        "to": 3320
+      },
+      "text": " - Everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,320",
+        "to": "00:00:06,760"
+      },
+      "offsets": {
+        "from": 3320,
+        "to": 6760
+      },
+      "text": " Before you had to plan because building a proper software"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,760",
+        "to": "00:00:09,080"
+      },
+      "offsets": {
+        "from": 6760,
+        "to": 9080
+      },
+      "text": " tool would take you at least a year to do it properly."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,080",
+        "to": "00:00:10,040"
+      },
+      "offsets": {
+        "from": 9080,
+        "to": 10040
+      },
+      "text": " Tales and everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,040",
+        "to": "00:00:11,760"
+      },
+      "offsets": {
+        "from": 10040,
+        "to": 11760
+      },
+      "text": " And now you just choose a niche."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,760",
+        "to": "00:00:15,120"
+      },
+      "offsets": {
+        "from": 11760,
+        "to": 15120
+      },
+      "text": " You build it within two, three days and you start selling."
+    }
+  ]
+}

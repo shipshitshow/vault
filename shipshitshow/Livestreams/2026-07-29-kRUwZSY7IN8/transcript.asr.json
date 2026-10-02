@@ -1,0 +1,4960 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:29,600",
+        "to": "00:00:39,920"
+      },
+      "offsets": {
+        "from": 29600,
+        "to": 39920
+      },
+      "text": " and we are back welcome home everyone it's been a minute yeah it has been two weeks yeah two weeks"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:40,640",
+        "to": "00:00:47,840"
+      },
+      "offsets": {
+        "from": 40640,
+        "to": 47840
+      },
+      "text": " two weeks 10 days off um and yeah i'm i'm excited like uh it's good to be back"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:47,840",
+        "to": "00:00:57,280"
+      },
+      "offsets": {
+        "from": 47840,
+        "to": 57280
+      },
+      "text": " yes yeah so how was your little break it was good yeah i had a break my mac mimi didn't yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:58,240",
+        "to": "00:01:04,720"
+      },
+      "offsets": {
+        "from": 58240,
+        "to": 64720
+      },
+      "text": " that's the goal right like the new slaves or computers now yes exactly so it was good to be"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:04,720",
+        "to": "00:01:11,520"
+      },
+      "offsets": {
+        "from": 64720,
+        "to": 71520
+      },
+      "text": " on holiday and that was good to actually be forced to use uh your mic mini from a large distance and"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:11,520",
+        "to": "00:01:18,560"
+      },
+      "offsets": {
+        "from": 71520,
+        "to": 78560
+      },
+      "text": " to keep on going creating new branches new new commits and everything yes now exactly like uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:18,560",
+        "to": "00:01:25,760"
+      },
+      "offsets": {
+        "from": 78560,
+        "to": 85760
+      },
+      "text": " that was a nice experience that you you're doing literally nothing but still the the pull requests"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:25,760",
+        "to": "00:01:32,880"
+      },
+      "offsets": {
+        "from": 85760,
+        "to": 92880
+      },
+      "text": " are coming out yes you're just checking your your phone for notifications yeah oh bro like uh i went"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:32,880",
+        "to": "00:01:40,240"
+      },
+      "offsets": {
+        "from": 92880,
+        "to": 100240
+      },
+      "text": " so i went away in the in the it was by night yes and uh around like two three m i checked and i had"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:40,240",
+        "to": "00:01:48,000"
+      },
+      "offsets": {
+        "from": 100240,
+        "to": 108000
+      },
+      "text": " the github authorization issues i said fuck i can't validate with my computer because like uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:48,000",
+        "to": "00:01:55,360"
+      },
+      "offsets": {
+        "from": 108000,
+        "to": 115360
+      },
+      "text": " codex was telling me yeah uh you need to click on your computers and stuff oh i'm not on my computer"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:55,360",
+        "to": "00:02:03,360"
+      },
+      "offsets": {
+        "from": 115360,
+        "to": 123360
+      },
+      "text": " so um can you give me a mobile link to click it to it's a yeah i can do that okay yeah it does"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:03,360",
+        "to": "00:02:12,000"
+      },
+      "offsets": {
+        "from": 123360,
+        "to": 132000
+      },
+      "text": " everything exactly i had fable connected so to my uh to my app on my phone nice and i gave it full"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:12,000",
+        "to": "00:02:17,040"
+      },
+      "offsets": {
+        "from": 132000,
+        "to": 137040
+      },
+      "text": " access to my mac mini because it's it only has the code on it nothing else only some projects"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:17,760",
+        "to": "00:02:24,720"
+      },
+      "offsets": {
+        "from": 137760,
+        "to": 144720
+      },
+      "text": " and it doesn't matter what i asked it it just said i can do that for you no problem yeah it"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:24,720",
+        "to": "00:02:33,360"
+      },
+      "offsets": {
+        "from": 144720,
+        "to": 153360
+      },
+      "text": " reminds you like the uh uh open cloud day yeah only better much better uh it works this works"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:33,360",
+        "to": "00:02:38,880"
+      },
+      "offsets": {
+        "from": 153360,
+        "to": 158880
+      },
+      "text": " and even if it doesn't work you ask it to get a workaround or to give a solution and says oh we"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:38,880",
+        "to": "00:02:45,040"
+      },
+      "offsets": {
+        "from": 158880,
+        "to": 165040
+      },
+      "text": " can do this this and this yeah perfect oh yeah no it's not like it's it's a new year and um"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:45,680",
+        "to": "00:02:50,480"
+      },
+      "offsets": {
+        "from": 165680,
+        "to": 170480
+      },
+      "text": " it's even like getting better with the all of the new models that we got during those 10 days"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:50,480",
+        "to": "00:02:57,680"
+      },
+      "offsets": {
+        "from": 170480,
+        "to": 177680
+      },
+      "text": " yes yeah and also what you do is like talking to cloud on mobile right cloud on mobile or codex"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:57,680",
+        "to": "00:03:02,640"
+      },
+      "offsets": {
+        "from": 177680,
+        "to": 182640
+      },
+      "text": " yeah yeah cloud on mobile yeah yeah i do and it doesn't matter just one of the two that's good"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:02,640",
+        "to": "00:03:11,280"
+      },
+      "offsets": {
+        "from": 182640,
+        "to": 191280
+      },
+      "text": " enough i i use codex because uh we get more results so uh i burn three resets during those"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:11,280",
+        "to": "00:03:22,080"
+      },
+      "offsets": {
+        "from": 191280,
+        "to": 202080
+      },
+      "text": " 10 days though that's a lot how many projects were you handling so i had automation for 10 projects"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:22,080",
+        "to": "00:03:31,120"
+      },
+      "offsets": {
+        "from": 202080,
+        "to": 211120
+      },
+      "text": " like non-critical projects like small stuff um like a couple of mobile apps like a tv show tracker"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:31,120",
+        "to": "00:03:35,840"
+      },
+      "offsets": {
+        "from": 211120,
+        "to": 215840
+      },
+      "text": " for me and my girlfriend so we can share the show then the share the status of the show so that's"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:35,840",
+        "to": "00:03:45,920"
+      },
+      "offsets": {
+        "from": 215840,
+        "to": 225920
+      },
+      "text": " cool um the meta bar like the codex bar but uh mine and it's better than peter codex bar it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:45,920",
+        "to": "00:03:55,120"
+      },
+      "offsets": {
+        "from": 225920,
+        "to": 235120
+      },
+      "text": " better um what do they do a couple of other projects and uh yeah uh website factory for"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:55,120",
+        "to": "00:03:59,520"
+      },
+      "offsets": {
+        "from": 235120,
+        "to": 239520
+      },
+      "text": " restaurants because that's gonna be the first autonomous company that fully autonomous company"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:59,520",
+        "to": "00:04:07,760"
+      },
+      "offsets": {
+        "from": 239520,
+        "to": 247760
+      },
+      "text": " that i want to lunch and uh jen feed what did i what else did i do okay i can check"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:09,520",
+        "to": "00:04:18,240"
+      },
+      "offsets": {
+        "from": 249520,
+        "to": 258240
+      },
+      "text": " and uh yeah some other non-critical project uh the game stuff i continue also those like much slower"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:18,240",
+        "to": "00:04:24,560"
+      },
+      "offsets": {
+        "from": 258240,
+        "to": 264560
+      },
+      "text": " like not every two or three hours uh just less like four hours for those ones just because you can"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:24,560",
+        "to": "00:04:33,840"
+      },
+      "offsets": {
+        "from": 264560,
+        "to": 273840
+      },
+      "text": " yeah exactly i also know i use figma so i had a routine to uh put all of the screen to figma"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:34,480",
+        "to": "00:04:42,080"
+      },
+      "offsets": {
+        "from": 274480,
+        "to": 282080
+      },
+      "text": " because the mcp and also the mcp is uh limited to 200 calls a day so uh i had a daily routine"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:42,080",
+        "to": "00:04:50,640"
+      },
+      "offsets": {
+        "from": 282080,
+        "to": 290640
+      },
+      "text": " to just burn those 200 maximize it yeah uh max sweep like the cleaner like the tools to clean"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:50,640",
+        "to": "00:04:56,320"
+      },
+      "offsets": {
+        "from": 290640,
+        "to": 296320
+      },
+      "text": " your hard drive on your mac after all of those walkthroughs and branches uh open tv tracker"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:56,320",
+        "to": "00:05:05,280"
+      },
+      "offsets": {
+        "from": 296320,
+        "to": 305280
+      },
+      "text": " that's done uh ship code yeah ship code too and uh yeah in the games that's it yeah around 10"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:05,280",
+        "to": "00:05:12,080"
+      },
+      "offsets": {
+        "from": 305280,
+        "to": 312080
+      },
+      "text": " 10 custom uh thing customers 10 project like that love it and you just burned every token available"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:12,080",
+        "to": "00:05:21,760"
+      },
+      "offsets": {
+        "from": 312080,
+        "to": 321760
+      },
+      "text": " like everything i've run two subscription on cloud and uh four weekly equivalent of codex on with me"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:23,360",
+        "to": "00:05:30,160"
+      },
+      "offsets": {
+        "from": 323360,
+        "to": 330160
+      },
+      "text": " awesome and it's everything is coming out uh so now it's getting honestly it's getting uh i"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:30,160",
+        "to": "00:05:37,680"
+      },
+      "offsets": {
+        "from": 330160,
+        "to": 337680
+      },
+      "text": " shipped it didn't like uh just burn token to burn token like the project are coming out now"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:37,680",
+        "to": "00:05:45,680"
+      },
+      "offsets": {
+        "from": 337680,
+        "to": 345680
+      },
+      "text": " like meta is done i'll send you the link sorry uh ship code uh i need to check it i need to qa"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:45,680",
+        "to": "00:05:53,200"
+      },
+      "offsets": {
+        "from": 345680,
+        "to": 353200
+      },
+      "text": " and the other same thing like qa or more progress so nice well i think if you do the intro"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:53,200",
+        "to": "00:05:56,000"
+      },
+      "offsets": {
+        "from": 353200,
+        "to": 356000
+      },
+      "text": " we see the numbers oh [ __ ] that's even better"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:01,440",
+        "to": "00:06:09,760"
+      },
+      "offsets": {
+        "from": 361440,
+        "to": 369760
+      },
+      "text": " so yeah okay i actually didn't think about that we can edit it after so that's no problem"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:10,960",
+        "to": "00:06:19,760"
+      },
+      "offsets": {
+        "from": 370960,
+        "to": 379760
+      },
+      "text": " um okay but we we're not doing videos anymore do we yeah maybe a small one i don't know it is better"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:19,760",
+        "to": "00:06:30,000"
+      },
+      "offsets": {
+        "from": 379760,
+        "to": 390000
+      },
+      "text": " to have shorts right yes yeah we don't know okay so um okay we went away for 10 days but codex and"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:30,000",
+        "to": "00:06:41,360"
+      },
+      "offsets": {
+        "from": 390000,
+        "to": 401360
+      },
+      "text": " claud didn't take any time off while we were on the beach swimming while we were on the beach um those"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:42,000",
+        "to": "00:06:49,360"
+      },
+      "offsets": {
+        "from": 402000,
+        "to": 409360
+      },
+      "text": " our agent uh keep shipping pull requests every hour and we are going to show you what we have"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:49,360",
+        "to": "00:06:56,560"
+      },
+      "offsets": {
+        "from": 409360,
+        "to": 416560
+      },
+      "text": " shipped and uh not not how much money we made because that's that's no first you have to build"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:56,560",
+        "to": "00:07:02,000"
+      },
+      "offsets": {
+        "from": 416560,
+        "to": 422000
+      },
+      "text": " yeah and we are going to show you which product we are shipped and how we are uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:04,400",
+        "to": "00:07:09,440"
+      },
+      "offsets": {
+        "from": 424400,
+        "to": 429440
+      },
+      "text": " how we set up those automation so subscribe like the video and uh enjoy"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:10,320",
+        "to": "00:07:15,600"
+      },
+      "offsets": {
+        "from": 430320,
+        "to": 435600
+      },
+      "text": " cool nice cool good job i need to check because i think"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:18,560",
+        "to": "00:07:22,880"
+      },
+      "offsets": {
+        "from": 438560,
+        "to": 442880
+      },
+      "text": " oh let me connect my mouse okay"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:26,560",
+        "to": "00:07:38,640"
+      },
+      "offsets": {
+        "from": 446560,
+        "to": 458640
+      },
+      "text": " so now i can scroll because i built in a cost tracker oh you too yeah yeah but i make a"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:38,640",
+        "to": "00:07:43,840"
+      },
+      "offsets": {
+        "from": 458640,
+        "to": 463840
+      },
+      "text": " difference between how much costs are made within my subscription that i just pay like the 90 for"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:43,840",
+        "to": "00:07:50,720"
+      },
+      "offsets": {
+        "from": 463840,
+        "to": 470720
+      },
+      "text": " cloud or the 200 or whatever and then i made a difference in what do i actually use in adi cost"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:51,840",
+        "to": "00:08:01,280"
+      },
+      "offsets": {
+        "from": 471840,
+        "to": 481280
+      },
+      "text": " and i have one cloud um 200 subscription connected and i have one codex 90 subscription connected"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:02,240",
+        "to": "00:08:13,280"
+      },
+      "offsets": {
+        "from": 482240,
+        "to": 493280
+      },
+      "text": " and in during my holiday i've burned for 3109 worth of tokens yeah i'm not surprised so that's"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:13,280",
+        "to": "00:08:22,240"
+      },
+      "offsets": {
+        "from": 493280,
+        "to": 502240
+      },
+      "text": " a 10x yeah yeah no like uh for for codex i think we we get like worth uh 15 grain of token and uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:22,240",
+        "to": "00:08:31,440"
+      },
+      "offsets": {
+        "from": 502240,
+        "to": 511440
+      },
+      "text": " for cloud we get 5k or something yeah that's possible because uh cloud was 2100 and codex"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:31,440",
+        "to": "00:08:40,080"
+      },
+      "offsets": {
+        "from": 511440,
+        "to": 520080
+      },
+      "text": " was almost 1k yeah and i'm using codex to do the review so that's less yeah okay nice and this is"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:40,080",
+        "to": "00:08:47,040"
+      },
+      "offsets": {
+        "from": 520080,
+        "to": 527040
+      },
+      "text": " just on the the uh on the task that i put in the system this is not everything i did additional on"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:47,040",
+        "to": "00:08:53,920"
+      },
+      "offsets": {
+        "from": 527040,
+        "to": 533920
+      },
+      "text": " the side myself only the automation part yeah okay but that that's big paying like 300 dollars and"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:53,920",
+        "to": "00:09:01,520"
+      },
+      "offsets": {
+        "from": 533920,
+        "to": 541520
+      },
+      "text": " getting 3k in 10 days back yeah i mean if you can convert that into dollars that's a win right"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:01,520",
+        "to": "00:09:10,480"
+      },
+      "offsets": {
+        "from": 541520,
+        "to": 550480
+      },
+      "text": " that's employees basically yeah yeah for sure yeah like the goal for us is like to convert those"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:10,480",
+        "to": "00:09:18,000"
+      },
+      "offsets": {
+        "from": 550480,
+        "to": 558000
+      },
+      "text": " tokens into dollars and that's all well it's just getting projects and just having oh having us"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:18,000",
+        "to": "00:09:24,000"
+      },
+      "offsets": {
+        "from": 558000,
+        "to": 564000
+      },
+      "text": " automate your business because we know how to automate yeah and uh i i i think like with those"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:24,000",
+        "to": "00:09:30,560"
+      },
+      "offsets": {
+        "from": 564000,
+        "to": 570560
+      },
+      "text": " all of those release i think we are getting like really close to uh the quality of the output is"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:30,560",
+        "to": "00:09:37,280"
+      },
+      "offsets": {
+        "from": 570560,
+        "to": 577280
+      },
+      "text": " good enough to be fully automated maybe it was like a human uh reviewing the like yeah remain"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:38,800",
+        "to": "00:09:48,720"
+      },
+      "offsets": {
+        "from": 578800,
+        "to": 588720
+      },
+      "text": " in the loop to review at the end but like it's getting there yeah i had codex 5.6 soul review"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:48,720",
+        "to": "00:09:56,000"
+      },
+      "offsets": {
+        "from": 588720,
+        "to": 596000
+      },
+      "text": " my opus and after five rounds of reviewing they would give me a final result if it went wrong"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:57,040",
+        "to": "00:10:04,160"
+      },
+      "offsets": {
+        "from": 597040,
+        "to": 604160
+      },
+      "text": " and sometimes they had like really good issues they found stuff that honestly i don't know if"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:04,160",
+        "to": "00:10:09,760"
+      },
+      "offsets": {
+        "from": 604160,
+        "to": 609760
+      },
+      "text": " i would have found it correctly but you don't know if those issues are real or not though like"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:09,760",
+        "to": "00:10:15,120"
+      },
+      "offsets": {
+        "from": 609760,
+        "to": 615120
+      },
+      "text": " you know like because sometimes it can find something that's not here yeah if you say it"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:15,120",
+        "to": "00:10:19,440"
+      },
+      "offsets": {
+        "from": 615120,
+        "to": 619440
+      },
+      "text": " has to do a cli check it has to do a discount notification it doesn't have the right to do it"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:19,440",
+        "to": "00:10:24,800"
+      },
+      "offsets": {
+        "from": 619440,
+        "to": 624800
+      },
+      "text": " then it will crash on it but that's why i have cloud fable connected on that mega mini who runs"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:24,800",
+        "to": "00:10:31,680"
+      },
+      "offsets": {
+        "from": 624800,
+        "to": 631680
+      },
+      "text": " everything it can fix it can give the the rights that are needed and everything you use m s or open"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:31,680",
+        "to": "00:10:39,520"
+      },
+      "offsets": {
+        "from": 631680,
+        "to": 639520
+      },
+      "text": " claw to orchestrate those subscription yeah nope everything was built by myself by fable yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:41,280",
+        "to": "00:10:47,760"
+      },
+      "offsets": {
+        "from": 641280,
+        "to": 647760
+      },
+      "text": " yeah and i i don't feel i have the need for those it was like one day of work and i didn't even sit"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:47,760",
+        "to": "00:10:53,360"
+      },
+      "offsets": {
+        "from": 647760,
+        "to": 653360
+      },
+      "text": " at my pc i just told him what to do and it's on the side working and then i come back and i say"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:53,360",
+        "to": "00:10:59,760"
+      },
+      "offsets": {
+        "from": 653360,
+        "to": 659760
+      },
+      "text": " hey i'm missing this and it does it yeah no exactly because even like if you so i updated"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:59,760",
+        "to": "00:11:10,240"
+      },
+      "offsets": {
+        "from": 659760,
+        "to": 670240
+      },
+      "text": " my global and codex and claud when um opus 5 dropped so even like to change the aliases even"
+    },
+    {
+      "timestamps": {
+        "from": "00:11:10,240",
+        "to": "00:11:21,600"
+      },
+      "offsets": {
+        "from": 670240,
+        "to": 681600
+      },
+      "text": " like to set up the orchestration to tell claud to use uh gpt 5.6 as a subagent or even like they"
+    },
+    {
+      "timestamps": {
+        "from": "00:11:21,600",
+        "to": "00:11:30,080"
+      },
+      "offsets": {
+        "from": 681600,
+        "to": 690080
+      },
+      "text": " can talk to each other plus define the aliases so now if it's opus it will always be the latest opus"
+    },
+    {
+      "timestamps": {
+        "from": "00:11:33,600",
+        "to": "00:11:40,720"
+      },
+      "offsets": {
+        "from": 693600,
+        "to": 700720
+      },
+      "text": " i know gpt something like i use like a 5.6 so i for everything yeah me too yeah um"
+    },
+    {
+      "timestamps": {
+        "from": "00:11:42,800",
+        "to": "00:11:53,040"
+      },
+      "offsets": {
+        "from": 702800,
+        "to": 713040
+      },
+      "text": " and uh but like what's hammers doing more than that i don't know and honestly"
+    },
+    {
+      "timestamps": {
+        "from": "00:11:53,680",
+        "to": "00:11:57,760"
+      },
+      "offsets": {
+        "from": 713680,
+        "to": 717760
+      },
+      "text": " i don't want external software built by someone else on my pc because i don't know what they're"
+    },
+    {
+      "timestamps": {
+        "from": "00:11:57,760",
+        "to": "00:12:04,240"
+      },
+      "offsets": {
+        "from": 717760,
+        "to": 724240
+      },
+      "text": " putting in exactly yeah and again you are like one prompt away of like uh implementing yourself"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:04,240",
+        "to": "00:12:10,320"
+      },
+      "offsets": {
+        "from": 724240,
+        "to": 730320
+      },
+      "text": " and you have you know what's up right yeah so why should i do it if we can do it better ourselves"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:10,320",
+        "to": "00:12:18,240"
+      },
+      "offsets": {
+        "from": 730320,
+        "to": 738240
+      },
+      "text": " and easier now we have the tokens because we have big subscriptions i mean uh kind of like uh i"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:18,240",
+        "to": "00:12:23,120"
+      },
+      "offsets": {
+        "from": 738240,
+        "to": 743120
+      },
+      "text": " i burn my clothes subscription uh i think it's because of the skill and mcp like i burn them"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:23,120",
+        "to": "00:12:29,680"
+      },
+      "offsets": {
+        "from": 743120,
+        "to": 749680
+      },
+      "text": " in two days uh yeah that's that's going hard i got i got the reset on friday and on monday afternoon"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:29,680",
+        "to": "00:12:35,040"
+      },
+      "offsets": {
+        "from": 749680,
+        "to": 755040
+      },
+      "text": " so okay i'm gonna use codex now yeah but that's the cool thing here every time that i see that"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:35,040",
+        "to": "00:12:39,840"
+      },
+      "offsets": {
+        "from": 755040,
+        "to": 759840
+      },
+      "text": " i'm burning a lot the first question i ask is hey we are burning so fast this is impossible to"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:39,840",
+        "to": "00:12:45,440"
+      },
+      "offsets": {
+        "from": 759840,
+        "to": 765440
+      },
+      "text": " maintain what can we do to make it burn less tokens uh and if he needs to set up something"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:45,440",
+        "to": "00:12:52,000"
+      },
+      "offsets": {
+        "from": 765440,
+        "to": 772000
+      },
+      "text": " manual just do it but improve it and that works yeah all the time yeah and even like i saw some"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:52,000",
+        "to": "00:12:58,880"
+      },
+      "offsets": {
+        "from": 772000,
+        "to": 778880
+      },
+      "text": " tweets about like one of the french entrepreneurs saying like yeah on friday um i just clean up"
+    },
+    {
+      "timestamps": {
+        "from": "00:12:58,880",
+        "to": "00:13:06,880"
+      },
+      "offsets": {
+        "from": 778880,
+        "to": 786880
+      },
+      "text": " my context or like my cloud md and like the agent.md because it gets so much shit so fast"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:07,600",
+        "to": "00:13:12,320"
+      },
+      "offsets": {
+        "from": 787600,
+        "to": 792320
+      },
+      "text": " uh even on twitter you can yeah i don't know if you saw that but um some people were saying uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:12,960",
+        "to": "00:13:21,120"
+      },
+      "offsets": {
+        "from": 792960,
+        "to": 801120
+      },
+      "text": " for opus 5 direct your skill and uh review your cloud and then the model will"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:22,240",
+        "to": "00:13:28,160"
+      },
+      "offsets": {
+        "from": 802240,
+        "to": 808160
+      },
+      "text": " work better oh that's cool yeah so you need like a big cleanup"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:29,680",
+        "to": "00:13:37,280"
+      },
+      "offsets": {
+        "from": 809680,
+        "to": 817280
+      },
+      "text": " uh yeah so did you use uh opus 5 uh i just started using it yeah but i did it only in"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:37,280",
+        "to": "00:13:42,240"
+      },
+      "offsets": {
+        "from": 817280,
+        "to": 822240
+      },
+      "text": " a terminal i didn't add it to my automation yet because i didn't want to crash everything by"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:42,240",
+        "to": "00:13:50,240"
+      },
+      "offsets": {
+        "from": 822240,
+        "to": 830240
+      },
+      "text": " accident when i was like uh 1600 kilometers away yeah you know what uh what you do like it's what"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:50,240",
+        "to": "00:13:54,320"
+      },
+      "offsets": {
+        "from": 830240,
+        "to": 834320
+      },
+      "text": " when it works don't break it right yeah yeah exactly and just make sure that you have full"
+    },
+    {
+      "timestamps": {
+        "from": "00:13:54,320",
+        "to": "00:14:02,480"
+      },
+      "offsets": {
+        "from": 834320,
+        "to": 842480
+      },
+      "text": " access i did have access because unify has these uh travel routers it is amazing not promoting a"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:02,480",
+        "to": "00:14:09,440"
+      },
+      "offsets": {
+        "from": 842480,
+        "to": 849440
+      },
+      "text": " product but uh i have the entire unify setup at home okay and they have a travel router so"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:09,440",
+        "to": "00:14:15,840"
+      },
+      "offsets": {
+        "from": 849440,
+        "to": 855840
+      },
+      "text": " in the apartment that we rented i just put their uh router uh internet cable into my unify router"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:15,840",
+        "to": "00:14:23,840"
+      },
+      "offsets": {
+        "from": 855840,
+        "to": 863840
+      },
+      "text": " put this power in and it set up a local vp network with the same thing as at home and a vpn connection"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:23,840",
+        "to": "00:14:31,840"
+      },
+      "offsets": {
+        "from": 863840,
+        "to": 871840
+      },
+      "text": " to my home router my firewall oh that's slick so working in spain i was on my dutch ip all the time"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:31,840",
+        "to": "00:14:40,480"
+      },
+      "offsets": {
+        "from": 871840,
+        "to": 880480
+      },
+      "text": " working from my home lab for my home and all the ip filters everything was set up just within five"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:40,480",
+        "to": "00:14:46,000"
+      },
+      "offsets": {
+        "from": 880480,
+        "to": 886000
+      },
+      "text": " minutes that's sick that's pretty cool yeah okay because uh before i was changing my aws"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:47,520",
+        "to": "00:14:55,600"
+      },
+      "offsets": {
+        "from": 887520,
+        "to": 895600
+      },
+      "text": " cloud watch to access my instance from airbnb ip yeah yeah that's not fun i have ip blocks"
+    },
+    {
+      "timestamps": {
+        "from": "00:14:55,600",
+        "to": "00:15:02,720"
+      },
+      "offsets": {
+        "from": 895600,
+        "to": 902720
+      },
+      "text": " everywhere yeah so i just have to travel router i put it in and i get my own wi-fi all the devices"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:02,720",
+        "to": "00:15:09,760"
+      },
+      "offsets": {
+        "from": 902720,
+        "to": 909760
+      },
+      "text": " are instantly connected and i'm using my home ip address that's nice interesting how much does it"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:09,760",
+        "to": "00:15:18,720"
+      },
+      "offsets": {
+        "from": 909760,
+        "to": 918720
+      },
+      "text": " cost the thing costs like 70 or 80 euros but you have to set up your entire unify network at home"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:18,720",
+        "to": "00:15:28,800"
+      },
+      "offsets": {
+        "from": 918720,
+        "to": 928800
+      },
+      "text": " as well and that's a bit more expensive um but again it works perfectly can't you connect it to"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:28,800",
+        "to": "00:15:36,000"
+      },
+      "offsets": {
+        "from": 928800,
+        "to": 936000
+      },
+      "text": " delscall to be part of the network yeah you can but i like this because it just works yeah and"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:36,000",
+        "to": "00:15:47,200"
+      },
+      "offsets": {
+        "from": 936000,
+        "to": 947200
+      },
+      "text": " it's tech so it's cool to have um that that's interesting um okay what about the 5.6 soul like"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:47,200",
+        "to": "00:15:56,480"
+      },
+      "offsets": {
+        "from": 947200,
+        "to": 956480
+      },
+      "text": " what's your feedback on it sometimes it's annoying or is it just me yeah like yeah this morning i was"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:56,480",
+        "to": "00:16:06,160"
+      },
+      "offsets": {
+        "from": 956480,
+        "to": 966160
+      },
+      "text": " mad against it cloud fable just worked perfectly like like a good employee and then 5.6 it just"
+    },
+    {
+      "timestamps": {
+        "from": "00:16:06,160",
+        "to": "00:16:11,840"
+      },
+      "offsets": {
+        "from": 966160,
+        "to": 971840
+      },
+      "text": " does weird stuff and then when you say why are you doing this it didn't give you the task to do it"
+    },
+    {
+      "timestamps": {
+        "from": "00:16:11,840",
+        "to": "00:16:18,000"
+      },
+      "offsets": {
+        "from": 971840,
+        "to": 978000
+      },
+      "text": " and you are now changing a lot of stuff that was working and said oh yeah you're right it's like"
+    },
+    {
+      "timestamps": {
+        "from": "00:16:18,000",
+        "to": "00:16:26,240"
+      },
+      "offsets": {
+        "from": 978000,
+        "to": 986240
+      },
+      "text": " going back in time yeah we're just arguing with the ai all the time this one goes rogue more like"
+    },
+    {
+      "timestamps": {
+        "from": "00:16:27,120",
+        "to": "00:16:35,600"
+      },
+      "offsets": {
+        "from": 987120,
+        "to": 995600
+      },
+      "text": " it um i had the issue with like version like the deployer versioning and it was just instead of"
+    },
+    {
+      "timestamps": {
+        "from": "00:16:36,480",
+        "to": "00:16:42,880"
+      },
+      "offsets": {
+        "from": 996480,
+        "to": 1002880
+      },
+      "text": " increasing the patch she was uh increasing the minor so every deployment had a new minor fucking"
+    },
+    {
+      "timestamps": {
+        "from": "00:16:42,880",
+        "to": "00:16:54,320"
+      },
+      "offsets": {
+        "from": 1002880,
+        "to": 1014320
+      },
+      "text": " release yeah like stuff like that and and oh yeah this morning so uh i had you know like the so i"
+    },
+    {
+      "timestamps": {
+        "from": "00:16:54,320",
+        "to": "00:17:03,520"
+      },
+      "offsets": {
+        "from": 1014320,
+        "to": 1023520
+      },
+      "text": " have um the authorization as a custom like uh just don't ask me the just just go don't ask me for"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:03,520",
+        "to": "00:17:14,960"
+      },
+      "offsets": {
+        "from": 1023520,
+        "to": 1034960
+      },
+      "text": " github authorization so like yes to everything yes and this fucker wrote the whole branch into"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:14,960",
+        "to": "00:17:23,520"
+      },
+      "offsets": {
+        "from": 1034960,
+        "to": 1043520
+      },
+      "text": " uh the temp folder and the temp folder doesn't have the authorization of um the authorization"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:23,520",
+        "to": "00:17:30,480"
+      },
+      "offsets": {
+        "from": 1043520,
+        "to": 1050480
+      },
+      "text": " like the perms yeah so it was asking me to use github come online like github pull request"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:30,480",
+        "to": "00:17:37,040"
+      },
+      "offsets": {
+        "from": 1050480,
+        "to": 1057040
+      },
+      "text": " create the github read github read it was asking me to confirm a github read i said bro stop doing"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:37,040",
+        "to": "00:17:45,040"
+      },
+      "offsets": {
+        "from": 1057040,
+        "to": 1065040
+      },
+      "text": " that and uh 30 minutes after then i found the you know in the block of files edited it was all in"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:45,040",
+        "to": "00:17:52,480"
+      },
+      "offsets": {
+        "from": 1065040,
+        "to": 1072480
+      },
+      "text": " prior in temp temp folder say why the fuck did you do that yeah and i think this is one of the"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:52,480",
+        "to": "00:17:58,320"
+      },
+      "offsets": {
+        "from": 1072480,
+        "to": 1078320
+      },
+      "text": " perfect examples why you need us just yeah because we understand what what goes wrong yeah i don't"
+    },
+    {
+      "timestamps": {
+        "from": "00:17:58,320",
+        "to": "00:18:02,720"
+      },
+      "offsets": {
+        "from": 1078320,
+        "to": 1082720
+      },
+      "text": " know exactly other people just have to delete everything and restart and hope that it doesn't"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:02,720",
+        "to": "00:18:06,480"
+      },
+      "offsets": {
+        "from": 1082720,
+        "to": 1086480
+      },
+      "text": " make the same mistake and eventually after two days of testing they get it working"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:07,360",
+        "to": "00:18:14,080"
+      },
+      "offsets": {
+        "from": 1087360,
+        "to": 1094080
+      },
+      "text": " um we just know why it's not working yeah no exactly i mean you're not never like"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:15,120",
+        "to": "00:18:19,920"
+      },
+      "offsets": {
+        "from": 1095120,
+        "to": 1099920
+      },
+      "text": " uh you never know if you are you are going to find the bug solution in the next five minutes"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:19,920",
+        "to": "00:18:24,880"
+      },
+      "offsets": {
+        "from": 1099920,
+        "to": 1104880
+      },
+      "text": " or five hours right yeah but knowing what you're doing and then debugging and asking the right"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:24,880",
+        "to": "00:18:28,720"
+      },
+      "offsets": {
+        "from": 1104880,
+        "to": 1108720
+      },
+      "text": " questions that helps a lot oh but uh i mean"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:31,600",
+        "to": "00:18:39,120"
+      },
+      "offsets": {
+        "from": 1111600,
+        "to": 1119120
+      },
+      "text": " those instruction file like the cloud and the agent.md we are like the models are still not"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:39,120",
+        "to": "00:18:48,160"
+      },
+      "offsets": {
+        "from": 1119120,
+        "to": 1128160
+      },
+      "text": " listening to it nope nuts no but that's why i like review rounds because eventually i force uh in a"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:48,160",
+        "to": "00:18:57,600"
+      },
+      "offsets": {
+        "from": 1128160,
+        "to": 1137600
+      },
+      "text": " first review round to check everything versus the agents.md and the readme.md files oh so even when"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:58,640",
+        "to": "00:19:06,800"
+      },
+      "offsets": {
+        "from": 1138640,
+        "to": 1146800
+      },
+      "text": " opus does the first coding even if it skips some parts then i have a rule in the first uh checking"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:06,800",
+        "to": "00:19:13,280"
+      },
+      "offsets": {
+        "from": 1146800,
+        "to": 1153280
+      },
+      "text": " round from codex that it checks the readme the agents and everything and it compares it to what"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:13,280",
+        "to": "00:19:20,000"
+      },
+      "offsets": {
+        "from": 1153280,
+        "to": 1160000
+      },
+      "text": " has been coded and that has been going good so far because i log um the conversation between the two"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:20,000",
+        "to": "00:19:28,240"
+      },
+      "offsets": {
+        "from": 1160000,
+        "to": 1168240
+      },
+      "text": " agents i just tell them to write down all the findings and then opus has to reply on each finding"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:28,960",
+        "to": "00:19:33,440"
+      },
+      "offsets": {
+        "from": 1168960,
+        "to": 1173440
+      },
+      "text": " and why he thinks it's correct why he thinks it's not correct so i can read back the entire"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:33,440",
+        "to": "00:19:41,360"
+      },
+      "offsets": {
+        "from": 1173440,
+        "to": 1181360
+      },
+      "text": " conversation they had and it's really funny to see they even say you are wrong but like"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:42,000",
+        "to": "00:19:49,520"
+      },
+      "offsets": {
+        "from": 1182000,
+        "to": 1189520
+      },
+      "text": " all of that shit goes to the context window no i just write it in comments under the issue"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:49,520",
+        "to": "00:19:54,960"
+      },
+      "offsets": {
+        "from": 1189520,
+        "to": 1194960
+      },
+      "text": " in github oh yeah in the thread right but like the whole conversation between codex"
+    },
+    {
+      "timestamps": {
+        "from": "00:19:54,960",
+        "to": "00:20:01,600"
+      },
+      "offsets": {
+        "from": 1194960,
+        "to": 1201600
+      },
+      "text": " and cloud is it not going into the context of your session yeah it is but it's max yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:01,600",
+        "to": "00:20:10,000"
+      },
+      "offsets": {
+        "from": 1201600,
+        "to": 1210000
+      },
+      "text": " but it's max five five rounds and then i just clear everything okay so it's per task yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:11,040",
+        "to": "00:20:17,440"
+      },
+      "offsets": {
+        "from": 1211040,
+        "to": 1217440
+      },
+      "text": " okay okay that makes sense yeah okay so you have a thread on on github or in the md file uh yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:17,440",
+        "to": "00:20:23,120"
+      },
+      "offsets": {
+        "from": 1217440,
+        "to": 1223120
+      },
+      "text": " well they do it in md file but eventually they write it in a comment on github in the issue so"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:23,120",
+        "to": "00:20:28,160"
+      },
+      "offsets": {
+        "from": 1223120,
+        "to": 1228160
+      },
+      "text": " that i can see the issue what was written down and see the entire conversation yeah that makes sense"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:29,440",
+        "to": "00:20:35,840"
+      },
+      "offsets": {
+        "from": 1229440,
+        "to": 1235840
+      },
+      "text": " i love i love github look for tracking like the agent stuff yeah i just hope they keep it as a"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:35,840",
+        "to": "00:20:42,320"
+      },
+      "offsets": {
+        "from": 1235840,
+        "to": 1242320
+      },
+      "text": " good software because it had some issues lately last week he had like a uh 500 there or like i"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:42,320",
+        "to": "00:20:48,000"
+      },
+      "offsets": {
+        "from": 1242320,
+        "to": 1248000
+      },
+      "text": " was not able to use github for i think half a day or a couple of implementation like yeah i can't"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:48,000",
+        "to": "00:20:55,200"
+      },
+      "offsets": {
+        "from": 1248000,
+        "to": 1255200
+      },
+      "text": " read that's a big issue bro like github goes down there is no more software in the world yeah and"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:55,200",
+        "to": "00:21:00,080"
+      },
+      "offsets": {
+        "from": 1255200,
+        "to": 1260080
+      },
+      "text": " the weird thing is almost everybody uses it and when you speak to somebody using gitlab or"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:00,080",
+        "to": "00:21:04,560"
+      },
+      "offsets": {
+        "from": 1260080,
+        "to": 1264560
+      },
+      "text": " something they say yeah we use gitlab but it doesn't have all the options get a pass"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:05,440",
+        "to": "00:21:12,560"
+      },
+      "offsets": {
+        "from": 1265440,
+        "to": 1272560
+      },
+      "text": " yeah no way yeah yeah it's yeah i know it's uh but like i also wants to build its own"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:12,560",
+        "to": "00:21:20,160"
+      },
+      "offsets": {
+        "from": 1272560,
+        "to": 1280160
+      },
+      "text": " agentic competition to github yeah so elon is building it well yeah we'll see how it goes"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:20,720",
+        "to": "00:21:29,120"
+      },
+      "offsets": {
+        "from": 1280720,
+        "to": 1289120
+      },
+      "text": " but uh okay so we talk about 4.65 febble five febble bro febble five oh uh it's going away in"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:30,080",
+        "to": "00:21:35,840"
+      },
+      "offsets": {
+        "from": 1290080,
+        "to": 1295840
+      },
+      "text": " seven days yeah going away we're gonna keep it for another seven days"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:39,200",
+        "to": "00:21:46,560"
+      },
+      "offsets": {
+        "from": 1299200,
+        "to": 1306560
+      },
+      "text": " no my joke is falling because they keep saying that it was going away again and again three times"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:46,560",
+        "to": "00:21:53,040"
+      },
+      "offsets": {
+        "from": 1306560,
+        "to": 1313040
+      },
+      "text": " but we knew it yeah as soon as they have competition they won't if they delete it from"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:53,040",
+        "to": "00:21:58,080"
+      },
+      "offsets": {
+        "from": 1313040,
+        "to": 1318080
+      },
+      "text": " subscription they will lose people and they use they lose subscribers no for sure but still like"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:58,960",
+        "to": "00:22:06,480"
+      },
+      "offsets": {
+        "from": 1318960,
+        "to": 1326480
+      },
+      "text": " cloud looks better than 5.6 right like yeah for for all the front end tasks as soon as i"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:07,040",
+        "to": "00:22:15,680"
+      },
+      "offsets": {
+        "from": 1327040,
+        "to": 1335680
+      },
+      "text": " i start talking to codex uh i'm getting i'm getting anxiety because i know the front will be"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:15,680",
+        "to": "00:22:21,760"
+      },
+      "offsets": {
+        "from": 1335680,
+        "to": 1341760
+      },
+      "text": " shit but i also don't get it it's like they have been telling us so many times fable went out"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:21,760",
+        "to": "00:22:27,120"
+      },
+      "offsets": {
+        "from": 1341760,
+        "to": 1347120
+      },
+      "text": " and you only still only get 50 percent of your subscription in fable tokens yes and now they"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:27,120",
+        "to": "00:22:35,600"
+      },
+      "offsets": {
+        "from": 1347120,
+        "to": 1355600
+      },
+      "text": " released opus 5 and on some parts fable is better but i'm coding opus is better and you can just use"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:35,600",
+        "to": "00:22:43,600"
+      },
+      "offsets": {
+        "from": 1355600,
+        "to": 1363600
+      },
+      "text": " it at half the price 100 of your subscription so what's the use of fable maybe some cyber stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:43,600",
+        "to": "00:22:51,600"
+      },
+      "offsets": {
+        "from": 1363600,
+        "to": 1371600
+      },
+      "text": " that's all of this basic uh yeah all of the stuff we don't do but for coding like crud apps it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:51,600",
+        "to": "00:22:59,360"
+      },
+      "offsets": {
+        "from": 1371600,
+        "to": 1379360
+      },
+      "text": " fine yeah but even if you use fable to do it after you you did coding you just do it for a check"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:00,240",
+        "to": "00:23:06,080"
+      },
+      "offsets": {
+        "from": 1380240,
+        "to": 1386080
+      },
+      "text": " and you can just have fable check everything and you're still within your limit easily oh"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:06,080",
+        "to": "00:23:12,480"
+      },
+      "offsets": {
+        "from": 1386080,
+        "to": 1392480
+      },
+      "text": " yeah like i'm not i'm not implementing anything with fable fable is too precious like it's only"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:12,480",
+        "to": "00:23:26,160"
+      },
+      "offsets": {
+        "from": 1392480,
+        "to": 1406160
+      },
+      "text": " doing the the planning right yeah and uh yeah and the execution on 5.6 that's all right okay so i"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:26,160",
+        "to": "00:23:32,960"
+      },
+      "offsets": {
+        "from": 1406160,
+        "to": 1412960
+      },
+      "text": " can say save my cloud subscription but also like we are we have a bonus right now on the session"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:32,960",
+        "to": "00:23:40,960"
+      },
+      "offsets": {
+        "from": 1412960,
+        "to": 1420960
+      },
+      "text": " right so we are like 50 percent more so we need to like until the august of the end of the week"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:41,680",
+        "to": "00:23:48,160"
+      },
+      "offsets": {
+        "from": 1421680,
+        "to": 1428160
+      },
+      "text": " we have rotation but after that limitation or going down what's going on with like the the"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:50,160",
+        "to": "00:23:54,160"
+      },
+      "offsets": {
+        "from": 1430160,
+        "to": 1434160
+      },
+      "text": " the deal with ellen are they not you're supposed to have like more compute now"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:54,160",
+        "to": "00:24:02,000"
+      },
+      "offsets": {
+        "from": 1434160,
+        "to": 1442000
+      },
+      "text": " yeah i damn it doesn't it they have a different uh a different promotion every time yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:02,640",
+        "to": "00:24:08,320"
+      },
+      "offsets": {
+        "from": 1442640,
+        "to": 1448320
+      },
+      "text": " oh what what every time they have a different promotion so now they are saying you have it"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:08,320",
+        "to": "00:24:15,440"
+      },
+      "offsets": {
+        "from": 1448320,
+        "to": 1455440
+      },
+      "text": " until august but before they had it as well i just keep keep getting free resets i don't know"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:15,440",
+        "to": "00:24:23,200"
+      },
+      "offsets": {
+        "from": 1455440,
+        "to": 1463200
+      },
+      "text": " but i always get enough tokens so i don't mind and uh reset on codex like uh on entropic side"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:23,200",
+        "to": "00:24:27,920"
+      },
+      "offsets": {
+        "from": 1463200,
+        "to": 1467920
+      },
+      "text": " i'm waiting for them like they need the button they need a better yeah yeah but they will they"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:27,920",
+        "to": "00:24:32,800"
+      },
+      "offsets": {
+        "from": 1467920,
+        "to": 1472800
+      },
+      "text": " have to compete so they will add something eventually yeah the only thing i still haven't"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:32,800",
+        "to": "00:24:39,440"
+      },
+      "offsets": {
+        "from": 1472800,
+        "to": 1479440
+      },
+      "text": " tried was the new grok oh yes uh now we have it in europe like it has been available um"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:41,200",
+        "to": "00:24:50,080"
+      },
+      "offsets": {
+        "from": 1481200,
+        "to": 1490080
+      },
+      "text": " uh last week i think so we had the two two weeks delay on grok um yeah i i have it i need to run"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:50,080",
+        "to": "00:24:59,120"
+      },
+      "offsets": {
+        "from": 1490080,
+        "to": 1499120
+      },
+      "text": " it it's it's included in the meta bar uh monitoring so i have a backup ai stuff but i don't know yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:24:59,120",
+        "to": "00:25:05,440"
+      },
+      "offsets": {
+        "from": 1499120,
+        "to": 1505440
+      },
+      "text": " we need to test it but um yeah but if it can do a a final check or whatever even if you use it"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:05,440",
+        "to": "00:25:11,280"
+      },
+      "offsets": {
+        "from": 1505440,
+        "to": 1511280
+      },
+      "text": " for simple things maybe it finds more than codex does or something different that will be awesome"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:11,840",
+        "to": "00:25:20,080"
+      },
+      "offsets": {
+        "from": 1511840,
+        "to": 1520080
+      },
+      "text": " what was the benchmark on 4.5 it was good yeah benchmark 4.5 grass is"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:23,040",
+        "to": "00:25:30,960"
+      },
+      "offsets": {
+        "from": 1523040,
+        "to": 1530960
+      },
+      "text": " oh 4.5 grok because i'm gonna get opus uh tech man's studio"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:34,000",
+        "to": "00:25:35,040"
+      },
+      "offsets": {
+        "from": 1534000,
+        "to": 1535040
+      },
+      "text": " tank path"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:40,080",
+        "to": "00:25:44,880"
+      },
+      "offsets": {
+        "from": 1540080,
+        "to": 1544880
+      },
+      "text": " uh okay what the fuck is benchmark i don't think i'm gonna use that"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:46,320",
+        "to": "00:25:55,360"
+      },
+      "offsets": {
+        "from": 1546320,
+        "to": 1555360
+      },
+      "text": " oh yeah uh grok is way cheaper though than uh 4.8 at the time uh artificial artificial analysis yes"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:58,240",
+        "to": "00:26:05,200"
+      },
+      "offsets": {
+        "from": 1558240,
+        "to": 1565200
+      },
+      "text": " intelligence so opus five faber five yeah that was fun oh it's just outside of the window yes"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:06,640",
+        "to": "00:26:12,720"
+      },
+      "offsets": {
+        "from": 1566640,
+        "to": 1572720
+      },
+      "text": " perfect claud is one point above faber five opus five max"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:15,920",
+        "to": "00:26:22,800"
+      },
+      "offsets": {
+        "from": 1575920,
+        "to": 1582800
+      },
+      "text": " yeah so it's almost the same quality kimi three yeah okay open source model that's gonna be fun"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:22,800",
+        "to": "00:26:27,760"
+      },
+      "offsets": {
+        "from": 1582800,
+        "to": 1587760
+      },
+      "text": " too yeah but did you see how much ram you needed for the kimi tree oh yeah you know but you need"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:28,640",
+        "to": "00:26:34,240"
+      },
+      "offsets": {
+        "from": 1588640,
+        "to": 1594240
+      },
+      "text": " open source model doesn't need it's gonna run on your computer right it just need it means it's it"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:34,240",
+        "to": "00:26:41,200"
+      },
+      "offsets": {
+        "from": 1594240,
+        "to": 1601200
+      },
+      "text": " it means it's coming from china yeah it is but i i think they block new subscribers really you're"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:41,200",
+        "to": "00:26:49,360"
+      },
+      "offsets": {
+        "from": 1601200,
+        "to": 1609360
+      },
+      "text": " not getting it yeah because eventually uh when cloud was up almost at full usage and they wanted"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:49,360",
+        "to": "00:26:56,800"
+      },
+      "offsets": {
+        "from": 1609360,
+        "to": 1616800
+      },
+      "text": " to keep selling subscription they just halved all the capacity from everybody and kimi said okay we"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:56,800",
+        "to": "00:27:02,720"
+      },
+      "offsets": {
+        "from": 1616800,
+        "to": 1622720
+      },
+      "text": " are almost at full capacity we block all new people coming in so if you have a subscription"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:02,720",
+        "to": "00:27:08,720"
+      },
+      "offsets": {
+        "from": 1622720,
+        "to": 1628720
+      },
+      "text": " you're lucky and otherwise you're out of luck you can't get one so i don't know if they opened it by"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:08,720",
+        "to": "00:27:17,280"
+      },
+      "offsets": {
+        "from": 1628720,
+        "to": 1637280
+      },
+      "text": " now but this shows a big difference in how they treat it damn oh yeah kimi just ended premium ai"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:17,280",
+        "to": "00:27:24,160"
+      },
+      "offsets": {
+        "from": 1637280,
+        "to": 1644160
+      },
+      "text": " subscription what the fuck that was okay wait that was one week ago yeah it was one i don't know if"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:24,160",
+        "to": "00:27:30,400"
+      },
+      "offsets": {
+        "from": 1644160,
+        "to": 1650400
+      },
+      "text": " they upgraded the usage at this moment uh has received far more love than we expected and our"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:30,400",
+        "to": "00:27:36,560"
+      },
+      "offsets": {
+        "from": 1650400,
+        "to": 1656560
+      },
+      "text": " gps are feeling it over the past 48 hours the moon has pushed close to the limit of occurring"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:36,560",
+        "to": "00:27:42,800"
+      },
+      "offsets": {
+        "from": 1656560,
+        "to": 1662800
+      },
+      "text": " capacity to protect the experience of existing subscribers we are temporarily posing new"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:42,800",
+        "to": "00:27:56,640"
+      },
+      "offsets": {
+        "from": 1662800,
+        "to": 1676640
+      },
+      "text": " subscription and practice compute for current members wow jesus uh gimme ai yeah i think this"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:56,640",
+        "to": "00:28:04,960"
+      },
+      "offsets": {
+        "from": 1676640,
+        "to": 1684960
+      },
+      "text": " is good they just give give you what you pay for that's perfect okay uh where's the okay again"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:06,560",
+        "to": "00:28:10,400"
+      },
+      "offsets": {
+        "from": 1686560,
+        "to": 1690400
+      },
+      "text": " don't even have fucking uh kimi pricing"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:14,000",
+        "to": "00:28:18,000"
+      },
+      "offsets": {
+        "from": 1694000,
+        "to": 1698000
+      },
+      "text": " no there is no pricing what the heck yeah let me check"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:28,560",
+        "to": "00:28:35,040"
+      },
+      "offsets": {
+        "from": 1708560,
+        "to": 1715040
+      },
+      "text": " i think you have to sign up first yeah and i didn't sign up yet but this shows that if you"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:35,040",
+        "to": "00:28:41,520"
+      },
+      "offsets": {
+        "from": 1715040,
+        "to": 1721520
+      },
+      "text": " want to have an open model that's going good you better get a subscription yeah and then just pay"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:41,520",
+        "to": "00:28:46,720"
+      },
+      "offsets": {
+        "from": 1721520,
+        "to": 1726720
+      },
+      "text": " for it because once you're out you're out and i even don't know if it's possible to upgrade"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:48,240",
+        "to": "00:28:53,360"
+      },
+      "offsets": {
+        "from": 1728240,
+        "to": 1733360
+      },
+      "text": " oh this is it why am i in italian"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:55,920",
+        "to": "00:29:01,680"
+      },
+      "offsets": {
+        "from": 1735920,
+        "to": 1741680
+      },
+      "text": " allegrito i like what wait is that is that the what the whole the name they are playing"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:02,320",
+        "to": "00:29:10,320"
+      },
+      "offsets": {
+        "from": 1742320,
+        "to": 1750320
+      },
+      "text": " yeah because you have english below it what wait what yeah yeah this is good"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:11,280",
+        "to": "00:29:13,920"
+      },
+      "offsets": {
+        "from": 1751280,
+        "to": 1753920
+      },
+      "text": " okay and you can just say join waitlist"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:16,960",
+        "to": "00:29:26,800"
+      },
+      "offsets": {
+        "from": 1756960,
+        "to": 1766800
+      },
+      "text": " where oh fuck you have scroll like five times over it yeah it's a white button damn really"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:28,800",
+        "to": "00:29:36,160"
+      },
+      "offsets": {
+        "from": 1768800,
+        "to": 1776160
+      },
+      "text": " damn well yeah i was talked on the fucking allegro stuff yeah why are you doing setting music stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:36,160",
+        "to": "00:29:44,400"
+      },
+      "offsets": {
+        "from": 1776160,
+        "to": 1784400
+      },
+      "text": " because it's possible okay yeah why not uh so even on the annually plan you have to join a waitlist"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:44,400",
+        "to": "00:29:53,200"
+      },
+      "offsets": {
+        "from": 1784400,
+        "to": 1793200
+      },
+      "text": " yes okay fair enough new membership plan coming yeah we really need more compute"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:54,480",
+        "to": "00:30:01,680"
+      },
+      "offsets": {
+        "from": 1794480,
+        "to": 1801680
+      },
+      "text": " yeah yeah yeah we if you want to keep scaling we do that's crazy i mean yeah so that that"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:01,680",
+        "to": "00:30:09,360"
+      },
+      "offsets": {
+        "from": 1801680,
+        "to": 1809360
+      },
+      "text": " means like even the inference battle like uh elon musk is right then because uh that's that's the"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:09,360",
+        "to": "00:30:18,240"
+      },
+      "offsets": {
+        "from": 1809360,
+        "to": 1818240
+      },
+      "text": " game in town because nobody can offer the best model to the people at full capacity like no but"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:18,240",
+        "to": "00:30:24,480"
+      },
+      "offsets": {
+        "from": 1818240,
+        "to": 1824480
+      },
+      "text": " for the easy things you can do it locally i'm using olama on a 16 gigabyte ram just for chatting"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:24,480",
+        "to": "00:30:32,080"
+      },
+      "offsets": {
+        "from": 1824480,
+        "to": 1832080
+      },
+      "text": " communicating and giving me answers on the open progress and everything yeah really you can only"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:32,080",
+        "to": "00:30:38,640"
+      },
+      "offsets": {
+        "from": 1832080,
+        "to": 1838640
+      },
+      "text": " say hello and then maybe it works okay it's like i have fable connected to my mcmini but also i have"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:38,640",
+        "to": "00:30:44,400"
+      },
+      "offsets": {
+        "from": 1838640,
+        "to": 1844400
+      },
+      "text": " olama it's connected to discord and if i want to know how many tasks are open what the status of"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:44,400",
+        "to": "00:30:51,920"
+      },
+      "offsets": {
+        "from": 1844400,
+        "to": 1851920
+      },
+      "text": " a task is and everything but olama also builds a database of every task that i've put in so"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:52,560",
+        "to": "00:30:59,680"
+      },
+      "offsets": {
+        "from": 1852560,
+        "to": 1859680
+      },
+      "text": " it has uh like a database in the back end and i can just say hey okay um give me an overview"
+    },
+    {
+      "timestamps": {
+        "from": "00:30:59,680",
+        "to": "00:31:06,160"
+      },
+      "offsets": {
+        "from": 1859680,
+        "to": 1866160
+      },
+      "text": " of what we did for this customer on this task okay it'll give me all the tasks which which model do"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:06,160",
+        "to": "00:31:15,920"
+      },
+      "offsets": {
+        "from": 1866160,
+        "to": 1875920
+      },
+      "text": " you run on olama um i don't know fable chose it oh maybe you have mistral you are one of the user of"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:15,920",
+        "to": "00:31:21,440"
+      },
+      "offsets": {
+        "from": 1875920,
+        "to": 1881440
+      },
+      "text": " mistral and you don't know it i then i don't know it but it works really good and then it is on the"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:21,440",
+        "to": "00:31:27,760"
+      },
+      "offsets": {
+        "from": 1881440,
+        "to": 1887760
+      },
+      "text": " same mcmini yeah it's like a local vector database that's it yeah okay it's like the equivalent of"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:27,760",
+        "to": "00:31:35,440"
+      },
+      "offsets": {
+        "from": 1887760,
+        "to": 1895440
+      },
+      "text": " your eco uh model basically yeah and that's good enough and for those small questions just getting"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:35,440",
+        "to": "00:31:47,120"
+      },
+      "offsets": {
+        "from": 1895440,
+        "to": 1907120
+      },
+      "text": " status updates i save all those tokens yeah oh now warps onto like yeah i mean uh yeah if i if i"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:47,120",
+        "to": "00:31:55,840"
+      },
+      "offsets": {
+        "from": 1907120,
+        "to": 1915840
+      },
+      "text": " use all of my cloud i can always have olama or slash croc uh alternative stuff um but okay no"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:55,840",
+        "to": "00:32:03,200"
+      },
+      "offsets": {
+        "from": 1915840,
+        "to": 1923200
+      },
+      "text": " yeah we were talking about grok and on the benchmark yeah it's uh so kimi three kimi yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:03,200",
+        "to": "00:32:09,680"
+      },
+      "offsets": {
+        "from": 1923200,
+        "to": 1929680
+      },
+      "text": " kimi three and just after yeah after yeah i would just say even if you don't want it just join the"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:09,680",
+        "to": "00:32:14,240"
+      },
+      "offsets": {
+        "from": 1929680,
+        "to": 1934240
+      },
+      "text": " wait list because you never know when they are scaling up and if they do it by the time that"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:14,240",
+        "to": "00:32:24,480"
+      },
+      "offsets": {
+        "from": 1934240,
+        "to": 1944480
+      },
+      "text": " they make an even better model then you wish you had joined it in time that's nuts that's nuts uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:24,480",
+        "to": "00:32:30,400"
+      },
+      "offsets": {
+        "from": 1944480,
+        "to": 1950400
+      },
+      "text": " new oh yeah like nvidia is starting to do some uh models too well you have to start somewhere"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:31,520",
+        "to": "00:32:39,360"
+      },
+      "offsets": {
+        "from": 1951520,
+        "to": 1959360
+      },
+      "text": " yeah uh tuck and muse yeah also like the same day uh mark uh the camera like dropped the"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:40,320",
+        "to": "00:32:45,840"
+      },
+      "offsets": {
+        "from": 1960320,
+        "to": 1965840
+      },
+      "text": " facebook model did you try it nope yeah me neither do people even want to try a facebook model"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:45,840",
+        "to": "00:32:52,240"
+      },
+      "offsets": {
+        "from": 1965840,
+        "to": 1972240
+      },
+      "text": " because facebook is known for selling all your data yeah like so why give them even more on ai"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:53,280",
+        "to": "00:33:01,280"
+      },
+      "offsets": {
+        "from": 1973280,
+        "to": 1981280
+      },
+      "text": " exactly all right and again like entropic and codex are in my workflow now so i don't have a"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:01,280",
+        "to": "00:33:07,840"
+      },
+      "offsets": {
+        "from": 1981280,
+        "to": 1987840
+      },
+      "text": " point i'm not even using grok and i have installed it and i don't even talk to it so well i think"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:07,840",
+        "to": "00:33:13,520"
+      },
+      "offsets": {
+        "from": 1987840,
+        "to": 1993520
+      },
+      "text": " that's the thing right once the setup in your entire infrastructure and you're making money so"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:13,520",
+        "to": "00:33:18,480"
+      },
+      "offsets": {
+        "from": 1993520,
+        "to": 1998480
+      },
+      "text": " you don't care that it costs like a few hundred dollars then they are not leaving unless they have"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:18,480",
+        "to": "00:33:25,440"
+      },
+      "offsets": {
+        "from": 1998480,
+        "to": 2005440
+      },
+      "text": " a big fallback and other models are much better yeah i mean maybe there is a play for open source"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:25,440",
+        "to": "00:33:32,240"
+      },
+      "offsets": {
+        "from": 2005440,
+        "to": 2012240
+      },
+      "text": " model i don't know but okay so yeah about the cost per task that's nuts yeah that's crazy"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:33,840",
+        "to": "00:33:40,880"
+      },
+      "offsets": {
+        "from": 2013840,
+        "to": 2020880
+      },
+      "text": " uh why is that so expensive like it's twice 5.6 to run cloud opus max"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:42,240",
+        "to": "00:33:47,120"
+      },
+      "offsets": {
+        "from": 2022240,
+        "to": 2027120
+      },
+      "text": " than 5.6 max like what yeah but this is just the ai tokens compared"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:48,400",
+        "to": "00:33:54,240"
+      },
+      "offsets": {
+        "from": 2028400,
+        "to": 2034240
+      },
+      "text": " yeah true and you get like a bigger multiplier in your subscription so eventually for you it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:33:54,240",
+        "to": "00:34:01,360"
+      },
+      "offsets": {
+        "from": 2034240,
+        "to": 2041360
+      },
+      "text": " cheaper yeah and also like the cost wait our weighted average cost usd pair intelligence"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:01,360",
+        "to": "00:34:09,520"
+      },
+      "offsets": {
+        "from": 2041360,
+        "to": 2049520
+      },
+      "text": " tasks so laura is better yeah thank you um no that's the cost of the time so it's not the token"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:09,520",
+        "to": "00:34:16,320"
+      },
+      "offsets": {
+        "from": 2049520,
+        "to": 2056320
+      },
+      "text": " used anyway it's just like how much it costs to do one task right oh so it's all relative it's not"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:16,320",
+        "to": "00:34:23,280"
+      },
+      "offsets": {
+        "from": 2056320,
+        "to": 2063280
+      },
+      "text": " the cost per token yeah i thought it was for the token usage for the same task and then comparing"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:23,280",
+        "to": "00:34:28,800"
+      },
+      "offsets": {
+        "from": 2063280,
+        "to": 2068800
+      },
+      "text": " it on different models yeah but wait that doesn't make sense because like deep seek why not everyone"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:28,800",
+        "to": "00:34:35,840"
+      },
+      "offsets": {
+        "from": 2068800,
+        "to": 2075840
+      },
+      "text": " is using deep seek if we have a task and cost two bucks with opus everyone should use deep seek yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:35,840",
+        "to": "00:34:42,000"
+      },
+      "offsets": {
+        "from": 2075840,
+        "to": 2082000
+      },
+      "text": " but don't you think that for sure companies in the us here the deep seek is from china and they just"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:42,000",
+        "to": "00:34:47,440"
+      },
+      "offsets": {
+        "from": 2082000,
+        "to": 2087440
+      },
+      "text": " don't trust it that there is a huge discussion right now on twitter about that because um"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:48,400",
+        "to": "00:34:54,800"
+      },
+      "offsets": {
+        "from": 2088400,
+        "to": 2094800
+      },
+      "text": " right did you have you seen like the attack from uh the next model from open ai that hacked again"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:54,800",
+        "to": "00:35:02,000"
+      },
+      "offsets": {
+        "from": 2094800,
+        "to": 2102000
+      },
+      "text": " face yeah and then you again faced uh again face use a chinese model like open source because they"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:02,000",
+        "to": "00:35:11,280"
+      },
+      "offsets": {
+        "from": 2102000,
+        "to": 2111280
+      },
+      "text": " were not able to use fable or 5.6 because it was uh too much of a quad rail stuff oh i missed that"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:11,280",
+        "to": "00:35:17,840"
+      },
+      "offsets": {
+        "from": 2111280,
+        "to": 2117840
+      },
+      "text": " one i just i only read that open ai had a model going rogue and hacking logging face yes and they"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:17,840",
+        "to": "00:35:25,680"
+      },
+      "offsets": {
+        "from": 2117840,
+        "to": 2125680
+      },
+      "text": " didn't even notice it in the first few days yes and i didn't check anything further and the the"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:25,680",
+        "to": "00:35:32,640"
+      },
+      "offsets": {
+        "from": 2125680,
+        "to": 2132640
+      },
+      "text": " rest of the story the last uh 20 of the story i missed it i tried to use fable and then there's"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:32,640",
+        "to": "00:35:38,960"
+      },
+      "offsets": {
+        "from": 2132640,
+        "to": 2138960
+      },
+      "text": " fable told them oh you know it's a security uh go back to 4.8 and then 4.8 was not able to uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:38,960",
+        "to": "00:35:46,320"
+      },
+      "offsets": {
+        "from": 2138960,
+        "to": 2146320
+      },
+      "text": " attack them that would defend them properly so they installed kimi uh three or two maybe whatever"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:46,320",
+        "to": "00:35:50,240"
+      },
+      "offsets": {
+        "from": 2146320,
+        "to": 2150240
+      },
+      "text": " one of the kimi instance and then they were able to defend themselves again the attack"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:51,120",
+        "to": "00:36:00,320"
+      },
+      "offsets": {
+        "from": 2151120,
+        "to": 2160320
+      },
+      "text": " oh that's cool they use a chinese model to defend themselves against a u.s model yeah that was"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:00,320",
+        "to": "00:36:07,600"
+      },
+      "offsets": {
+        "from": 2160320,
+        "to": 2167600
+      },
+      "text": " supposed to help them yeah that seems fun yeah i think they should just tell open ai we want"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:07,600",
+        "to": "00:36:15,040"
+      },
+      "offsets": {
+        "from": 2167600,
+        "to": 2175040
+      },
+      "text": " a full year of free tokens for this shit yeah exactly i mean yeah click one two uh three more"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:15,040",
+        "to": "00:36:22,000"
+      },
+      "offsets": {
+        "from": 2175040,
+        "to": 2182000
+      },
+      "text": " times reset button please yeah but eventually this shows that you need some good devs to understand"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:22,800",
+        "to": "00:36:30,240"
+      },
+      "offsets": {
+        "from": 2182800,
+        "to": 2190240
+      },
+      "text": " how to use models and everything and to defend your company because it's gonna be fun yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:30,240",
+        "to": "00:36:37,920"
+      },
+      "offsets": {
+        "from": 2190240,
+        "to": 2197920
+      },
+      "text": " this is going wild do you still have a clear vision of the architecture of all of the projects"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:37,920",
+        "to": "00:36:45,120"
+      },
+      "offsets": {
+        "from": 2197920,
+        "to": 2205120
+      },
+      "text": " that you've encoded in the next in the last 12 months um yes and no yeah would you be able to"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:45,120",
+        "to": "00:36:54,240"
+      },
+      "offsets": {
+        "from": 2205120,
+        "to": 2214240
+      },
+      "text": " stop using ai and keep working yes well except for two projects because i did two test projects"
+    },
+    {
+      "timestamps": {
+        "from": "00:36:54,240",
+        "to": "00:37:00,320"
+      },
+      "offsets": {
+        "from": 2214240,
+        "to": 2220320
+      },
+      "text": " uh where i had them build a website with sas product and i said everything needs to be ai"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:00,320",
+        "to": "00:37:07,360"
+      },
+      "offsets": {
+        "from": 2220320,
+        "to": 2227360
+      },
+      "text": " built i don't want to do anything um and every time that i have tokens left in my account yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:07,360",
+        "to": "00:37:12,640"
+      },
+      "offsets": {
+        "from": 2227360,
+        "to": 2232640
+      },
+      "text": " i just burn them on those projects but they are not like my main focus but on everything"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:12,640",
+        "to": "00:37:18,560"
+      },
+      "offsets": {
+        "from": 2232640,
+        "to": 2238560
+      },
+      "text": " i do for a customer i still do all the writing down of the the projects at least i discuss them"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:18,560",
+        "to": "00:37:23,040"
+      },
+      "offsets": {
+        "from": 2238560,
+        "to": 2243040
+      },
+      "text": " with the ai i read everything and i know how the infrastructure works all right okay yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:23,840",
+        "to": "00:37:28,320"
+      },
+      "offsets": {
+        "from": 2243840,
+        "to": 2248320
+      },
+      "text": " more sense yeah like uh you your customers are doing like half a million a day so"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:29,120",
+        "to": "00:37:36,560"
+      },
+      "offsets": {
+        "from": 2249120,
+        "to": 2256560
+      },
+      "text": " yeah they need to be secure yeah and uh where when do you think you will stop looking at the card"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:37,920",
+        "to": "00:37:45,760"
+      },
+      "offsets": {
+        "from": 2257920,
+        "to": 2265760
+      },
+      "text": " uh i don't think i will do it in the next two years yeah of course you keep trusting your ai"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:45,760",
+        "to": "00:37:52,000"
+      },
+      "offsets": {
+        "from": 2265760,
+        "to": 2272000
+      },
+      "text": " more and more and more because it finds so much stuff that to be honest some some projects that"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:52,000",
+        "to": "00:37:58,000"
+      },
+      "offsets": {
+        "from": 2272000,
+        "to": 2278000
+      },
+      "text": " we have been working on for for years and have been working perfectly it found an issue like"
+    },
+    {
+      "timestamps": {
+        "from": "00:37:58,000",
+        "to": "00:38:04,400"
+      },
+      "offsets": {
+        "from": 2278000,
+        "to": 2284400
+      },
+      "text": " created five years ago and it never went wrong it never had something but um i've been sharing"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:04,400",
+        "to": "00:38:10,960"
+      },
+      "offsets": {
+        "from": 2284400,
+        "to": 2290960
+      },
+      "text": " it in some groups and other people had the same issue as well so but it's like the defining the"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:10,960",
+        "to": "00:38:16,400"
+      },
+      "offsets": {
+        "from": 2290960,
+        "to": 2296400
+      },
+      "text": " leak that has been in linux for 16 years yeah no exactly it's the same thing yeah it's they"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:16,400",
+        "to": "00:38:21,520"
+      },
+      "offsets": {
+        "from": 2296400,
+        "to": 2301520
+      },
+      "text": " will always find something so you trust on it to fix it but you still want to know what it does"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:22,400",
+        "to": "00:38:28,720"
+      },
+      "offsets": {
+        "from": 2302400,
+        "to": 2308720
+      },
+      "text": " the problem is like when you catch the ai doing something wrong it will it's really really wrong"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:29,440",
+        "to": "00:38:34,960"
+      },
+      "offsets": {
+        "from": 2309440,
+        "to": 2314960
+      },
+      "text": " and uh so then it it makes me like question everything that uh you have done and just"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:34,960",
+        "to": "00:38:40,640"
+      },
+      "offsets": {
+        "from": 2314960,
+        "to": 2320640
+      },
+      "text": " like pushed uh just like that yeah and uh you don't know what the fuck it introduced"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:40,640",
+        "to": "00:38:44,960"
+      },
+      "offsets": {
+        "from": 2320640,
+        "to": 2324960
+      },
+      "text": " yeah and then the question is what other ai can you ask to check the entire project"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:46,000",
+        "to": "00:38:52,880"
+      },
+      "offsets": {
+        "from": 2326000,
+        "to": 2332880
+      },
+      "text": " yeah and and there is like some um articles on x that uh turn about like talk about like"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:52,880",
+        "to": "00:38:59,120"
+      },
+      "offsets": {
+        "from": 2332880,
+        "to": 2339120
+      },
+      "text": " yeah the software factory uh don't really doesn't really work right now because uh again like it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:38:59,120",
+        "to": "00:39:06,320"
+      },
+      "offsets": {
+        "from": 2339120,
+        "to": 2346320
+      },
+      "text": " spaghetti code and stuff and when you have a bug in production at 3m uh you have no idea how to"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:06,320",
+        "to": "00:39:12,240"
+      },
+      "offsets": {
+        "from": 2346320,
+        "to": 2352240
+      },
+      "text": " debug it uh without a cloud subscription or something like that so maybe at scale that's"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:12,240",
+        "to": "00:39:19,520"
+      },
+      "offsets": {
+        "from": 2352240,
+        "to": 2359520
+      },
+      "text": " gonna be a problem yeah yeah yeah and then bigger companies for sure yeah but uh and also okay yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:19,520",
+        "to": "00:39:30,880"
+      },
+      "offsets": {
+        "from": 2359520,
+        "to": 2370880
+      },
+      "text": " also like um i saw uh levels uh io saying that the revenue of the is in the acer um project are"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:30,880",
+        "to": "00:39:40,560"
+      },
+      "offsets": {
+        "from": 2370880,
+        "to": 2380560
+      },
+      "text": " all going down because of ai because of ai and because like the value um the value of his"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:40,560",
+        "to": "00:39:49,920"
+      },
+      "offsets": {
+        "from": 2380560,
+        "to": 2389920
+      },
+      "text": " software is not high enough to uh um to not be vibe coded and also his audience are like tech"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:49,920",
+        "to": "00:39:57,040"
+      },
+      "offsets": {
+        "from": 2389920,
+        "to": 2397040
+      },
+      "text": " bros so they will vibe code everything yeah like he is giving them free information on how to do it"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:57,040",
+        "to": "00:40:04,320"
+      },
+      "offsets": {
+        "from": 2397040,
+        "to": 2404320
+      },
+      "text": " exactly but plus like everyone is also uh a tech guys on on x right like his audiences are techies"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:04,320",
+        "to": "00:40:10,880"
+      },
+      "offsets": {
+        "from": 2404320,
+        "to": 2410880
+      },
+      "text": " so that everyone has a club subscription yeah um uh could i talk about the good and bad one"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:10,880",
+        "to": "00:40:16,560"
+      },
+      "offsets": {
+        "from": 2410880,
+        "to": 2416560
+      },
+      "text": " i notice our signup conversion are pretty weak this month uh everything is downstream of us"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:16,560",
+        "to": "00:40:21,840"
+      },
+      "offsets": {
+        "from": 2416560,
+        "to": 2421840
+      },
+      "text": " getting less traffic to the site also like yeah like people are not going to the website anymore"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:21,840",
+        "to": "00:40:30,320"
+      },
+      "offsets": {
+        "from": 2421840,
+        "to": 2430320
+      },
+      "text": " they just like uh speak with uh creativity uh i find myself using cloud less and less yeah true"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:30,320",
+        "to": "00:40:37,600"
+      },
+      "offsets": {
+        "from": 2430320,
+        "to": 2437600
+      },
+      "text": " what's the answer no short fix next to explore other channel youtube newsletter etc um and levels"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:37,600",
+        "to": "00:40:43,120"
+      },
+      "offsets": {
+        "from": 2437600,
+        "to": 2443120
+      },
+      "text": " um i'm seeing a trend here declining reunion traffic with indie hackers on my own project too"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:43,120",
+        "to": "00:40:47,200"
+      },
+      "offsets": {
+        "from": 2443120,
+        "to": 2447200
+      },
+      "text": " maybe big bc project too but i will not know because they don't share revenue"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:47,200",
+        "to": "00:40:52,960"
+      },
+      "offsets": {
+        "from": 2447200,
+        "to": 2452960
+      },
+      "text": " to me it's unclear like big ai is cannibalizing everything that used to be apps not by by the way"
+    },
+    {
+      "timestamps": {
+        "from": "00:40:52,960",
+        "to": "00:41:01,760"
+      },
+      "offsets": {
+        "from": 2452960,
+        "to": 2461760
+      },
+      "text": " just time to changing into that um yeah that's that's a big drop but that's uh the guy from uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:01,760",
+        "to": "00:41:11,280"
+      },
+      "offsets": {
+        "from": 2461760,
+        "to": 2471280
+      },
+      "text": " tailwind nobody is going to the website because now the agent knows how to use the framework"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:11,280",
+        "to": "00:41:17,920"
+      },
+      "offsets": {
+        "from": 2471280,
+        "to": 2477920
+      },
+      "text": " yeah so it doesn't have visit at all uh made you for tailwind nobody needs to read the"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:17,920",
+        "to": "00:41:23,120"
+      },
+      "offsets": {
+        "from": 2477920,
+        "to": 2483120
+      },
+      "text": " documentation anymore exactly no no exactly like you just check visually what's the components"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:23,120",
+        "to": "00:41:31,120"
+      },
+      "offsets": {
+        "from": 2483120,
+        "to": 2491120
+      },
+      "text": " you want in your code base and then you just drop it right um tech take a close but you got some"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:33,760",
+        "to": "00:41:44,560"
+      },
+      "offsets": {
+        "from": 2493760,
+        "to": 2504560
+      },
+      "text": " other counter examples okay correlation project just gonna keep going these guys tweeting a lot"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:45,200",
+        "to": "00:41:48,800"
+      },
+      "offsets": {
+        "from": 2505200,
+        "to": 2508800
+      },
+      "text": " yeah but does he also tweet about the functionality in his project"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:49,600",
+        "to": "00:41:56,400"
+      },
+      "offsets": {
+        "from": 2509600,
+        "to": 2516400
+      },
+      "text": " not really but i think like look like his bio yeah yeah he used his bio as a fucking uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:41:56,960",
+        "to": "00:42:06,480"
+      },
+      "offsets": {
+        "from": 2516960,
+        "to": 2526480
+      },
+      "text": " yeah driver because honestly if i can just have uh cloud scrape his entire uh x account also the"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:06,480",
+        "to": "00:42:12,160"
+      },
+      "offsets": {
+        "from": 2526480,
+        "to": 2532160
+      },
+      "text": " products and the mentions of the products i can just make a full documentation of everything he"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:12,160",
+        "to": "00:42:17,280"
+      },
+      "offsets": {
+        "from": 2532160,
+        "to": 2537280
+      },
+      "text": " asks how he's doing it what he's coding about it what he's telling about it that makes it so easy"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:17,280",
+        "to": "00:42:24,320"
+      },
+      "offsets": {
+        "from": 2537280,
+        "to": 2544320
+      },
+      "text": " to just copy his products yeah exactly i mean it like we are in the industrialization phase of"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:24,320",
+        "to": "00:42:31,760"
+      },
+      "offsets": {
+        "from": 2544320,
+        "to": 2551760
+      },
+      "text": " apps right but um so okay uh your application is the report okay so this is a common reply but i"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:31,760",
+        "to": "00:42:37,840"
+      },
+      "offsets": {
+        "from": 2551760,
+        "to": 2557840
+      },
+      "text": " need to see my girlfriend yeah i uh i see my girlfriend who also stopped using most sass and"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:37,840",
+        "to": "00:42:43,760"
+      },
+      "offsets": {
+        "from": 2557840,
+        "to": 2563760
+      },
+      "text": " just ask claud and chat gpt whatever she wants and now evan makes her own apps to solve program"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:44,320",
+        "to": "00:42:49,760"
+      },
+      "offsets": {
+        "from": 2564320,
+        "to": 2569760
+      },
+      "text": " uh highly personalized and a firmware interface we predicted air will generate on the fly to solve"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:49,760",
+        "to": "00:42:54,480"
+      },
+      "offsets": {
+        "from": 2569760,
+        "to": 2574480
+      },
+      "text": " whatever problem now we have it's happening and it's here yeah and it's the same thing right"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:54,480",
+        "to": "00:42:59,840"
+      },
+      "offsets": {
+        "from": 2574480,
+        "to": 2579840
+      },
+      "text": " people are looking for mcp's to connect everything but you don't need an mcp you can just give cloud"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:59,840",
+        "to": "00:43:04,720"
+      },
+      "offsets": {
+        "from": 2579840,
+        "to": 2584720
+      },
+      "text": " your apis exactly just can build everything you want and you don't even know it's mcp you just"
+    },
+    {
+      "timestamps": {
+        "from": "00:43:05,520",
+        "to": "00:43:13,280"
+      },
+      "offsets": {
+        "from": 2585520,
+        "to": 2593280
+      },
+      "text": " ask claud to figure it out yeah uh so that was the uh answer like uh is your application is developer"
+    },
+    {
+      "timestamps": {
+        "from": "00:43:13,280",
+        "to": "00:43:19,680"
+      },
+      "offsets": {
+        "from": 2593280,
+        "to": 2599680
+      },
+      "text": " india facing you might have a hard time competing with self-made solution if your customers are"
+    },
+    {
+      "timestamps": {
+        "from": "00:43:19,680",
+        "to": "00:43:26,320"
+      },
+      "offsets": {
+        "from": 2599680,
+        "to": 2606320
+      },
+      "text": " consumer and smbs most people don't like seeing uh tinkering or making their own solution yeah well"
+    },
+    {
+      "timestamps": {
+        "from": "00:43:26,880",
+        "to": "00:43:33,120"
+      },
+      "offsets": {
+        "from": 2606880,
+        "to": 2613120
+      },
+      "text": " now you will see who are the people out of their creative they will just go with flow and use the"
+    },
+    {
+      "timestamps": {
+        "from": "00:43:33,120",
+        "to": "00:43:40,160"
+      },
+      "offsets": {
+        "from": 2613120,
+        "to": 2620160
+      },
+      "text": " new and latest ais to keep on building something that is used and not keep doing the indie stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:43:42,000",
+        "to": "00:43:48,480"
+      },
+      "offsets": {
+        "from": 2622000,
+        "to": 2628480
+      },
+      "text": " yeah and it's a new era man like uh internet is changing for real uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:43:49,680",
+        "to": "00:43:57,760"
+      },
+      "offsets": {
+        "from": 2629680,
+        "to": 2637760
+      },
+      "text": " there is a tweet fuck i should have maybe i did book market back uh nope"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:00,160",
+        "to": "00:44:03,120"
+      },
+      "offsets": {
+        "from": 2640160,
+        "to": 2643120
+      },
+      "text": " nope nope i didn't fuck"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:06,320",
+        "to": "00:44:12,560"
+      },
+      "offsets": {
+        "from": 2646320,
+        "to": 2652560
+      },
+      "text": " okay too bad but um yeah that was like one guy saying uh we are still serving"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:13,680",
+        "to": "00:44:18,960"
+      },
+      "offsets": {
+        "from": 2653680,
+        "to": 2658960
+      },
+      "text": " um our customers are smbs and they don't have like the like for example um"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:20,960",
+        "to": "00:44:28,800"
+      },
+      "offsets": {
+        "from": 2660960,
+        "to": 2668800
+      },
+      "text": " uh yeah hairstyle salon or stylist or nail lady will not build her own cloud website app stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:29,920",
+        "to": "00:44:37,840"
+      },
+      "offsets": {
+        "from": 2669920,
+        "to": 2677840
+      },
+      "text": " yeah i think people will because i i have some marketing agencies who are now"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:37,840",
+        "to": "00:44:46,880"
+      },
+      "offsets": {
+        "from": 2677840,
+        "to": 2686880
+      },
+      "text": " instead of hiring uh designers just using cloud.ai design yeah but they're already marketing uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:46,880",
+        "to": "00:44:52,960"
+      },
+      "offsets": {
+        "from": 2686880,
+        "to": 2692960
+      },
+      "text": " companies yeah but they have no knowledge of design or whatever and it does everything for them"
+    },
+    {
+      "timestamps": {
+        "from": "00:44:52,960",
+        "to": "00:45:00,320"
+      },
+      "offsets": {
+        "from": 2692960,
+        "to": 2700320
+      },
+      "text": " yeah but i'm talking about like the nail lady that uh doing nails ah yeah even if she just"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:00,320",
+        "to": "00:45:06,080"
+      },
+      "offsets": {
+        "from": 2700320,
+        "to": 2706080
+      },
+      "text": " asked cloud and asked them people are building their own websites how do i do it and cloud says"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:06,080",
+        "to": "00:45:11,360"
+      },
+      "offsets": {
+        "from": 2706080,
+        "to": 2711360
+      },
+      "text": " hey here tell me what you want go to design and you will get a website and they can even"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:11,360",
+        "to": "00:45:20,080"
+      },
+      "offsets": {
+        "from": 2711360,
+        "to": 2720080
+      },
+      "text": " just ask them how to deploy it yeah that will be automated and imagine cloud selling aws hosting"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:20,800",
+        "to": "00:45:27,200"
+      },
+      "offsets": {
+        "from": 2720800,
+        "to": 2727200
+      },
+      "text": " that will be an insane product with big margins there is sites now on chat gpt that you can host"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:27,200",
+        "to": "00:45:33,040"
+      },
+      "offsets": {
+        "from": 2727200,
+        "to": 2733040
+      },
+      "text": " uh a website on chat gpt directly yeah that can kill the entire hosting industry"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:34,960",
+        "to": "00:45:42,480"
+      },
+      "offsets": {
+        "from": 2734960,
+        "to": 2742480
+      },
+      "text": " but like bro you say the multiply like a nails lady doesn't ever use that tool you know it it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:43,840",
+        "to": "00:45:50,080"
+      },
+      "offsets": {
+        "from": 2743840,
+        "to": 2750080
+      },
+      "text": " but if she asks how do i visit it and how do my my customers see the website then cloud knows"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:50,080",
+        "to": "00:45:58,080"
+      },
+      "offsets": {
+        "from": 2750080,
+        "to": 2758080
+      },
+      "text": " she means deploy yeah yeah yeah how do i get my customers seeing this website yeah yeah that's"
+    },
+    {
+      "timestamps": {
+        "from": "00:45:58,080",
+        "to": "00:46:03,280"
+      },
+      "offsets": {
+        "from": 2758080,
+        "to": 2763280
+      },
+      "text": " enough yeah and then says oh hey it needs to be online normally you need a hosting party but"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:03,280",
+        "to": "00:46:10,560"
+      },
+      "offsets": {
+        "from": 2763280,
+        "to": 2770560
+      },
+      "text": " please click here pay me ten bucks it will be live yeah give me the api key stuff there whatever yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:11,600",
+        "to": "00:46:22,080"
+      },
+      "offsets": {
+        "from": 2771600,
+        "to": 2782080
+      },
+      "text": " um okay maybe last section i think we uh what about um okay no just just back on the last part"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:22,080",
+        "to": "00:46:28,560"
+      },
+      "offsets": {
+        "from": 2782080,
+        "to": 2788560
+      },
+      "text": " didn't uh cloud because i'm not using the cloud desktop app didn't have the browser included yes"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:29,680",
+        "to": "00:46:35,680"
+      },
+      "offsets": {
+        "from": 2789680,
+        "to": 2795680
+      },
+      "text": " then it's fixed it will go to a hosting website for you until you pay here yeah and it will just"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:35,680",
+        "to": "00:46:41,360"
+      },
+      "offsets": {
+        "from": 2795680,
+        "to": 2801360
+      },
+      "text": " log in get the ftp in your account or the api or whatever and it will connect it will upload and"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:41,360",
+        "to": "00:46:50,480"
+      },
+      "offsets": {
+        "from": 2801360,
+        "to": 2810480
+      },
+      "text": " that's it there is even the ios simulator now inside the app so how cool would it be if we just"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:50,480",
+        "to": "00:46:56,080"
+      },
+      "offsets": {
+        "from": 2810480,
+        "to": 2816080
+      },
+      "text": " automate a hosting party and the only thing we do is try to get into uh chat gpt and tell"
+    },
+    {
+      "timestamps": {
+        "from": "00:46:56,080",
+        "to": "00:47:02,960"
+      },
+      "offsets": {
+        "from": 2816080,
+        "to": 2822960
+      },
+      "text": " chat gpt that if it has a customer pay here we will just show instantly and share the ftp so"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:02,960",
+        "to": "00:47:09,120"
+      },
+      "offsets": {
+        "from": 2822960,
+        "to": 2829120
+      },
+      "text": " the chat gpt sells customers to us then we need to be good at the geo so yeah the high reference"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:09,680",
+        "to": "00:47:18,960"
+      },
+      "offsets": {
+        "from": 2829680,
+        "to": 2838960
+      },
+      "text": " stuff so then we need gen feed to spam ugc videos about oh yeah most thing yeah solved yeah next"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:18,960",
+        "to": "00:47:28,240"
+      },
+      "offsets": {
+        "from": 2838960,
+        "to": 2848240
+      },
+      "text": " product is incoming okay let's go i mean feel um you know like the the content creator guy he"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:28,240",
+        "to": "00:47:34,560"
+      },
+      "offsets": {
+        "from": 2848240,
+        "to": 2854560
+      },
+      "text": " built his own uh um i don't know infrastructure but like hosting leg bed product stuff i don't"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:34,560",
+        "to": "00:47:41,120"
+      },
+      "offsets": {
+        "from": 2854560,
+        "to": 2861120
+      },
+      "text": " exactly why i did that but uh because it doesn't have servers so behind it is that like what uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:41,120",
+        "to": "00:47:48,320"
+      },
+      "offsets": {
+        "from": 2861120,
+        "to": 2868320
+      },
+      "text": " amazon i think so but still so many people on expose they built something and eventually it"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:48,320",
+        "to": "00:47:52,720"
+      },
+      "offsets": {
+        "from": 2868320,
+        "to": 2872720
+      },
+      "text": " was a prompt to cloud and they don't know how it works but it works and they say hey look what i've"
+    },
+    {
+      "timestamps": {
+        "from": "00:47:52,720",
+        "to": "00:48:06,720"
+      },
+      "offsets": {
+        "from": 2872720,
+        "to": 2886720
+      },
+      "text": " built look look matt look look what matt schumer built uh one prompt uh cloud five opus five yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:48:06,720",
+        "to": "00:48:17,840"
+      },
+      "offsets": {
+        "from": 2886720,
+        "to": 2897840
+      },
+      "text": " that's insane and he also gave the prompt right yes you get you get the yeah yes yeah so uh first"
+    },
+    {
+      "timestamps": {
+        "from": "00:48:17,840",
+        "to": "00:48:25,360"
+      },
+      "offsets": {
+        "from": 2897840,
+        "to": 2905360
+      },
+      "text": " person shooter building a brother with 3gs and web gl2 there is no art assets"
+    },
+    {
+      "timestamps": {
+        "from": "00:48:28,880",
+        "to": "00:48:37,600"
+      },
+      "offsets": {
+        "from": 2908880,
+        "to": 2917600
+      },
+      "text": " uh texture bla bla bla tuning performances before optimization after yeah okay"
+    },
+    {
+      "timestamps": {
+        "from": "00:48:38,960",
+        "to": "00:48:43,280"
+      },
+      "offsets": {
+        "from": 2918960,
+        "to": 2923280
+      },
+      "text": " honest assessment the goal was too much a modern commodity it does not yeah no shit"
+    },
+    {
+      "timestamps": {
+        "from": "00:48:44,240",
+        "to": "00:48:52,400"
+      },
+      "offsets": {
+        "from": 2924240,
+        "to": 2932400
+      },
+      "text": " uh okay felt short uh hands block blocks blocky fingers material machine surfaces read as"
+    },
+    {
+      "timestamps": {
+        "from": "00:48:52,400",
+        "to": "00:48:59,200"
+      },
+      "offsets": {
+        "from": 2932400,
+        "to": 2939200
+      },
+      "text": " procedural noise characters enemy reads as manicure at distance indirect light blah blah blah"
+    },
+    {
+      "timestamps": {
+        "from": "00:48:59,200",
+        "to": "00:49:05,440"
+      },
+      "offsets": {
+        "from": 2939200,
+        "to": 2945440
+      },
+      "text": " but all of that you can you can fix it with like some um 3d generation from codex or cloud or"
+    },
+    {
+      "timestamps": {
+        "from": "00:49:05,440",
+        "to": "00:49:12,000"
+      },
+      "offsets": {
+        "from": 2945440,
+        "to": 2952000
+      },
+      "text": " whatever yeah this was a one shot and then it's optimizing yeah uh where is the two where is the"
+    },
+    {
+      "timestamps": {
+        "from": "00:49:12,000",
+        "to": "00:49:20,240"
+      },
+      "offsets": {
+        "from": 2952000,
+        "to": 2960240
+      },
+      "text": " prompt prompt i want you to build a first person shooter that's three lines yeah working nuts but"
+    },
+    {
+      "timestamps": {
+        "from": "00:49:20,240",
+        "to": "00:49:29,120"
+      },
+      "offsets": {
+        "from": 2960240,
+        "to": 2969120
+      },
+      "text": " then eventually cloud uh decided everything by himself yeah so does everybody who puts in this"
+    },
+    {
+      "timestamps": {
+        "from": "00:49:29,120",
+        "to": "00:49:37,200"
+      },
+      "offsets": {
+        "from": 2969120,
+        "to": 2977200
+      },
+      "text": " this prompt get the same result uh yeah i saw some people uh having similar output"
+    },
+    {
+      "timestamps": {
+        "from": "00:49:39,040",
+        "to": "00:49:48,000"
+      },
+      "offsets": {
+        "from": 2979040,
+        "to": 2988000
+      },
+      "text": " uh zero shot uh gpt yeah awesome uh i'm pretty sure it's match rumor"
+    },
+    {
+      "timestamps": {
+        "from": "00:49:50,480",
+        "to": "00:49:54,080"
+      },
+      "offsets": {
+        "from": 2990480,
+        "to": 2994080
+      },
+      "text": " uh okay okay"
+    },
+    {
+      "timestamps": {
+        "from": "00:49:56,160",
+        "to": "00:50:02,080"
+      },
+      "offsets": {
+        "from": 2996160,
+        "to": 3002080
+      },
+      "text": " where is it fuck yes uh my tumor was right i don't game it so i'm almost a boomer and i"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:02,080",
+        "to": "00:50:06,720"
+      },
+      "offsets": {
+        "from": 3002080,
+        "to": 3006720
+      },
+      "text": " already learned to cut three years ago with ai my son was there one prompt shared my view on ai"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:06,720",
+        "to": "00:50:11,520"
+      },
+      "offsets": {
+        "from": 3006720,
+        "to": 3011520
+      },
+      "text": " gaming completely my son has been a gamer his entire life he was everything i kept asking"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:11,520",
+        "to": "00:50:19,680"
+      },
+      "offsets": {
+        "from": 3011520,
+        "to": 3019680
+      },
+      "text": " whatever what do you buy when i saw much from a post one prompt a 20-hour run on ultra jesus"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:19,680",
+        "to": "00:50:24,880"
+      },
+      "offsets": {
+        "from": 3019680,
+        "to": 3024880
+      },
+      "text": " fucking christ that's expensive at the end of it my son had a playable build specifically for him"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:24,880",
+        "to": "00:50:34,960"
+      },
+      "offsets": {
+        "from": 3024880,
+        "to": 3034960
+      },
+      "text": " running on a 85 inch tv yep yeah and then seeing like gaming studios working for years on it"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:34,960",
+        "to": "00:50:38,080"
+      },
+      "offsets": {
+        "from": 3034960,
+        "to": 3038080
+      },
+      "text": " it's lego style yeah lego that's that's cool"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:40,560",
+        "to": "00:50:41,520"
+      },
+      "offsets": {
+        "from": 3040560,
+        "to": 3041520
+      },
+      "text": " downtown yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:43,600",
+        "to": "00:50:52,320"
+      },
+      "offsets": {
+        "from": 3043600,
+        "to": 3052320
+      },
+      "text": " bro that's that's sick a 20 number 20 yeah a 20 yeah fair question i asked us to pull the receive"
+    },
+    {
+      "timestamps": {
+        "from": "00:50:52,320",
+        "to": "00:50:59,680"
+      },
+      "offsets": {
+        "from": 3052320,
+        "to": 3059680
+      },
+      "text": " the run is 24 million token across 85 sub agent and 8 000 tool calls"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:03,440",
+        "to": "00:51:07,200"
+      },
+      "offsets": {
+        "from": 3063440,
+        "to": 3067200
+      },
+      "text": " oh wait"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:10,400",
+        "to": "00:51:16,880"
+      },
+      "offsets": {
+        "from": 3070400,
+        "to": 3076880
+      },
+      "text": " he put it online yeah he published it yes it deployed exactly"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:19,200",
+        "to": "00:51:24,400"
+      },
+      "offsets": {
+        "from": 3079200,
+        "to": 3084400
+      },
+      "text": " like the question have other people play my game yeah oh wait wait okay i'm gonna i'm gonna"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:24,400",
+        "to": "00:51:29,600"
+      },
+      "offsets": {
+        "from": 3084400,
+        "to": 3089600
+      },
+      "text": " close it because it killed my computer it's probably it's heavy it downloads everything and"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:31,200",
+        "to": "00:51:37,600"
+      },
+      "offsets": {
+        "from": 3091200,
+        "to": 3097600
+      },
+      "text": " yeah maybe i should not click some links on x there is still a difference between building a"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:37,600",
+        "to": "00:51:42,560"
+      },
+      "offsets": {
+        "from": 3097600,
+        "to": 3102560
+      },
+      "text": " shooter game that one person plays and building a shooter game that like 50 million people at"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:42,560",
+        "to": "00:51:49,440"
+      },
+      "offsets": {
+        "from": 3102560,
+        "to": 3109440
+      },
+      "text": " the same time i know exactly like it's like oh yeah i want to rebuild the twitch for live"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:49,440",
+        "to": "00:51:55,120"
+      },
+      "offsets": {
+        "from": 3109440,
+        "to": 3115120
+      },
+      "text": " streaming yeah you have no idea how video network works right so enjoy but yeah looks like my own"
+    },
+    {
+      "timestamps": {
+        "from": "00:51:55,120",
+        "to": "00:52:04,400"
+      },
+      "offsets": {
+        "from": 3115120,
+        "to": 3124400
+      },
+      "text": " version is loading on through 3gs bro it looks good yeah like it's just one shot like remember"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:04,400",
+        "to": "00:52:09,120"
+      },
+      "offsets": {
+        "from": 3124400,
+        "to": 3129120
+      },
+      "text": " what we produce with one shot stuff like the in the arena like that's that's 10 times better"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:09,120",
+        "to": "00:52:17,760"
+      },
+      "offsets": {
+        "from": 3129120,
+        "to": 3137760
+      },
+      "text": " than the fucking arena we had it was only a few weeks ago yeah i'm still like mental uh yeah also"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:17,760",
+        "to": "00:52:26,080"
+      },
+      "offsets": {
+        "from": 3137760,
+        "to": 3146080
+      },
+      "text": " this i know that's not the game i sent you but like the space stuff cloth punk jesus"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:28,320",
+        "to": "00:52:35,920"
+      },
+      "offsets": {
+        "from": 3148320,
+        "to": 3155920
+      },
+      "text": " whoa yeah also the entire gaming industry is changing not just development and coding"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:38,000",
+        "to": "00:52:44,320"
+      },
+      "offsets": {
+        "from": 3158000,
+        "to": 3164320
+      },
+      "text": " clairvoyance to make quality using matrimor prompt second shot 120 at 4k what the heck"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:46,160",
+        "to": "00:52:50,000"
+      },
+      "offsets": {
+        "from": 3166160,
+        "to": 3170000
+      },
+      "text": " that's mental"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:54,320",
+        "to": "00:52:59,600"
+      },
+      "offsets": {
+        "from": 3174320,
+        "to": 3179600
+      },
+      "text": " and probably it has cloud scraping all this data of people discussing what they want better"
+    },
+    {
+      "timestamps": {
+        "from": "00:52:59,600",
+        "to": "00:53:06,400"
+      },
+      "offsets": {
+        "from": 3179600,
+        "to": 3186400
+      },
+      "text": " and they just load it in for the next next version oh yeah yeah because yeah then i'm"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:06,400",
+        "to": "00:53:11,120"
+      },
+      "offsets": {
+        "from": 3186400,
+        "to": 3191120
+      },
+      "text": " sure because the data and yeah and everybody is publishing live what they like and what they"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:11,120",
+        "to": "00:53:15,680"
+      },
+      "offsets": {
+        "from": 3191120,
+        "to": 3195680
+      },
+      "text": " don't like so the only thing they need is scrape it load it in improve it and push it to the next"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:15,680",
+        "to": "00:53:21,040"
+      },
+      "offsets": {
+        "from": 3195680,
+        "to": 3201040
+      },
+      "text": " office version and people will be blown away oh it's so much better this time well yeah you told"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:21,040",
+        "to": "00:53:28,560"
+      },
+      "offsets": {
+        "from": 3201040,
+        "to": 3208560
+      },
+      "text": " her what should be better yeah exactly plus like yeah everyone like can push it like open source"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:28,560",
+        "to": "00:53:34,000"
+      },
+      "offsets": {
+        "from": 3208560,
+        "to": 3214000
+      },
+      "text": " on github blah blah you get the code and you can get the git history see yeah you can even avoid"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:34,000",
+        "to": "00:53:41,040"
+      },
+      "offsets": {
+        "from": 3214000,
+        "to": 3221040
+      },
+      "text": " like the git history and have the best output at the end like yeah it's not like the wall is wide"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:41,040",
+        "to": "00:53:48,160"
+      },
+      "offsets": {
+        "from": 3221040,
+        "to": 3228160
+      },
+      "text": " man like it's getting even better yes every 10 days at the time so what are you going to do next"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:49,120",
+        "to": "00:53:57,040"
+      },
+      "offsets": {
+        "from": 3229120,
+        "to": 3237040
+      },
+      "text": " i'm trying to finish the project the 25 project i'm working on right now yeah uh because yeah like"
+    },
+    {
+      "timestamps": {
+        "from": "00:53:57,040",
+        "to": "00:54:02,240"
+      },
+      "offsets": {
+        "from": 3237040,
+        "to": 3242240
+      },
+      "text": " we can we can start a new prompt and like one from something but at the end of the day you"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:02,240",
+        "to": "00:54:10,320"
+      },
+      "offsets": {
+        "from": 3242240,
+        "to": 3250320
+      },
+      "text": " need to transform those tokens into money right yes so yeah but again after this like 10 days"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:10,320",
+        "to": "00:54:19,280"
+      },
+      "offsets": {
+        "from": 3250320,
+        "to": 3259280
+      },
+      "text": " experience stuff like those um autonomous company like if it's think as an it's it's like sold out"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:19,280",
+        "to": "00:54:24,960"
+      },
+      "offsets": {
+        "from": 3259280,
+        "to": 3264960
+      },
+      "text": " and playing out as an autonomous company i think there is like shit ton of stuff that could be done"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:24,960",
+        "to": "00:54:32,240"
+      },
+      "offsets": {
+        "from": 3264960,
+        "to": 3272240
+      },
+      "text": " and even like with the speed of ai you if you don't talk to ai bros there is a world when"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:32,240",
+        "to": "00:54:38,720"
+      },
+      "offsets": {
+        "from": 3272240,
+        "to": 3278720
+      },
+      "text": " you can have a sustainable business at least for a few months slash years and uh it's enough"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:38,720",
+        "to": "00:54:48,320"
+      },
+      "offsets": {
+        "from": 3278720,
+        "to": 3288320
+      },
+      "text": " fully output ai stuff yeah because there is a new step with like those uh opus five favorite five"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:48,320",
+        "to": "00:54:56,240"
+      },
+      "offsets": {
+        "from": 3288320,
+        "to": 3296240
+      },
+      "text": " five point six so it's racial yeah yeah what do you think what's your take i think i would say"
+    },
+    {
+      "timestamps": {
+        "from": "00:54:56,240",
+        "to": "00:55:02,080"
+      },
+      "offsets": {
+        "from": 3296240,
+        "to": 3302080
+      },
+      "text": " let's go yeah let's go just just keep the pace up keep going keep coding see what works drop the"
+    },
+    {
+      "timestamps": {
+        "from": "00:55:02,080",
+        "to": "00:55:07,760"
+      },
+      "offsets": {
+        "from": 3302080,
+        "to": 3307760
+      },
+      "text": " other parts and don't try to do too much yourself because the next version will even be better"
+    },
+    {
+      "timestamps": {
+        "from": "00:55:07,760",
+        "to": "00:55:14,080"
+      },
+      "offsets": {
+        "from": 3307760,
+        "to": 3314080
+      },
+      "text": " yeah i i that's true it's hard to do something that's gonna survive the next model too right"
+    },
+    {
+      "timestamps": {
+        "from": "00:55:14,080",
+        "to": "00:55:21,600"
+      },
+      "offsets": {
+        "from": 3314080,
+        "to": 3321600
+      },
+      "text": " yeah yeah okay man i think we could wrap it up here yeah yes we can make some amazing shorts"
+    },
+    {
+      "timestamps": {
+        "from": "00:55:21,600",
+        "to": "00:55:25,920"
+      },
+      "offsets": {
+        "from": 3321600,
+        "to": 3325920
+      },
+      "text": " yes that's i think that's the goal so yeah subscribe to the channel because maybe we're"
+    },
+    {
+      "timestamps": {
+        "from": "00:55:25,920",
+        "to": "00:55:30,240"
+      },
+      "offsets": {
+        "from": 3325920,
+        "to": 3330240
+      },
+      "text": " not gonna do any more videos anymore it's gonna be shorter and it's gonna be live stream only"
+    },
+    {
+      "timestamps": {
+        "from": "00:55:30,240",
+        "to": "00:55:36,000"
+      },
+      "offsets": {
+        "from": 3330240,
+        "to": 3336000
+      },
+      "text": " yes and let us know what you think yes thank you so much uh enjoy the rest of your weeks"
+    },
+    {
+      "timestamps": {
+        "from": "00:55:36,000",
+        "to": "00:55:40,320"
+      },
+      "offsets": {
+        "from": 3336000,
+        "to": 3340320
+      },
+      "text": " Thank you, Mitchell. And see you in the chat. Yes."
+    }
+  ]
+}

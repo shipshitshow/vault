@@ -1,0 +1,12 @@
+{
+  "youtube_id": "jFztuYduv5w",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "64bf772dd72b1917bbd0aa3bede2e5ca1c1c29a1241007706a447f96dc3b5fac",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-12-video-github-is-dying-can-gpt-5-5-goal-rewrite-it.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

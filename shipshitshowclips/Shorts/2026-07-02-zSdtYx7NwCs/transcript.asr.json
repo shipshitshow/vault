@@ -1,0 +1,76 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,880"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3880
+      },
+      "text": " I've noticed that if you put explanation in your files above your function, it"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,880",
+        "to": "00:00:08,000"
+      },
+      "offsets": {
+        "from": 3880,
+        "to": 8000
+      },
+      "text": " reads it first, and if it understands that it doesn't need to function, it"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,000",
+        "to": "00:00:09,880"
+      },
+      "offsets": {
+        "from": 8000,
+        "to": 9880
+      },
+      "text": " doesn't read it, just skips it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,160",
+        "to": "00:00:12,000"
+      },
+      "offsets": {
+        "from": 10160,
+        "to": 12000
+      },
+      "text": " That saves some time and tokens."
+    }
+  ]
+}

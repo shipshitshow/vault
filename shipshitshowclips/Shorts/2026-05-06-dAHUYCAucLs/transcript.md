@@ -1,0 +1,17 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+I was writing code and just after three weeks,
+it deleted my database.
+And it said, yeah, the test failed, the test failed.
+So I tried to deploy all the migrations again.
+Oh, and by mistake, that reset your entire database.
+And I was like, I have it in here
+that you're not allowed to do that.
+If the test fails, you report to me
+and we check what's wrong.
+Because if it before was working,
+then only the last test is wrong or your last changes.
+And still it did, but it's only locally.
+So it doesn't matter that much, but it deleted everything.

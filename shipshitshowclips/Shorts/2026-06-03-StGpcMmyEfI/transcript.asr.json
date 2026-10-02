@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,760"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3760
+      },
+      "text": " it seems like okay i'm done with the task you check you're not done bro"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,760",
+        "to": "00:00:07,040"
+      },
+      "offsets": {
+        "from": 3760,
+        "to": 7040
+      },
+      "text": " and now i have an update i'm not going to lie anymore"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,040",
+        "to": "00:00:11,680"
+      },
+      "offsets": {
+        "from": 7040,
+        "to": 11680
+      },
+      "text": " exactly and you're gonna see like the 4.9 will be even more honest"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,680",
+        "to": "00:00:16,320"
+      },
+      "offsets": {
+        "from": 11680,
+        "to": 16320
+      },
+      "text": " it could have been better because that's both what we found so far right like"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,320",
+        "to": "00:00:21,680"
+      },
+      "offsets": {
+        "from": 16320,
+        "to": 21680
+      },
+      "text": " that's the problem with opus it says it's done but it's not done yes"
+    }
+  ]
+}

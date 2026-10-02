@@ -1,0 +1,14 @@
+{
+  "youtube_id": "ZkXO2n7pL10",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/ZkXO2n7pL10",
+  "source_sha256": "e10ebcbc3bd04c692329b32bc14bcab53223a88048caafde39271650b72edde3",
+  "audio_sha256": "ced90e9db5ad5613f076392faa321da990e3fe49af0563a2ec3516ef66cf3669",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

@@ -1,0 +1,76 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+do you use the potato stack yourself or not yeah i did edit because i started with grogbot
+and i decided to have it give me notifications on incoming tickets check the ticket and then give
+me a concept of an email that can be replied and i either choose yes no or i get feedback on the
+concept so it can improve the email and then reply because the usage goes so fast i don't want to use
+it for coding yeah i don't want to run out in in four hours and then have to wait a full week
+yeah but it got a bit out of hand first i had one pot and i told it well i also have people who were
+supposed to send the email to the ticket system emailing me direct so scrape my mailbox forward
+tickets i have a slack a notification on incoming tickets and other bots gives the concept and then
+i tried to add another bot i said hey if it is a wordpress question about updating content on the
+wordpress i have a system with one click login where you get a normal writer account no admin
+account you can update the text please try it and before i knew i had a full flow of tickets coming
+in where people were asking me to change text on their website and the bot did it it gave me the
+solution to add another bot for quality checks it checked it they communicated and then it told me
+check this link here it's online i check it i approve and email goes back and it even wrote
+down hours where we can build a customer so that's like a full employee and then my usage was going
+like skyrocketing within a few hours and that's where i used the eggbot from lawren from potato
+and it's a yeah you have like 8k tokens for each and a prompt that you're using and it is scaled
+down to 500 instead of 8k and i've been testing now for three days and it is really tight it works
+perfectly i have no issues so she's saving me a lot of tokens if you tell i'd now put it on a
+repeat i gave the the eggbot repetitive task to monday night check all my bots check the entire
+flow check all the routines and optimize everything and the eggbot is even taking routines from certain
+bots away and saying hey this needs to be a separate bot because if it has only one task it
+focuses on that task and it has less tokens than when you are doing three tasks at the same time
+yeah so do you still have like the chief of staff and you talk to only him and then he dispatch
+stuff yeah yeah yeah i just have one point of communication no we we have waybooks right it
+should not even be a chron drops it should be an event yeah crypto daily should be my crypto
+channel but maybe i'm gonna nuke this one because i can save some token do you have the eggbot in
+it yes here yeah just tell it to to check everything and optimize it and give you a
+proposal on what will be better and ask it how many tokens you can save i can't because
+i don't have usage oh yay of course i have some issue with i don't know if you have that see like
+i have a message etc etc and i i need to ask the status about the task sometimes it doesn't give me
+the response to it it's kind of yeah sometimes it's like it's skipping some things yeah checking
+all of the status about all tasks running both formulas report blah blah blah so he's asking
+the whole team like what to do if i have like 20 both then i'm burning token like crazy right
+yeah mastering that you can you could even like have one job pair grok but super grok account stuff
+yeah but it works like the same normal dev team if you just have everybody talking to everybody
+at the end of the day they only work two hours and if you fully optimize it and are really strict on
+your communication and optimize everything then you have a perfect dev team who works like seven
+and a half of the eight hours so that's what you want to do here as well personally i should change
+it to not code and just open prs and then i have the other agents codex cloud grok yeah build stuff
+from those prs yeah they work on ship yet codes and that's exactly so only management verification
+is all you need yes the most critical skills to have in your toolbox is a high quality
+verification skill yeah like something like something for cicd right like you want to
+disrupt the disloped skills of the p stack is really good i haven't tried it you should yeah
+but okay i don't know if you should because you have also like legacy project stuff that you
+should not refactor too much oh no no that will break everything i don't know if a disloped stuff
+will refactor the whole code base for you and you will have a 24-hour session and you don't know why
+because you disloped it let's be the verification skill together a create verification skill yeah
+that's why in my grok bot it mentioned create verification skill because yeah i dropped the
+articles so create verification skill dr heck bot that's what we both installed i think we need the
+own v stack stack bro yeah but yeah there are so many options right now but on the other hand
+i am waiting for this to be integrated into cursor i mean that that's it like you can create your
+skill and then it's they're not going to standardize p stack to all of the things i mean
+maybe they do it like in the back end you know yeah yeah but that's that's what i mean so they
+integrate something like this because if so many people are using it and their internal teams are
+doing it as well then why not make it a part of yeah cursor and just have it for everybody
+available without adding additional integrations and plugins yeah yeah i mean but for them it's
+make even more sense to keep as plug-inable friendly stuff then everyone is turning them
+into their own use case right like everyone building their name stack because an ios developer
+will not have the same needs than no that's a react to right so yes and also i like a lot of
+developers wants to have control of their own stack and slash way of coding and stuff like that
+right no junk in it so she has a skill to maintain it yeah that makes sense i have a skill to clean
+up work trees and branches after i deploy right so why not i have p stack the tag bot yes and the
+bot is using p stack into our own setup right my bot that helps to create high quality bot your
+roster ships with space tag yes okay okay so what did we learn or what did we expect from grogbot to
+come next grogbot is awesome but you have to optimize it otherwise you go out of tokens in
+the day and you can't use it so we use her solution for adding eggbot and we just say
+optimize everything and it's fixed yeah yeah you ask to optimize and then it's done and it did
+yeah i need to do it okay i need to wait a couple of hours but after that should be fine
+yes thank you everyone thank you for commenting and thank you arinad for joining us during the
+live subscribe left the video like the video share it and i will see you next time next week next
+time same place bye-bye

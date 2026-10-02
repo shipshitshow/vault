@@ -1,0 +1,65 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,200"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5200
+      },
+      "text": " I've seen the other people who were talking on X that Cloud Code ruined their entire business"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,200",
+        "to": "00:00:11,840"
+      },
+      "offsets": {
+        "from": 5200,
+        "to": 11840
+      },
+      "text": " or that they got blocked by Cloud Code. So they had to swap back to Gemini with like 60 or 70 devs."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,840",
+        "to": "00:00:18,320"
+      },
+      "offsets": {
+        "from": 11840,
+        "to": 18320
+      },
+      "text": " So at least I hope that Gemini can do the same quality because otherwise if you need to switch."
+    }
+  ]
+}

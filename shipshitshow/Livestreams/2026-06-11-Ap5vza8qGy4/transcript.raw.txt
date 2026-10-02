@@ -1,0 +1,1585 @@
+And we are live. Good morning, America.
+What's up? What's up?
+>> Yes. And good afternoon, Europe.
+Uh, how you doing, man? Like burning
+token like crazy.
+>> Yes. It was a late night because I had
+to use all my tokens on Fable.
+You should have like routines or slash
+uh automations to burn token before
+release day.
+>> Yeah.
+>> And I already was was lucky.
+>> Yeah.
+>> I was almost at 90% usage yesterday
+evening and that's the moment when they
+told we have reseted all the counters.
+So I was like yes.
+>> Yeah.
+>> Because Fab is expensive.
+>> Yes. Double expensive compared to Opus.
+Yes sir.
+But
+>> is it double as good?
+Um
+I the benchmarks I saw. Okay. Okay.
+Let's talk about that. Uh let me do the
+demo first. Introduction demo.
+>> Yes.
+>> Okay.
+Last week we built uh once a game in
+with one prompt with Opus 4.8. eight.
+Yesterday, Fable 5 launched and now
+what? We are going to build a full AI
+native gaming studios
+>> with one prompt
+>> with maybe two.
+>> Maybe two.
+>> So, if you want to see what's Fable 5 is
+capable of, watch this video. Woo!
+animation.
+>> And the cool thing is
+>> Fable already here makes you think of a
+game, right?
+>> I mean,
+>> it's a perfect name.
+>> I mean, for for sure. Like, for sure.
+>> Game Studio AI.
+>> Yes. Did Did you play Fable on Xbox when
+it was launched ago?
+>> No, I didn't. I think I did like once or
+so, but I
+>> I can't even remember. So, it's not too
+good. It's a game like when you take
+like decision uh it impact your
+character. So if you go to the uh ail
+side of it, you look like a demon at the
+end of the game and stuff like that and
+you are an angel if you are like a good
+person or something.
+>> So if you actually want to walk around,
+you always have to do good because
+otherwise people go after you.
+>> Yeah, something like that. Yes. But
+you're more powerful. So the game play
+changed. That was a big game when it
+like first
+>> Yeah. Imagine what they could have done
+if they had AI.
+>> GTA 6, man.
+>> Oh, yeah. Well,
+>> let's have a game studio ready to make
+everything possible.
+>> Let's build GTS GTS 7 with something
+rockar.
+>> Yeah. And release it one month after.
+>> Exactly. Like, let's be AI rock AI star
+now. Or rockstar. How do you reverse
+rockstar like a
+rock? So, rap or hip-hop? No.
+It doesn't matter. We make it better.
+>> Whatever. So,
+uh, t uh demo bam uh code path.
+I changed that. Why is that not
+persistent noise
+tech? And I have that. That's perfect.
+Cool.
+Uh, yes. Uh,
+a tweet from Clo. Introducing Yeah. I
+mean, no [ __ ] It's from Clo. It's
+introducing Fable.
+>> Yeah.
+>> Uh, introducing Fable 5. A Mythos class
+model that we have made safe for general
+use. AK. They make it dumb and you can't
+attack the Pagon with it.
+>> Yes. And they make it sound like they
+have a warship class.
+>> Yeah.
+It's capability exceed those of any
+model we have ever made generally
+available. And what everyone wants to do
+is like if the the name if the numbers
+are bigger than before and they are like
+everywhere and that was big
+>> and it's a big difference.
+>> Yeah, that's massive.
+>> It's getting more and more difficult to
+get higher numbers because the higher
+you get the harder it is to scale up.
+Yeah,
+>> because uh yeah, so that that's why they
+create also new benchmark every Sunday
+and all of a sudden like
+>> yeah, okay, let's uh we have maxed out
+benchmark. So let's let's make another
+one.
+Uh so aent coding yeah S swa benchmark
+pro and frontier code diamond. Yeah, I
+guess different providers but same
+benchmark. Uh 5.5 XI was at 5.7%
+on Agent Kenic like the Frontier Code.
+31 on Xi Mitos/Fable 5. That's that's
+nuts.
+>> That's a big difference.
+>> Yeah. I don't know what's the model is
+or if they game it like you know because
+they can basically train on it.
+>> Mhm.
+>> Uh yeah, it's way bigger than 5.5 and
+5.5 is was good.
+>> Yeah.
+>> Uh you know 4.8 8 ultra code. When I go
+back to 5.5, then I don't like the model
+anymore.
+>> No. What? It still feels like every
+update does the same thing. Now I did
+Meas. Oh, yeah. Fable.
+>> And I feel like Opus is dumb.
+>> Yeah, but I buy a lot. Yeah,
+because I actually checked myself and
+when Opus said that my system was good
+to go and no bugs, I asked Fable and he
+found like a full list.
+>> Yes, that's And do you prefer to pay
+more because we're going to talk about
+the pricing like in a minute. Do you
+prefer to pay more uh but have a better
+output or have 70 80% of the job done
+and then you need to come back and
+verify everything a couple of time and
+>> yeah I like to do it in steps still
+because I don't think it can oneshot a
+perfect system.
+>> Yeah.
+>> I think that that's they say they can do
+it and it can work longer but then it
+gets really expensive because it has
+bigger memory. But I Yeah, true. But I
+think it's because our specs are not
+their specs.
+>> Oh, yeah. For sure.
+>> But our token burn is higher than
+theirs.
+>> And we don't have that money.
+>> No. Yeah. So, the best option is for now
+to just get an another subscription.
+>> Yeah. I bro I I bought another one like
+200 a month uh basically just for that
+>> because we have 15 days and we're going
+to talk about that too.
+>> Yes.
+>> Uh okay. So other than that the big jump
+uh special reasoning that that could be
+good like if they could push image video
+model that would be fun to try.
+uh blueprint uh multi multi-disiplinary
+reasoning 59 from 56 56 and 41 from uh
+GPT5. Yeah. So basically everywhere it's
+numbers goes up.
+>> Mhm.
+>> Terminal benchmark 88 instead of 8.3 uh
+8.2 on 4.8 on Yes. And cyber security
+78. But basically, if you try to check
+my network and uh find any issues, it's
+got no no you're hacking now. So get
+out.
+>> And I tried it yesterday. I first said,
+"Okay, please double check my login and
+make sure it's not hackable."
+>> And
+it it said in yellow letters in my uh
+terminal window. I switched to Opus
+because of security.
+>> Yeah, that's nuts. So it looks like when
+you make the prompt too much on uh
+trying to find options to hack that it
+switches to opus and it doesn't give you
+the full potential of fable.
+>> But afterwards I said hey this is my
+code please do a security check and it
+just proceeded and did everything.
+>> Okay. So you you use opus to go to pass
+the security and then you go back to
+>> no I just did different prompts but if
+you in your prompt write down or at
+least that was what I what I found out
+then in your prompt you find something
+that it uh you want to know if people
+can hack this then it will just say hey
+I'm not doing this I'm switching back to
+the opus model and I wish you all the
+best.
+>> Okay. So I think that's one of their
+securities that they put in to make sure
+that people don't abuse it.
+>> Yeah, that makes sense. But like can can
+they really like uh catch all of the use
+case or because yeah I saw on Twitter
+like some uh feedback and they they said
+yeah do some research about cancer like
+can some blah blah blah like can can we
+have some alternative cure for cancer
+whatever and it blocked right away. So
+>> yeah, because I was going to block on
+security and biological uh stuff.
+>> So you can build a nucleus. Uh
+>> yeah,
+>> but afterwards when I said I just want a
+security check on this code, it checked
+the entire login and it gave me like
+three issues.
+So that was just a different prompt
+>> and maybe it understands the context of
+the app too and it say like okay it's a
+SAS/WordPress whatever and then yeah
+that's interesting uh yeah okay so
+pricing um okay yeah first
+uh wait API uh 15 uh June
+that's an important sentence where is it
+uh yes from today through through June
+June 22, Fable 5 is included on a Pro
+Max team and seedbased enterprise plan
+at no extra cost. On June 23rd, we will
+remove Fable 5 from those plan using it
+after that will require usage credits.
+>> Yeah.
+>> [ __ ] off.
+>> So even if you use it in your terminal
+>> Yeah.
+>> will it then also go to credits?
+>> Oh yeah. Yeah. like we will not have it
+on the subscriptionbased uh
+>> yeah well this is something that we said
+last time right when is the moment
+>> that they are going to charge you so
+much more and that you're addicted to
+the AI and you can can't live without it
+>> yeah but I'm not paying API press stuff
+like that
+how to get bankrupt yeah I just like
+prompted uh Fable 5 and also like the um
+the integrity of the output.
+>> Mhm.
+>> It's never like relable enough to Okay,
+you bro, you spend 45 minutes uh
+spinning off 70 agents. That happened to
+me last night and the bug is still here.
+So,
+>> yeah. Yeah, but you spent like 2.5
+million tokens.
+>> Yeah, exactly. And uh I yesterday
+because I reached my limit too like um
+I turn out extra credit just to uh
+finish some task and stuff. I burn 50
+bucks just like that.
+>> Yeah.
+>> Like insane. Uh okay. And so we have
+that and usage credit. Okay. And finally
+the pricing. So
+10 B uh $10 uh in and 50 out.
+mess five. Okay. Same price. And for
+Opus, yes, for Opus it was 525 and on
+Sony it's 315
+>> and one 125
+>> and they doubled the cost for meters,
+right?
+>> Yeah. Yeah. It's it's like twice obvious
+for meters.
+>> Yeah. Yeah. It's 10 to 50. Yeah.
+>> Well, that goes hard. Especially if you
+put it on ultra and you just leave and
+you go
+>> touching some grass outside and after an
+hour you come back, you can have a bill
+of $250
+easy.
+>> Yeah. Like like I max out two accounts
+of five hours session limit by having
+four five session of ultra code uh fable
+five. Let's go, bro.
+>> Yeah.
+So yeah,
+it's it's interesting but we have better
+better output and uh okay so I wanted
+that and oh okay so fable games now what
+people are building and that's
+definitely interesting is
+that
+uh 5 is insane. It were from the little
+fantasy world mush. I don't think it's
+true because how do you how do you
+generate the assets from clothes?
+>> I don't know. But this looks like World
+of Warcraft or whatever
+>> created by Tes. Yeah, it's a fake fake
+>> uh an AI using a second prompt in the
+video. The character moves smoothly and
+what what mark is visible
+entropic model rejection coding
+capability likely contribute. Yeah, but
+I mean you need to generate the asset
+anyway, but uh yeah, that that looks
+that
+>> Yeah, but probably they have everything
+already in it and they just switch to a
+different model.
+>> Yeah.
+>> Oh,
+>> so they have the entire setup, they have
+the assets in it for generation, the
+prompts,
+>> instead of using Opus, they switch to
+another one and they show that it's
+looking better and and everything.
+Uh, next I will create fable.
+I mean, yeah, because
+like what we at last week was like all
+of the sprite for the game stuff that
+the short FPS was react 3GS but the
+default um uh not sprite but just like
+geometry layer etc. Like you will see in
+one of the game uh that I've prompted
+after that it's just like geometry
+figures. There is no image at all. So
+yeah, it can copy but no base. Okay.
+Okay.
+Uh tech t tech tag I just designed a
+website with fable. It launched today.
+Honestly the line uh between AI
+generated design and human design are
+blowing fast. Yeah.
+>> And Figma to actually provide
+>> I want that. I want that.
+Yeah. You can still see that. Yeah.
+>> Yeah. Well, it it is looking good, but
+on the other hand, if you create like 50
+websites, I think at least 10 are
+looking the exact same.
+>> Yeah, exactly. Yeah, it's really hard to
+have like some unique
+>> but also it's because everyone is using
+the same library like shen stuff. So,
+yeah, if it's not fine tuning to what
+you want.
+>> No, you need to do that before you
+start.
+>> Yeah, exactly. I mean that looks
+>> if this is the first things that you see
+then this looks good and then you keep
+on scrolling on X and you see other
+people and you see the same uh layouts
+the same images and everything
+>> uh AI subscription are there the clothes
+fable will only be an entropic
+subscription until June 22 after that we
+need to pay for usage per token for this
+model will not be included in subs yeah
+okay cloud fable Control extra high.
+Make a Pokemon clone. One hour of
+reasoning. 8K line. One shot. Uh,
+really? Oh, maybe it can take the sprite
+from like internet though cuz it's
+probably everywhere.
+Not perfect. Clanky text artifact blah
+blah blah
+including the music.
+>> Yeah, because that Yeah, they can
+generate studio music.
+So that's that's okay. That's nice.
+Yeah, you can get the sprite. Yeah.
+Okay. So there's no attack and that's
+Minecraft. Yeah. Same thing. All of
+those sprites. I believe that because uh
+it's everywhere on internet. So you can
+download them for free since forever. So
+yeah and this one quickly. So ask Fable
+to make me another back rooms games like
+>> code one
+I won't that's
+it. Yes he's using it
+>> little MacBook I could run.
+Okay dude the liinal noise. Okay it
+actual playback. Dude that's nuts. What?
+>> My MacBook I could run.
+Okay, dude. The liinal noise. Okay, it
+gener Okay, I didn't see anything,
+>> you know. It still isn't doing anything,
+but
+>> yeah. Uh, tag Minecraft. Oh, yeah.
+That's a Slenderman man stuff. Yeah.
+Okay.
+>> Mhm.
+>> Big go play. Oh,
+>> you can test it.
+>> Yeah. Uh, I just don't want like
+screaming stuff in my
+Oh, they I'm afraid. I'm afraid.
+Okay. I can't.
+>> You can't delete.
+>> Yeah. This is just waiting for that one
+moment where in front of you.
+The sound. Do you hear the sound?
+>> Yeah. Yeah. Yeah.
+>> Whoa.
+>> Oh, that's cool.
+>> Whoa.
+Okay.
+Uhuh. I don't like that.
+>> It's never good to go into a oneway.
+>> Oh, yeah.
+>> Into a dead end.
+That works well.
+Yeah. Yeah.
+>> Or maybe there is nothing. It is just
+attention of
+>> uh uh
+>> Oh, you found it.
+>> Really?
+>> That's it.
+It's not working. Not working. I don't
+want to go back.
+Woo.
+>> And never outside.
+>> Oh, you're going down into the next
+room.
+>> That's nice. I won't.
+>> That's nice. That works well.
+>> Yeah. And now that was just the first
+prompt, right? So, this is like the
+basics and now you can continue.
+>> That's what he said.
+>> Oh, yeah. Amega cooked with a very
+simple prompt. Okay, let me bring it
+back.
+back back. Yeah, it say five minutes
+clip contain a quick walk through the
+full prompt through game play. Okay.
+I mean I mean also like it it didn't
+create a new game type. It like bringing
+like more uh like other sprite or the
+type of game and generate. It didn't
+like create same thing for like uh our
+game stuff. It's just an FPS that looks
+like Doom, right? So, it's different.
+Uh okay. So, we have that. But
+technically, again, technically it's
+down.
+>> Yeah.
+>> And now I'm just curious how many people
+are building it now and are going to
+spend like millions of tokens daily
+after two weeks.
+>> Exactly. Uh but that's why like we need
+a space compute.
+>> Yeah.
+>> 3D game strategy solo browser base no
+install economy tech tree thanks a first
+game realistically do three months alone
+has 100 million play number. Let's find
+out. Yeah pretty cool that looks like a
+C five or something
+posted. Okay cool cool it's kind of nuts
+react entities I really apply scared.
+Okay.
+Nice. Okay. So now
+uh
+so from
+from our little
+uh stream from last week we did that. Uh
+yes.
+>> Yes. But this is cool. you.
+>> Oh, hi. Reacting to our
+>> what we have done yesterday last week
+was that.
+>> Yes.
+>> But this is cool. You have actually a
+working game already.
+>> Nice video.
+>> And uh yeah, we left it over with the
+same uh pieces all together. We put like
+we prompted like um uh a couple of times
+after but now
+>> you made some upgrades.
+>> Yeah. Uh automatically. Okay. So the way
+I did it was to um I got another account
+and then I run it on automations.
+>> Mhm.
+>> Like every hours, two hours and four
+hours because uh then it was taking too
+much token. So I every four hours I had
+a uh GitHub board with all of the
+features and all of the direction that I
+wanted. And now welcome to ship [ __ ]
+games.
+>> Yeah. Just to tell people that you did
+this with your own skills, your own
+prompts.
+>> Yeah.
+>> And your own automation to to optimize
+everything. It is not a oneshotted game.
+>> Yeah. No. No. Exactly. Yeah. It's
+basically like since last week uh auto
+uh automations loop
+>> and uh verification for the asset and
+stuff. It's not like 100% done yet, but
+it's getting there. So,
+>> we have a website. We have 200 200
+commits in 30 days. I also have a
+built-in public uh git tracker know it's
+connected to GitHub and it tracks all of
+the commits.
+>> Okay, that's cool.
+>> I didn't build seven games. Uh, one game
+per seven.
+>> Mhm.
+>> Uh, production sprites. Okay, that's
+nice. Uh, like for the weapon and stuff
+like that. Uh, Pierre ships 200 130
+pier. Okay, so seven games. I'm going to
+show you all of them uh after that. But
+uh yeah, scor game deadline which is
+like a toa defender. Packed which is
+like a mobile jewel stuff. Uh,
+Starlight, it's like a not Space
+Invader. It's a arcad uh game stuff like
+a
+plane when you shoot and then you move
+and stuff like that.
+>> Uh, Red Line, which is um it's like a
+Sonic alternative
+edge dog. You just run across the map
+and because you have a messenger to
+deliver blah blah.
+>> Uh, Ro, I don't remember this one.
+Uh the platform. Oh yeah. No, it's um
+Super Mario.
+>> Oh, cool.
+>> So yeah, I I want to I want to try
+different game style and see which one
+is like the easier to um to implement.
+And the war line is table commander/maps
+and it's a hobby for because it will be
+all of that will be multiplayer because
+why not? And uh it's a map with the wall
+and stuff.
+>> Yeah. And that's why you make it more
+difficult, right? Because a multiplayer
+is not just a one-shotted game that runs
+locally.
+>> Yeah. I mean, you know, like uh I I
+define a scope and then oh, I have no
+idea. Let's promp that. Let's see where
+it goes. Uh so play no dead road. That's
+the game. And obviously everything is
+open source. So if you want to check how
+we did that, uh check all of the links,
+the skills, uh the games itself, all of
+the repository, everything is uh free
+and it's also based on the skills that
+we have and like the ship sheet dev vo
+template, everything is a monor repo. So
+everything is accessible and public and
+if you want to pay us, you can buy a
+studio pass for $99 $99 a month.
+>> Yeah, you're lucky. Only $29.
+>> Yes, exactly. And yeah, also clean clean
+uh clean clean content because uh we can
+uh the bit lock and the asset gallery
+all all of the stuff. So yeah, not
+everything is clean but uh yeah like so
+everything has been generated by uh
+collects. So see like for example those
+assets uh that's not clean like the
+purple it should not be here and here
+it's bleeding here. So yeah, it's just a
+draft for now,
+>> but uh it's getting there because uh Oh,
+that's the previous version. Before it
+was pixelized art. Uh t tech tag. Yeah,
+all of that it's all draft. Um tech tag
+tech tag tech. That's some sick design.
+>> Yeah, I did a good job.
+that's the first weapon we played. Uh we
+played with it. We play with uh bridge
+boss. Okay, cool. So,
+uh, now the second website is Dead Rot,
+which is the game by itself. And I'm
+going to the same thing like with the
+law and stuff. I'm going to talk about
+the law, too, because uh that's going to
+be interesting. But first demo of the
+game. So, we are going into the war
+lane. It's gonna be uh loud because
+that's a doom like uh design uh mood.
+But uh yeah, so reduce the sounds
+back. Enter the
+a little bit.
+That's better.
+in your head.
+So we have okay
+lot because I can't speak over
+uh resume. So we have a comments table
+where it's going to be a strategy based
+uh stuff with like resources that will
+impact all of those games
+return
+uh like I'm going to show you the FPS
+first because that's the most uh uh
+builtin uh game. So, sketch survivor
+player run. You can choose your uh
+character. There is different weapons.
+Uh again, a shotgun, SMG, and um a
+sniper. I'm going to uh try with the
+shotgun. That would be funnier. And now
+we are back on the map.
+Oh,
+they explode. There is blood. There is
+like some um uh
+members and stuff and that's the bonus.
+So, you're improving your um
+your
+>> Yes. So, yeah, your abilities.
+>> Yes, exactly. Abilities during the game
+then
+I'm going to just Oh.
+Oh, game crashed.
+>> You You broke it.
+>> Broke it.
+>> It probably needed to restart because of
+the the different settings.
+>> Yeah. Yeah, that should not happen. But
+yeah. Okay, that's a bug. Maybe Fable
+Fight can fix that. Uh T player run. I'm
+going to try with another one. So now we
+have another weapon and it's SMG.
+But okay, that that's the game.
+Okay. Uh, I'm going to back to the I'm
+going to go back to the lobby.
+>> Uh, okay. So, stablat that the plane
+game.
+You're going to see it right away. So,
+I'm a plane and then there's like some
+space invaders coming like and I'm
+shooting them.
+And same thing like same gaming loop.
+You have abilities and you get you
+improve them.
+That That's it. That's the game. I'm I'm
+wondering if I should like do it like a
+3D, but I'm curious about the sprites
+that have
+>> that makes it difficult.
+>> Yeah.
+Main menu path more lane
+path. Uh okay. So, Starlight, we did it.
+Uh packful.
+Yeah. See, like for example, like the
+sprite is bleeding on the right and
+because it's one band and it should only
+display the one image.
+>> Yeah. Yeah.
+>> Uh that's the mobile. Okay. That was one
+prompt of Opus
+4.8 that's supposed to be like a League
+of Legend, but we're not here yet.
+>> It need It needs some modifications.
+Uh attack uh one n I don't even have the
+full menu yet. So attack dead lane.
+Okay, I can I can jump over the table.
+Attack path deploy. Oh yeah, that's the
+to defender. It's sick. So I'm building
+a a tower.
+>> Mhm.
+>> And then a defense game.
+>> Yes.
+And and the first prompt was like a 3D
+views.
+>> The game works. [ __ ] works.
+And I can I have gold, so I can rebuild
+the tower again.
+>> Mhm.
+>> Build more.
+It's going to be I I think this one is
+going to be It's going to be amazing.
+Okay, that's it.
+>> This is cool.
+>> Yeah, it's nice. T
+uh co survival. We did it. and Roform.
+Yeah, that's the
+Super Mario. Yes. So, I'm going right
+puff puff. And no, it's going to It
+crashed.
+>> Oh,
+>> yeah. It crashed.
+>> Check that you don't fall into the lava.
+>> Yeah, I can't go over that for some
+reason.
+>> Invisible wall.
+>> So, tech. And uh where is the Sonic? Oh
+[ __ ]
+Where is the Sonic game? Uh, I did that.
+Warhog, I did that. Blightful.
+Dead lane. Huh?
+I didn't do dead lane. No, dead lane is
+the Yes. Did I miss the game?
+>> Is it behind you?
+>> That was it.
+>> Yes. Okay. So, that's the Sonic game.
+>> That's like hyperactive. Yeah, but I
+think like the core loop and the core
+mechanics needs to be uh that it's going
+to be like super fast and stuff
+>> and it's buggy as hell. Like all of the
+collision stuff, it's not Yeah. And
+that's it. That's the game. You cross
+the line, you finish the line, you put
+the messenger, blah blah blah, and then
+that's it.
+>> Yeah. Yeah. And you just want to improve
+your time.
+>> Exactly. Uh so yes. Cool.
+That's the basics. Now, what we can do
+is to build the tools to uh generate all
+of the assets and all for all of those
+games to make them better. Uh oh. Um I
+can Okay, I I think we should use like
+replicate and nano banana pro.
+>> I didn't set up that. Oh [ __ ] Uh I
+forgot to take the keys. Um, so
+yes,
+uh, yes, I want that. I want that.
+And now I want replace
+load path. So now I'm going I went back
+to code because it's going to be more
+visible than the CLI. And I work quickly
+on Yes. Okay. The map picker. Instead of
+changing the map in the scorch game, now
+we can have a picker like a map picker
+in the
+uh just after you select the player.
+>> Mhm.
+>> I think that's it. Check out what
+actually been inviting. Okay. Pick the
+Ply with tree. Okay. Proceed. You zero
+download ever. What?
+run play in first which cash
+the only download after play right. Oh
+okay.
+If you really want zero download ever is
+the play config. So test run against you
+install ah test run depend on whatever
+chrome version.
+Uh
+so
+uh we good or not?
+>> Most important question for every AI.
+>> Uh do
+do I need to do do anything
+buff?
+>> Oh, did you fix everything?
+>> Yeah, fixed everything. God damn it.
+>> Yeah. And if not, go into loop. Did you
+fix it? No. Fix it.
+>> Fix. Okay.
+Uh, close as completed. Move to done.
+Consume ship sheet engine. Yes. Three
+game already depends on it. World bounce
+camera rig. Uh, commented with audit
+findings, projectile combat, earth
+score. Yes. Okay. Adapt adaptive music.
+Yes. Because the music should be based
+even on the action of the game that you
+have. you it should like u change.
+>> Mhm.
+>> Asset ring one of seven games down. Yes.
+Okay. So that's the FPS. So yeah, we
+don't have any assets for all of the
+other games. Weapon ti. So yeah, in the
+score survivor,
+>> the more point you have it will visually
+enhance your weapons. And I even like
+for the guns, I want like two weapons
+because uh if if you just have a guns,
+you need you need to
+to be more fun and more brutal.
+Uh yeah. What do you think? Like is that
+a good start? Like do you have any
+feedback?
+>> No, I think this is a good start.
+We need to start somewhere and see how
+it goes.
+>> Yeah. Uh we're good. Oh, see we Yes,
+we're good. Let's go.
+>> Okay. There's nothing you need to do on
+your machine. The browser installed uh
+is done once the globally and the sh
+Okay. Okay. Cool. Uh it's green. Okay.
+Uh back
+path noise.
+Uh the Yeah. Well, okay. Cool. Nice. Uh
+okay. So that road and so if we want to
+build the tools, it should be in the
+ship ship game. um
+repo and I want uh yeah also I have the
+routines where I like I explained like
+every four hours it pick features from
+GitHub
+>> and it build it and then it and then I I
+should add another uh daily GitHub
+review where it review all of the PR mer
+to master and everything.
+>> Mhm. which is basically everything that
+needs to be automated. It's basically
+include/codex because you have the same
+UI in in codex. So when we're going to
+have like 5.6 or six GP6 that's going to
+be that's going to be lit.
+Um oh yeah because all of the asset has
+been generated directly via the uh image
+gen in codeex which use um
+GPT image too
+because they have a genative model and
+for the voice for the sound. So for the
+voice there is no voice yet but uh 11
+Labs has a crazy good uh CLI where I can
+just uh prompt form code and generate
+the sound that I have like the sound
+effect or the shotgun or whatever from
+11 Labs and it's free like I have like
+credits every month so I can even
+generate that for free.
+>> Oh that's cool.
+>> And for Sunu there is daily credits
+where I can uh generate music like like
+the one we have for free every day.
+They're giving up free credit.
+>> Yeah. Well, I would say just keep using
+it.
+>> Yeah. Free. Well, yeah. I'm not I'm not
+spending money on music.
+>> No.
+>> Um, okay. So, bomb the board. Oh, I
+didn't. Ah,
+>> what did we forget?
+And what model do you have right now?
+>> Ah, I see it at the bottom right. Table
+five and low. five low and auto for
+because I want to auto everything.
+>> Yes,
+>> because uh it's smart. It's smart smart.
+Um so that is the law which is
+um
+ship games
+like I'm gonna start with that event uh
+path. So the public repository are
+shipping games dead rot and the skills
+and everything is a monor repo which for
+dead rot um we have all of the games in
+app/ games but we have the law which is
+an obsidian vault with only markdown
+files
+and I can uh so what I do is uh I write
+the law
+>> like the story etc.
+And then all of the games are attached
+to the law.
+>> Yeah. So everything is connected and
+>> everything is consistent and everything
+would uh give us uh consist.
+Okay. Nice.
+>> Yeah. So that means that every game is
+playing in the same world.
+>> Exactly. That's the same universe. And
+>> Yes.
+>> Yeah. So that's awesome. Oh, every time
+every time I speak, I can hear
+something. Do you?
+>> Yeah, I think they were downstairs with
+drilling again.
+>> Yes, but no, that's me speaking. Wait,
+>> this one?
+>> Better. No.
+>> Best.
+>> Is that new or is that just now?
+>> No. No. It just started.
+better. Oh
+>> yeah, this sounds good.
+>> Okay, it's my connection of the mic.
+Damn, that's sad. Damn.
+>> Have Fable fix it.
+>> Uh that's that's hardware, bro.
+>> Maybe he will just order an engineer.
+>> Um yeah, I mean we need the AI robot to
+ch to fix hardware now.
+>> Oh yeah.
+Uh, okay. So,
+um, yeah, the Obsidian Vault. So, yeah,
+every like the design I have like the
+design MD file that will be consistent
+with everything, all of the games, all
+of the universe is based on that. Uh, I
+will probably like change it along the
+way, but uh, like everything and because
+it's a monor repo, then the agent has
+the context of that all the time. Mhm.
+>> And I it should at least refer to it all
+the time.
+>> Yeah. Yeah. And get almost the same
+styling and
+>> Exactly.
+>> And then I can always like Yeah. Go go
+go back to refer yourself to uh the uh
+the vault check. Yeah. Like the game
+what we defined for the game problem low
+the gold you want format win condition
+like it's just nuts. And then you
+iterate on top of that again and again
+and again for weeks, months, and then
+you have a
+cool Mario Party Doom like game.
+>> Yeah.
+So yeah. Uh I don't have an
+Okay, I have a look. Okay, nice art from
+batch. No, nice nice.
+That's sick. I just I asked it to attach
+the Oh, nice.
+>> So, yeah, I can also use that for the
+consistency of all of the art stuff that
+leads.
+>> No characters was locked yet. The
+scourge many host and bridge boss are
+the only promot promoted locked.
+>> Why can you It's happening again, right?
+That one
+>> better.
+>> Yes.
+>> Okay. That was the plastic on my Okay.
+Nice. Cool. Fixed. No need for AI.
+>> No. Yeah. Well, sometimes we can do
+stuff ourselves.
+>> Yeah.
+But really, sometimes, bro, like not all
+the time.
+>> No, not all the time. But we can try.
+>> Yeah. Uh, okay. So, back here. Back.
+Gold. I'm going to replace that. Replace
+character path. Uh, no, I want load path
+path. Uh, cool. Oh, m picker. Matt
+picker. Produce local run produce
+specific react.com. Nice, nice, nice,
+nice, nice. Yeah, like I I love all of
+those skills and all of those uh uh
+plugins like a React Doctor to just scan
+on CI and because it's an open source
+project, we run it for free on GitHub.
+Love that.
+>> Okay. So, uh I don't we don't have any
+app. I don't uh in the ship [ __ ] ship
+[ __ ] games.
+Oh, we do. Nice. We do have an app. So
+I'm going to run it
+uh include directly
+um
+like run the apps apps in preview
+so I can see what we have right now.
+stuff rename apps
+app.
+It's already like a 40 minutes 45.
+>> Okay. Okay. Okay. We're gonna we're
+gonna ship a small features then.
+>> Yeah. Yeah. Let's show something.
+>> Yeah. Um
+I think what I
+what I would like to have is
+a proper sprite generator.
+Uh, open dash. Oh,
+nice. Oh, yeah. So, that's what people
+will have once the they pay us the 20
+bucks a month.
+>> 29 bucks. Get the pass link to ship was
+blocked. Okay. Sign in. Yeah. Nice. Uh,
+oh, I I did not have the keys. Okay.
+Dashboard. Sign in. Okay. Everything is
+on click.
+Okay. Cool. Awesome. Uh, awesome.
+Can you give me a quick features that we
+can demo uh quickly with the uh app?
+Uh,
+maybe one to generate uh assets for the
+games with the replicate integration
+for the game. the replicate
+integration uh to generate
+right
+with nano
+uh nano banana.
+Okay. So why I'm doing that? I want to
+uh get the keys from clerk.
+>> Mhm.
+>> So dashboard
+cl because I'm kind of forgot about it.
+Cl
+login.
+It takes some time.
+Fable is spending a lot of tokens right
+now.
+Ah, you're muted or your mic broke.
+Yeah.
+I think it's broken.
+Oh, he's out of batteries.
+That's the same issue.
+Is it better?
+>> Yeah, this is better.
+>> Okay.
+Uh oh,
+>> you out of batteries.
+>> Yeah. No, I think it's
+uh input.
+>> Yeah.
+>> Is it better?
+>> Yeah. Yeah, this is better.
+>> Okay.
+Uh no, I can hear it again.
+Oh, maybe not.
+>> Yeah, it looks like you have a broken
+wire or something or loose connection.
+Okay. Because I connected directly to
+the roadboard, but Okay. I'm going to
+check like quickly the state of the song
+before that.
+>> Mhm.
+Okay. No, it works.
+>> It works. Yes.
+>> Off. Okay. Cool. Uh, drop replicate. I'm
+not doing that live.
+Uh, attack. Okay. Okay. So, what I want
+is to set up that. Nope. Not this thing.
+I want to copy that. Nope. I want that.
+Copy. I want that. And I want It said
+replicate API token. Replicate
+API
+token. That's what I forgot to for
+add generic password. What?
+What? What is it ask? What is it doing?
+I refine the full flow for the preview
+the page render and click generate
+correctly. It's the API. Uh the error
+you see on the screen shows no replic
+generation security. Wait, what? Why?
+Why?
+Why is that setting up the replicate?
+Oh, I said oh. Oh, I'm on the page.
+>> Yes.
+>> Nice.
+Okay, cool. Uh, so I just need the key
+replicate
+back. Replicate. Run.
+Sign in.
+Sign in with GitHub. We're getting
+there. We're getting there. We're
+getting there.
+Uh, what? Login, bro. Why is it not
+working? Gab.
+Okay.
+What? Unable to sign up.
+Look.
+Replace.
+Nope. Nope. Uh. Oh.
+What the heck?
+Wait.
+What
+is it? Broken.
+44 replicate. What the heck?
+Oh, is it GitHub?
+What? Okay, cool. We're in uh ship ship
+dev. Yes, I'm going to So, I'm not going
+to share that
+>> like to replace replace
+load
+uh load. Oh, no. I'm in I'm on my Okay.
+load path. Uh I was on the
+uh cursor page. Cool. So I have money on
+my It's happening again.
+>> Yes.
+And it killed your voice.
+test.
+>> Yes, this is better.
+>> I need a new mic.
+>> Yeah.
+>> Um,
+so ship [ __ ] games
+great token.
+Uh puff
+puff buff puff
+uh attack. And now we can reload. Load.
+Okay, that's annoying. Attack. I think
+it's good. Nice. Write description. An
+undead pirate captain with a Okay.
+Andron pixel art low poly dity
+H. Okay. Um, so is everything
+in
+place? Oh,
+don't check F.
+>> Yeah. F keys.
+>> And then it says this wasn't in your
+environment file.
+>> Uh, okay. Um,
+imagine a scourge from deadro.com.
+Okay. Dead rod. Dead rot. Dead rot.
+Is that going to be no banana? Is that
+going to generate right away?
+There's no no echoing anywhere. Bum bum
+bum. Nice.
+And sometimes you see like uh cloud is
+continuing a lot of seconds and not
+using tokens. Is that when we stand in
+line waiting for other people?
+>> Uh so for me it's uh it's when it's
+processing code.
+>> Ah yeah
+>> right.
+>> Uh and that's it. That works.
+>> That's cool.
+>> Nice. Okay. So, uh, path.
+So, what I want, uh, I need those assets
+to be related to the game I want to
+generate the sprite for.
+>> Mhm.
+>> So, how can we do that? Oh, sorry. I was
+prompting with a whisper
+to be related to the game. I want to
+generate the sprite for. How can we do
+that? B, the demo flow is simple. Open
+asset type of sprite description Peter
+statip generate and the result land in
+the grid. Uh 24 that's amazing.
+Um,
+also I want a gallery of all of the
+asset we have generated and I want to
+regenerate the asset uh if we uh want to
+reprint it differently
+and if we need to generate them u
+with different sprite and position.
+Okay. Back.
+Uh, okay. Andron 2D
+back
+locally dark greeting. Oh, okay. Okay.
+Okay. Okay. Okay. That's That's
+okay. So, in my
+uh
+nice Okay, cool. Uh dashboard. Oh, yes.
+Yeah. And I know banana. Okay. 10
+seconds. And it cost me
+7 cents.
+>> That's not too bad.
+>> Yeah. Seven cents to generate one image.
+Uh handdrawn game sprite of imaging.
+Yeah. Okay. Okay. So yeah, we need to
+work on that. We need to work on the
+pro. We need to work like the input. I
+can also have an input of the image. So
+yeah, that's the
+that's the two. Okay, so like there's
+absolutely nothing like the design of
+dead rot stuff, but hopefully it will
+pick it up now. Puff path path
+path cl
+um I want to be able to uh generate
+batches of images. I think with Nano
+Banana uh 2 we can have different
+output. So add that in the prompt. Also
+use the skill to prompt the asset and to
+keep the consistency in it. Um because
+it should be from the game we want to
+select to prompt for.
+Also explain to me which kind of sprite
+we are going to need if we want to add
+those sprites into the games and what's
+the workflow for the next um asset
+management
+for the integration to the game
+directly.
+Oh no
+[ __ ] Uh game we want to pronto uh do I
+have a gall? No. Okay. What I say accept
+uh I want to be able to gen B of image
+also use
+X a swarm reaper enemy locking forward
+uh those prompt or [ __ ]
+dead lane. Ah my mic
+I am hearing you.
+Oh not anymore.
+What about now?
+>> No. Yes.
+>> Okay. It's 100% like the connection
+between the mic and the extender. I
+don't know if Okay. Wait.
+Is it better now? Oh, okay. Let's see.
+Okay, so uh BR skill to prompt assets.
+Bam. Bam. Okay, we're going to start it.
+So, I want to gallery generated. I want
+to generate the assets. I want to
+reprint it. Okay. French accent. Mhm.
+Need to generate in different sprite and
+position. Okay. What is it going to
+think about that?
+Bam. Bam. Bam. I I like I like AI
+generation.
+I mean, I can't do that with this
+generation the with this generated
+assets because like the small flies
+needs to be out.
+>> Mhm.
+>> But uh
+that's sick.
+I love it. Oh, is that generated? Uh is
+that saved locally?
+page API assets generate list file. No,
+I don't I don't have the
+where where where are the Oh, is it
+displaying directly from
+uh
+from replicate probably.
+Okay. Matt picker. Matt picker.
+P
+final state all 20 doc okay skip same as
+before react doctor check itself fast
+and the B summary table yes so like with
+those like pipeline on CI
+>> then we have like recursive like not
+recursive but uh fully automated test
+testing so
+>> it should improve the quality of the
+software shipped because then you have
+CI and QA quad drills
+I love that.
+Oh, style. Nice. Ideal attacking,
+running, jumping, side views.
+Yes. Okay. Uh, type check pass.
+Is that Oh, it's not even ultra code.
+Did I Did I pass that or is it one
+script then reprint it in different? Um,
+because yeah, I like ultra ultra code is
+really really nice. Can I still Can I
+use that somewhere? I don't think so.
+Oh, reprint. I
+>> Let's see.
+>> I love AI. So cool.
+>> It's so easy. You say what you wonder,
+you get it.
+>> I don't. Do you have more bugs when you
+start a project from scratch with AI
+than having
+something like a codebase that is uh you
+add a AI uh layer on top of it slash
+code on top of that.
+>> Yeah, you need to have AI do an
+inventoriization of of all the rules,
+the code, the framework, then you don't
+get any bugs. But if you say, "Hey, this
+is the system. go create this,
+>> you're getting a lot of bugs because it
+just focuses on that step and doesn't
+read everything else in the framework.
+>> Yeah, 100%.
+>> And yeah,
+>> if you're building it yourself after
+every step and every documentation, you
+say uh write this to the documentation
+or update the documentation. Yeah, I
+mean uh yeah, like I have a session
+s
+I have a session end skill that you can
+find in like the ship ship skill uh key
+zero stuff v0 no ship ship dev/sklls
+>> which document everything inside agents
+sessions. So I have the history of all
+of the sessions and the agent can should
+read that every time we have um a proper
+uh like at the end of the session and
+documentation to get back to it and
+track it. But also I use GitHub as a
+source of truth.
+Like my GitHub is like yeah I I've
+connected all of the project to GitHub
+and I want all of the project to have
+specs to uh to then like ask the AI
+agent to get back to it.
+>> Mhm. So yeah uh and in term of usage uh
+like the session was restarted when um
+just before we went live and okay 15 70%
+that's nice.
+Okay preview preview I love that it's
+lit
+page. So yeah, I have the reprint.
+Uh, wait, it's
+running.
+Wait, that's Oh, that's Oh, that's the
+mob running and that's the mob
+attacking. Yeah, doesn't I can't use
+that.
+>> It doesn't look alike.
+>> Yeah. No, it doesn't look like the same
+thing.
+>> And then it loses a lot of stuff.
+>> Um, okay. So what I do is that gallery
+no path
+path tech
+all of those assets are not consistent.
+So when I ask for a reprint you need to
+use the origin of the image
+the original image. Yeah, I think we
+have a reprint that tries to do
+something similar but create a new
+version.
+>> Yeah, exactly. Yeah, there is no input
+in the in the image input in the in the
+prompt. Um, reprint, you need to use
+original image. Add a loader
+in the grid when an image is generated.
+and buff.
+Cool, cool, cool.
+Nice.
+Okay, so what are you doing, bro?
+Yeah. Um, I didn't check the token per
+second.
+>> Mhm.
+>> It's kind of slow, no onload versus uh
+codeex. No.
+>> Yeah, it's slower. Yeah.
+So yeah, you you prompt like five
+session and then you go away and you
+come back and then poof, you have a
+billion dollar company image.
+>> But you just work in in multiple uh
+windows so that's no problem.
+>> Yeah. With like ghosty like 16 image and
+stuff.
+>> Yeah.
+>> Uh but yeah, long uh Okay, maybe we can
+uh we can pause there because Yeah, it's
+going to cook. Um,
+I think I think we can continue. Oh,
+wait, wait, wait. Uh, it's all works.
+The gar no hold the swam reaper violent
+for scourge survival in different pose
+attacking running each tag in with its
+game and pose and each card has it own
+post speaker plus a post speaker. Yeah.
+Pixel art attacking
+form reaper enemy. Yeah. Okay. Okay.
+Okay. So I can
+uh I can select reprints and okay
+generate the uh
+fire is reprint button persistent lab
+store saved every render to a gig no
+asset labs I have it
+app
+uh
+said I don't see I don't see it
+I said lapstone what
+okay whatever oh no I don't see it okay
+I will look into it later um
+load
+where is it
+load uh gallery the page load everything
+from API list on mood new reprint with
+variation cool the generated form also
+gain a post selector attacking side
+views and API. Oh, it's because Oh,
+okay. Okay. So, I can select the style
+the prompt from here and Okay. One cave
+for the demo. Poses are fresh generation
+containing on the same prompts. So, the
+creator design drift between poses. You
+can see the four ribs different. Yeah.
+If you want consistent character sheets,
+the next step will be filling the
+original image. No [ __ ] bro. Let me
+check the repo. Found it. General at BR.
+Perfect. Uh, and give me a consistent
+uh
+one by four sprite
+with poses
+of the same characters
+and then okay after that we could
+uh
+we we're going to stop it but okay. So
+build prompt game style looks like it.
+Okay. Uh I al I want to code
+uh to
+describe the
+go in the prompt that will help
+consistency between the uh rights
+gapers
+build a help her to not gate but bath.
+Let's go. I'm hyped.
+But yeah, and everything will be open
+source and then and then we build a
+studio and then
+>> and then we have the most perfect game
+ever.
+>> Uh yeah, we have GTA 6.
+>> But but the cool thing is if people use
+this, they can change some settings and
+they can create it for a totally
+different game. Everything unique.
+>> Exactly. And Okay. So I don't want to
+lick the air but uh tag
+tag tag uh path replace
+share
+uh no that's the game the other one
+play oh I'm going to
+uh asset labs yes cool so here the
+architecture of the repo is like pretty
+straightforward where
+um okay so you have all of the assets
+etc but um
+we have packages
+oh maybe it's here
+um yeah so everything is extracted to
+build for that uh games uh in the ship
+sheet uh game stuff but like the engine
+to build all of the sprite or like to
+animate the monster in the game can
+works in other game and like you said
+yeah if people wants to um
+uh use that CLI or those integration etc
+they can to generate their own sprite
+>> and uh for their own uh stuff
+>> yeah it's a good start you can use it as
+basis
+>> exactly and um I also have like
+resources which is uh some YouTube
+channel that I've uh
+dropped the YouTube link and it extract
+the transcript.
+>> Mhm.
+>> And by doing that I have everything that
+I talk about.
+>> Mhm.
+>> And if there is any rules that I need to
+know to build the games then I can drop
+it and uh read the transcript and create
+the next tool on stuff like that.
+It's cool. Yeah. And shout out to AI
+oriented dev. like I love his channel.
+It's it's uh it's going to be us later
+on. But I I already show you that,
+right?
+>> Yeah, he is giving a good example.
+>> Uh
+where is he?
+AI AI oriented game.
+Yes. Back path puff replace.
+I love his channel. Like it's really
+cool. Uh and he's making making a lot of
+views like his uh V Fighter games.
+Amazing.
+Oh.
+>> Yeah. Commercials.
+>> Yeah. I don't I don't have it was not
+the right brother for the right profile.
+Come on. Come on. Come on. Come on.
+Look. Look at this. This is good. This
+is nuts.
+This is awesome quality.
+>> Yeah.
+>> Like it's it's like it's frame perfect.
+It's It's awesome.
+And it did that like crazy
+with the same tools that we have.
+>> Mhm. And one uh technique that I learned
+from his transcript is to uh for example
+for an animation instead of generate
+sprites from image to image you generate
+a video and then you extract the frame
+of the animation.
+>> Then it's always the exact same styling.
+>> Exactly. And it's not bleeding from one
+to another. Uh just going to be a bit
+more expensive um uh to generate. So
+yeah, that's a problem. Uh
+Oh, what's up, Grim? Oh, sorry. Missed
+your com. Yeah, the same as a fiber
+video game is making searching a
+nightmare. Yeah, for real.
+That's that's a problem for sure. Uh,
+and okay, sprite terrific. I mean, you
+can drop the tools that they they use
+and drop it to fable and uh to like copy
+paste and v coding the same process
+stuff.
+I love it.
+Uh tag. Okay, so load.
+Okay, now we're talking.
+Replace
+uh load path path.
+Look. Nice.
+>> We're going good way.
+>> Nice.
+>> Now you just need to be able to split
+it.
+>> Yeah. Yeah. But then like it's just
+Yeah, that's that's lit. But okay, see
+that for example, it should never do
+that because it's out of frame.
+>> So that should not happen.
+>> Yeah, but you have good results. No,
+it's just optimizing.
+>> Exactly.
+Like
+uh download of
+download. Where is it? What?
+Wait,
+I have one PNG. Oh, okay.
+Like back replace
+window
+preview. Where is my preview? What? I
+don't have preview. Oh,
+because I spaced it. I didn't click on
+it. That's my bed.
+Review bath
+>> noise. Okay. So, it's not the same. Uh,
+>> it looks almost the same.
+>> Yeah,
+>> almost.
+>> I mean, yeah, like the scale is not the
+same.
+But yeah, basically like it should rep
+like reprompt it with um I mean you can
+even like just cut that and you nobody
+will see the difference, right? Cuz it's
+still pixel. But yeah, other than that
+>> it has some like sometimes it has four
+pipes on his shoulder plate, a lot of
+time three, but
+>> it's getting in the correct direction.
+>> Yes. Okay, man. I think we can slowly
+wrap it up. Do you have anything like to
+uh address
+right now? This looks good.
+>> Yeah, I already have a sprite directive.
+Sprite prom directive. Let me check.
+Nice, nice, nice. Love it. Love it.
+>> Let it go and see what it does.
+>> Yes. Should we do like a series of live
+video about how to how we progress with
+that?
+>> Oh yeah, that's cool.
+>> Yeah, like it or
+>> even just small followup but just let's
+go uh and see let people see what we are
+doing next. Exactly. Exactly. And
+hopefully uh have some revenue because
+people will buy the uh
+>> the awesome skills
+>> subscription.
+>> Yeah, we need to work on that offer when
+once we have a finished product. But
+yeah, okay, that's a conversation for
+another stream.
+>> Perfect. So, thanks a lot
+>> and yeah, everyone subscribe to the
+channel. Thanks for watching the video.
+Um.

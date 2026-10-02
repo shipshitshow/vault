@@ -1,0 +1,11 @@
+{
+  "youtube_id": "RIIpSGFIoio",
+  "documented_on": "2026-10-02",
+  "method": "historical-vault-import",
+  "original_import_date": null,
+  "review_status": "historical status unknown",
+  "source_file": "transcript.md",
+  "source_sha256": "44dbdaf7de6c89a4f7e41f8b753050776fabb109160e2acec7015b4e2fd060c5",
+  "clock": "published-asset",
+  "note": "Provenance documents the existing archived text; original raw capture/correction history was not recovered."
+}

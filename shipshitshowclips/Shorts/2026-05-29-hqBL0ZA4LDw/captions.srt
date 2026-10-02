@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:02,760
+ Kioso reporting 85% of total compute
+
+2
+00:00:02,760 --> 00:00:06,000
+ from its own additional training and reinforcement learning,
+
+3
+00:00:06,000 --> 00:00:07,760
+ they are the only one with this data.
+
+4
+00:00:07,760 --> 00:00:11,680
+ That's why they got bought by a lot of 10/60 billion.
+
+5
+00:00:11,680 --> 00:00:12,840
+ They tracked everything.
+
+6
+00:00:12,840 --> 00:00:14,560
+ And I think that's AI apps right now.
+
+7
+00:00:14,560 --> 00:00:18,060
+ Like you need to track every action, every workflow,
+
+8
+00:00:18,060 --> 00:00:19,800
+ because that's where the data is.
+
+9
+00:00:19,800 --> 00:00:22,040
+ And the more points you have,
+
+10
+00:00:22,040 --> 00:00:23,880
+ that's where the value is, and the more.
+
+11
+00:00:23,880 --> 00:00:24,880
+ - It's all about data.
+
+12
+00:00:24,880 --> 00:00:26,220
+ - Yes, and more than ever.
+

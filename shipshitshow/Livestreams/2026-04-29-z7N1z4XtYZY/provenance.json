@@ -1,0 +1,12 @@
+{
+  "youtube_id": "z7N1z4XtYZY",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "b29ddb0625d380b07496c1247c3c867ea2507efcdd207ae48ea5065eaa0c6ef5",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-04-28-livestream-gpt-5-5-vs-opus-4-7-we-pushed-both-to-their-limit.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

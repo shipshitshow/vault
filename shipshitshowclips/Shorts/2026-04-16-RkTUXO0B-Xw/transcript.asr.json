@@ -1,0 +1,197 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,400"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3400
+      },
+      "text": " What's your point of view about the artist saying,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,400",
+        "to": "00:00:07,440"
+      },
+      "offsets": {
+        "from": 3400,
+        "to": 7440
+      },
+      "text": " \"They stole my work and AI prompting is not art.\""
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,440",
+        "to": "00:00:08,880"
+      },
+      "offsets": {
+        "from": 7440,
+        "to": 8880
+      },
+      "text": " Do you understand the backlash?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,880",
+        "to": "00:00:11,380"
+      },
+      "offsets": {
+        "from": 8880,
+        "to": 11380
+      },
+      "text": " >> Yeah. They say they trained on my data,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,380",
+        "to": "00:00:13,740"
+      },
+      "offsets": {
+        "from": 11380,
+        "to": 13740
+      },
+      "text": " on my art, and now it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,740",
+        "to": "00:00:16,940"
+      },
+      "offsets": {
+        "from": 13740,
+        "to": 16940
+      },
+      "text": " using my techniques to create new art for other people."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,940",
+        "to": "00:00:18,480"
+      },
+      "offsets": {
+        "from": 16940,
+        "to": 18480
+      },
+      "text": " AI will steal it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,480",
+        "to": "00:00:21,900"
+      },
+      "offsets": {
+        "from": 18480,
+        "to": 21900
+      },
+      "text": " Not even steal it, it will just copy it, create something."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,900",
+        "to": "00:00:23,840"
+      },
+      "offsets": {
+        "from": 21900,
+        "to": 23840
+      },
+      "text": " Even if it does it by itself and it"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,840",
+        "to": "00:00:25,880"
+      },
+      "offsets": {
+        "from": 23840,
+        "to": 25880
+      },
+      "text": " goes through the same steps as you have done,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,880",
+        "to": "00:00:28,080"
+      },
+      "offsets": {
+        "from": 25880,
+        "to": 28080
+      },
+      "text": " it will come to the same result."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:28,080",
+        "to": "00:00:30,280"
+      },
+      "offsets": {
+        "from": 28080,
+        "to": 30280
+      },
+      "text": " >> That's possible. Don't complain,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:30,280",
+        "to": "00:00:31,820"
+      },
+      "offsets": {
+        "from": 30280,
+        "to": 31820
+      },
+      "text": " just go and earn money with AI"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:31,820",
+        "to": "00:00:34,120"
+      },
+      "offsets": {
+        "from": 31820,
+        "to": 34120
+      },
+      "text": " because of so many opportunities that you get."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:34,120",
+        "to": "00:00:37,760"
+      },
+      "offsets": {
+        "from": 34120,
+        "to": 37760
+      },
+      "text": " Be creative and use AI to go even further."
+    }
+  ]
+}

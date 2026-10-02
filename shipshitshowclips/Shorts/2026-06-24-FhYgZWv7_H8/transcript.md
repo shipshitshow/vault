@@ -1,0 +1,16 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+You either need good boundaries, like we just said,
+or a very good preparation.
+People would think that the loops are just something
+that you add and it creates the perfect system.
+I don't believe that's true.
+- Since the age of AI development,
+you need to be really good at product management.
+You need to really have good user story
+and be clear with the architecture that you have in mind
+and to know where you're going,
+because yes, like the AI can code,
+but the AI will call it crappy shit.

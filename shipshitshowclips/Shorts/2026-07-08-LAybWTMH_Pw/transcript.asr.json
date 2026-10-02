@@ -1,0 +1,65 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:07,280"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 7280
+      },
+      "text": " we legit have six months lag between frontier and open source models so that means in like"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,280",
+        "to": "00:00:13,200"
+      },
+      "offsets": {
+        "from": 7280,
+        "to": 13200
+      },
+      "text": " 12 to 18 months we will have open source model who have fable 5 intelligence that's insane"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,760",
+        "to": "00:00:18,480"
+      },
+      "offsets": {
+        "from": 13760,
+        "to": 18480
+      },
+      "text": " but by that time hope to have built so much it doesn't matter everything"
+    }
+  ]
+}

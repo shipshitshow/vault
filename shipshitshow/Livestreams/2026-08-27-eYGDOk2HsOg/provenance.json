@@ -1,0 +1,14 @@
+{
+  "youtube_id": "eYGDOk2HsOg",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/watch?v=eYGDOk2HsOg",
+  "source_sha256": "68571b27a794bfba29ce27c362c8d3b50eb09b47b0c635ef3f4abc61b41a5839",
+  "audio_sha256": "a5a152cbcf41e86524efc43ff748194ef2da0742e41bc3360a0663244cce3510",
+  "visibility_note": "Located through original episode notes and verified channel metadata; public-tab visibility unresolved"
+}

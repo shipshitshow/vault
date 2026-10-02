@@ -1,0 +1,10 @@
+- They have actually a working game already.
+- Jesus.
+- Oh, that was a bug.
+He walked right through the pillar.
+- Yeah, there is no collision yet,
+but maybe we can fix that.
+Score, kills, enemies.
+- Yeah, it counts it all.
+- That's crazy.
+That's kind of cool.

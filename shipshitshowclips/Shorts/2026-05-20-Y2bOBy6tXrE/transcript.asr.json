@@ -1,0 +1,76 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,600"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5600
+      },
+      "text": " Sounds like, you know, like in crypto, when we had like some new stuff to try on new tools,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,600",
+        "to": "00:00:11,200"
+      },
+      "offsets": {
+        "from": 5600,
+        "to": 11200
+      },
+      "text": " if it was a download, you just don't do it. A lot of youtubers are getting attacked like that."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,200",
+        "to": "00:00:13,600"
+      },
+      "offsets": {
+        "from": 11200,
+        "to": 13600
+      },
+      "text": " They don't know the PDF and then they get fucked, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,600",
+        "to": "00:00:15,920"
+      },
+      "offsets": {
+        "from": 13600,
+        "to": 15920
+      },
+      "text": " Yeah, there was a script in the PDF."
+    }
+  ]
+}

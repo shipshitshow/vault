@@ -1,0 +1,12 @@
+{
+  "youtube_id": "85sRdO3khR0",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "3eb45107ab864b22cafe236054763cf9932bf4276d71b59ee13a91f8e29b044a",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-17-video-you-are-too-poor-to-run-ai-loops.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

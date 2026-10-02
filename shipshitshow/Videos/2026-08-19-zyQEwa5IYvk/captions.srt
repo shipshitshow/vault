@@ -1,0 +1,428 @@
+1
+00:00:00,000 --> 00:00:05,680
+ You see a lot of people saying if my company went bankrupt and I needed 100k at the end of the month,
+
+2
+00:00:05,680 --> 00:00:11,280
+ this is what I would do and they come with these incredible ideas where AI can just optimize your
+
+3
+00:00:11,280 --> 00:00:17,680
+ entire CEO, create pages where it can automatically email, where it can find you leads for new
+
+4
+00:00:17,680 --> 00:00:23,920
+ websites or whatever. So I thought I named it King and King is going to be a king in lead generation
+
+5
+00:00:23,920 --> 00:00:28,960
+ and getting me projects so I can make money. Do you want to know about Rockbot? Watch this
+
+6
+00:00:28,960 --> 00:00:36,080
+ video because it's gonna be gold. So on August 11th, Rockbot launched. It's basically an open
+
+7
+00:00:36,080 --> 00:00:42,000
+ clue that works. Yeah and the entire cursor team was posting about it saying that it was doing
+
+8
+00:00:42,000 --> 00:00:46,720
+ everything for them. It is cool and it works. I tested it and it even made me a summary this
+
+9
+00:00:46,720 --> 00:00:54,080
+ morning but then again I had a meeting and I told that you need to give me an update at 9am on how
+
+10
+00:00:54,080 --> 00:01:01,040
+ late I need to leave and then it started working at 9am so the update came a bit later and it gave
+
+11
+00:01:01,040 --> 00:01:05,920
+ me a time and it said yeah you needed to leave five minutes ago. Okay so do you code with it?
+
+12
+00:01:05,920 --> 00:01:12,160
+ No. From it? No, no I use it as a PA. Do you code with it? No, I try. Basically what I do,
+
+13
+00:01:12,160 --> 00:01:20,000
+ I set up as a company like all the time when I start those, I try those agents like agentic
+
+14
+00:01:20,000 --> 00:01:27,680
+ workflow stuff. So I hire a CEO, CTO, marketing officer, blah blah blah and then I see how they
+
+15
+00:01:28,720 --> 00:01:33,120
+ interact between each other which is like honestly the agent to agent conversation.
+
+16
+00:01:33,120 --> 00:01:39,200
+ That's a pretty nice feature. It's pretty well executed right? As you can see yeah chief of
+
+17
+00:01:39,200 --> 00:01:44,960
+ staff for example like chief of staff talk to inbox manager or sales inbound whatever
+
+18
+00:01:44,960 --> 00:01:49,360
+ and gave them a couple of months and that would be that could be really powerful.
+
+19
+00:01:49,360 --> 00:01:55,200
+ That's cool to see you did a different setup than I did. So all of those are French name because I
+
+20
+00:01:55,200 --> 00:02:03,440
+ came. Chief of staff basically that's my main bot and yeah like I basically talk mainly to this one
+
+21
+00:02:03,440 --> 00:02:10,560
+ and he hire the other agents when there is a new need and stuff. QA engineers which I like a lot
+
+22
+00:02:10,560 --> 00:02:18,000
+ because it's that's the main feature that I use it's testing and like the app I work on directly
+
+23
+00:02:18,000 --> 00:02:24,400
+ from production. Yeah so basically the Grok bot has its own VM that it spins up and everything
+
+24
+00:02:24,400 --> 00:02:31,680
+ it does it does it in the VM. Exactly and you have one computer for your account and all of
+
+25
+00:02:31,680 --> 00:02:37,360
+ the agents that you have it's a new virtual desktop. Yes each one has a virtual machine.
+
+26
+00:02:37,360 --> 00:02:43,200
+ Exactly. Well if you get an error in your system or a notification something went wrong you can
+
+27
+00:02:43,200 --> 00:02:48,480
+ push it to the bot. Yes. And it will check it and it will create a GitHub issue. That's exactly that
+
+28
+00:02:48,480 --> 00:02:54,480
+ what happened here I'm testing the feed agent and I'm trying to break it so it was really fast to
+
+29
+00:02:54,480 --> 00:02:59,600
+ break it it just like generate one image a simple red apple on the whiteboard and then first error
+
+30
+00:02:59,600 --> 00:03:06,480
+ boom let's go but that was automated so now I can deploy production get the QA engineer will be
+
+31
+00:03:06,480 --> 00:03:12,720
+ notified and try again same request click on retry whatever send a new request see if it breaks
+
+32
+00:03:12,720 --> 00:03:18,960
+ create monitor the sentry errors fix it right away this is this is huge yeah all of those agents are
+
+33
+00:03:18,960 --> 00:03:26,480
+ linked and I like I discovered that you can create like folders there do you would you create one
+
+34
+00:03:26,480 --> 00:03:34,720
+ project or having like one CTO that code in every repo. Well I start a project base because I don't
+
+35
+00:03:34,720 --> 00:03:41,840
+ want it to do everything a few projects I don't want them to to check and to make sure that they
+
+36
+00:03:41,840 --> 00:03:47,200
+ do nothing with the emails or whatever yeah always a box so I made a project manager for each project
+
+37
+00:03:47,200 --> 00:03:52,080
+ and said only stuff related to this project can be handled otherwise nothing. What do you think
+
+38
+00:03:52,080 --> 00:03:57,280
+ about the UX UI like here because it's raw it's really raw it's really but it's really out of the
+
+39
+00:03:57,280 --> 00:04:04,400
+ box and when you compare that to grok or every like other interface when you have those two girls
+
+40
+00:04:04,400 --> 00:04:10,320
+ like you assign a project you assign a folder you assign cloud VM whatever and you have that which
+
+41
+00:04:10,320 --> 00:04:14,720
+ one is better well it depends what you want of it in the in the ones where you have your folders
+
+42
+00:04:14,720 --> 00:04:19,680
+ and your guardrails and everything you decide on what you want to do but here you drop a task
+
+43
+00:04:19,680 --> 00:04:24,720
+ and it just fixes it and it doesn't matter how it does it yeah so you need to trust that's working
+
+44
+00:04:24,720 --> 00:04:30,000
+ properly and you do the same thing when you have a PA hired just a real person you give it give him
+
+45
+00:04:30,000 --> 00:04:35,840
+ or her a task and you get a result later and this bot is doing the exact same thing like yeah you
+
+46
+00:04:35,840 --> 00:04:41,440
+ you learn how to delegate more to the little yeah and then what you can do if you open the
+
+47
+00:04:41,440 --> 00:04:48,720
+ the Linux virtual machine the VM you can record one of your routines and it will do it the exact
+
+48
+00:04:48,720 --> 00:04:54,880
+ same way every day as you do it you can teach a task and if you click it here record yourself
+
+49
+00:04:54,880 --> 00:05:01,200
+ doing a task and curie learns the steps and can run them again on its own holy shit so you just
+
+50
+00:05:01,200 --> 00:05:08,160
+ need to show it how you do it and i think it it is like excel macros you remember you do in excel
+
+51
+00:05:08,160 --> 00:05:14,720
+ you click here you click there and the excel macro repeats exactly your steps and does it over and
+
+52
+00:05:14,720 --> 00:05:20,720
+ over again this is the exact same thing okay so i could even queue the app record it say oh this
+
+53
+00:05:20,720 --> 00:05:26,560
+ is why click click click and then noise so if you spend some time you can teach it what it needs to
+
+54
+00:05:26,560 --> 00:05:32,400
+ do and it has routines and everything okay that's nice now we have a demo from you right yeah yeah
+
+55
+00:05:32,400 --> 00:05:37,440
+ i think we can do some testing with the grog bot yes let's do that i was checking and you see a
+
+56
+00:05:37,440 --> 00:05:42,880
+ lot of people saying if my company went bankrupt and i needed 100k at the end of the month
+
+57
+00:05:43,520 --> 00:05:49,120
+ this is what i would do and they come with these incredible ideas where ai can just optimize your
+
+58
+00:05:49,120 --> 00:05:55,520
+ entire ceo create pages where it can automatically email where it can find your leads for new
+
+59
+00:05:55,520 --> 00:06:01,760
+ websites or whatever so i thought i named it king and king is going to be a king in lead generation
+
+60
+00:06:01,760 --> 00:06:07,680
+ and getting me projects as well i can make money so what i want to do i wanted to research the
+
+61
+00:06:07,680 --> 00:06:13,120
+ internet and here in the inner netherlands around eindhoven found me three of your companies every
+
+62
+00:06:13,120 --> 00:06:18,960
+ day uh that don't have a proper website or need a new website well we think that we can improve it
+
+63
+00:06:18,960 --> 00:06:26,640
+ um then we use grog builds to build a website and king is actually going to email those people
+
+64
+00:06:26,640 --> 00:06:32,480
+ and do the first responses so you're my sales personal assistant for an english youtube live
+
+65
+00:06:32,480 --> 00:06:37,520
+ stream so you see it already gave it some information i told it that we have 30 minutes
+
+66
+00:06:37,520 --> 00:06:42,400
+ so i gave you two to three minutes maximum for task well that is just for now but normally you
+
+67
+00:06:42,400 --> 00:06:48,960
+ need to have it work a little bit longer and i want to find small companies in or around eindhoven
+
+68
+00:06:48,960 --> 00:06:54,960
+ that have two to eight people no multinationals no chains that need a new website target five if
+
+69
+00:06:54,960 --> 00:07:01,280
+ it's instant one is enough just for the demo right now and i had grog do some research for companies
+
+70
+00:07:01,280 --> 00:07:07,280
+ that have money but don't have a website and it said well if you have plumbing electrical uh
+
+71
+00:07:07,280 --> 00:07:14,000
+ people um those are like engineers who don't know how to build a website they have money because
+
+72
+00:07:14,000 --> 00:07:19,120
+ they have a high hourly rate but they want to don't want to do anything i wanted it to go to
+
+73
+00:07:19,120 --> 00:07:24,160
+ google and to actually search read this on camera oh that's cool here in the top right you see it's
+
+74
+00:07:25,120 --> 00:07:31,120
+ yeah so it actually told me right now what i need to read to you so see you are a meat puppet bro
+
+75
+00:07:31,120 --> 00:07:37,440
+ yeah yeah i i don't have a choice but uh site on my screen does the insulasty technique in valto over
+
+76
+00:07:37,440 --> 00:07:43,920
+ so it's insulation technical people one person shop inside logo two links so man that's good okay
+
+77
+00:07:43,920 --> 00:07:50,320
+ and then it says i found one and you can see here in the vm it actually started google and it went
+
+78
+00:07:50,320 --> 00:07:56,240
+ searching for something and i can use it as well but yeah this is exactly the customer that i want
+
+79
+00:07:56,240 --> 00:08:02,160
+ they have a website and we can just try to improve it it's public so build me a prompt that i can go
+
+80
+00:08:02,160 --> 00:08:07,200
+ ahead and put a new website yeah so build me a prompt that i can put into grog build to create
+
+81
+00:08:07,200 --> 00:08:12,720
+ a new website for this one yeah yeah whatever that will do yeah so it will create a prompt and
+
+82
+00:08:12,720 --> 00:08:17,840
+ everybody knows that with prompt i can just put it in it generates a website i did one for another
+
+83
+00:08:17,840 --> 00:08:23,120
+ one but here it is and then like you connect to resend and then you have the whole pipe to send
+
+84
+00:08:23,120 --> 00:08:31,280
+ emails and drop down yeah can you send emails as well uh with a proper proposal to the lead that
+
+85
+00:08:31,280 --> 00:08:37,280
+ you just found i'm going a bit fast through it right now but now it should ask me if it can log
+
+86
+00:08:37,280 --> 00:08:43,840
+ into my email so and it gives me the option for outlook gmail and yeah whatever i want so it says
+
+87
+00:08:43,840 --> 00:08:50,880
+ i can now we're not sending the email but this is actually smart because when i did like examples
+
+88
+00:08:50,880 --> 00:08:57,520
+ before it would just ask me to log in and to just send it in one prompt you find the lead that uh
+
+89
+00:08:57,520 --> 00:09:02,960
+ you just need to find one thousand and then you have some passive revenue right so what you want
+
+90
+00:09:02,960 --> 00:09:09,200
+ to do next is can you create a routine from this and schedule it daily so me doing this after five
+
+91
+00:09:09,200 --> 00:09:14,560
+ or ten emails i am out i need to create a website so it will take just too much time and if you only
+
+92
+00:09:14,560 --> 00:09:18,720
+ get like one or two customers it's not enough income but if you can have the pod do this
+
+93
+00:09:18,720 --> 00:09:25,040
+ automatically then it will just keep on creating leads and then customers and you can ask for
+
+94
+00:09:25,040 --> 00:09:31,280
+ references and it is like a real business that you're building see and now this is the routine
+
+95
+00:09:31,280 --> 00:09:37,440
+ you can also deactivate it you can test run it and it created the description what it needs to do
+
+96
+00:09:37,440 --> 00:09:42,480
+ which is basically your prompt and like that's gonna yeah that's my entire example and it just
+
+97
+00:09:42,480 --> 00:09:50,640
+ does it on weekdays at 8 56 a.m and you will also have a full history so basically this is the bot
+
+98
+00:09:50,640 --> 00:09:57,200
+ big rock but we just gave one example but whatever you can imagine now why you need a repair or a
+
+99
+00:09:57,200 --> 00:10:02,800
+ task that's going to keep on repeating even if it's boring as hell just have to bug do it i mean
+
+100
+00:10:02,800 --> 00:10:10,880
+ and you can do exactly that for every app on earth and you can even like do lead gen for apps that
+
+101
+00:10:10,880 --> 00:10:16,560
+ have a referral affiliate the discount i think that's a nice demo main yeah and i think we can
+
+102
+00:10:16,560 --> 00:10:22,720
+ wrap it up on that right like basically last week was a good week we had a fantastic model then we
+
+103
+00:10:22,720 --> 00:10:28,880
+ have nice tool to play with and to start over like 10 000 new business or at least one where you can
+
+104
+00:10:28,880 --> 00:10:35,840
+ make websites to or company that's need the better one yeah start a selling machine exactly yeah
+
+105
+00:10:35,840 --> 00:10:41,440
+ finally yeah thank you mitchell and thank you for your time and your demo like that was great
+
+106
+00:10:41,440 --> 00:10:47,280
+ and we will see you same place same time and like subscribe follow us on linkedin
+
+107
+00:10:47,280 --> 00:10:50,880
+ twitter we're gonna be everywhere yes bye
+

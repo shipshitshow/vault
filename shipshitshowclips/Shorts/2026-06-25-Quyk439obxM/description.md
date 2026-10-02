@@ -1,0 +1,1 @@
+Running AI locally? Use a Python script as your cron job to trigger checks every minute. This ensures updates without constant AI token usage. Efficient and cost-effective. #AICost #PythonScript #CronJob #Automation

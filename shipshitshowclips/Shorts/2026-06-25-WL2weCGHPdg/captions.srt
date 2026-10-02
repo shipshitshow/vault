@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,840
+ You can also create a loop that just takes any box that are registered and
+
+2
+00:00:03,840 --> 00:00:08,060
+ ask it to only add a solution so that you can approve it upfront.
+
+3
+00:00:08,240 --> 00:00:12,060
+ I don't have any loop that auto-merge anything because I want to have a
+
+4
+00:00:12,060 --> 00:00:14,900
+ clear view of every pull request.
+
+5
+00:00:14,960 --> 00:00:17,520
+ I don't want to merge anything that I don't know what's going on.
+

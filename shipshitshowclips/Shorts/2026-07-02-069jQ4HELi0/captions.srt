@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:04,740
+ This week, I've set up those automation in codex and the cloud desktop app.
+
+2
+00:00:04,800 --> 00:00:08,980
+ Now I have features implementation taking from GitHub every two hours.
+
+3
+00:00:09,420 --> 00:00:14,700
+ And I have a pull request review every six hours, and then it's managed to master.
+
+4
+00:00:14,700 --> 00:00:19,640
+ And I'm about to put a auto deploy to production later this week.
+
+5
+00:00:19,680 --> 00:00:25,280
+ And I also have like a routine of refactoring and dry the code that we
+
+6
+00:00:25,280 --> 00:00:27,420
+ have a lot of slope in the app.
+
+7
+00:00:27,420 --> 00:00:32,520
+ So routine are required and I didn't burn my cloud subscription in
+
+8
+00:00:32,520 --> 00:00:34,160
+ two days this time, but that's a win.
+

@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:07,020
+ How far are we from a slash goal in codecs to make a proper software, and it's going
+
+2
+00:00:07,020 --> 00:00:11,140
+ to work in one day instead of three months?
+
+3
+00:00:11,140 --> 00:00:17,860
+ I think you need to have it first set up for the planning, then do checks with external
+
+4
+00:00:17,860 --> 00:00:22,900
+ AIs, checking each other, putting the feedback into a goal, and when that's done, put a goal
+
+5
+00:00:22,900 --> 00:00:25,160
+ on the build, a goal on the test.
+
+6
+00:00:25,160 --> 00:00:30,160
+ So you have different steps and use maybe a big goal to check multiple goals.
+
+7
+00:00:30,160 --> 00:00:30,840
+ Then it's possible.
+

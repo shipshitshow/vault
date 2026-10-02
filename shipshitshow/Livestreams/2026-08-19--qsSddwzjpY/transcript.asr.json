@@ -1,0 +1,4124 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:10,000"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 10000
+      },
+      "text": " \u266a\u266a"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,000",
+        "to": "00:00:20,020"
+      },
+      "offsets": {
+        "from": 10000,
+        "to": 20020
+      },
+      "text": " \u266a\u266a"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,020",
+        "to": "00:00:29,960"
+      },
+      "offsets": {
+        "from": 20020,
+        "to": 29960
+      },
+      "text": " \u266a\u266a"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,960",
+        "to": "00:00:35,960"
+      },
+      "offsets": {
+        "from": 29960,
+        "to": 35960
+      },
+      "text": " And we are live. Welcome back everyone. Welcome back, Michel. What's up?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:35,960",
+        "to": "00:00:37,960"
+      },
+      "offsets": {
+        "from": 35960,
+        "to": 37960
+      },
+      "text": " Yes, what's up? We had a good week."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:37,960",
+        "to": "00:00:39,960"
+      },
+      "offsets": {
+        "from": 37960,
+        "to": 39960
+      },
+      "text": " It was a crazy week. I loved it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:39,960",
+        "to": "00:00:41,960"
+      },
+      "offsets": {
+        "from": 39960,
+        "to": 41960
+      },
+      "text": " We launched a perfect video."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:41,960",
+        "to": "00:00:47,960"
+      },
+      "offsets": {
+        "from": 41960,
+        "to": 47960
+      },
+      "text": " Yes, and like, Elan is winning and that's nice to see."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:47,960",
+        "to": "00:00:52,960"
+      },
+      "offsets": {
+        "from": 47960,
+        "to": 52960
+      },
+      "text": " Yes, I do like what he's doing and it's going fast."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:52,960",
+        "to": "00:00:56,960"
+      },
+      "offsets": {
+        "from": 52960,
+        "to": 56960
+      },
+      "text": " Wait, I'm just checking my mic if it's connected correctly."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:56,960",
+        "to": "00:00:58,960"
+      },
+      "offsets": {
+        "from": 56960,
+        "to": 58960
+      },
+      "text": " Yeah, I can hear you."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:58,960",
+        "to": "00:01:02,960"
+      },
+      "offsets": {
+        "from": 58960,
+        "to": 62960
+      },
+      "text": " Okay, nice. Yeah, yeah. So, yeah, the TPA is still good."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:02,960",
+        "to": "00:01:04,960"
+      },
+      "offsets": {
+        "from": 62960,
+        "to": 64960
+      },
+      "text": " But yeah, we're going to see that on the benchmark in a minute."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:04,960",
+        "to": "00:01:07,960"
+      },
+      "offsets": {
+        "from": 64960,
+        "to": 67960
+      },
+      "text": " But it's a bit slower than 4.5."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:07,960",
+        "to": "00:01:12,960"
+      },
+      "offsets": {
+        "from": 67960,
+        "to": 72960
+      },
+      "text": " Oh, yeah, but rolling out new products, that's on like 10x on speed."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:12,960",
+        "to": "00:01:17,960"
+      },
+      "offsets": {
+        "from": 72960,
+        "to": 77960
+      },
+      "text": " Yeah. Oh, yeah. I mean, he's launching rockets, so what's on the AI, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:17,960",
+        "to": "00:01:21,960"
+      },
+      "offsets": {
+        "from": 77960,
+        "to": 81960
+      },
+      "text": " Yeah, everything goes on there on the XXL format."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:21,960",
+        "to": "00:01:26,960"
+      },
+      "offsets": {
+        "from": 81960,
+        "to": 86960
+      },
+      "text": " Exactly. And yeah, are you going to apply to SpaceX?"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:26,960",
+        "to": "00:01:31,960"
+      },
+      "offsets": {
+        "from": 86960,
+        "to": 91960
+      },
+      "text": " That would be awesome. But yeah, seeing all the people tweeting"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:31,960",
+        "to": "00:01:38,960"
+      },
+      "offsets": {
+        "from": 91960,
+        "to": 98960
+      },
+      "text": " or making posts on X, who work for Curzor and X and his other companies."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:38,960",
+        "to": "00:01:41,960"
+      },
+      "offsets": {
+        "from": 98960,
+        "to": 101960
+      },
+      "text": " Yeah, I don't know if he will hire me."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:41,960",
+        "to": "00:01:45,960"
+      },
+      "offsets": {
+        "from": 101960,
+        "to": 105960
+      },
+      "text": " He should, he should."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:45,960",
+        "to": "00:01:51,960"
+      },
+      "offsets": {
+        "from": 105960,
+        "to": 111960
+      },
+      "text": " Okay, so what are we going to talk about for the next 45 minutes?"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:51,960",
+        "to": "00:01:55,960"
+      },
+      "offsets": {
+        "from": 111960,
+        "to": 115960
+      },
+      "text": " Because then we have customers meeting and stuff, so let's go."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:55,960",
+        "to": "00:01:58,960"
+      },
+      "offsets": {
+        "from": 115960,
+        "to": 118960
+      },
+      "text": " Grock, 4.6, Grock both."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:58,960",
+        "to": "00:02:05,960"
+      },
+      "offsets": {
+        "from": 118960,
+        "to": 125960
+      },
+      "text": " And the new, the little company that could vote for 60 billion."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:05,960",
+        "to": "00:02:08,960"
+      },
+      "offsets": {
+        "from": 125960,
+        "to": 128960
+      },
+      "text": " And Curzor with origin."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:08,960",
+        "to": "00:02:12,960"
+      },
+      "offsets": {
+        "from": 128960,
+        "to": 132960
+      },
+      "text": " Yeah, exactly. And like 60 billion, that's nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:12,960",
+        "to": "00:02:15,960"
+      },
+      "offsets": {
+        "from": 132960,
+        "to": 135960
+      },
+      "text": " Like what, three years ago? They started like three, four years ago."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:15,960",
+        "to": "00:02:21,960"
+      },
+      "offsets": {
+        "from": 135960,
+        "to": 141960
+      },
+      "text": " Yeah, they did. And they will now officially merge into SpaceX, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:21,960",
+        "to": "00:02:26,960"
+      },
+      "offsets": {
+        "from": 141960,
+        "to": 146960
+      },
+      "text": " Yes, exactly. Like on the 14th, they share the tweet announcing that"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:26,960",
+        "to": "00:02:30,960"
+      },
+      "offsets": {
+        "from": 146960,
+        "to": 150960
+      },
+      "text": " it's part of, like the buyouts proceeded."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:30,960",
+        "to": "00:02:34,960"
+      },
+      "offsets": {
+        "from": 150960,
+        "to": 154960
+      },
+      "text": " It's cool. The emails that they are sending out to customers like me and you,"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:34,960",
+        "to": "00:02:37,960"
+      },
+      "offsets": {
+        "from": 154960,
+        "to": 157960
+      },
+      "text": " it now officially says from SpaceX."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:37,960",
+        "to": "00:02:41,960"
+      },
+      "offsets": {
+        "from": 157960,
+        "to": 161960
+      },
+      "text": " Yeah. Oh, yeah. I didn't notice, but yeah, that's cool."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:41,960",
+        "to": "00:02:45,960"
+      },
+      "offsets": {
+        "from": 161960,
+        "to": 165960
+      },
+      "text": " That's cool. You just watch your mailbox and you see, I got an email from SpaceX."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:45,960",
+        "to": "00:02:50,960"
+      },
+      "offsets": {
+        "from": 165960,
+        "to": 170960
+      },
+      "text": " Why? But that's weird. And then you see it for Curzor, but that was good to see."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:50,960",
+        "to": "00:02:56,960"
+      },
+      "offsets": {
+        "from": 170960,
+        "to": 176960
+      },
+      "text": " Were you on the waiting list for Curzor origin?"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:56,960",
+        "to": "00:02:57,960"
+      },
+      "offsets": {
+        "from": 176960,
+        "to": 177960
+      },
+      "text": " No."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:57,960",
+        "to": "00:03:02,960"
+      },
+      "offsets": {
+        "from": 177960,
+        "to": 182960
+      },
+      "text": " Because the title of the email was, oh, no, you are off the waiting list of origin."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:02,960",
+        "to": "00:03:07,960"
+      },
+      "offsets": {
+        "from": 182960,
+        "to": 187960
+      },
+      "text": " I said, what the fuck? And then you check and say, oh, yeah, we launched."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:07,960",
+        "to": "00:03:10,960"
+      },
+      "offsets": {
+        "from": 187960,
+        "to": 190960
+      },
+      "text": " Yeah, maybe Grock wrote it."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:10,960",
+        "to": "00:03:17,960"
+      },
+      "offsets": {
+        "from": 190960,
+        "to": 197960
+      },
+      "text": " Yeah, good. Yeah. I mean, he knows how to write some clickbait stuff."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:17,960",
+        "to": "00:03:21,960"
+      },
+      "offsets": {
+        "from": 197960,
+        "to": 201960
+      },
+      "text": " But, yeah, OK, so introduction."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:21,960",
+        "to": "00:03:25,960"
+      },
+      "offsets": {
+        "from": 201960,
+        "to": 205960
+      },
+      "text": " Yeah, well, this is your masterclass, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:25,960",
+        "to": "00:03:28,960"
+      },
+      "offsets": {
+        "from": 205960,
+        "to": 208960
+      },
+      "text": " Yeah. Oh, yeah, yeah, yeah. Did I do it?"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:28,960",
+        "to": "00:03:33,960"
+      },
+      "offsets": {
+        "from": 208960,
+        "to": 213960
+      },
+      "text": " Do you want to know about Grock? Yes. Do you want to know about origin or the Grock bot?"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:33,960",
+        "to": "00:03:37,960"
+      },
+      "offsets": {
+        "from": 213960,
+        "to": 217960
+      },
+      "text": " Yes. Click, watch this video because it's going to be gold."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:37,960",
+        "to": "00:03:43,960"
+      },
+      "offsets": {
+        "from": 217960,
+        "to": 223960
+      },
+      "text": " Exactly. We are going to show you how it works or only what small part works because some are still in beta."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:43,960",
+        "to": "00:03:49,960"
+      },
+      "offsets": {
+        "from": 223960,
+        "to": 229960
+      },
+      "text": " Yeah. Yeah, it's a bit rough. Like there is some edges that it's still like edges."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:49,960",
+        "to": "00:03:56,960"
+      },
+      "offsets": {
+        "from": 229960,
+        "to": 236960
+      },
+      "text": " We are hyped, but that's just a warning. It isn't, origin isn't like a 15 minute video."
+    },
+    {
+      "timestamps": {
+        "from": "00:03:56,960",
+        "to": "00:04:03,960"
+      },
+      "offsets": {
+        "from": 236960,
+        "to": 243960
+      },
+      "text": " Maybe next week. OK, so first thing first."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:03,960",
+        "to": "00:04:13,960"
+      },
+      "offsets": {
+        "from": 243960,
+        "to": 253960
+      },
+      "text": " Back to SpaceX. It's kind of cool to stream like some SpaceX tweets. Yes. Nope."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:13,960",
+        "to": "00:04:20,960"
+      },
+      "offsets": {
+        "from": 253960,
+        "to": 260960
+      },
+      "text": " Up. Nice. 4.6. Wait. Announcement. That was."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:20,960",
+        "to": "00:04:24,960"
+      },
+      "offsets": {
+        "from": 260960,
+        "to": 264960
+      },
+      "text": " Yeah. Last week. OK. I just want to."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:24,960",
+        "to": "00:04:33,960"
+      },
+      "offsets": {
+        "from": 264960,
+        "to": 273960
+      },
+      "text": " Take it ready. Zoom in. What the heck?"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:33,960",
+        "to": "00:04:37,960"
+      },
+      "offsets": {
+        "from": 273960,
+        "to": 277960
+      },
+      "text": " Why? Why is it? What?"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:37,960",
+        "to": "00:04:42,960"
+      },
+      "offsets": {
+        "from": 277960,
+        "to": 282960
+      },
+      "text": " Is it broken? OK."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:42,960",
+        "to": "00:04:50,960"
+      },
+      "offsets": {
+        "from": 282960,
+        "to": 290960
+      },
+      "text": " Yeah, that will do. Grock 4.6. Crazy benchmark."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:50,960",
+        "to": "00:04:56,960"
+      },
+      "offsets": {
+        "from": 290960,
+        "to": 296960
+      },
+      "text": " 4.6 high in par with basically February five max."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:56,960",
+        "to": "00:05:01,960"
+      },
+      "offsets": {
+        "from": 296960,
+        "to": 301960
+      },
+      "text": " And that's the numbers. Yeah, it's leading on the GDP eval."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:01,960",
+        "to": "00:05:06,960"
+      },
+      "offsets": {
+        "from": 301960,
+        "to": 306960
+      },
+      "text": " 61 against 62 against like February five max."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:06,960",
+        "to": "00:05:10,960"
+      },
+      "offsets": {
+        "from": 306960,
+        "to": 310960
+      },
+      "text": " I don't use max. I use high. So. Yeah, me too."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:10,960",
+        "to": "00:05:15,960"
+      },
+      "offsets": {
+        "from": 310960,
+        "to": 315960
+      },
+      "text": " Otherwise, the tokens are spent really fast. Yeah, I know it's going like."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:15,960",
+        "to": "00:05:22,960"
+      },
+      "offsets": {
+        "from": 315960,
+        "to": 322960
+      },
+      "text": " And it's honestly like after a day or two of planning, I'm already like."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:22,960",
+        "to": "00:05:26,960"
+      },
+      "offsets": {
+        "from": 322960,
+        "to": 326960
+      },
+      "text": " 20, 35 percent."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:26,960",
+        "to": "00:05:31,960"
+      },
+      "offsets": {
+        "from": 326960,
+        "to": 331960
+      },
+      "text": " Like on my. On the max 50 percent. Yes. Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:31,960",
+        "to": "00:05:36,960"
+      },
+      "offsets": {
+        "from": 331960,
+        "to": 336960
+      },
+      "text": " Again, we are getting a big advantage because we weren't using fable max. Yes."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:36,960",
+        "to": "00:05:41,960"
+      },
+      "offsets": {
+        "from": 336960,
+        "to": 341960
+      },
+      "text": " Fable high. So the results should be liar of lower. Sorry."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:41,960",
+        "to": "00:05:48,960"
+      },
+      "offsets": {
+        "from": 341960,
+        "to": 348960
+      },
+      "text": " So Grock 4.6. It's better than me than the output that we get the fable at the moment in our case."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:48,960",
+        "to": "00:05:53,960"
+      },
+      "offsets": {
+        "from": 348960,
+        "to": 353960
+      },
+      "text": " Yes. And for planning, do you use for planning or not? Yeah, I use it for planning."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:53,960",
+        "to": "00:05:59,960"
+      },
+      "offsets": {
+        "from": 353960,
+        "to": 359960
+      },
+      "text": " And if I ask Grock something to plan a small thing, I always have fable double check it just to be sure."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:59,960",
+        "to": "00:06:06,960"
+      },
+      "offsets": {
+        "from": 359960,
+        "to": 366960
+      },
+      "text": " Yeah. And I started your workflow to to review the pull request with like."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:06,960",
+        "to": "00:06:13,960"
+      },
+      "offsets": {
+        "from": 366960,
+        "to": 373960
+      },
+      "text": " So right now I had execution on Grock and a check."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:13,960",
+        "to": "00:06:18,960"
+      },
+      "offsets": {
+        "from": 373960,
+        "to": 378960
+      },
+      "text": " The peer review was done with a cloud CLI and it was on fable file."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:18,960",
+        "to": "00:06:23,960"
+      },
+      "offsets": {
+        "from": 378960,
+        "to": 383960
+      },
+      "text": " It's kind of good. Like it works. It catches like the the the last bite."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:23,960",
+        "to": "00:06:30,960"
+      },
+      "offsets": {
+        "from": 383960,
+        "to": 390960
+      },
+      "text": " Right. You know, it's it's really nice. Yeah. But using Grock for more, I could scale down my fable subscription."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:30,960",
+        "to": "00:06:36,960"
+      },
+      "offsets": {
+        "from": 390960,
+        "to": 396960
+      },
+      "text": " Exactly. Because also you have super heavy and you have more fables inside."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:36,960",
+        "to": "00:06:41,960"
+      },
+      "offsets": {
+        "from": 396960,
+        "to": 401960
+      },
+      "text": " But yeah, let's catch this bit after. OK. So, yeah, that's it."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:41,960",
+        "to": "00:06:47,960"
+      },
+      "offsets": {
+        "from": 401960,
+        "to": 407960
+      },
+      "text": " Like fable five max, whatever. Good numbers. Yes. That was also."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:47,960",
+        "to": "00:06:51,960"
+      },
+      "offsets": {
+        "from": 407960,
+        "to": 411960
+      },
+      "text": " Thanks for the illustration. OK."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:51,960",
+        "to": "00:07:00,960"
+      },
+      "offsets": {
+        "from": 411960,
+        "to": 420960
+      },
+      "text": " So GDP. Well, a briefcase. I don't know exactly what the benchmark is benchmarking, but let's go. It's hello. So it's good."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:00,960",
+        "to": "00:07:06,960"
+      },
+      "offsets": {
+        "from": 420960,
+        "to": 426960
+      },
+      "text": " And are the labs. I don't know. GDP. And the one we like for us to benchmark."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:06,960",
+        "to": "00:07:10,960"
+      },
+      "offsets": {
+        "from": 426960,
+        "to": 430960
+      },
+      "text": " Sixty nine point sixty nine point nine for seventy five for fable."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:10,960",
+        "to": "00:07:15,960"
+      },
+      "offsets": {
+        "from": 430960,
+        "to": 435960
+      },
+      "text": " So that's a really small difference. Yes, not exactly. It doesn't really matter at this point."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:15,960",
+        "to": "00:07:25,960"
+      },
+      "offsets": {
+        "from": 435960,
+        "to": 445960
+      },
+      "text": " So last week, it's a SpaceX game as a basically frontier model with four point six."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:25,960",
+        "to": "00:07:37,960"
+      },
+      "offsets": {
+        "from": 445960,
+        "to": 457960
+      },
+      "text": " Yes. And. And Elon even made a post that they are training for four point seven internally."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:37,960",
+        "to": "00:07:42,960"
+      },
+      "offsets": {
+        "from": 457960,
+        "to": 462960
+      },
+      "text": " Yes. And that's coming in a few weeks. Yes. It's supposed to add like two or three weeks, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:42,960",
+        "to": "00:07:50,960"
+      },
+      "offsets": {
+        "from": 462960,
+        "to": 470960
+      },
+      "text": " Yeah. That broke. Four point six."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:50,960",
+        "to": "00:07:59,960"
+      },
+      "offsets": {
+        "from": 470960,
+        "to": 479960
+      },
+      "text": " Where is it? I think that was that right. Yes. So you can see the jump from like five, four point five to four point six."
+    },
+    {
+      "timestamps": {
+        "from": "00:07:59,960",
+        "to": "00:08:09,960"
+      },
+      "offsets": {
+        "from": 479960,
+        "to": 489960
+      },
+      "text": " It's just nuts. And again, after a week using the model, you can definitely see that it's a good one."
+    },
+    {
+      "timestamps": {
+        "from": "00:08:09,960",
+        "to": "00:08:15,960"
+      },
+      "offsets": {
+        "from": 489960,
+        "to": 495960
+      },
+      "text": " Yes. Well, use it and you will see that it does proper work. Yeah, thank you."
+    },
+    {
+      "timestamps": {
+        "from": "00:08:15,960",
+        "to": "00:08:22,960"
+      },
+      "offsets": {
+        "from": 495960,
+        "to": 502960
+      },
+      "text": " And after a couple of days, the next following days, where is the tweet?"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:22,960",
+        "to": "00:08:27,960"
+      },
+      "offsets": {
+        "from": 502960,
+        "to": 507960
+      },
+      "text": " Oh, I lost it. That's OK. I'm going to do it again."
+    },
+    {
+      "timestamps": {
+        "from": "00:08:27,960",
+        "to": "00:08:40,960"
+      },
+      "offsets": {
+        "from": 507960,
+        "to": 520960
+      },
+      "text": " Thank you. So not yet, but grog. But. Oh, that's us. Yes, that's cool."
+    },
+    {
+      "timestamps": {
+        "from": "00:08:40,960",
+        "to": "00:08:48,960"
+      },
+      "offsets": {
+        "from": 520960,
+        "to": 528960
+      },
+      "text": " OK. Did you watch the video? Yes. I even put it on TV and I have my daughter watch as well."
+    },
+    {
+      "timestamps": {
+        "from": "00:08:48,960",
+        "to": "00:08:57,960"
+      },
+      "offsets": {
+        "from": 528960,
+        "to": 537960
+      },
+      "text": " I didn't get it, but she said I can look nice. Fair enough. So the day after. Oh, shit, I lost it."
+    },
+    {
+      "timestamps": {
+        "from": "00:08:57,960",
+        "to": "00:09:04,960"
+      },
+      "offsets": {
+        "from": 537960,
+        "to": 544960
+      },
+      "text": " Yeah. So on August 11th. grogbot launched."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:04,960",
+        "to": "00:09:14,960"
+      },
+      "offsets": {
+        "from": 544960,
+        "to": 554960
+      },
+      "text": " It's basically an open clue that works. Yeah. And the entire cursor team was posting about it, saying that it was doing everything for them."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:14,960",
+        "to": "00:09:22,960"
+      },
+      "offsets": {
+        "from": 554960,
+        "to": 562960
+      },
+      "text": " I don't believe them. Well, it is cool and it works. I tested it and it even made me a summary this morning."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:22,960",
+        "to": "00:09:31,960"
+      },
+      "offsets": {
+        "from": 562960,
+        "to": 571960
+      },
+      "text": " But then again, I had a meeting and I told that you need to give me an update at nine a.m. on how late I need to leave."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:31,960",
+        "to": "00:09:42,960"
+      },
+      "offsets": {
+        "from": 571960,
+        "to": 582960
+      },
+      "text": " And then it started working at nine a.m. So the update came a bit later and it gave me a time and it said, yeah, you needed to leave five minutes ago."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:42,960",
+        "to": "00:09:51,960"
+      },
+      "offsets": {
+        "from": 582960,
+        "to": 591960
+      },
+      "text": " So I gave it the the feedback that when I say nine a.m., I want the result at nine a.m. and it should start earlier."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:51,960",
+        "to": "00:09:57,960"
+      },
+      "offsets": {
+        "from": 591960,
+        "to": 597960
+      },
+      "text": " So it needs some updates and you need to work with it. But what it gave me, it was working pretty well."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:57,960",
+        "to": "00:10:05,960"
+      },
+      "offsets": {
+        "from": 597960,
+        "to": 605960
+      },
+      "text": " Yeah. OK. So do you code with it? No. From it? No, no. I use it as a PA. OK. Do you code with it?"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:05,960",
+        "to": "00:10:20,960"
+      },
+      "offsets": {
+        "from": 605960,
+        "to": 620960
+      },
+      "text": " No, I tried. And so what I yeah, basically what I do, I set up is as a company, like all the time when I start those, I try those agents like agentic workflow stuff."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:20,960",
+        "to": "00:10:33,960"
+      },
+      "offsets": {
+        "from": 620960,
+        "to": 633960
+      },
+      "text": " So I hire a CEO, CTO, marketing officer, blah, blah, blah. And then I see how they interact between each other, which is like, honestly, the agent to agent conversation."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:33,960",
+        "to": "00:10:38,960"
+      },
+      "offsets": {
+        "from": 633960,
+        "to": 638960
+      },
+      "text": " That's a pretty nice feature. It's pretty well executed. Right. That you can see."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:38,960",
+        "to": "00:10:48,960"
+      },
+      "offsets": {
+        "from": 638960,
+        "to": 648960
+      },
+      "text": " Yeah. Chief of staff, for example, like chief of staff talk to inbox manager or sales inbound, whatever, and give them a couple of months."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:48,960",
+        "to": "00:10:55,960"
+      },
+      "offsets": {
+        "from": 648960,
+        "to": 655960
+      },
+      "text": " And that would be that could be really powerful. That's cool to see you did a different setup than I did."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:55,960",
+        "to": "00:11:08,960"
+      },
+      "offsets": {
+        "from": 655960,
+        "to": 668960
+      },
+      "text": " OK. I mean, I can show you like right now. I have three bots and I use them each for a different project."
+    },
+    {
+      "timestamps": {
+        "from": "00:11:08,960",
+        "to": "00:11:13,960"
+      },
+      "offsets": {
+        "from": 668960,
+        "to": 673960
+      },
+      "text": " So I created three different project managers and they don't communicate with each other."
+    },
+    {
+      "timestamps": {
+        "from": "00:11:13,960",
+        "to": "00:11:29,960"
+      },
+      "offsets": {
+        "from": 673960,
+        "to": 689960
+      },
+      "text": " OK. OK. So it's not the workflow that I use. No, that's different. OK, I can do nice. So I have a lot. So all of those are French name because I am chief of staff."
+    },
+    {
+      "timestamps": {
+        "from": "00:11:29,960",
+        "to": "00:11:38,960"
+      },
+      "offsets": {
+        "from": 689960,
+        "to": 698960
+      },
+      "text": " Basically, that's my main bot. And yeah, like I basically talk mainly to this one."
+    },
+    {
+      "timestamps": {
+        "from": "00:11:38,960",
+        "to": "00:11:51,960"
+      },
+      "offsets": {
+        "from": 698960,
+        "to": 711960
+      },
+      "text": " Any hire the other agents when there is a new need and stuff. This one manage my network, a.k.a. my Mac Studio and my MacBook Pro."
+    },
+    {
+      "timestamps": {
+        "from": "00:11:51,960",
+        "to": "00:11:58,960"
+      },
+      "offsets": {
+        "from": 711960,
+        "to": 718960
+      },
+      "text": " QA engineers, which I like a lot because it's that's the main feature that I use."
+    },
+    {
+      "timestamps": {
+        "from": "00:11:58,960",
+        "to": "00:12:08,960"
+      },
+      "offsets": {
+        "from": 718960,
+        "to": 728960
+      },
+      "text": " It's testing gen feed and like the app I work on directly from the."
+    },
+    {
+      "timestamps": {
+        "from": "00:12:08,960",
+        "to": "00:12:14,960"
+      },
+      "offsets": {
+        "from": 728960,
+        "to": 734960
+      },
+      "text": " From production. Yeah. Maybe it's cool to explain what people are doing because you're switching from a Mac to Windows right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:12:14,960",
+        "to": "00:12:27,960"
+      },
+      "offsets": {
+        "from": 734960,
+        "to": 747960
+      },
+      "text": " No, it's a Linux. It's a Linux. Oh, sorry. Yeah. So what I did was like if you use a session here, you have you have a window here."
+    },
+    {
+      "timestamps": {
+        "from": "00:12:27,960",
+        "to": "00:12:37,960"
+      },
+      "offsets": {
+        "from": 747960,
+        "to": 757960
+      },
+      "text": " If you click on. Because I need to show you the icon, see the little icon here, you click here."
+    },
+    {
+      "timestamps": {
+        "from": "00:12:37,960",
+        "to": "00:12:46,960"
+      },
+      "offsets": {
+        "from": 757960,
+        "to": 766960
+      },
+      "text": " Then there is a sidebar where you have also the routines that the conversation like you talk to the agent and then you have the routine set up."
+    },
+    {
+      "timestamps": {
+        "from": "00:12:46,960",
+        "to": "00:12:54,960"
+      },
+      "offsets": {
+        "from": 766960,
+        "to": 774960
+      },
+      "text": " And you don't need to ask or create a routine. It will take the decision a bit better than the other agent to create that."
+    },
+    {
+      "timestamps": {
+        "from": "00:12:54,960",
+        "to": "00:13:04,960"
+      },
+      "offsets": {
+        "from": 774960,
+        "to": 784960
+      },
+      "text": " Like Codex did that before, but sometimes I just create a cron jobs and then you create a task in the Codex application."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:04,960",
+        "to": "00:13:12,960"
+      },
+      "offsets": {
+        "from": 784960,
+        "to": 792960
+      },
+      "text": " Yeah. So basically the group has its own VM that it spins up and everything it does, it does it in the VM."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:12,960",
+        "to": "00:13:24,960"
+      },
+      "offsets": {
+        "from": 792960,
+        "to": 804960
+      },
+      "text": " Exactly. And you have one computer for your account and all of the agents that you have. It's a new virtual desktop."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:24,960",
+        "to": "00:13:30,960"
+      },
+      "offsets": {
+        "from": 804960,
+        "to": 810960
+      },
+      "text": " Yes. Each one has a virtual machine. Exactly. And I know that because I ask Grot."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:30,960",
+        "to": "00:13:35,960"
+      },
+      "offsets": {
+        "from": 810960,
+        "to": 815960
+      },
+      "text": " Well, if you don't know, don't make assumptions. Grot can just answer everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:35,960",
+        "to": "00:13:42,960"
+      },
+      "offsets": {
+        "from": 815960,
+        "to": 822960
+      },
+      "text": " Exactly. Grot gives you your agent, one Linux computer shared. I do not have private machines."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:42,960",
+        "to": "00:13:50,960"
+      },
+      "offsets": {
+        "from": 822960,
+        "to": 830960
+      },
+      "text": " I can install and browse a login. So, yeah, like if you have if you go from one session to another, the credentials are saved."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:50,960",
+        "to": "00:13:57,960"
+      },
+      "offsets": {
+        "from": 830960,
+        "to": 837960
+      },
+      "text": " The virtual machine is not deleted. They just keep it like this, shut it down, reboot it and continue."
+    },
+    {
+      "timestamps": {
+        "from": "00:13:57,960",
+        "to": "00:14:04,960"
+      },
+      "offsets": {
+        "from": 837960,
+        "to": 844960
+      },
+      "text": " But you can basically keep working, but separately in different instances."
+    },
+    {
+      "timestamps": {
+        "from": "00:14:04,960",
+        "to": "00:14:12,960"
+      },
+      "offsets": {
+        "from": 844960,
+        "to": 852960
+      },
+      "text": " Your app is unmarked and controlled. But, yeah, because I ask if you are going to code on my computer on your own virtual machine."
+    },
+    {
+      "timestamps": {
+        "from": "00:14:12,960",
+        "to": "00:14:26,960"
+      },
+      "offsets": {
+        "from": 852960,
+        "to": 866960
+      },
+      "text": " That's why, like, yeah, I think it would be like a personal agent more than an agent that will control my GitHub or workflow and work development."
+    },
+    {
+      "timestamps": {
+        "from": "00:14:26,960",
+        "to": "00:14:34,960"
+      },
+      "offsets": {
+        "from": 866960,
+        "to": 874960
+      },
+      "text": " But, for example, if you get an error in your system or a notification, something is wrong, you can push it to the bot."
+    },
+    {
+      "timestamps": {
+        "from": "00:14:34,960",
+        "to": "00:14:39,960"
+      },
+      "offsets": {
+        "from": 874960,
+        "to": 879960
+      },
+      "text": " Yes. And it will check it and it will create a GitHub issue. That's exactly what happened here."
+    },
+    {
+      "timestamps": {
+        "from": "00:14:39,960",
+        "to": "00:14:46,960"
+      },
+      "offsets": {
+        "from": 879960,
+        "to": 886960
+      },
+      "text": " I'm testing the Genfeed agent and I'm trying to break it. So it was really fast to break it."
+    },
+    {
+      "timestamps": {
+        "from": "00:14:46,960",
+        "to": "00:14:55,960"
+      },
+      "offsets": {
+        "from": 886960,
+        "to": 895960
+      },
+      "text": " It's just like Progenet, one image, a simple red apple on the whiteboard and then first error. Boom, let's go."
+    },
+    {
+      "timestamps": {
+        "from": "00:14:55,960",
+        "to": "00:15:06,960"
+      },
+      "offsets": {
+        "from": 895960,
+        "to": 906960
+      },
+      "text": " But that was automated. So now I can deploy production, get the QA engineer would be notified."
+    },
+    {
+      "timestamps": {
+        "from": "00:15:06,960",
+        "to": "00:15:17,960"
+      },
+      "offsets": {
+        "from": 906960,
+        "to": 917960
+      },
+      "text": " And try again, same request, click on retry, whatever, send a new request, see if it breaks, create, monitor the sentry errors or fix it right away."
+    },
+    {
+      "timestamps": {
+        "from": "00:15:17,960",
+        "to": "00:15:28,960"
+      },
+      "offsets": {
+        "from": 917960,
+        "to": 928960
+      },
+      "text": " This is huge. Yeah. And you can integrate it with Slack. So I think you can even set up an automated loop so that once your QA engineer has solved this,"
+    },
+    {
+      "timestamps": {
+        "from": "00:15:28,960",
+        "to": "00:15:39,960"
+      },
+      "offsets": {
+        "from": 928960,
+        "to": 939960
+      },
+      "text": " it tags this bot in Slack and this bot knows what ID the GitHub issue is and retries it and gives back if it's properly working or if it still gets an issue."
+    },
+    {
+      "timestamps": {
+        "from": "00:15:39,960",
+        "to": "00:15:42,960"
+      },
+      "offsets": {
+        "from": 939960,
+        "to": 942960
+      },
+      "text": " And then you just have a loop that fixes everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:15:42,960",
+        "to": "00:15:51,960"
+      },
+      "offsets": {
+        "from": 942960,
+        "to": 951960
+      },
+      "text": " Yeah. But do you want that? OK, so my also my problem with loops is like."
+    },
+    {
+      "timestamps": {
+        "from": "00:15:51,960",
+        "to": "00:16:02,960"
+      },
+      "offsets": {
+        "from": 951960,
+        "to": 962960
+      },
+      "text": " You need to have a break, like a push limit. Yeah, because I don't want to burn my subscription, but yeah, subscription with the cursor stuff, it's quite good now."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:02,960",
+        "to": "00:16:07,960"
+      },
+      "offsets": {
+        "from": 962960,
+        "to": 967960
+      },
+      "text": " Yeah, I always say in every loop with an AI in it, max of five tries."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:07,960",
+        "to": "00:16:14,960"
+      },
+      "offsets": {
+        "from": 967960,
+        "to": 974960
+      },
+      "text": " Yeah. Oh, yeah. OK. Makes sense. And then like then you can still track it on GitHub with like the history or even like in."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:14,960",
+        "to": "00:16:21,960"
+      },
+      "offsets": {
+        "from": 974960,
+        "to": 981960
+      },
+      "text": " Yeah. You tell the agents to write a thread in the GitHub issue or in the pull request so you have the history of it."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:21,960",
+        "to": "00:16:24,960"
+      },
+      "offsets": {
+        "from": 981960,
+        "to": 984960
+      },
+      "text": " Or add a comment and just read everything and that's it."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:24,960",
+        "to": "00:16:29,960"
+      },
+      "offsets": {
+        "from": 984960,
+        "to": 989960
+      },
+      "text": " Yeah, that's nice. So, yeah, that was my first use case for the group."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:29,960",
+        "to": "00:16:36,960"
+      },
+      "offsets": {
+        "from": 989960,
+        "to": 996960
+      },
+      "text": " But also what's interesting is like the you can see the virtual machine running and I know that Codex has it too."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:36,960",
+        "to": "00:16:44,960"
+      },
+      "offsets": {
+        "from": 996960,
+        "to": 1004960
+      },
+      "text": " But it's cleaner with Grokbot, I feel. Well, what I did, but it's also different."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:44,960",
+        "to": "00:16:51,960"
+      },
+      "offsets": {
+        "from": 1004960,
+        "to": 1011960
+      },
+      "text": " I opened Discord here and in Discord I have one thread where I just push every issue my system has."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:51,960",
+        "to": "00:16:56,960"
+      },
+      "offsets": {
+        "from": 1011960,
+        "to": 1016960
+      },
+      "text": " And I said, index the whole thread from the past few days."
+    },
+    {
+      "timestamps": {
+        "from": "00:16:56,960",
+        "to": "00:17:01,960"
+      },
+      "offsets": {
+        "from": 1016960,
+        "to": 1021960
+      },
+      "text": " And you see it actually scrolling, screenshotting, scrolling, screenshotting, writing everything down."
+    },
+    {
+      "timestamps": {
+        "from": "00:17:01,960",
+        "to": "00:17:08,960"
+      },
+      "offsets": {
+        "from": 1021960,
+        "to": 1028960
+      },
+      "text": " And I made a full list of everything that went wrong and made a lot of GitHub issues and then it's trying to fix everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:17:08,960",
+        "to": "00:17:18,960"
+      },
+      "offsets": {
+        "from": 1028960,
+        "to": 1038960
+      },
+      "text": " OK, so you don't have issues like context and screenshot because I had the big I think it was with Entropic and Claude."
+    },
+    {
+      "timestamps": {
+        "from": "00:17:18,960",
+        "to": "00:17:28,960"
+      },
+      "offsets": {
+        "from": 1038960,
+        "to": 1048960
+      },
+      "text": " Claude was debugging the mobile app like the TV show tracker that I've built for me and my girlfriend."
+    },
+    {
+      "timestamps": {
+        "from": "00:17:28,960",
+        "to": "00:17:37,960"
+      },
+      "offsets": {
+        "from": 1048960,
+        "to": 1057960
+      },
+      "text": " The session had the context of the simulator, like the iOS simulator, plus the screenshot of the phone."
+    },
+    {
+      "timestamps": {
+        "from": "00:17:37,960",
+        "to": "00:17:45,960"
+      },
+      "offsets": {
+        "from": 1057960,
+        "to": 1065960
+      },
+      "text": " And it was compacting every prompt. Oh, no, it's not doing that. It works."
+    },
+    {
+      "timestamps": {
+        "from": "00:17:45,960",
+        "to": "00:17:55,960"
+      },
+      "offsets": {
+        "from": 1065960,
+        "to": 1075960
+      },
+      "text": " Good, good, good job. Yeah, and it just did three days and a lot of issues and it even took all the doubles out."
+    },
+    {
+      "timestamps": {
+        "from": "00:17:55,960",
+        "to": "00:18:05,960"
+      },
+      "offsets": {
+        "from": 1075960,
+        "to": 1085960
+      },
+      "text": " Nice. That's sick. So, yeah, that's that's why I set up my."
+    },
+    {
+      "timestamps": {
+        "from": "00:18:05,960",
+        "to": "00:18:26,960"
+      },
+      "offsets": {
+        "from": 1085960,
+        "to": 1106960
+      },
+      "text": " Yeah, but OK. How did you get because I'm thinking, OK, so, yeah, all of those agents are linked and I like I discovered that you can create like folders there. Would you create one per project?"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:26,960",
+        "to": "00:18:32,960"
+      },
+      "offsets": {
+        "from": 1106960,
+        "to": 1112960
+      },
+      "text": " Or having like one CTO that code in every repo?"
+    },
+    {
+      "timestamps": {
+        "from": "00:18:32,960",
+        "to": "00:18:38,960"
+      },
+      "offsets": {
+        "from": 1112960,
+        "to": 1118960
+      },
+      "text": " Well, I start a project base because I don't want it to do everything. A few projects."
+    },
+    {
+      "timestamps": {
+        "from": "00:18:38,960",
+        "to": "00:18:45,960"
+      },
+      "offsets": {
+        "from": 1118960,
+        "to": 1125960
+      },
+      "text": " I don't want them to to check and to make sure that they do nothing with the emails or whatever."
+    },
+    {
+      "timestamps": {
+        "from": "00:18:45,960",
+        "to": "00:18:52,960"
+      },
+      "offsets": {
+        "from": 1125960,
+        "to": 1132960
+      },
+      "text": " Yeah, always a box. So I made a project manager for each project and said only stuff related to this project can be handled."
+    },
+    {
+      "timestamps": {
+        "from": "00:18:52,960",
+        "to": "00:19:01,960"
+      },
+      "offsets": {
+        "from": 1132960,
+        "to": 1141960
+      },
+      "text": " Otherwise, nothing. But if I see that it works, probably I might scale up and just say to a CEO, fix everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:19:01,960",
+        "to": "00:19:07,960"
+      },
+      "offsets": {
+        "from": 1141960,
+        "to": 1147960
+      },
+      "text": " Yeah. And then it can make multiple folders and just do multiple setups."
+    },
+    {
+      "timestamps": {
+        "from": "00:19:07,960",
+        "to": "00:19:34,960"
+      },
+      "offsets": {
+        "from": 1147960,
+        "to": 1174960
+      },
+      "text": " But like it's not attached to anything like to any folders on my computer. And also, so I have Grokbot installed on my MacBook Pro. And for now or two, it was impossible to access the WW folder that I have on my MacBook Pro from my Grokbot because it was installed on my studio."
+    },
+    {
+      "timestamps": {
+        "from": "00:19:34,960",
+        "to": "00:19:43,960"
+      },
+      "offsets": {
+        "from": 1174960,
+        "to": 1183960
+      },
+      "text": " And for whatever reason, like there is no nothing to see. I said, bro, try SSH, try Tailscale."
+    },
+    {
+      "timestamps": {
+        "from": "00:19:43,960",
+        "to": "00:19:53,960"
+      },
+      "offsets": {
+        "from": 1183960,
+        "to": 1193960
+      },
+      "text": " And but I think it was because I have multiple SSH keys and it tried them all and then it time out because it was the last one or something like that."
+    },
+    {
+      "timestamps": {
+        "from": "00:19:53,960",
+        "to": "00:19:59,960"
+      },
+      "offsets": {
+        "from": 1193960,
+        "to": 1199960
+      },
+      "text": " But like, it's too undeterministic right now. They need guardrails, I feel."
+    },
+    {
+      "timestamps": {
+        "from": "00:19:59,960",
+        "to": "00:20:01,960"
+      },
+      "offsets": {
+        "from": 1199960,
+        "to": 1201960
+      },
+      "text": " Yeah, I think they need for sure."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:01,960",
+        "to": "00:20:09,960"
+      },
+      "offsets": {
+        "from": 1201960,
+        "to": 1209960
+      },
+      "text": " Yeah. But what do you think about the UX/UI like here? Because it's raw. It's really raw. But it's really out of the box."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:09,960",
+        "to": "00:20:21,960"
+      },
+      "offsets": {
+        "from": 1209960,
+        "to": 1221960
+      },
+      "text": " And when you compare that to Grok or every other interface, when you have those two goals, like you assign a project, you assign a folder, you assign a cloud, VM, whatever."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:21,960",
+        "to": "00:20:24,960"
+      },
+      "offsets": {
+        "from": 1221960,
+        "to": 1224960
+      },
+      "text": " And you have that. Which one is better?"
+    },
+    {
+      "timestamps": {
+        "from": "00:20:24,960",
+        "to": "00:20:31,960"
+      },
+      "offsets": {
+        "from": 1224960,
+        "to": 1231960
+      },
+      "text": " Well, it depends what you want with it. In the ones where you have your folders and your guardrails and everything, you decide on what you want to do."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:31,960",
+        "to": "00:20:36,960"
+      },
+      "offsets": {
+        "from": 1231960,
+        "to": 1236960
+      },
+      "text": " But here you drop a task and it just fixes it and it doesn't matter how it does it."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:36,960",
+        "to": "00:20:37,960"
+      },
+      "offsets": {
+        "from": 1236960,
+        "to": 1237960
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:37,960",
+        "to": "00:20:43,960"
+      },
+      "offsets": {
+        "from": 1237960,
+        "to": 1243960
+      },
+      "text": " So you need to trust that it's working properly. And you do the same thing when you have a PA hired, just a real person."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:43,960",
+        "to": "00:20:50,960"
+      },
+      "offsets": {
+        "from": 1243960,
+        "to": 1250960
+      },
+      "text": " You give him or her a task and you get a result later. And this bot is doing the exact same thing."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:50,960",
+        "to": "00:20:58,960"
+      },
+      "offsets": {
+        "from": 1250960,
+        "to": 1258960
+      },
+      "text": " Yeah. Yeah. You delegate like, yeah, you learn how to delegate more to the little UI."
+    },
+    {
+      "timestamps": {
+        "from": "00:20:58,960",
+        "to": "00:21:11,960"
+      },
+      "offsets": {
+        "from": 1258960,
+        "to": 1271960
+      },
+      "text": " Yeah. More than. Yeah. But like, yeah, I mean, it's tricky, right? Because I say, yeah, I have my grokbot.mg. Do not do that. Oh, by the way, I did that."
+    },
+    {
+      "timestamps": {
+        "from": "00:21:11,960",
+        "to": "00:21:29,960"
+      },
+      "offsets": {
+        "from": 1271960,
+        "to": 1289960
+      },
+      "text": " I haven't had that issue yet. And what you can do if you open the Linux virtual machine, the VM, you can record one of your routines and it will do it the exact same way every day as you do it."
+    },
+    {
+      "timestamps": {
+        "from": "00:21:29,960",
+        "to": "00:21:30,960"
+      },
+      "offsets": {
+        "from": 1289960,
+        "to": 1290960
+      },
+      "text": " What do you mean?"
+    },
+    {
+      "timestamps": {
+        "from": "00:21:30,960",
+        "to": "00:21:45,960"
+      },
+      "offsets": {
+        "from": 1290960,
+        "to": 1305960
+      },
+      "text": " So I think if you maybe were too fast, close the preview. And can you click your bot at the top, the Lafayette icon or Curie? Doesn't matter."
+    },
+    {
+      "timestamps": {
+        "from": "00:21:45,960",
+        "to": "00:21:48,960"
+      },
+      "offsets": {
+        "from": 1305960,
+        "to": 1308960
+      },
+      "text": " Oh, here."
+    },
+    {
+      "timestamps": {
+        "from": "00:21:48,960",
+        "to": "00:21:53,960"
+      },
+      "offsets": {
+        "from": 1308960,
+        "to": 1313960
+      },
+      "text": " Let me check here on my then I know. Otherwise, I have you."
+    },
+    {
+      "timestamps": {
+        "from": "00:21:53,960",
+        "to": "00:22:03,960"
+      },
+      "offsets": {
+        "from": 1313960,
+        "to": 1323960
+      },
+      "text": " The conversation. Now that one."
+    },
+    {
+      "timestamps": {
+        "from": "00:22:03,960",
+        "to": "00:22:11,960"
+      },
+      "offsets": {
+        "from": 1323960,
+        "to": 1331960
+      },
+      "text": " I think it's at the bottom here on the plus and why you type the message at the bottom in the middle center."
+    },
+    {
+      "timestamps": {
+        "from": "00:22:11,960",
+        "to": "00:22:23,960"
+      },
+      "offsets": {
+        "from": 1331960,
+        "to": 1343960
+      },
+      "text": " You can teach a task and if you click it. Here, record yourself doing a task and Curie learns the steps and can run them again on its own."
+    },
+    {
+      "timestamps": {
+        "from": "00:22:23,960",
+        "to": "00:22:41,960"
+      },
+      "offsets": {
+        "from": 1343960,
+        "to": 1361960
+      },
+      "text": " Holy shit. So you just need to show it how you do it. And I think it is like Excel macros. You remember you do in Excel, you click here, you click there and the Excel macro repeats exactly your steps and does it over and over again."
+    },
+    {
+      "timestamps": {
+        "from": "00:22:41,960",
+        "to": "00:22:45,960"
+      },
+      "offsets": {
+        "from": 1361960,
+        "to": 1365960
+      },
+      "text": " This is the exact same thing that's."
+    },
+    {
+      "timestamps": {
+        "from": "00:22:45,960",
+        "to": "00:22:49,960"
+      },
+      "offsets": {
+        "from": 1365960,
+        "to": 1369960
+      },
+      "text": " Why is it here?"
+    },
+    {
+      "timestamps": {
+        "from": "00:22:49,960",
+        "to": "00:22:59,960"
+      },
+      "offsets": {
+        "from": 1369960,
+        "to": 1379960
+      },
+      "text": " OK, so I could even QA the app, record it, say, oh, this is why. Click, click, click. And then, hmm, noise."
+    },
+    {
+      "timestamps": {
+        "from": "00:22:59,960",
+        "to": "00:23:06,960"
+      },
+      "offsets": {
+        "from": 1379960,
+        "to": 1386960
+      },
+      "text": " So if you spend some time, you can teach it what it needs to do. And it has routines and everything. OK, that's nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:23:06,960",
+        "to": "00:23:12,960"
+      },
+      "offsets": {
+        "from": 1386960,
+        "to": 1392960
+      },
+      "text": " That's nice. Oh, and do you like the gen feed UI?"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:12,960",
+        "to": "00:23:16,960"
+      },
+      "offsets": {
+        "from": 1392960,
+        "to": 1396960
+      },
+      "text": " I need to give you your account. Yes, so I can test it."
+    },
+    {
+      "timestamps": {
+        "from": "00:23:16,960",
+        "to": "00:23:25,960"
+      },
+      "offsets": {
+        "from": 1396960,
+        "to": 1405960
+      },
+      "text": " I know. Yeah, don't test it because right now I have a bot that tested and it finds bugs. So, yeah, well, that doesn't matter."
+    },
+    {
+      "timestamps": {
+        "from": "00:23:25,960",
+        "to": "00:23:31,960"
+      },
+      "offsets": {
+        "from": 1405960,
+        "to": 1411960
+      },
+      "text": " OK, cool. So, yeah, what's what will you do? Do you want to show something that you have?"
+    },
+    {
+      "timestamps": {
+        "from": "00:23:31,960",
+        "to": "00:23:38,960"
+      },
+      "offsets": {
+        "from": 1411960,
+        "to": 1418960
+      },
+      "text": " Yeah, I think maybe we can do origin just like a few minutes and then we can do a demo with the bot."
+    },
+    {
+      "timestamps": {
+        "from": "00:23:38,960",
+        "to": "00:23:47,960"
+      },
+      "offsets": {
+        "from": 1418960,
+        "to": 1427960
+      },
+      "text": " Tag, so tag, I'm going to do a replace, replace."
+    },
+    {
+      "timestamps": {
+        "from": "00:23:47,960",
+        "to": "00:23:54,960"
+      },
+      "offsets": {
+        "from": 1427960,
+        "to": 1434960
+      },
+      "text": " Yes, but I'm going to close that up."
+    },
+    {
+      "timestamps": {
+        "from": "00:23:54,960",
+        "to": "00:23:59,960"
+      },
+      "offsets": {
+        "from": 1434960,
+        "to": 1439960
+      },
+      "text": " Share this one. No one. OK, cool."
+    },
+    {
+      "timestamps": {
+        "from": "00:23:59,960",
+        "to": "00:24:02,960"
+      },
+      "offsets": {
+        "from": 1439960,
+        "to": 1442960
+      },
+      "text": " So."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:02,960",
+        "to": "00:24:04,960"
+      },
+      "offsets": {
+        "from": 1442960,
+        "to": 1444960
+      },
+      "text": " Oh, I changed."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:04,960",
+        "to": "00:24:10,960"
+      },
+      "offsets": {
+        "from": 1444960,
+        "to": 1450960
+      },
+      "text": " Cool. Thank you."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:10,960",
+        "to": "00:24:15,960"
+      },
+      "offsets": {
+        "from": 1450960,
+        "to": 1455960
+      },
+      "text": " OK, so Kiosk origin, the."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:15,960",
+        "to": "00:24:20,960"
+      },
+      "offsets": {
+        "from": 1455960,
+        "to": 1460960
+      },
+      "text": " Newest GitHub competitor in town."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:20,960",
+        "to": "00:24:25,960"
+      },
+      "offsets": {
+        "from": 1460960,
+        "to": 1465960
+      },
+      "text": " Did you try it? I tried it and I was done in three minutes."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:25,960",
+        "to": "00:24:40,960"
+      },
+      "offsets": {
+        "from": 1465960,
+        "to": 1480960
+      },
+      "text": " What a lunch, though, like a good timing, like I fucking knew it. I need to find the real the real is about that when I I said like they're going to lunch it on a day where GitHub will be done and they just need to wait 24 hours."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:40,960",
+        "to": "00:24:45,960"
+      },
+      "offsets": {
+        "from": 1480960,
+        "to": 1485960
+      },
+      "text": " Yeah, and yesterday it was down for four hours, four hours."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:45,960",
+        "to": "00:24:52,960"
+      },
+      "offsets": {
+        "from": 1485960,
+        "to": 1492960
+      },
+      "text": " Yeah, so I think that they were actually waiting for the moment, but it came faster than they expected."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:52,960",
+        "to": "00:24:58,960"
+      },
+      "offsets": {
+        "from": 1492960,
+        "to": 1498960
+      },
+      "text": " So they just had to lounge with what they have, which is like it's basically it's working right."
+    },
+    {
+      "timestamps": {
+        "from": "00:24:58,960",
+        "to": "00:25:02,960"
+      },
+      "offsets": {
+        "from": 1498960,
+        "to": 1502960
+      },
+      "text": " Like, oh, did you read the changelog?"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:02,960",
+        "to": "00:25:13,960"
+      },
+      "offsets": {
+        "from": 1502960,
+        "to": 1513960
+      },
+      "text": " OK, so origin code, hosting Kiosk can now host your code. Origin begins rolling out today in early beta in the old beta plan."
+    },
+    {
+      "timestamps": {
+        "from": "00:25:13,960",
+        "to": "00:25:19,960"
+      },
+      "offsets": {
+        "from": 1513960,
+        "to": 1519960
+      },
+      "text": " Whatever, whatever. Origin repos, the new code base tabs is the home for origin repos."
+    },
+    {
+      "timestamps": {
+        "from": "00:25:19,960",
+        "to": "00:25:29,960"
+      },
+      "offsets": {
+        "from": 1519960,
+        "to": 1529960
+      },
+      "text": " OK, so you can basically synchronize your repository, brings your GitHub repo, your GitHub repo can sit along the one Kiosk host."
+    },
+    {
+      "timestamps": {
+        "from": "00:25:29,960",
+        "to": "00:25:36,960"
+      },
+      "offsets": {
+        "from": 1529960,
+        "to": 1536960
+      },
+      "text": " Connect GitHub to Kiosk, pick your org and you will see the repo. You can sync, select one and Kiosk put it in."
+    },
+    {
+      "timestamps": {
+        "from": "00:25:36,960",
+        "to": "00:25:40,960"
+      },
+      "offsets": {
+        "from": 1536960,
+        "to": 1540960
+      },
+      "text": " So, yeah, you can for now you can back it up."
+    },
+    {
+      "timestamps": {
+        "from": "00:25:40,960",
+        "to": "00:25:45,960"
+      },
+      "offsets": {
+        "from": 1540960,
+        "to": 1545960
+      },
+      "text": " I'm curious about like how did they change Git or did they improve the workflow?"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:45,960",
+        "to": "00:25:50,960"
+      },
+      "offsets": {
+        "from": 1545960,
+        "to": 1550960
+      },
+      "text": " I see like we still have pull request. Yeah. Is that the best workflow for agents?"
+    },
+    {
+      "timestamps": {
+        "from": "00:25:50,960",
+        "to": "00:25:57,960"
+      },
+      "offsets": {
+        "from": 1550960,
+        "to": 1557960
+      },
+      "text": " Everybody is used to it. If you change it, I don't think teams are stepping to your product."
+    },
+    {
+      "timestamps": {
+        "from": "00:25:57,960",
+        "to": "00:26:03,960"
+      },
+      "offsets": {
+        "from": 1557960,
+        "to": 1563960
+      },
+      "text": " You need to first get them in and make sure that they are using it and then you can say, hey, we made an improvement."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:03,960",
+        "to": "00:26:09,960"
+      },
+      "offsets": {
+        "from": 1563960,
+        "to": 1569960
+      },
+      "text": " Please check this new way of working and give us your feedback and see how to use it."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:09,960",
+        "to": "00:26:16,960"
+      },
+      "offsets": {
+        "from": 1569960,
+        "to": 1576960
+      },
+      "text": " Yeah. OK, so for example, agents, you never report your code. Your code, PRs and agents are now in the same place."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:16,960",
+        "to": "00:26:22,960"
+      },
+      "offsets": {
+        "from": 1576960,
+        "to": 1582960
+      },
+      "text": " Ask yourself a question about the code you are browsing. You can answer, make changes, update PR and push your branch."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:22,960",
+        "to": "00:26:26,960"
+      },
+      "offsets": {
+        "from": 1582960,
+        "to": 1586960
+      },
+      "text": " OK, so basically what we were doing before, right? Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:26,960",
+        "to": "00:26:33,960"
+      },
+      "offsets": {
+        "from": 1586960,
+        "to": 1593960
+      },
+      "text": " And also, we are always trying the new stuff, but our customers who have an IT team movie support,"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:33,960",
+        "to": "00:26:40,960"
+      },
+      "offsets": {
+        "from": 1593960,
+        "to": 1600960
+      },
+      "text": " I don't think they are waiting for a new set up and some sort of GitHub competitor."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:40,960",
+        "to": "00:26:45,960"
+      },
+      "offsets": {
+        "from": 1600960,
+        "to": 1605960
+      },
+      "text": " OK, so what happened? OK, what's going on here?"
+    },
+    {
+      "timestamps": {
+        "from": "00:26:45,960",
+        "to": "00:26:53,960"
+      },
+      "offsets": {
+        "from": 1605960,
+        "to": 1613960
+      },
+      "text": " Oh, OK, so you OK, so select the function, drop it and then it open it on the side explaining the function."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:53,960",
+        "to": "00:26:59,960"
+      },
+      "offsets": {
+        "from": 1613960,
+        "to": 1619960
+      },
+      "text": " Yes. OK, so, yeah, it's like this goes integrated."
+    },
+    {
+      "timestamps": {
+        "from": "00:26:59,960",
+        "to": "00:27:10,960"
+      },
+      "offsets": {
+        "from": 1619960,
+        "to": 1630960
+      },
+      "text": " Why do you need the UI and the infrastructure of GitHub to do that?"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:10,960",
+        "to": "00:27:14,960"
+      },
+      "offsets": {
+        "from": 1630960,
+        "to": 1634960
+      },
+      "text": " Because they are not ready to have it fully on, I think."
+    },
+    {
+      "timestamps": {
+        "from": "00:27:14,960",
+        "to": "00:27:24,960"
+      },
+      "offsets": {
+        "from": 1634960,
+        "to": 1644960
+      },
+      "text": " Yeah, maybe they want to because, OK, so if people start to stop using GitHub and use Origin, then they start to win."
+    },
+    {
+      "timestamps": {
+        "from": "00:27:24,960",
+        "to": "00:27:28,960"
+      },
+      "offsets": {
+        "from": 1644960,
+        "to": 1648960
+      },
+      "text": " Because then they will have data that Microsoft doesn't own."
+    },
+    {
+      "timestamps": {
+        "from": "00:27:28,960",
+        "to": "00:27:35,960"
+      },
+      "offsets": {
+        "from": 1648960,
+        "to": 1655960
+      },
+      "text": " Yeah, but the biggest issue is everybody uses GitHub, not only for the pull request and emerges,"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:35,960",
+        "to": "00:27:42,960"
+      },
+      "offsets": {
+        "from": 1655960,
+        "to": 1662960
+      },
+      "text": " but also for the full automation that almost every hosting party on the Internet has a GitHub integration."
+    },
+    {
+      "timestamps": {
+        "from": "00:27:42,960",
+        "to": "00:27:45,960"
+      },
+      "offsets": {
+        "from": 1662960,
+        "to": 1665960
+      },
+      "text": " You push it and we automatically deploy."
+    },
+    {
+      "timestamps": {
+        "from": "00:27:45,960",
+        "to": "00:27:53,960"
+      },
+      "offsets": {
+        "from": 1665960,
+        "to": 1673960
+      },
+      "text": " Yeah, but I mean, like, for example, Blacksmiths, you know, like the company who improved the runners for GitHub actions,"
+    },
+    {
+      "timestamps": {
+        "from": "00:27:53,960",
+        "to": "00:28:04,960"
+      },
+      "offsets": {
+        "from": 1673960,
+        "to": 1684960
+      },
+      "text": " the way to onboard to Blacksmiths is like to change the GitHub action image that you use and use a Blacksmith,"
+    },
+    {
+      "timestamps": {
+        "from": "00:28:04,960",
+        "to": "00:28:11,960"
+      },
+      "offsets": {
+        "from": 1684960,
+        "to": 1691960
+      },
+      "text": " a Blacksmith slash the node 26 to run an image for and get linked to the platform."
+    },
+    {
+      "timestamps": {
+        "from": "00:28:11,960",
+        "to": "00:28:20,960"
+      },
+      "offsets": {
+        "from": 1691960,
+        "to": 1700960
+      },
+      "text": " So you can still bring like the whole Git workflow and just ditch the infrastructure behind GitHub, which is crazy."
+    },
+    {
+      "timestamps": {
+        "from": "00:28:20,960",
+        "to": "00:28:29,960"
+      },
+      "offsets": {
+        "from": 1700960,
+        "to": 1709960
+      },
+      "text": " Yeah, that's cool."
+    },
+    {
+      "timestamps": {
+        "from": "00:28:29,960",
+        "to": "00:28:34,960"
+      },
+      "offsets": {
+        "from": 1709960,
+        "to": 1714960
+      },
+      "text": " OK, so nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:28:34,960",
+        "to": "00:28:38,960"
+      },
+      "offsets": {
+        "from": 1714960,
+        "to": 1718960
+      },
+      "text": " And we have partnered with some of the top GitHub integrations here."
+    },
+    {
+      "timestamps": {
+        "from": "00:28:38,960",
+        "to": "00:28:54,960"
+      },
+      "offsets": {
+        "from": 1718960,
+        "to": 1734960
+      },
+      "text": " Vercel, Buildkite, Depot are already available."
+    },
+    {
+      "timestamps": {
+        "from": "00:28:54,960",
+        "to": "00:28:56,960"
+      },
+      "offsets": {
+        "from": 1734960,
+        "to": 1736960
+      },
+      "text": " GitHub competitor or past one? Yes."
+    },
+    {
+      "timestamps": {
+        "from": "00:28:56,960",
+        "to": "00:29:03,960"
+      },
+      "offsets": {
+        "from": 1736960,
+        "to": 1743960
+      },
+      "text": " On Git 4 for hosting repository, PRM can be built for AI agent and deeply integrated with cure."
+    },
+    {
+      "timestamps": {
+        "from": "00:29:03,960",
+        "to": "00:29:08,960"
+      },
+      "offsets": {
+        "from": 1743960,
+        "to": 1748960
+      },
+      "text": " So you can create native origin repo or sync from GitHub."
+    },
+    {
+      "timestamps": {
+        "from": "00:29:08,960",
+        "to": "00:29:15,960"
+      },
+      "offsets": {
+        "from": 1748960,
+        "to": 1755960
+      },
+      "text": " Yeah, like, for example, can we have something different if you create a native origin?"
+    },
+    {
+      "timestamps": {
+        "from": "00:29:15,960",
+        "to": "00:29:19,960"
+      },
+      "offsets": {
+        "from": 1755960,
+        "to": 1759960
+      },
+      "text": " That would be fun. We could test it with a new repo next week."
+    },
+    {
+      "timestamps": {
+        "from": "00:29:19,960",
+        "to": "00:29:22,960"
+      },
+      "offsets": {
+        "from": 1759960,
+        "to": 1762960
+      },
+      "text": " I think you can code in cursor using it."
+    },
+    {
+      "timestamps": {
+        "from": "00:29:22,960",
+        "to": "00:29:27,960"
+      },
+      "offsets": {
+        "from": 1762960,
+        "to": 1767960
+      },
+      "text": " You can deploy to Vercel because that's one of the early integrations and that's it."
+    },
+    {
+      "timestamps": {
+        "from": "00:29:27,960",
+        "to": "00:29:43,960"
+      },
+      "offsets": {
+        "from": 1767960,
+        "to": 1783960
+      },
+      "text": " Yeah, but then like that means that because in terms of usage of the agent, if it's going to like I don't want to pay extra, you know, like extra usage for like that because I can get it for free on GitHub."
+    },
+    {
+      "timestamps": {
+        "from": "00:29:43,960",
+        "to": "00:29:50,960"
+      },
+      "offsets": {
+        "from": 1783960,
+        "to": 1790960
+      },
+      "text": " If I can take the four hours downtime from every week, whatever."
+    },
+    {
+      "timestamps": {
+        "from": "00:29:50,960",
+        "to": "00:30:06,960"
+      },
+      "offsets": {
+        "from": 1790960,
+        "to": 1806960
+      },
+      "text": " But if it's also included in the usage of the Grok subscription, that's which you also have, you pay $300 amounts for Grok SuperAV."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:06,960",
+        "to": "00:30:13,960"
+      },
+      "offsets": {
+        "from": 1806960,
+        "to": 1813960
+      },
+      "text": " Then you have a subscription for cure software Ultra, which is lit."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:13,960",
+        "to": "00:30:31,960"
+      },
+      "offsets": {
+        "from": 1813960,
+        "to": 1831960
+      },
+      "text": " Normally that's another $200 for APIs, but also you have access to. So you have $200 of API for the other models, but you have more usage on Grok 4.5/composer3 upcoming composer3."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:31,960",
+        "to": "00:30:32,960"
+      },
+      "offsets": {
+        "from": 1831960,
+        "to": 1832960
+      },
+      "text": " Yes."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:32,960",
+        "to": "00:30:42,960"
+      },
+      "offsets": {
+        "from": 1832960,
+        "to": 1842960
+      },
+      "text": " So, Evan on cure software, if you use auto, it should optimize your usage of the models."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:42,960",
+        "to": "00:30:44,960"
+      },
+      "offsets": {
+        "from": 1842960,
+        "to": 1844960
+      },
+      "text": " Oh, I didn't try that one."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:44,960",
+        "to": "00:30:49,960"
+      },
+      "offsets": {
+        "from": 1844960,
+        "to": 1849960
+      },
+      "text": " No, same thing. Like I used 4.6 because that was fun."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:49,960",
+        "to": "00:30:59,960"
+      },
+      "offsets": {
+        "from": 1849960,
+        "to": 1859960
+      },
+      "text": " And like I know the stuff, but yeah, if it's auto and you optimize it, so like that could be that could be good."
+    },
+    {
+      "timestamps": {
+        "from": "00:30:59,960",
+        "to": "00:31:01,960"
+      },
+      "offsets": {
+        "from": 1859960,
+        "to": 1861960
+      },
+      "text": " Okay, cool."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:01,960",
+        "to": "00:31:07,960"
+      },
+      "offsets": {
+        "from": 1861960,
+        "to": 1867960
+      },
+      "text": " So, and okay, so now we have a demo from you, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:07,960",
+        "to": "00:31:11,960"
+      },
+      "offsets": {
+        "from": 1867960,
+        "to": 1871960
+      },
+      "text": " Yeah, I think we can do some testing with the Grok bot."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:11,960",
+        "to": "00:31:20,960"
+      },
+      "offsets": {
+        "from": 1871960,
+        "to": 1880960
+      },
+      "text": " Yes, let's do that."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:20,960",
+        "to": "00:31:21,960"
+      },
+      "offsets": {
+        "from": 1880960,
+        "to": 1881960
+      },
+      "text": " You do it or I do it?"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:21,960",
+        "to": "00:31:26,960"
+      },
+      "offsets": {
+        "from": 1881960,
+        "to": 1886960
+      },
+      "text": " Yeah, I'm moving some screens so I can demo something."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:26,960",
+        "to": "00:31:27,960"
+      },
+      "offsets": {
+        "from": 1886960,
+        "to": 1887960
+      },
+      "text": " Perfect."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:27,960",
+        "to": "00:31:30,960"
+      },
+      "offsets": {
+        "from": 1887960,
+        "to": 1890960
+      },
+      "text": " Do not leak your .m file."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:30,960",
+        "to": "00:31:32,960"
+      },
+      "offsets": {
+        "from": 1890960,
+        "to": 1892960
+      },
+      "text": " It's closed."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:32,960",
+        "to": "00:31:38,960"
+      },
+      "offsets": {
+        "from": 1892960,
+        "to": 1898960
+      },
+      "text": " If we leak anything else, we will just update everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:38,960",
+        "to": "00:31:43,960"
+      },
+      "offsets": {
+        "from": 1898960,
+        "to": 1903960
+      },
+      "text": " How's your pocket integration going?"
+    },
+    {
+      "timestamps": {
+        "from": "00:31:43,960",
+        "to": "00:31:48,960"
+      },
+      "offsets": {
+        "from": 1903960,
+        "to": 1908960
+      },
+      "text": " It's working perfect. I optimized it, so it's looking even better and better."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:48,960",
+        "to": "00:31:50,960"
+      },
+      "offsets": {
+        "from": 1908960,
+        "to": 1910960
+      },
+      "text": " Okay, show me that after the show."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:50,960",
+        "to": "00:31:51,960"
+      },
+      "offsets": {
+        "from": 1910960,
+        "to": 1911960
+      },
+      "text": " Yes."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:51,960",
+        "to": "00:31:55,960"
+      },
+      "offsets": {
+        "from": 1911960,
+        "to": 1915960
+      },
+      "text": " Tag, no GM, fair enough, that's you."
+    },
+    {
+      "timestamps": {
+        "from": "00:31:55,960",
+        "to": "00:32:02,960"
+      },
+      "offsets": {
+        "from": 1915960,
+        "to": 1922960
+      },
+      "text": " Perf, Mitchell, bam, nope, still not. Nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:02,960",
+        "to": "00:32:06,960"
+      },
+      "offsets": {
+        "from": 1922960,
+        "to": 1926960
+      },
+      "text": " Oh, you wipe out everything?"
+    },
+    {
+      "timestamps": {
+        "from": "00:32:06,960",
+        "to": "00:32:13,960"
+      },
+      "offsets": {
+        "from": 1926960,
+        "to": 1933960
+      },
+      "text": " No, no, you can hide them. If you right click, you can just hide from sidebar and you see here hidden bots."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:13,960",
+        "to": "00:32:14,960"
+      },
+      "offsets": {
+        "from": 1933960,
+        "to": 1934960
+      },
+      "text": " Nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:14,960",
+        "to": "00:32:17,960"
+      },
+      "offsets": {
+        "from": 1934960,
+        "to": 1937960
+      },
+      "text": " Because I'm not going to show my live projects and other stuff."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:17,960",
+        "to": "00:32:18,960"
+      },
+      "offsets": {
+        "from": 1937960,
+        "to": 1938960
+      },
+      "text": " Nice, nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:18,960",
+        "to": "00:32:21,960"
+      },
+      "offsets": {
+        "from": 1938960,
+        "to": 1941960
+      },
+      "text": " I try not to do it."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:21,960",
+        "to": "00:32:27,960"
+      },
+      "offsets": {
+        "from": 1941960,
+        "to": 1947960
+      },
+      "text": " And then this one, let me, so it fits in the screen."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:27,960",
+        "to": "00:32:36,960"
+      },
+      "offsets": {
+        "from": 1947960,
+        "to": 1956960
+      },
+      "text": " Yes. So you see I created a new one and I did it today just an hour ago."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:36,960",
+        "to": "00:32:44,960"
+      },
+      "offsets": {
+        "from": 1956960,
+        "to": 1964960
+      },
+      "text": " And this is the first setup that you get. So once you create a bot, you can just easily click here at a plus and you can just create a new one."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:44,960",
+        "to": "00:32:47,960"
+      },
+      "offsets": {
+        "from": 1964960,
+        "to": 1967960
+      },
+      "text": " It wants to know what it needs to do for you."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:47,960",
+        "to": "00:32:58,960"
+      },
+      "offsets": {
+        "from": 1967960,
+        "to": 1978960
+      },
+      "text": " And I want to give a demo in a live stream."
+    },
+    {
+      "timestamps": {
+        "from": "00:32:58,960",
+        "to": "00:33:24,960"
+      },
+      "offsets": {
+        "from": 1978960,
+        "to": 2004960
+      },
+      "text": " And I did a full setup on my first bot, I explained the projects that I'm doing, I gave it some documentation, I gave it previews and everything else, and then I will give you additional questions just to make sure that it knows exactly what you want from it."
+    },
+    {
+      "timestamps": {
+        "from": "00:33:24,960",
+        "to": "00:33:32,960"
+      },
+      "offsets": {
+        "from": 2004960,
+        "to": 2012960
+      },
+      "text": " And I did some preparation. So I already wrote prompts and I did some testing."
+    },
+    {
+      "timestamps": {
+        "from": "00:33:32,960",
+        "to": "00:33:41,960"
+      },
+      "offsets": {
+        "from": 2012960,
+        "to": 2021960
+      },
+      "text": " So I think we can start with with it. So got it on the dry run first."
+    },
+    {
+      "timestamps": {
+        "from": "00:33:41,960",
+        "to": "00:33:48,960"
+      },
+      "offsets": {
+        "from": 2021960,
+        "to": 2028960
+      },
+      "text": " No, we are live right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:33:48,960",
+        "to": "00:33:59,960"
+      },
+      "offsets": {
+        "from": 2028960,
+        "to": 2039960
+      },
+      "text": " Okay, hit me with the first prompt. So I was checking and you see a lot of people saying, if my company went bankrupt and I needed 100k at the end of the month."
+    },
+    {
+      "timestamps": {
+        "from": "00:33:59,960",
+        "to": "00:34:13,960"
+      },
+      "offsets": {
+        "from": 2039960,
+        "to": 2053960
+      },
+      "text": " This is what I would do. And they come with these incredible ideas where AI can just optimize your entire CEO, create pages where it can automatically email, where it can find your leads for new websites or whatever."
+    },
+    {
+      "timestamps": {
+        "from": "00:34:13,960",
+        "to": "00:34:23,960"
+      },
+      "offsets": {
+        "from": 2053960,
+        "to": 2063960
+      },
+      "text": " So I thought I named it King and King is going to be a king and lead generation and getting me projects so I can make money."
+    },
+    {
+      "timestamps": {
+        "from": "00:34:23,960",
+        "to": "00:34:27,960"
+      },
+      "offsets": {
+        "from": 2063960,
+        "to": 2067960
+      },
+      "text": " And if we do it properly, I should be able to sell a website a day, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:34:27,960",
+        "to": "00:34:32,960"
+      },
+      "offsets": {
+        "from": 2067960,
+        "to": 2072960
+      },
+      "text": " Yes, one shot your generation worth bro."
+    },
+    {
+      "timestamps": {
+        "from": "00:34:32,960",
+        "to": "00:34:46,960"
+      },
+      "offsets": {
+        "from": 2072960,
+        "to": 2086960
+      },
+      "text": " Yeah. So what I want to do, I wanted to research the internet. And here in the Netherlands around Eindhoven farming three or four companies every day that don't have a proper website or need a new website."
+    },
+    {
+      "timestamps": {
+        "from": "00:34:46,960",
+        "to": "00:35:00,960"
+      },
+      "offsets": {
+        "from": 2086960,
+        "to": 2100960
+      },
+      "text": " Well, we think that we can improve it. Then we use growth builds to build a website and King is actually going to email those people and do the first responses."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:00,960",
+        "to": "00:35:09,960"
+      },
+      "offsets": {
+        "from": 2100960,
+        "to": 2109960
+      },
+      "text": " We can do everything, but we can do some part of it. I can show it right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:09,960",
+        "to": "00:35:15,960"
+      },
+      "offsets": {
+        "from": 2109960,
+        "to": 2115960
+      },
+      "text": " Let me create a new document. So I wrote a prompt."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:15,960",
+        "to": "00:35:20,960"
+      },
+      "offsets": {
+        "from": 2115960,
+        "to": 2120960
+      },
+      "text": " Okay, so that's a lead gen bot, right? Like prompt?"
+    },
+    {
+      "timestamps": {
+        "from": "00:35:20,960",
+        "to": "00:35:31,960"
+      },
+      "offsets": {
+        "from": 2120960,
+        "to": 2131960
+      },
+      "text": " Yeah. 18. So you're my sales personal assistant for an English YouTube live stream. So you see it already gave it some information."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:31,960",
+        "to": "00:35:37,960"
+      },
+      "offsets": {
+        "from": 2131960,
+        "to": 2137960
+      },
+      "text": " I told it we have 30 minutes. So I gave you two to three minutes maximum per task."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:37,960",
+        "to": "00:35:42,960"
+      },
+      "offsets": {
+        "from": 2137960,
+        "to": 2142960
+      },
+      "text": " Well, that is just for now, but normally you need to have it work a little bit longer."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:42,960",
+        "to": "00:35:52,960"
+      },
+      "offsets": {
+        "from": 2142960,
+        "to": 2152960
+      },
+      "text": " And I want to find small companies in or around Eindhoven that have two to eight people, no multinationals, no chains that need a new website."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:52,960",
+        "to": "00:35:57,960"
+      },
+      "offsets": {
+        "from": 2152960,
+        "to": 2157960
+      },
+      "text": " Target five if it's instant one is enough just for the demo right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:35:57,960",
+        "to": "00:36:12,960"
+      },
+      "offsets": {
+        "from": 2157960,
+        "to": 2172960
+      },
+      "text": " And I had Grock do some research for companies that have money, but don't have a website. And it said, well, if you have plumbing, electrical people, those are like engineers who don't know how to build a website."
+    },
+    {
+      "timestamps": {
+        "from": "00:36:12,960",
+        "to": "00:36:20,960"
+      },
+      "offsets": {
+        "from": 2172960,
+        "to": 2180960
+      },
+      "text": " They have money because they have a high hourly rate, but they don't want to do anything."
+    },
+    {
+      "timestamps": {
+        "from": "00:36:20,960",
+        "to": "00:36:26,960"
+      },
+      "offsets": {
+        "from": 2180960,
+        "to": 2186960
+      },
+      "text": " So I'm just going to put it in, see what it does."
+    },
+    {
+      "timestamps": {
+        "from": "00:36:26,960",
+        "to": "00:36:36,960"
+      },
+      "offsets": {
+        "from": 2186960,
+        "to": 2196960
+      },
+      "text": " And then the idea is for me, if it finds something, I want to have it repeated to me every day."
+    },
+    {
+      "timestamps": {
+        "from": "00:36:36,960",
+        "to": "00:36:45,960"
+      },
+      "offsets": {
+        "from": 2196960,
+        "to": 2205960
+      },
+      "text": " So create a routine, find me one or two new optional customers or leads every day."
+    },
+    {
+      "timestamps": {
+        "from": "00:36:45,960",
+        "to": "00:36:53,960"
+      },
+      "offsets": {
+        "from": 2205960,
+        "to": 2213960
+      },
+      "text": " I gave it a prompt and here I think it's a little bit slow. We can see here in the window on the side what it's going to do."
+    },
+    {
+      "timestamps": {
+        "from": "00:36:53,960",
+        "to": "00:37:04,960"
+      },
+      "offsets": {
+        "from": 2213960,
+        "to": 2224960
+      },
+      "text": " See, like for here, I would love to see the steps it takes to like the animation is nice, but maybe we need like the steps or maybe we get used to the steps."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:04,960",
+        "to": "00:37:08,960"
+      },
+      "offsets": {
+        "from": 2224960,
+        "to": 2228960
+      },
+      "text": " Right. Like include our codecs to see what's going on."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:08,960",
+        "to": "00:37:11,960"
+      },
+      "offsets": {
+        "from": 2228960,
+        "to": 2231960
+      },
+      "text": " Yeah, because right now it's not doing anything."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:11,960",
+        "to": "00:37:18,960"
+      },
+      "offsets": {
+        "from": 2231960,
+        "to": 2238960
+      },
+      "text": " But you don't know that no starter list on this. So I'm taking one real local shop instead of hunting for five."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:18,960",
+        "to": "00:37:26,960"
+      },
+      "offsets": {
+        "from": 2238960,
+        "to": 2246960
+      },
+      "text": " But what are you doing? Well, I wanted it to go to Google and to actually search."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:26,960",
+        "to": "00:37:33,960"
+      },
+      "offsets": {
+        "from": 2246960,
+        "to": 2253960
+      },
+      "text": " Oh, I think we need to have some patience. So read this on camera."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:33,960",
+        "to": "00:37:40,960"
+      },
+      "offsets": {
+        "from": 2253960,
+        "to": 2260960
+      },
+      "text": " Here in the top right, you see it. Yeah. So it actually told me right now what I need to read to you."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:40,960",
+        "to": "00:37:58,960"
+      },
+      "offsets": {
+        "from": 2260960,
+        "to": 2278960
+      },
+      "text": " So you are a meat puppet bro. Yeah, I don't have a choice. But I think it actually found something already because this is the exact text that I gave it because I did a preparation and maybe I can show you as well."
+    },
+    {
+      "timestamps": {
+        "from": "00:37:58,960",
+        "to": "00:38:12,960"
+      },
+      "offsets": {
+        "from": 2278960,
+        "to": 2292960
+      },
+      "text": " This is my preparation. And I had it right down here. The prompts. I had a preparation on the niche. I already did it, but I did it with Grok. And now it looks like it found my."
+    },
+    {
+      "timestamps": {
+        "from": "00:38:12,960",
+        "to": "00:38:28,960"
+      },
+      "offsets": {
+        "from": 2292960,
+        "to": 2308960
+      },
+      "text": " Or it was in my prompt, but sites on my screen. It was an insulacy technique and felt over. So it's insulation, technical people, one person shop inside logo, two links. So that's good. Okay. And then it says I found one."
+    },
+    {
+      "timestamps": {
+        "from": "00:38:28,960",
+        "to": "00:38:35,960"
+      },
+      "offsets": {
+        "from": 2308960,
+        "to": 2315960
+      },
+      "text": " And you can see here in the VM, it actually started Google and it went searching for something."
+    },
+    {
+      "timestamps": {
+        "from": "00:38:35,960",
+        "to": "00:38:49,960"
+      },
+      "offsets": {
+        "from": 2315960,
+        "to": 2329960
+      },
+      "text": " And I can use it as well. But yeah, this is exactly the customer that I want. They have a website and we can just try to improve it."
+    },
+    {
+      "timestamps": {
+        "from": "00:38:49,960",
+        "to": "00:39:08,960"
+      },
+      "offsets": {
+        "from": 2329960,
+        "to": 2348960
+      },
+      "text": " So what I want to do next is I wanted to create a prompt for me that I can put in Google build or that I can sorry in Grok build or does it do it in itself and then create a website."
+    },
+    {
+      "timestamps": {
+        "from": "00:39:08,960",
+        "to": "00:39:20,960"
+      },
+      "offsets": {
+        "from": 2348960,
+        "to": 2360960
+      },
+      "text": " I mean, I think on a corner shop, but did I open the repo?"
+    },
+    {
+      "timestamps": {
+        "from": "00:39:20,960",
+        "to": "00:39:32,960"
+      },
+      "offsets": {
+        "from": 2360960,
+        "to": 2372960
+      },
+      "text": " Which one? Like the one I've built like for the exact same niche stuff. I don't, I don't remember if it's open source or not because you can tell it to fork it."
+    },
+    {
+      "timestamps": {
+        "from": "00:39:32,960",
+        "to": "00:39:35,960"
+      },
+      "offsets": {
+        "from": 2372960,
+        "to": 2375960
+      },
+      "text": " Oh yeah, we can do that as well."
+    },
+    {
+      "timestamps": {
+        "from": "00:39:35,960",
+        "to": "00:39:41,960"
+      },
+      "offsets": {
+        "from": 2375960,
+        "to": 2381960
+      },
+      "text": " I can do it now, but then I don't know where we're going."
+    },
+    {
+      "timestamps": {
+        "from": "00:39:41,960",
+        "to": "00:39:48,960"
+      },
+      "offsets": {
+        "from": 2381960,
+        "to": 2388960
+      },
+      "text": " Yeah, it's public. So build me a prompt that I can go into."
+    },
+    {
+      "timestamps": {
+        "from": "00:39:48,960",
+        "to": "00:40:02,960"
+      },
+      "offsets": {
+        "from": 2388960,
+        "to": 2402960
+      },
+      "text": " Yeah, so build me a prompt that I can put into Grok build to create a new website for this one. Yeah, yeah, whatever that will do. Yeah, so it will create a prompt, and everybody knows that with prompt I can just put it in and generates a website."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:02,960",
+        "to": "00:40:05,960"
+      },
+      "offsets": {
+        "from": 2402960,
+        "to": 2405960
+      },
+      "text": " I did one for another one, but here it is."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:05,960",
+        "to": "00:40:12,960"
+      },
+      "offsets": {
+        "from": 2405960,
+        "to": 2412960
+      },
+      "text": " And then like you connect recent and then you have the whole pipe to send emails and drop down. Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:12,960",
+        "to": "00:40:15,960"
+      },
+      "offsets": {
+        "from": 2412960,
+        "to": 2415960
+      },
+      "text": " Can you send emails as well."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:15,960",
+        "to": "00:40:23,960"
+      },
+      "offsets": {
+        "from": 2415960,
+        "to": 2423960
+      },
+      "text": " With proper proposal to the lead that you just found."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:23,960",
+        "to": "00:40:26,960"
+      },
+      "offsets": {
+        "from": 2423960,
+        "to": 2426960
+      },
+      "text": " I'm going a bit fast through it right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:26,960",
+        "to": "00:40:42,960"
+      },
+      "offsets": {
+        "from": 2426960,
+        "to": 2442960
+      },
+      "text": " But now it should ask me if it can log into my email. So and it gives me the option for Outlook Gmail. And yeah, whatever I want. So it says I can drive now, we're not sending the email."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:42,960",
+        "to": "00:40:51,960"
+      },
+      "offsets": {
+        "from": 2442960,
+        "to": 2451960
+      },
+      "text": " But this is actually smart because when I did like examples before it would just ask me to log in, and to just send it."
+    },
+    {
+      "timestamps": {
+        "from": "00:40:51,960",
+        "to": "00:41:02,960"
+      },
+      "offsets": {
+        "from": 2451960,
+        "to": 2462960
+      },
+      "text": " That's too long. But yeah, you need to show that that's that's a bad cold email. Yeah, well, you need to optimize it."
+    },
+    {
+      "timestamps": {
+        "from": "00:41:02,960",
+        "to": "00:41:21,960"
+      },
+      "offsets": {
+        "from": 2462960,
+        "to": 2481960
+      },
+      "text": " If I want you to do the emails and first replies. Oh, can you do it. Let's see what it answered."
+    },
+    {
+      "timestamps": {
+        "from": "00:41:21,960",
+        "to": "00:41:26,960"
+      },
+      "offsets": {
+        "from": 2481960,
+        "to": 2486960
+      },
+      "text": " See I need your Gmail connected for that."
+    },
+    {
+      "timestamps": {
+        "from": "00:41:26,960",
+        "to": "00:41:36,960"
+      },
+      "offsets": {
+        "from": 2486960,
+        "to": 2496960
+      },
+      "text": " Yes. And I can say I have IMAP. It should ask for a login."
+    },
+    {
+      "timestamps": {
+        "from": "00:41:36,960",
+        "to": "00:41:50,960"
+      },
+      "offsets": {
+        "from": 2496960,
+        "to": 2510960
+      },
+      "text": " Yeah. And in this case, what it does, it asks you to go to the browser in this VM, open a website login into the mailbox online, and it will just use it like you use webmail in a normal way."
+    },
+    {
+      "timestamps": {
+        "from": "00:41:50,960",
+        "to": "00:42:06,960"
+      },
+      "offsets": {
+        "from": 2510960,
+        "to": 2526960
+      },
+      "text": " Yeah. But in five minutes, you find like in two minutes in one prompt, you find a lead that you just need to find 1000. And then you have some passive revenue, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:42:06,960",
+        "to": "00:42:17,960"
+      },
+      "offsets": {
+        "from": 2526960,
+        "to": 2537960
+      },
+      "text": " Well, you know that not every customer of every lead that you mail now is going to be a customer, you need to just keep on going. And eventually, if you mail 100 companies, you will get one or two customers."
+    },
+    {
+      "timestamps": {
+        "from": "00:42:17,960",
+        "to": "00:42:31,960"
+      },
+      "offsets": {
+        "from": 2537960,
+        "to": 2551960
+      },
+      "text": " Exactly. So what you want to do next is can you create a routine from this and schedule it daily. So me doing this after five or 10 emails, I am out, I need to create a website, so it will take just too much time."
+    },
+    {
+      "timestamps": {
+        "from": "00:42:31,960",
+        "to": "00:42:45,960"
+      },
+      "offsets": {
+        "from": 2551960,
+        "to": 2565960
+      },
+      "text": " And if you only get one or two customers, it's not enough income. But if you can have the bot do this automatically, then it will just keep on creating leads and then customers and you can ask for references."
+    },
+    {
+      "timestamps": {
+        "from": "00:42:45,960",
+        "to": "00:42:49,960"
+      },
+      "offsets": {
+        "from": 2565960,
+        "to": 2569960
+      },
+      "text": " And it is like a real business that you're building."
+    },
+    {
+      "timestamps": {
+        "from": "00:42:49,960",
+        "to": "00:43:02,960"
+      },
+      "offsets": {
+        "from": 2569960,
+        "to": 2582960
+      },
+      "text": " I mean, and you can do exactly that for every app on earth. And you can even like, do lead gen for apps that have a referral or affiliate discount."
+    },
+    {
+      "timestamps": {
+        "from": "00:43:02,960",
+        "to": "00:43:18,960"
+      },
+      "offsets": {
+        "from": 2582960,
+        "to": 2598960
+      },
+      "text": " Yeah. And you see right now, I asked it to create a routine. So it's setting a weekday morning run from this playbook, one lead, one draft, first reply draft says mail on, nothing gets sent. Of course, you need to improve this, and you need to do it properly."
+    },
+    {
+      "timestamps": {
+        "from": "00:43:18,960",
+        "to": "00:43:32,960"
+      },
+      "offsets": {
+        "from": 2598960,
+        "to": 2612960
+      },
+      "text": " But you see that it's scheduled it and it reminds me IMAP still isn't hooked. And now I'm going a bit fast, but I should be able to see the routine somewhere."
+    },
+    {
+      "timestamps": {
+        "from": "00:43:32,960",
+        "to": "00:43:49,960"
+      },
+      "offsets": {
+        "from": 2612960,
+        "to": 2629960
+      },
+      "text": " Yeah, it's here. It's here. Like, no, no, go back. Close the arrow. It's here. Routine is there. Here it is. See, and now this is the routine. You can also deactivate it. You can test run it. And it created the description, what it needs to do."
+    },
+    {
+      "timestamps": {
+        "from": "00:43:49,960",
+        "to": "00:44:06,960"
+      },
+      "offsets": {
+        "from": 2629960,
+        "to": 2646960
+      },
+      "text": " Which is basically your prompt and like, that's gonna yeah, that's my entire example. And it just does it on weekdays at 856 am. And you will also have a full history. So basically, this is the bot, the grog bot."
+    },
+    {
+      "timestamps": {
+        "from": "00:44:06,960",
+        "to": "00:44:19,960"
+      },
+      "offsets": {
+        "from": 2646960,
+        "to": 2659960
+      },
+      "text": " We just gave one example. But whatever you can imagine, why you need a repair or a task that's going to keep on repeating, even if it's boring as hell, just have the bot do it."
+    },
+    {
+      "timestamps": {
+        "from": "00:44:19,960",
+        "to": "00:44:24,960"
+      },
+      "offsets": {
+        "from": 2659960,
+        "to": 2664960
+      },
+      "text": " You don't care because like that, that's gonna generate like 50 bucks more a month, right? So fuck it."
+    },
+    {
+      "timestamps": {
+        "from": "00:44:24,960",
+        "to": "00:44:38,960"
+      },
+      "offsets": {
+        "from": 2664960,
+        "to": 2678960
+      },
+      "text": " Yeah. And if you don't want to have it in your email, create a new email address or buyer domain or whatever for like $5, set it up, give it a small IMAP account and let it go."
+    },
+    {
+      "timestamps": {
+        "from": "00:44:38,960",
+        "to": "00:44:41,960"
+      },
+      "offsets": {
+        "from": 2678960,
+        "to": 2681960
+      },
+      "text": " I think that's a nice demo main."
+    },
+    {
+      "timestamps": {
+        "from": "00:44:41,960",
+        "to": "00:44:43,960"
+      },
+      "offsets": {
+        "from": 2681960,
+        "to": 2683960
+      },
+      "text": " Yeah, it was a bit fast, but..."
+    },
+    {
+      "timestamps": {
+        "from": "00:44:43,960",
+        "to": "00:44:56,960"
+      },
+      "offsets": {
+        "from": 2683960,
+        "to": 2696960
+      },
+      "text": " No, that's fine. That's fine. Like, there is a proof, right? Like there is some delivery anyway, so we're good. Yeah, and I think we can wrap it up on that, right? Like, basically, last week was a good week."
+    },
+    {
+      "timestamps": {
+        "from": "00:44:56,960",
+        "to": "00:45:09,960"
+      },
+      "offsets": {
+        "from": 2696960,
+        "to": 2709960
+      },
+      "text": " We had a fantastic model, then we have a nice tool to play with. And to start over like 10,000 new business or at least one where you can make websites to a company that needs a better one."
+    },
+    {
+      "timestamps": {
+        "from": "00:45:09,960",
+        "to": "00:45:11,960"
+      },
+      "offsets": {
+        "from": 2709960,
+        "to": 2711960
+      },
+      "text": " Yeah, start a selling machine."
+    },
+    {
+      "timestamps": {
+        "from": "00:45:11,960",
+        "to": "00:45:16,960"
+      },
+      "offsets": {
+        "from": 2711960,
+        "to": 2716960
+      },
+      "text": " Exactly. Yeah, finally."
+    },
+    {
+      "timestamps": {
+        "from": "00:45:16,960",
+        "to": "00:45:33,960"
+      },
+      "offsets": {
+        "from": 2716960,
+        "to": 2733960
+      },
+      "text": " Yeah, thank you, Mitchell. And thank you for your time and your demo. Like, that was great. And we will see you in the recap next week. Same place, same time and like, subscribe, follow us on LinkedIn, Twitter, we're gonna be everywhere."
+    },
+    {
+      "timestamps": {
+        "from": "00:45:33,960",
+        "to": "00:45:34,960"
+      },
+      "offsets": {
+        "from": 2733960,
+        "to": 2734960
+      },
+      "text": " Yes."
+    },
+    {
+      "timestamps": {
+        "from": "00:45:34,960",
+        "to": "00:45:35,960"
+      },
+      "offsets": {
+        "from": 2734960,
+        "to": 2735960
+      },
+      "text": " Bye."
+    },
+    {
+      "timestamps": {
+        "from": "00:45:35,960",
+        "to": "00:45:36,960"
+      },
+      "offsets": {
+        "from": 2735960,
+        "to": 2736960
+      },
+      "text": " Bye."
+    },
+    {
+      "timestamps": {
+        "from": "00:45:36,960",
+        "to": "00:45:37,960"
+      },
+      "offsets": {
+        "from": 2736960,
+        "to": 2737960
+      },
+      "text": " Bye."
+    }
+  ]
+}

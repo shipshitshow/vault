@@ -1,0 +1,220 @@
+Last month's GitHub didn't work at all.
+The SLA is decreasing below 85% which is
+crazy because the advertising like 99%.
+So it's what are you doing? What are you
+doing? Even Even we have better SLA and
+we're just one guys. Yeah, GitHub is not
+working. SLA is garbage and the old
+developers are not really working on it
+anymore. And at the same time, OpenAI is
+releasing cool features, the slashgo
+commands that can run a loop with codeex
+5.5. So, can we rebuild GitHub and
+rewrite every big software AI with
+codeex loops? That's what we are going
+to talk about right now.
+&gt;&gt; But did you test the SLGO function?
+&gt;&gt; Yes. So, I did I I did like two
+scaffolding for different project and
+even on genfit and ship code. I tried it
+to prepare the build for production and
+uh yeah it run both for 1 hour. Did was
+I happy with the output? I don't even
+remember.
+&gt;&gt; Then it wasn't too good.
+&gt;&gt; Yeah, it was just it run for 1 hour but
+for another project like from scratch I
+run this goal and then it run like a
+codeex XI on it. Yeah, I was correct.
+5.5 XI with the goal and it run again
+for another hour and it makes some good
+progress on the scaffolding that was
+cleaner than before because every step
+the difference is like every step it
+post it checked and then it continue to
+the nest. So there is some yeah loop of
+testing inside this comment that it
+makes it like valuable.
+&gt;&gt; How does it decide when to stop
+&gt;&gt; when it has the proof of the goal?
+&gt;&gt; Okay. So instead of planning you are
+just writing a full planning for your
+goal.
+&gt;&gt; Yeah. So for example for you like
+because you have all of the plan and you
+have like four different planes revised
+like five times you will also have the
+acceptance criteria of the goal inside
+the specs and then you run that and if
+it's reach the acceptance criteria then
+you have it.
+&gt;&gt; Yeah because I see a lot of people
+saying hey like like we said before
+build me a SAS I want to sell a GitHub
+competitor at SLGO do it. I don't think
+that's going to work. You need to still
+do a proper planning with all the steps.
+&gt;&gt; Yeah. I mean, and yeah, you still like
+it can't work like that anyway.
+&gt;&gt; It's not like magical.
+&gt;&gt; Yeah, exactly. Because like Okay. Yeah.
+It's like makes no mistake. You have a
+IQ of 1,000. It's too vague. Were you
+impacted by the pull request issues?
+&gt;&gt; No, I had it like a few times that in
+the evening I wanted to push and it
+said, "Yeah, it's not possible." Well, I
+just waited until the next morning and I
+pushed my code. That's it.
+&gt;&gt; But imagine like working with like a
+team of like thousand of people and you
+can't push your update, your pull
+request gets squashed and what?
+&gt;&gt; Yeah. Well, that's another one. If you
+have so many people in your company
+depending on the software from an
+external company, then you need a
+backup. Then you need like an Atlassian
+server, a git bucket, I don't know, just
+have a secondary setup that just can
+keep on going. But you don't want like
+do you really want a secondary g
+repository stuff like
+&gt;&gt; are you really going to trust GitHub an
+external company with all the code and
+your entire company?
+&gt;&gt; I mean yes I don't I never work for
+corporate [&nbsp;__&nbsp;] So
+&gt;&gt; yeah it's like a bottleneck.
+&gt;&gt; Dan, hey what's the plan? We're going to
+talk about the recent GitHub outage and
+what it means for free AI and if we can
+and if we should even rewrite them
+anyway because there is a lot of big
+companies like that that have legacy
+code like for example all of the bank
+system like you have a cobalt
+architecture are you going to rewrite it
+thanks to AI
+&gt;&gt; well first you need to find a deaf who
+writes it
+&gt;&gt; but I mean you can because they're
+probably dead
+&gt;&gt; yeah so you can't fully trust an AI how
+are you going to debug it test it check
+it because for a bank that's like a big
+impact if you have a bug.
+&gt;&gt; Yes. But okay. So Okay. Okay. So how
+would you rewrite a bank system? What
+would you do? Like cobalt is a language
+from the 70s that is probably like
+everyone. So ether like you have you can
+hire either like 10 guys in the world
+writing cobalt still today.
+&gt;&gt; Yeah.
+&gt;&gt; Like $2 billion a year to rewrite to
+software. But then like you you you're
+gonna pay those guys. It's gonna be so
+expensive that it's not even worth to to
+do the rewrite anyway because it works.
+You just need to maintain it, right?
+&gt;&gt; Yeah. Yeah. And if it works, you don't
+touch it.
+&gt;&gt; Yeah. Exactly. Yeah.
+&gt;&gt; Eventually, you need one.
+&gt;&gt; Yeah.
+&gt;&gt; And you want to keep updating because
+what if AI finds a bug or or a leak in
+Cobalt.
+&gt;&gt; Exactly. Which is like what what
+happened with me when they found issue
+with OpenBSD. Right. So even like it's
+almost a requirement to rewrite you 10
+years old even without talking about
+like bank system right but you have
+Salesforce 80 billion line of codes are
+they going to rewrite the software with
+AI
+&gt;&gt; well I don't see anyone else doing it
+because how are you going to write
+rewrite that much code
+&gt;&gt; an AI agent just destroy our production
+data it come writing yesterday afternoon
+an AI coding agent running entropy
+flagship opus 4.6 deleted a production
+database and all volume level backup in
+a single API call to a railway or
+infrastructure provider. That's a vibe
+coding tech stack.
+&gt;&gt; Yeah. Well, first question, why are you
+coding with an AI agent and a production
+server?
+&gt;&gt; Because it's way simpler, bro.
+&gt;&gt; No, I I gave like SSH access to my
+production server to close to like
+restart a container. Yeah, I'm not
+running a like I think he's making like
+a couple of million in revenue. Maybe I
+will stop doing that when I generate 1
+million from genfit for sure.
+&gt;&gt; Maybe we can give a tip to the viewers
+who hire devs. If your dev says, I have
+this awesome function. I can SSH into
+your server and use Opus to real time
+change stuff so you can see it
+instantly. Don't trust him.
+&gt;&gt; Yeah,
+&gt;&gt; you don't want to do that.
+&gt;&gt; Yeah. Or prompt confirm before doing
+anything or something like that. No.
+Does that work for you?
+&gt;&gt; No.
+&gt;&gt; Like if if you ask to confirm before an
+action, it doesn't like ask for
+confirmation.
+&gt;&gt; Sometimes not always.
+&gt;&gt; Okay.
+&gt;&gt; It's not possible to do it in 2 minutes
+and just copy paste everything. You need
+to think about what you're doing.
+&gt;&gt; Oh, no. Exactly. And it's not working
+like it's still buggy. You So you need
+to py yourself. It will change something
+and put it like right instead of and you
+ask for left. Like you can't trust code.
+Close is the coworker you have that you
+have to work with. So GitHub still have
+some hope stay whatever
+&gt;&gt; they need to scale up and need to
+perform better.
+&gt;&gt; Yeah, that's sad. Okay, so should we
+conclude?
+&gt;&gt; Yes, tell us what are you going to do?
+&gt;&gt; Mostly are we are we are we going to
+rewrite GitHub with Codex? Maybe not.
+&gt;&gt; Maybe not.
+&gt;&gt; And that's it. Bye.
+&gt;&gt; Thank you for watching.
+&gt;&gt; Are we going to see all of the big
+companies rewrite their software, their
+tech stack to at the agent age? I don't
+know. Right.
+&gt;&gt; Yeah. And do they even need to rewrite
+it? I I think they will just keep on
+building new functionality and if you
+just keep on scaling that part, it will
+just replace it instead of rebuilding
+it.
+&gt;&gt; Yeah. Okay. And improve it. So yeah,
+don't don't if it's not broken, don't
+fix it. And don't replace by AI code.
+&gt;&gt; Yeah. And just keep on building for the
+next part.
+&gt;&gt; Let's go. Okay. Thank you everyone for
+watching this video. Thank you for
+watching the live stream. And yeah,
+we'll see you next week. Subscribe. I
+watch the reals. Thank you for your
+time. I love the chat the chithat even
+if like I be completely brain shot.
+&gt;&gt; Thank you and enjoy your week.

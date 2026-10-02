@@ -1,0 +1,14 @@
+{
+  "youtube_id": "tgfn-ojFTqo",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/tgfn-ojFTqo",
+  "source_sha256": "e895af970e9537cf09da9a88de6323ebf3d45d073b48262145890a0d68e616e4",
+  "audio_sha256": "230cc499af0ac3641da098e35b884c4a26e0e9b47729cc3c27cdd0dc50ce8b4d",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

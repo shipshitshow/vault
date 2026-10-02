@@ -1,0 +1,20 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.120
+ Official release workflow later pulled from the cache, backed the malicious file into
+
+00:00:04.120 --> 00:00:08.480
+ the build, and signed and published 24 malicious package versions.
+
+00:00:08.480 --> 00:00:11.680
+ Yeah, the attack leveraged GitHub cache poisoning.
+
+00:00:11.680 --> 00:00:15.440
+ For me, that started, the chain was forged under the identity code.
+
+00:00:15.440 --> 00:00:18.760
+ In personating anthropic code, the attacker used known durabilities.
+
+00:00:18.760 --> 00:00:20.560
+ Wait, it was known?
+

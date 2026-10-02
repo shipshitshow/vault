@@ -1,0 +1,142 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,720"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2720
+      },
+      "text": " How do you not getting excited by that?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,720",
+        "to": "00:00:07,160"
+      },
+      "offsets": {
+        "from": 2720,
+        "to": 7160
+      },
+      "text": " Like Elon Musk is going to put like data center in space."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,160",
+        "to": "00:00:13,200"
+      },
+      "offsets": {
+        "from": 7160,
+        "to": 13200
+      },
+      "text": " So we can have space travel and like sending robots to Mars because he can."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,200",
+        "to": "00:00:14,200"
+      },
+      "offsets": {
+        "from": 13200,
+        "to": 14200
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,200",
+        "to": "00:00:18,540"
+      },
+      "offsets": {
+        "from": 14200,
+        "to": 18540
+      },
+      "text": " And like he said, oh yeah, Nvidia can give us the chips that we need."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,540",
+        "to": "00:00:21,480"
+      },
+      "offsets": {
+        "from": 18540,
+        "to": 21480
+      },
+      "text": " So we're going to make them and we're going to make them in space."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,480",
+        "to": "00:00:28,040"
+      },
+      "offsets": {
+        "from": 21480,
+        "to": 28040
+      },
+      "text": " He said that he is going to generate like twice the per terabyte of energy than the"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:28,040",
+        "to": "00:00:29,040"
+      },
+      "offsets": {
+        "from": 28040,
+        "to": 29040
+      },
+      "text": " US."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,040",
+        "to": "00:00:33,240"
+      },
+      "offsets": {
+        "from": 29040,
+        "to": 33240
+      },
+      "text": " So every, normally a lot of people say it and you don't believe it, but it looks like"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:33,240",
+        "to": "00:00:34,640"
+      },
+      "offsets": {
+        "from": 33240,
+        "to": 34640
+      },
+      "text": " he does everything he says."
+    }
+  ]
+}

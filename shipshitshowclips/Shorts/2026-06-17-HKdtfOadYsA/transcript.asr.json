@@ -1,0 +1,153 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:06,640"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 6640
+      },
+      "text": " I had it check every code base I have for every project and write down an MD"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,640",
+        "to": "00:00:12,000"
+      },
+      "offsets": {
+        "from": 6640,
+        "to": 12000
+      },
+      "text": " file with all the books, all the issues, all the security issues, everything it found."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,060",
+        "to": "00:00:14,640"
+      },
+      "offsets": {
+        "from": 12060,
+        "to": 14640
+      },
+      "text": " I didn't have it completely fix everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,760",
+        "to": "00:00:19,180"
+      },
+      "offsets": {
+        "from": 14760,
+        "to": 19180
+      },
+      "text": " So I upgraded to the max 20 X and I just had every project that"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:19,180",
+        "to": "00:00:21,340"
+      },
+      "offsets": {
+        "from": 19180,
+        "to": 21340
+      },
+      "text": " a customer base me to maintain."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,380",
+        "to": "00:00:23,260"
+      },
+      "offsets": {
+        "from": 21380,
+        "to": 23260
+      },
+      "text": " I had it fully analyze everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,280",
+        "to": "00:00:28,800"
+      },
+      "offsets": {
+        "from": 23280,
+        "to": 28800
+      },
+      "text": " So right now I have a full backlog of all the projects with like some projects"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:28,800",
+        "to": "00:00:33,880"
+      },
+      "offsets": {
+        "from": 28800,
+        "to": 33880
+      },
+      "text": " have having 20 MD files in full set up doing everything from a pen"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:33,880",
+        "to": "00:00:36,360"
+      },
+      "offsets": {
+        "from": 33880,
+        "to": 36360
+      },
+      "text": " test to do a security to small."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:36,520",
+        "to": "00:00:40,080"
+      },
+      "offsets": {
+        "from": 36520,
+        "to": 40080
+      },
+      "text": " I don't know what, everything I asked and now I can just use"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:40,080",
+        "to": "00:00:42,840"
+      },
+      "offsets": {
+        "from": 40080,
+        "to": 42840
+      },
+      "text": " codex and opus to fix everything."
+    }
+  ]
+}

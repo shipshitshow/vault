@@ -1,0 +1,18 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+supply chain attack, hiding suspected CI credentials, stealing my let's go
+what the f*ck
+plants a watcher on your machine that nukes your home directory
+the second you revoke your github token
+jesus
+this is the first documented npm worm in history
+that shipped with a valid sign certificate
+jesus f*cking christ
+and hide and commit in git is unlinked
+orphan or unreferenced snapshot of code
+what the heck
+slash goal fix this for me and update to the latest version
+going to bed coming back in the morning
+and seeing the hello welcome screen on your on your workplace

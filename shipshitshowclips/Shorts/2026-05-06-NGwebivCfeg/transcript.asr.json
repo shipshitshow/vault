@@ -1,0 +1,76 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,600"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3600
+      },
+      "text": " Why are you coding with an AI agent and a production server?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,600",
+        "to": "00:00:05,440"
+      },
+      "offsets": {
+        "from": 3600,
+        "to": 5440
+      },
+      "text": " Because it's way simpler, bro."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,440",
+        "to": "00:00:11,280"
+      },
+      "offsets": {
+        "from": 5440,
+        "to": 11280
+      },
+      "text": " I gave like SSH access to my production server to close to restart the container."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,280",
+        "to": "00:00:15,040"
+      },
+      "offsets": {
+        "from": 11280,
+        "to": 15040
+      },
+      "text": " Maybe I will stop doing that when I generate 1 million from GenFit for sure."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+I tried it yesterday.
+I first said, okay, please double check my login and make sure it's not hackable.
+And it, it said in yellow letters in my terminal window, I switched
+to Opus because of security.
+So it looks like when you make the prompt too much on trying to find
+options to hack that it switches to Opus and it doesn't give you the
+full potential of Fable, but afterwards I said, Hey, this is my code.
+Please do a security check.
+And it just proceeded and did everything.

@@ -1,0 +1,98 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,380"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4380
+      },
+      "text": " We already talked about, like a couple of weeks ago, like about those OpenClo"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,380",
+        "to": "00:00:10,920"
+      },
+      "offsets": {
+        "from": 4380,
+        "to": 10920
+      },
+      "text": " and RMS orchestrator, where you plan with the paid model and then you execute with"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,920",
+        "to": "00:00:15,600"
+      },
+      "offsets": {
+        "from": 10920,
+        "to": 15600
+      },
+      "text": " like open source model on your local machine, so you don't spend that credit."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,780",
+        "to": "00:00:17,380"
+      },
+      "offsets": {
+        "from": 15780,
+        "to": 17380
+      },
+      "text": " And you only pay for plans."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,440",
+        "to": "00:00:20,880"
+      },
+      "offsets": {
+        "from": 17440,
+        "to": 20880
+      },
+      "text": " And even you want to do it with a competitor of a competitor"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,880",
+        "to": "00:00:23,000"
+      },
+      "offsets": {
+        "from": 20880,
+        "to": 23000
+      },
+      "text": " model right now, it's really expensive."
+    }
+  ]
+}

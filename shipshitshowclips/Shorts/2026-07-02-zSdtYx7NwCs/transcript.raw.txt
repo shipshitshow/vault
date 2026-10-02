@@ -1,0 +1,4 @@
+I've noticed that if you put explanation in your files above your function, it
+reads it first, and if it understands that it doesn't need to function, it
+doesn't read it, just skips it.
+That saves some time and tokens.

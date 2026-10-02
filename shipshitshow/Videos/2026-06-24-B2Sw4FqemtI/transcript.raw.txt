@@ -1,0 +1,244 @@
+Are you maxing out your subscription?
+No, not yet? So, start loop engineering
+and start cloud routines, codex,
+automations, and implement some task
+autonomously. And if you want to know
+how to set up your loops, watch this
+video because we have some tools for
+you. And watch, subscribe. Thank you.
+&gt;&gt; We show you how to build a loop, to
+create your loop, and keep checking a
+loop.
+&gt;&gt; Matthew Berman, he's a YouTuber, like AI
+YouTuber, and he shared his loop library
+to like set up automation/routines.
+And yeah, cloud and codex. The lazy
+loops I I can discover. Discover will
+look through your code base and chat
+thread to find potential loops. It will
+design for you. It's kind of like a
+skill creator stuff, but on the loops.
+So, if you drop that into your code
+base, I'm pretty sure there is some
+stuff that you can implement as a loop.
+&gt;&gt; Okay, that's cool.
+&gt;&gt; Yeah, and his library while you pop a
+food AI and can move quickly, but an
+open open-ended instruction like keep
+improving this
+&gt;&gt; is too much room for guessing. A loop
+gives the work a clear finish line and a
+consistent way to judge progress. That
+makes the work easier to trust and
+easier to repeat. Yeah, again, like you
+need a self a safe end state.
+&gt;&gt; Yeah, you need boundaries.
+&gt;&gt; So, what's the loop library skill does?
+Give you your agent direct access to the
+to the IDs in the library. Discover
+repeated work in the code base, coding
+thread, and all both and turn the
+strongest qualified candidates into a
+loop. Find the push loop that fits what
+you are doing to get done, audit an
+existing loop for weak checks, adapt a
+useful loops, design a new a new loop
+through a short and plain language
+conversation, turn the result into a
+compact prompt. Okay, install. I want
+the list of loops. Discover, find loop
+doctor. Okay, audit a loop you passed.
+Okay, adapt, tailor useful to your real
+tools. I thought it was a list of loops
+he was using, which is what I've done,
+but uh not it's something Okay, it's
+smarter than uh what I thought because
+that dynamic, you drop that and then you
+get the loops that you need.
+&gt;&gt; Yeah, so it actually analyzes your code.
+&gt;&gt; Yes. That's cool.
+&gt;&gt; Okay, there's something I don't
+understand uh because that's the loops.
+Yeah, copy loops. The full product
+evaluation loop, the 5-minute repository
+maintainer, the refund follow-up loop,
+get my refund for Oh, okay. Get my
+refund for company and charging info,
+start the claim. No, okay. LaTeX
+document bro, LaTeX, but never use it.
+The one post week, one post a week loop,
+find a repeatable weekly post format
+from approve account through a 6-week
+experiment. Oh, people Okay, okay, okay.
+So, he used a tool to discover the loops
+and then you have a library for people
+to post their own loops. Copy the loop,
+build sanitized production scale local
+data under production like settings,
+inventory, every user-facing feature,
+role button, root button input model
+state, each find documented acceptance
+criteria, and finish risk base each case
+for each test as a real user logging
+every bug with reproduction evidence.
+Inventory product product surface meets
+its documented acceptance criteria.
+Okay, that's cool. I mean, okay, that
+makes sense if you have a good user
+story board.
+&gt;&gt; The question is, I want to run it
+because if you don't know and it keeps
+on looping and it keeps on making
+mistakes, it can be either very
+expensive or just mess up everything.
+And that's like one of the experiences I
+had with Loop I said, just keep on
+improving. It had a bug, it looped it,
+it had to change something else to fix
+the bug, but that created another bug,
+and eventually it just kept on looping
+on fixing bugs.
+&gt;&gt; Yeah.
+&gt;&gt; So, you either need good boundaries like
+we just said or a very good preparation,
+but people who think that the loops are
+just something that you add and it
+creates the perfect system, I don't
+believe that's true.
+&gt;&gt; Since the age of AI development, you
+need to be really good at product
+management. Like you need to really have
+good user story and be clear with the
+architecture that you have in mind and
+like to know where you going because
+yes, like the AI can code but the AI
+will code crappy if you don't have
+a GitHub issues and these and whatever,
+right?
+&gt;&gt; Yeah.
+&gt;&gt; It will just do everything to accomplish
+a task that you gave it without
+additional subtasks.
+&gt;&gt; Yeah. No, exactly.
+&gt;&gt; And again, even more if you don't have a
+deterministic end state of the loop.
+&gt;&gt; Because I watched the video like okay,
+no, I I watched the video and then I
+drop it in the in the transcript to to
+code but for Matthew, he talked about
+the loop stuff and he said okay, so I
+have a loops that are deterministic but
+also AI based where it tell the agents
+that until do XYZ until it's acceptable.
+&gt;&gt; Yeah, but that's
+&gt;&gt; What does it mean?
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, I I would rather have a loop that
+okay, reach 80% coverage run for 2
+hours.
+&gt;&gt; Yeah. Well, I think that's the same
+thing like telling your kid you can
+watch TV when you're done cleaning the
+house and the cleaning needs to be
+acceptable.
+&gt;&gt; Yeah.
+&gt;&gt; So, they will just vacuum like the whole
+that's it and go watch TV.
+&gt;&gt; Yeah.
+&gt;&gt; I mean yeah, and so the accept the
+acceptance criteria will be until I I
+say so.
+&gt;&gt; Yeah.
+&gt;&gt; You can set up the loop and it can do a
+lot of work but the preparations need to
+be properly done. You need to know
+exactly what you want, how you want it,
+how secure does it need to be, what
+happens if A, what happens if B and you
+can still do that discussing it with the
+AI but
+&gt;&gt; Mhm.
+&gt;&gt; you cannot just trust that the loop
+makes all the right decisions.
+&gt;&gt; That's my Vincent ship sits loops report
+where yeah, clean template and prompt
+from Codex automation code routines and
+recurring agent loops. Copy paste inside
+your prompt. Yeah, so you you drop that
+to your agent and it will set up the
+loops for you. The list of loops that I
+have. Code hygiene, content factory
+maintenance, which is improve the
+project content docs prompt and skill
+pipeline with one small high-leverage
+maintenance pass. So yeah, also reduce
+the size of the scope of the loop. I
+want the loop to touch like five 10
+files max and not do a full crazy stuff.
+So that Yeah, feature implementation.
+That's what I was talking about.
+Implement exactly one ready ready issue
+from the canonical project board. And so
+everything is on GitHub. You go you
+check the board. You check the pull
+request. Boom, walk tree hard pull GPT-5
+XI walk tree boom all of that. And you
+can drop all of that routines and boom
+it's ready to go.
+&gt;&gt; That's cool.
+&gt;&gt; Yeah, and it's agent first. So yeah,
+it's cool. Essential fix recent commit
+review. I just like yeah, double-check
+all of the commits and yeah, review new
+commits on a GitHub repo master since
+the last successful review baseline or
+the last 24 hours when the baseline
+exists. Fix only high-confidence issues.
+Love it. And that and for Claude, do I
+have anything different? Link example
+schedule task board hygiene dry
+refactor. Oh yeah, yeah, that's also a
+loop that I like. Perform one small dry
+refactor in project. So take whatever
+you want in the repo, make it better,
+dry it up. Boom. And that's it's not
+okay, it's a ultra code 4.8 stuff, but
+it's works pretty well. Walk tree prune.
+So that's what I was saying like once
+every day, I think. Yeah, prune merge
+local walk tree and branch for project.
+Worked only for the repo GitHub
+repository. Do not inspect modify
+summarize out of scope project. Fetch
+and prune remote. Never delete the main
+checkout current branch and merge walk
+dirty walk trees or branches with push
+commit. Only remove walk trees whose
+branch are fully merged into masters,
+whose PR are merged. And then I
+I get like a bite on my computer back
+because work through your something
+else. React nightly expansion. Yes, I
+like this one. So, I have nightly job
+where I can increase the end-to-end pass
+on the apps I work on and I just
+increase the coverage of the end-to-end
+and that's automation is doing it too.
+&gt;&gt; Okay. So, are you going to loop? Are you
+going to loop?
+&gt;&gt; loop, yes. On the bigger projects, I'm
+going to loop and see.
+And yeah, I hope you're going to
+&gt;&gt; token max seeing your subscription every
+week, man.
+&gt;&gt; Yes, just make the max of what you're
+paying. If you're paying for for
+millions of tokens, don't stop at 1,000.
+&gt;&gt; If you're not burning 1 billion token
+per day, you're not even coding, bro.
+&gt;&gt; Yeah.
+&gt;&gt; Michel, thank you so much for your time.
+Everyone in the chat, thank you. Bye,
+everyone. Bye-bye.
+&gt;&gt; Bye.
+&gt;&gt; And subscribe. Thank you.

@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:06,240"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 6240
+      },
+      "text": " If I say to Opus, I want to have three different approaches to tackle this problem, and all three"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,240",
+        "to": "00:00:11,280"
+      },
+      "offsets": {
+        "from": 6240,
+        "to": 11280
+      },
+      "text": " are still similar. It's just like it's stuck in a certain way of thinking. But then I use"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,280",
+        "to": "00:00:17,200"
+      },
+      "offsets": {
+        "from": 11280,
+        "to": 17200
+      },
+      "text": " Opus and I say I need two additional ways to tackle this problem, and I get totally different"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,200",
+        "to": "00:00:22,960"
+      },
+      "offsets": {
+        "from": 17200,
+        "to": 22960
+      },
+      "text": " approaches. And I merge them both into one by saying to Opus, \"Hey, check the other two that"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:22,960",
+        "to": "00:00:28,400"
+      },
+      "offsets": {
+        "from": 22960,
+        "to": 28400
+      },
+      "text": " were created by Codex.\" And then he says, \"Oh, that's a great idea. I can merge it into my ideas.\""
+    }
+  ]
+}

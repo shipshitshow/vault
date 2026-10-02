@@ -1,0 +1,18 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+But this is actually what they said that Opus 4.8 would do.
+You give it a prompt and it decides on each sub task.
+- The user added new requirement mid task.
+So it was not even done.
+I'll tell my verification baseline is green
+then implement all of the new features.
+- Before it would just start coding or whatever you ask.
+And now I said, no, we can start.
+We need to do some checks first,
+make sure that all works and then we can proceed.
+- I like that.
+- That makes it look so much better.
+- So that before was like 4.7, but during the task
+it's also able to change the effort.

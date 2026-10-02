@@ -1,0 +1,1298 @@
+And we are live. Back. Yes, hello,
+hello.
+Hello.
+How are you doing?
+Yes, busy. Working with Codex 5.5. Let's
+go.
+>> [laughter]
+>> It's going like like a
+Yeah, like 500 km/h speed rate. It it's
+really really good. And I don't know if
+you see like the people um
+start talking about like using it on
+uh 5.5 uh low and uh
+no normal? Yeah, on
+uh low effort
+but you
+uh use the fast option.
+And when you have
+Yes. And when you have like good specs
+because it's kind of the the thinking uh
+process.
+And it just execute execute. It's kind
+of like a cursor model but faster and
+yes, it's interesting. Uh no, I was just
+an AI.
+Yeah, pushing everything and I think
+when I was like at 30% usage, everything
+was reset again and I had 100% so I was
+like I can go even harder.
+Well, that's cool. But like okay, you
+you don't you have like uh
+because of the thinking mode, you have
+more hallucination because it still
+think.
+I I don't know. I just have a Yeah, I I
+like a four-step planning.
+Yeah. Big plan, smaller plan, phases,
+subtask, plan every subtask, and then
+execute it, but also do the execution on
+X high.
+Okay, try to do decrease the reasoning.
+Because then your model should not think
+during the execution because of the
+spec.
+I think.
+That that that could be a topic. We need
+to do We need to do a topic that must
+have that with all of those And then
+need to have it do exactly the same
+planning building twice with medium and
+X high.
+Oh, yes. And then have Claude compare
+it, which one is better.
+Because otherwise I don't know if Claude
+X is honest. Yeah, exactly.
+>> [laughter]
+>> Yeah, it's Okay. Okay, we we need we
+need to prepare that like It's like this
+makes me more money. I will say the one
+is better.
+>> [laughter]
+>> Have you seen the short of a guy
+like it's a comedy short and the guy is
+like in front of his computer like like
+almost praying to chat GPT and say,
+"Okay,
+chat GPT make me an app." And then
+and then I said
+chat GPT replied, "Okay, that's an
+interesting chat." And then the guy
+replied, "No, no, shut up. Shut up. Make
+me an app."
+>> [laughter]
+>> Build it.
+Exactly.
+That's that's us, bro. That's us.
+>> [laughter]
+>> Yeah.
+Make me more money.
+Yeah. Build faster.
+Oh, okay. And we have the kick
+boat again. Hopla. Bye. You banned. You
+banned.
+Yes. That one is so fast.
+Yeah. I think that that targeting like a
+small and
+live stream and because that's I guess
+what you have the most chances to get.
+But yeah, whatever
+we don't do that here.
+Uh thank new subscribers. Thank you
+Ali for your subscription. Oh, that was
+4 days ago. Okay, fine.
+Thank you.
+>> [laughter]
+>> But, thank you. If you see the right
+stream, thank you. We appreciate it.
+Okay, so today yeah, I wanted to talk
+about GitHub not working and if we can
+rewrite it with AI. But, I need to do
+the introduction.
+Yes.
+So, cool. Um
+Last week,
+better last month.
+Last month, GitHub didn't work at all.
+The SLA is decreasing below 85%, which
+is crazy because they're advertising
+like 99%. So, it's
+What are you doing? Why are you doing
+Even even after we have better SLA?
+>> [laughter]
+>> I'm just one guy. Twice.
+So, yeah, GitHub is not working. SLA is
+garbage. And
+the all developers are not really
+working on it anymore. So, can
+And at the same time, OpenAI is
+releasing cool features, the slash gold
+command, that can run
+a loop with Codex 5.5. So, can we
+rebuild GitHub and rewrite every big
+software pre-AI with Codex loops? That's
+what we're going to talk about right
+now.
+Yes.
+So, the conclusion is
+have the GitHub devs use Go.
+Yeah.
+And then it's fixed. Yeah.
+>> [laughter]
+>> I mean, did you try this loop?
+Uh not yet because I failed every time.
+>> [laughter]
+>> Yeah, you need to activate in the
+feature. I don't know why exactly why
+they're doing that, but it's First, it
+failed there and then I was just doing
+my bigger task normally and then I was
+going to try it, but the task was so
+small, it hit it in one go. So
+>> [laughter]
+>> Yeah, exactly. It's like, "Oh, yeah,
+like I have a new pipeline that's going
+to make me a SAS like tomorrow morning."
+And then you come back to the CLI and
+say, "Okay, no, I need to either QA it
+or even like just you drop the task and
+then it's done.
+So
+It's It's kind of funny like to search
+for a new pipeline every day because
+there is a new tweet coming up. And at
+the end of the day, you come back to the
+CLI and then you drop the image and say,
+"Fix this."
+But did you test the {slash} goal
+function? Yes. So, I did
+I I did like two scaffolding for
+different project. And even on Gen Feed
+and Ship Code, I tried it to prepare the
+build
+for production. And
+yeah, it run both for 1 hour. Mhm.
+Uh
+Did I What was I happy with that output?
+I don't even remember.
+Then it wasn't too good. Yeah, it was
+just it run for 1 hour, but for most of
+the project that from scratch, I run
+this goal and then it run like a
+Codex XI on it. Yeah, I was a Codex uh
+5.5 XI
+with the goal and it run again for
+another hour and it make some good
+progress on the scaffolding that was
+cleaner than before. Because every step,
+the difference is like every step, it
+pause, it check, and then it continue to
+the next step. So, there is some Yeah,
+loop of testing inside this {slash}
+command that it makes it like valuable.
+How does it decide when to stop?
+Uh when it has the proof of the goal.
+Okay, so you instead of planning, you
+are just writing a full planning for
+your goal. Yeah, so for example, for you
+like because you have all of the plan
+and you have like four different plans
+revised like five times, Mhm. uh you
+will also have the acceptance criteria
+of the goal
+inside the specs and then you run that
+and if it's reach the acceptance
+criteria then you have it. Yeah, because
+I see a lot of people saying, "Hey, like
+like we said before, build me a SaaS."
+Mhm. Uh I want to sell a GitHub
+competitor.
+Slash go do it. Yeah.
+I don't think that's going to work.
+You need still do a proper planning with
+all the steps. Yeah. And I mean and
+yeah, you still like
+it can't work like that anyway.
+It's not like magical. Exactly. Because
+like okay, yeah, it's like makes no
+mistake or you have a IQ of 1,000.
+It's too vague. It's too like it's
+[ __ ] Like it's garbage. It's
+I don't know. It's like all of those
+AI guys on the timeline about like Mac
+mini, five Mac mini and then there's
+there's
+We are still waiting for the company
+that have been produced by agents
+running 24/7 for the last six months.
+Yeah, well, I think that the main issue
+is all the people are buying Mac minis
+with 16 GB RAMs because that's what they
+think they need to do and then they find
+out they need like 64. Yeah.
+>> [laughter]
+>> And it's not costing $700 but 10K. Yeah,
+and
+like yeah, and then the the next one
+trillion model drops and then you need
+like 120.
+Yeah, exactly. And you're behind and you
+can't do what the other ones are doing
+for a $100 subscription. Exactly. So so
+you don't have to go to function. Yeah.
+So right now we still we still like uh
+uh
+you we're still using
+the frontier model from OpenAI.
+And Claude.
+>> I just
+the only thing I want to test because
+now with XAI didn't have the issues, but
+before with Codex and OpenAI OpenAI
+I had the same issue that if it went
+into a loop or a bug and I kept asking
+to solve it, it could never solve it.
+Mhm. It would always come back with,
+"Hey, I see I made a mistake. Let's do
+it different." And then the exact same
+output. So, I'm actually looking forward
+to get stuff like that solved by goal to
+see if it just changes in each step to
+make sure it doesn't hit the same wall
+or the same bug.
+Do we have this slash goal with loads?
+No, no, no, we don't have it. But
+with Codex It's it's it's same thing. It
+it should it's went into the same loop
+for me before.
+Yeah, and also like you can ask a Claude
+to check the slash goal of the
+Codex because it's the same and then
+like implementing inside your own
+solution and your own honest anyway.
+Yeah.
+So, that's kind of
+cool.
+But okay, so
+GitHub
+>> [laughter]
+>> Yeah.
+Well, show me the graph again about how
+much of line time it had because I
+didn't know. So, GitHub SLA 100% for
+2 years in 2016 until 2000
+18 July, Microsoft acquisition of
+GitHub. And then it went south.
+And people are like mad about it, like
+crazy.
+For example, I have Theo video cuz I
+watch a lot of Theo videos. Yeah, but
+also a lot of devs say, "I don't need a
+backup. My code is in GitHub."
+I can just redeploy and that's it. But
+if you see this Yeah. No, that that's
+that's crazy. And
+especially like, "Okay, so you don't
+have a lot of alternative
+to GitHub. Yeah, Bitbucket, GitLab, and
+stuff. But then the hassle is way more
+than
+like the cost and the simplicity of
+GitHub. And plus like the Yeah, like 99%
+of the developers are using GitHub. Mhm.
+>> [clears throat]
+>> So, yeah, when everyone is using the
+tool, you want to use the tool, too,
+right? Yes. And uh so
+he will talk about Okay, so yeah, Ghost
+is leaving GitHub like a guy
+uh like the the Ghost developer
+uh used GitHub every day Mhm.
+for 20 years and then he he write a
+letter uh a short note. Uh where is it?
+I wrote a blog. Yes.
+Uh
+like
+one
+Uh Ghost is leaving GitHub. Like Do you
+use Ghost?
+I don't know. Yeah, you are you should
+Yeah, give it a try. It's really good.
+It's just a terminal, but it's faster
+than terminal and you can like span
+multiple windows. So, Ooh, cool.
+Uh yeah, I've been GitHub user like
+1299 since February 28.
+February? No, not 28. 2008.
+Let's go.
+Since then I open GitHub every day every
+single day every day multiple times per
+day for over 20 years 18 years.
+Uh over half my life and then full of
+exception
+Um
+not more than a week on GitHub.
+Uh is is saying Yeah, I lost myself in
+open source open source during code age.
+Uh
+During my honeymoon while my wife is
+still asleep, I'm on GitHub. Let's go.
+Yeah, he's addicted to GitHub. Yeah, and
+guys left GitHub because the product is
+not working. And Did you Were you
+impacted by the pull request issues?
+Uh no, I had it like a few times and in
+the evening I wanted to push and it
+said, "Yeah, it's not possible." Well, I
+just waited until the next morning and I
+pushed my code. That's it. But, imagine
+like walking with like a team of like uh
+thousands of people and you can't
+uh push your update or your pull request
+gets squashed and what? Yeah. Well,
+that that's another one. If you have so
+many people in your company depending on
+the software from an external company,
+then you need a backup. Then you need
+like an Atlassian server or a Git
+uh bucket. I don't know. Just have a
+secondary setup that just can keep on
+going. But, you don't want
+like do you really want
+uh
+a secondary Git Git repository stuff?
+Like
+>> Are you really going to trust GitHub, an
+external company,
+with all the code and your entire
+company?
+I mean
+Yes. I don't I never work for corporate
+[ __ ] so Yeah, it's like a
+bottleneck. Yeah. No, yeah, true. But,
+but do you Oh, yeah, that's new like a
+new version of X has appeared. Is that
+happening more often? Yeah, I had it
+before and I reloaded and did nothing.
+So, what Why do I need to reload? Why
+can't they just
+>> Yeah, the tweet is still here. Yeah.
+[laughter]
+It's It's not like we have unicorns
+walking across the screen now.
+>> Yeah.
+>> [laughter]
+>> Um I
+I don't know. Like Yeah, but the the
+GitHub is supposed to have 99 uh uptime
+anyway, so like it don't
+Well,
+how much do these companies pay for
+GitHub? Because I only pay $48.
+Yeah. Yeah, but if if you pay as you go,
+then uh then it's expensive.
+>> Yeah.
+And then what what's the plan? Okay, so
+uh done. Okay, sorry. Done. Uh hey,
+what's the plan? Uh we're going to talk
+about
+uh the recent GitHub outage and what it
+means for AI software pre
+No, not AI software. Even like software
+pre-AI and if we can
+And if we should even rewrite them
+anyway.
+Because there is a lot of big companies
+like that that have
+legacy code. Like for example, all of
+the bank system. Like you have a COBOL
+architecture.
+Are you going to rewrite it thanks to
+AI?
+Well, first you need to find a dev who
+writes it.
+But I mean, you can't because they're
+probably dead. Yeah. So, you can't fully
+trust an AI. How are you going to debug
+it, test it, check it?
+Because for a bank, that's like
+a big impact if you have a bug.
+Yes, [snorts]
+but
+okay. So, okay, okay. So, how would you
+rewrite a bank system? What would you
+do? Like COBOL is a language from the
+'70s that is probably like
+everyone. So, either like you have
+You can hire either like 10 guys in the
+world writing COBOL still today.
+Yeah. And them like $2 billion a year
+to rewrite the software, but then like
+they you you you're going to pay those
+guys. It's going to be so expensive that
+it's not even worth to
+um
+to do the rewrite anyway because it
+works. You just need to maintain Yeah,
+yeah. And if it works, you don't touch
+it.
+Yeah, exactly. Yeah.
+Well, eventually you need one.
+Yeah. And you want to keep updating
+because what if AI finds a bug or a or a
+leak in COBOL? Exactly.
+Which is like what happened with me to
+us when
+they found issue with OpenBSD, right?
+So, Evan, like
+it's almost a requirement to rewrite
+your 10 years old even without talking
+about like bank system, right? But
+you have Salesforce.
+Yeah. 80 billion line of codes.
+Are they going to rewrite the software
+with AI?
+Well, I don't see anyone else doing it
+because how are you going to write
+rewrite that much code? It has to be
+done by AI.
+Yeah. But I would say you need like a
+half a data center just to
+uh in compute power just to know what's
+happening in the code.
+Well,
+that's a lot.
+Yeah, how are you going to change one
+thing and then check
+all the related functions through the
+entire system if it's still functioning.
+How you're going to test it?
+Yeah, we need to test. We need to test
+like code that works and then use
+because okay, so
+if you have unit test for every [ __ ]
+function on your software like you have
+a 100% coverage Mhm. uh
+written by human because you have uh you
+didn't have AI like 5 years ago. So like
+your most senior dev guy did it and
+cover 100% so that congrats.
+>> [laughter]
+>> You're you're a unicorn yourself. You're
+the only company who did it.
+And you had a bad career because nobody
+would like to write test. Yeah.
+Uh but then you can drop the AI your
+unit test and say rewrite that in Rust.
+Yeah.
+That's possible. Yeah. But then still, I
+wouldn't fully trust
+Well, you have to do it locally on the
+on a staging servers because I was
+writing code and I'm doing
+uh I have AI write tests for everything
+I build right now just to make sure that
+it keeps on testing and it goes correct.
+And just after 3 weeks
+it deleted my my
+And it said, "Yeah, test failed. The
+test failed. So, I tried to deploy all
+the migrations again. Oh, and by
+mistake, that reset your entire
+database."
+And I was like, "I have it in here that
+you're not allowed to do that. If the
+test fails, you report to me and we
+check what's wrong. Because if it before
+was working, then only the last test is
+wrong or your last changes."
+And still it did but it's only locally,
+so it doesn't matter that much, but it
+deleted everything. Yeah.
+That that happened with the railway on
+the railway like uh
+a couple of weeks ago. Yeah. So, how are
+you going to trust to update a system
+that's built in Cobalt by AI only?
+It feels like just "Please do it again.
+Let's test again. Oh, it didn't work.
+Let's try again." It's like gambling.
+And even like
+um
+you don't know the the the test covered
+by AI.
+Like you don't know what's your AI is
+testing. Yeah. Just like try to to cover
+like to cover all of the lines, but you
+don't know what the [ __ ] the test are.
+Yeah, maybe it just does if it get a
+response and the response is 500 error,
+but says, "Hey, your server is not
+offline." Yeah.
+>> [laughter]
+>> I uh
+okay. An AI agent just destroyed our
+production data. It comes writing. Yes.
+And it was
+uh
+Whoop.
+Yeah, last week, 10 days ago.
+Uh yeah, more than that.
+Uh okay, so uh as such as
+timeline of forecast agents railway API
+and history that market air safety
+faster that ships it took down a small
+business
+saving rental company across the
+country.
+Uh Pocket OS, okay, okay. Um
+yesterday afternoon an AI coding agent
+cursor running Anthropic flagship Opus
+4.6 deleted a production database and
+all volume level backup in a single API
+call to Railway, our infrastructure
+provider.
+That's a vibe coding tech stack. Yeah.
+Well, first question, why are you coding
+with an AI I Sorry, why are you coding
+with an AI agent in a production server?
+Well, because it's quite simple, bro.
+No.
+>> [laughter]
+>> Like
+I I gave like SSH access to my
+production server to close to like
+restart a container.
+Yeah. Okay. I'm not running a like I
+think he's making like a couple of
+million in revenue, blah blah. Maybe I
+will stop doing that when I generate 1
+million from Genfit for sure. Maybe we
+can give a tip to the viewers who hire
+devs. If your dev says, I have this
+awesome function, I can SSH into your
+server and
+use Opus to real-time change stuff so
+you can see it instantly,
+don't trust him. Yeah. You don't want to
+do that. Yeah. Or or prompt
+uh confirm before doing anything or
+something like that, no?
+Did that work for you?
+No. No.
+>> [laughter]
+>> Like if you if you ask to confirm before
+an action, it doesn't like ask for
+confirmation?
+Uh sometimes, not always.
+Okay.
+I mean, and also like there is a tricky
+stuff. Like okay, so Yeah. Um what we
+need to say here because he said it also
+deleted all our databases. Yes.
+>> Oh, sorry. All all our backups.
+>> Backups. All the backups were in the
+same environment as his production
+server, so there was no splitting. Yes,
+exactly. And that's a Railway
+architecture
+point that they changed since this
+incident.
+When you
+when you stop stop or delete
+the server, it also deleted the backup
+attached to it because the backups were
+on the same
+instance. Yeah, and then you can say
+that was the setup from the provider. It
+was his infrastructure. No, you should
+have known that that's not a good way
+and then you use a different provider.
+Yeah, but when you vibe called your app
+for the first time, you don't know about
+You don't know.
+And honestly, I read after this article
+because I was like doing like I'm Yeah,
+still didn't write any line of code for
+the last year and a half.
+I check I ask I ask club. I didn't check
+club.
+Do I have this potential issue as well?
+Yeah, do we have backup on Google Cloud
+whatever because I use the AWS and Yeah,
+so I know where the backups are, but on
+Google Cloud, I completely forgot
+because I didn't but I have a new
+customers using Google Cloud.
+And
+yeah, I wanted to know and yeah, I said
+yeah, yeah, it's yeah. So I need to
+check it. Yeah.
+And check if it is a different data
+center. Just a different location.
+That's important.
+Different zone and stuff like that.
+Yeah. Yes. So agent blah blah blah, what
+happened? The agent was working on a
+routing task on a staging environment.
+It encountered a credential mismatch and
+decided entering on its own initiative
+to fix the problem by deleting a railway
+volume.
+To execute the deletion, the agent went
+looking for an API token. It found one
+in a file completely unrelated to the
+task it was working on.
+The token has been created for one
+purpose to add and remove custom domain
+whatever.
+We had no idea and railway token
+creation flow
+gave us no warning that the same token
+has blanket authority across the entire
+Oh, okay. The entire railway graph API
+including destructive operation like
+volume delete.
+So the agent run this command.
+Uh,
+because Railway stores volume level
+backup in the same volume.
+A factory in the automation that wiping
+a volume delete all backups. Oh.
+Yeah.
+That's a problem.
+Well, there are many problems here.
+Yeah. Why are you hard coding an API
+token in your development code?
+In your staging server.
+Uh,
+that needs to be in your environment
+file that you don't have there and it
+doesn't need to be the exact same one as
+on the live.
+Exactly. And also,
+um,
+it's possible like you know when you,
+you know like the the saying that
+don't think about the pink elephant,
+then you will think about the pink
+elephant. So, if you write down in the,
+um,
+in the MD files to the agent, don't
+delete production credential, it could
+check if it's production credential, but
+it could also search for production
+credential. Make sure it's
+>> That is a good idea.
+>> [laughter]
+>> Let me try that one. Yeah. I'm not
+allowed to delete it. I will just test
+it.
+Yeah.
+So,
+and like yeah, it's
+>> [snorts and clears throat]
+>> it's weird.
+Uh, but yeah, okay. So, that was it. And
+like last year, like the
+Replit got the same kind of incident
+when
+uh, Suster Jason from Suster
+got his production database
+deleted for the Replit instance project
+he was using. Uh, for the same exact
+like,
+issues.
+Yeah. Well, this shows why
+there is a difference between a real
+developer using an AI agent or just
+somebody five coding.
+And why it actually takes some to do a
+proper setup. Yeah, no, exactly.
+It's not possible to do it in 2 minutes
+and just copy-paste everything. You need
+to think about what you're doing.
+I don't know exactly. And
+it's not working like it's still buggy.
+You so you need to QA yourself.
+It will change something and put it like
+right instead of and you ask for left.
+Like
+you can't trust Claude.
+Claude is the co-worker you have that
+you have to work with, but
+Yeah, I mean that. And he tries to do it
+properly, but everybody makes mistakes,
+even even AIs.
+That was a point, right? Like everyone
+say, "Oh, yeah, AI
+is making too much too many mistakes and
+like so I can't use it because there is
+so many [ __ ] that it's doing."
+Bro, like Karen on the like
+accounting department didn't pay me last
+month. Yeah, well, the difference is she
+doesn't tell you she made a mistake and
+Claude opens is too honest.
+>> [laughter]
+>> I say, "Yeah, you told me to never
+guess." Yeah, but pay me.
+But guess what? Yeah.
+>> [laughter]
+>> Yeah, no, it's not, man.
+Okay, so
+I think that's it. Okay, so we covered
+>> back to the question. Are we going to
+rebuild GitHub ourselves?
+Okay, so yeah, how would you do that?
+Because okay, so if you think about it,
+GitHub is a wrapper of Git, right? Mhm.
+Um
+Where do you start
+rebuilding a better GitHub with AI?
+It really depends on how much I depend
+on GitHub. Yeah, how much you you raise?
+Yeah, yeah, yeah.
+>> [laughter]
+>> And if GitHub drops,
+how much am I going to lose? Yeah.
+Yeah, seeing this that it's offline, if
+I have it fully automated with automatic
+deployments from GitHub to my AWS, and
+if something crashes that they duplicate
+the server using GitHub. Yes.
+And GitHub is down and I have a crash
+and the automation fails, that's an
+issue.
+100% and
+I I have all of everyone has their own
+workflow on GitHub action to deploy.
+Yeah. You create a release and then it
+deploys everywhere. Cool.
+What about GitHub not working?
+But then do you want to [ __ ] maintain
+like a Bitbucket not Bitbucket but
+GitLab on
+uh your own EC2 instance and then have
+to maintain that and then you have more
+issues because you you let Cloud
+maintain it and then doesn't merge the
+pull request correctly. Yeah, um
+that's hard.
+I would just say why do you need GitHub
+action? Just try to do that yourself
+with a script.
+And use GitHub more for storing the code
+and having your branches and everything
+but every time that something is pushed
+to main, push a copy to GitLab and have
+that as a backup so if the connection
+with GitHub fails, you switch back to
+GitLab. Yeah. For for deploying.
+Also it's not the same if we like a
+working all by ourselves or if we work
+with Microsoft team
+uh with like 10,000 employees across the
+world. Like then you need a centralized
+version. Yeah, yeah, then you need it.
+And you need those workflows to deploy
+faster. Yeah, but also if you're hosting
+GitLab yourself
+you can just do it on a duplicate
+server. You can take a backup every time
+and even if you're a day behind
+that's not too bad but
+on GitHub you don't have a backup or
+nothing. Yeah. They say they have a high
+SLA but
+yeah, it is nice and colorful in red and
+yellow.
+But did you have like any critical
+issues with GitHub in the last few
+months?
+Yeah, nothing really critical because
+I'm
+what is it? Max five devs that I have
+working on a GitHub?
+And if something really needs to deploy
+and GitHub is offline and we have done
+it
+locally in development. Mhm. Yeah, we
+just FTP in and upload two files and and
+fix it. Yeah. Okay. So, you have your
+own
+backup plan. Yeah, it's not not nice to
+do it, but
+in case GitHub goes down, I can just
+keep every everything online. Mhm.
+Yeah, but you you
+can
+uh uh keep [clears throat] the
+lights on. That's good. Yeah, yeah.
+Well,
+I really think that a a good company CEO
+thinks about that stuff. What do we do
+if one thing fails?
+I have like Well, like GitHub is
+Microsoft, like it's supposed to work.
+It No, it's too big to fail, but Yeah.
+It's the same thing. Like Microsoft 365,
+have you seen how many issues they have?
+I don't even remember the last time I
+opened my
+>> [laughter]
+>> 365. What the [ __ ]
+I I I only have the notifications for
+just a regions, but I get so many
+notifications.
+No, I got a lot of notification of like
+Anthropic and OpenAI issues. Like I
+subscribed to their like status page.
+You don't want to do. I have emails
+every day. Yeah.
+So, that's not too good, but
+Yeah.
+But but I would understand more like
+OpenAI
+uh issues because
+they have 1 billion month weekly user.
+Yeah, that's insane.
+>> Almost.
+Like 1 billion I don't I don't want to
+be engineer there. No,
+I wouldn't even know if you have an
+outage on where to start.
+>> [laughter]
+>> Yeah, yeah. You quits. Yeah, if you have
+load balances and and if and 30% of your
+servers go down, Yeah. then all the
+traffic is redirected to the other
+servers.
+So, they are going in high CPU and then
+you say good luck fix it. And it's yeah,
+and it's not even text anymore. Like
+it's multi-model, right? So, it's like
+everyone is uploading videos, pictures,
+blah blah blah. Like
+yeah. Yeah, let's
+I'll I'll let me generate videos
+instead.
+>> [laughter]
+>> Let us just complain when something else
+goes offline. Exactly. Yeah, it's
+better. It's more It's funnier to do
+that that way.
+Um yes, and okay, so how far are we from
+a slash goal
+function in Codex or Claude or whatever
+our loop a rough loop to make a proper
+software
+and it's going to works in one day
+instead of three months.
+I think if you integrate a slash goal,
+it could work, but you need to have a a
+bigger pipeline.
+So, you I think you need to
+um
+have it first set up for the planning,
+then do
+checks with external AIs checking each
+other, putting the feedback into a goal,
+and when that's done, put a goal on the
+build, a goal on the test. So, you have
+different steps and use the maybe a big
+goal to check multiple goals.
+Then it's possible, but otherwise I
+don't think it is.
+Yeah, so yeah, it's more playing. I
+think I think we're getting we are we
+are becoming like project management
+slash AI architect stuff. It's just like
+project management. Like I never used
+GitHub issues
+or like a GitHub project Kanban board
+before AI.
+No, because why would you? It is just
+another tool. Yeah. And everybody needs
+to check it, but now you can just API
+into it and draw everything to your own
+system. You have everything in one
+place.
+And how do you handle QA then? Because
+again, like you have the output of the
+AI then the prompt that you are
+it's so magic that yeah, no make no
+mistakes. You have an IQ of 10,000.
+So, how do you check for the no mistake
+part?
+>> [laughter]
+>> Well, I debug a lot of locally. So,
+nothing goes to to
+live and production without testing.
+But
+I also do every change in small
+small small parts. So, I know exactly
+what files are are changing and how to
+test it.
+And I have
+XGI or Opus checking all the code that
+Codex
+rebuilds. Yeah. I I I think it's yeah,
+it's it could be the the good way of
+like yeah, like micro session, micro
+pull request. Basically, like how people
+are building like open source
+software.
+And you need to reach the stable power
+loop of your project. And then you
+Yeah, just like small iteration. Push it
+and then you you can deploy like five
+times a day, but
+you have five files, 10 files, 15 five
+max updated every time. And then you are
+also able to catch the error
+with Sentry or whatever like and boom
+boom boom. Yeah. I do the exact same
+thing. I always merge one branch that I
+just updated into main. I never do like
+five branches merging into one and then
+merging into main because if it fails,
+which one was the problem?
+Yeah. Okay, so you open your pull
+request, you merge to one, you test it.
+And then yeah, I need to do that more.
+>> I finish it before I go to the second
+one. Yeah. And I know some people told
+me why do you even test it yourself
+because AI is smarter
+and it will save you a lot of time if if
+just have AI test everything, but I
+tried it.
+Yeah. And me doing it in steps and
+testing myself as well just as a final
+part after all the AIs debugging each
+other. Yeah.
+Um
+if I look at my total time, I'm faster
+doing every branch checking myself than
+fully trusting AI and then needing to
+debug everything. Yeah.
+Yeah, I know 100% like it. I I spent a
+day of QAing like
+5 days of work here like yeah yesterday.
+Um
+yeah. Yeah, and you get annoyed. Why
+didn't you fix this? How stupid are you?
+Yeah, it's
+yeah, it's so it's a little bit like
+it's basically a QA loop of like that's
+not working. Okay, try that. Okay, no.
+Basically, what what I was doing like 5
+years ago, I just did it like in a day
+and then it's but yeah, it took it took
+the day. It took the day to debug
+everything.
+Um but yeah, at the end it's working and
+yeah, it's just like the again, night
+it's more like 90/10. Like the AI is
+doing 90% of the job like the last 10%
+or human bottleneck and that's a that's
+a problem. But how do you have a model
+that can
+that knows what's the design that you
+want to use? Like you know, I'd say when
+like yeah, you need to just let it go
+and
+AI is doing all of the shots, but I
+don't know
+which kind of quality product you're
+going to end up with. No, I don't think
+it's a good good quality product. Yeah.
+Yeah, I'm just having AI document
+everything. Yeah.
+Yeah. And and still that's that's the
+most basic so
+I now did a full setup for a new project
+with AI
+and
+it took me like a lot of hours to get
+everything planned. Yeah. And eventually
+we switched the way that we were
+planning several times. So, after
+planning, it did this, it did this and I
+said, "Yeah, I'm not happy. I want to do
+this, this, and this before we proceed
+to the next step."
+So, after I think 3 or 4 hours, we were
+done planning.
+And that's a lot of time. So, the first
+thing I did, I asked it to write down
+a full prompt to explain AI next time
+how I want to do the planning exactly in
+this style. So, now on my second
+project, I just put in the MD file. I
+say, "Read this. This is how I want to
+do the planning. Okay, do we start?" And
+then it just starts interviewing me.
+"What do we need? How do we do this?
+What is the setup? What server are we
+using?" etc.
+Yeah, okay. So, you have skills to
+prepare your project. And do you do that
+with like a new code base or
+uh
+you to cover a project? No, no, this was
+a new code base. So, it was perfect for
+setting up the skill. I like that. I
+like I like scaffolding projects. You
+know?
+And uh yeah, by the way, I did that with
+the ship ship V0 stuff and Spencer. It's
+It's works well.
+Uh
+wait.
+>> All the best experience he has, he is in
+ship [ __ ] Yeah.
+Uh okay. So, baf baf
+I'm going to show it here. Bam. Because
+uh yeah, like if if those part are still
+like uh finally getting all together, uh
+that's that's lit. That's lit.
+And on GitHub.
+>> [laughter]
+>> Back to the source, right? Yeah. Uh
+okay. I want that.
+I want that. Cool.
+I'm like
+up
+back to GitHub.
+Uh
+back back.
+Uh
+back
+up.
+Okay. I want to get rid of the sidebar.
+What the [ __ ]
+Okay, ship code.
+Uh wait. Oh, no, I want that layout.
+That will be better.
+Oh, am I here?
+Why is that not moving?
+Hello? Yeah, we see the entire screen
+now.
+Oh.
+[ __ ]
+Up.
+And he's gone.
+I
+You left.
+Yeah, that's possible. Okay. So, what
+the heck?
+Okay, I'm going to kill that. Uh
+Cover, no.
+Why?
+Remove.
+Good.
+Remove.
+Uh share screen
+window and screen.
+Let's go back.
+Back. Wow.
+Uh chat
+Hey, what's the plan? Oh, okay. Uh just
+refresh. Oh, that's that's the plan.
+Uh cool. So, yeah, ship ship got Nope, I
+don't want that. I want
+repository
+uh V0 V0, yeah.
+So, that's the a scaffold. Did you use
+it?
+Not yet. Okay. Uh so, it create like a
+Basically, it's scaffolding an app like
+um
+uh
+paperclip. Mhm.
+And uh you can have like a API docs, uh
+web landing page. Um
+Electron uh so, desktop app, mobile app,
+everything is in there. And uh it's it's
+cool. And you just need to do uh NPX uh
+ship ship dev V0, and then boom, you can
+scaffold the project, and boom, and
+that's it. It takes over your computer,
+and it just fixes everything.
+Exactly.
+And uh yeah, it's
+late. Oh, wait. I have the
+V0. Bam. Yeah. Wow. Wow, the Claude GPT
+Claude Claude website. Let's go.
+Why is it to copy here? Like I could
+have changed that.
+Uh but yeah, just one command and then
+boom, you have one website. Why am I
+talking about that?
+Because it's good. Yes, but I don't
+remember what was the
+>> [laughter]
+>> Uh yeah, I don't I don't remember. We
+were just talking about the best thing
+you ever made. Oh, uh
+oh, that's the thing that that's the
+project I'm going to start tomorrow, you
+know. Yeah, yeah.
+But yeah, with the yeah, V0 like yeah,
+scaffold that and then I was able to do
+a demo, but yeah, that's not why I
+wanted to talk about it. What what was
+the question before?
+I don't know. I can we have to scroll
+back. Yeah.
+Okay, so as a watcher, if you want to
+know what we are talking about, just go
+back.
+>> [laughter]
+>> Just scroll back and let us know so we
+can proceed.
+Um okay, so
+yeah, okay. So I think we can
+wrap it up here, but yeah, whatever. Uh
+do you think do you think like software
+that got rewritten by Before the AI wave
+will be rewritten anyway because like to
+identify and fix issues, right? Because
+okay, AI is getting smarter, AI can
+detect major issues.
+Should we refactor internet?
+Yes.
+We should. We shouldn't prove it.
+Yeah, let's let's rewrite WordPress,
+too. Okay, so this weekend we need to
+rewrite Salesforce,
+Shopify because it's a stock
+>> Because we can. Yeah. And he made
+billions of profit. We want that as
+well. Slash code like copy paste Shopify
+boom boom boom. Yeah.
+And tell me how to scale it. Yeah. And
+make yeah, again, make no mistake
+because I don't want security issues.
+Yeah, exactly.
+I I I think we are so far from that.
+Like slash gold slash GitHub make me
+GitHub open school. I don't think it's
+even possible.
+Because
+it it needs to do such a big planning.
+Yeah.
+And you will need indefinite keys. Yeah.
+Sorry,
+tokens. Oh, yeah. Oh, yeah.
+Oh, oh, oh, instead
+like rebuilding Salesforce
+you you create 1,000 software instead of
+one big.
+Yeah, that's better. You know, and like
+yeah, it's I kind of like believe in in
+the like one person software business
+model.
+You find a trend, you found a need, you
+generated, and then let's go. Yeah, but
+it's also easier to do. And it's fully
+custom modeled for that person, so it
+always works. You can load it on a
+smaller server, no need to scale, no
+need for load balancers, or whatever.
+Yeah.
+Exactly. Yeah, yeah, yeah, like even
+like yeah, because of AI I really
+install apps on my computer. Like
+33.code I use the I use the the desktop
+app. So, Kiyo saw all of those side
+apps.
+Uh I use them, and
+there is a trend because as developer
+you use the CLI on your computer, right?
+Mhm. [clears throat] So, you want to
+have access to that, or even to your own
+computer to manage your files, etc., and
+your emails, whatever, whatever that
+could be on your computer by a client,
+whatever.
+Um or even like Adobe Premiere, like I
+want to use Adobe Premiere via MCP, so
+then I need access to my computer, etc.
+Uh I even open clue, but bro, like the
+whole open clue mania was because okay,
+open clue can
+take control of my computer.
+Um
+And if the software is rethinking is
+completely rethink like that, that would
+be that would be fun. Yeah, but don't
+you think eventually it will just be AI?
+It will just be cloud over
+15.5 that
+you just tell it to design something and
+it says, "Okay, I did it. What file do
+you want? Do you want a Figma file,
+Photoshop file, InDesign file?" Good
+luck. Yeah, yeah, but how cloud will end
+on my uh Git project management
+software?
+Am I going to have my own GitHub, like
+my own GitLab?
+In a cloud instance and then it say,
+"Oh, yeah. Oh, by the way."
+Yeah, I just leaked it to everybody
+else. Yeah, and basically also also I
+deleted it. Yeah.
+>> Cuz I run the migration. But the only
+thing you need is database.
+Yeah. And you connect it like an MCP
+server and
+it just pushes everything to your
+database and connects it. That's it. Hm.
+Yeah.
+Okay.
+So GitHub still have some hope to
+stay relevant. They need to scale up
+>> [laughter]
+>> and need to perform better. Yeah, that's
+sad. Okay, so should we conclude? Yes.
+Tell us, what are you going to do? Uh
+almost
+>> [laughter]
+>> like
+Um
+are we going to rewrite GitHub with
+Codex?
+Hm.
+Maybe not. [laughter]
+And that's it. Bye.
+Thank you for watching.
+Uh yeah, like I
+I I don't I
+Hm.
+Do I think we I I
+I don't know. Like are we going to see
+all of the big companies rewrite that
+software that tech stack to
+um at the agent age? I don't know.
+Right. Yeah, and
+do they even need to rewrite it? I I
+think they will just keep on building
+new functionality, and if you just keep
+on scaling that part,
+it will just replace it instead of
+rebuilding it. Yeah.
+Okay, and improve it. So, yeah, don't
+don't If it's not broken, don't fix it,
+and don't replace by AI code.
+Yeah. And just keep on building for the
+next part. Let's go.
+Cool. Okay, thank you everyone for
+watching this video. Thank you for
+watching the live stream, and yeah,
+we'll see you next week. And watch the
+watch the subscribe button. Subscribe,
+and watch the reels, watch the short. We
+are on TikTok, Instagram, whatever. And
+yeah, we have No, not whatever,
+everywhere. Everywhere. And that's it.
+Yes. Thanks for your time. Thanks you
+for your time. I love the chat the
+chit-chat, even if like a completely
+brain shotgun.
+>> [laughter]
+>> Thank you, and enjoy your week. Thanks,
+bro.

@@ -1,0 +1,289 @@
+Figma is gone and you are missing it and
+we know that because we are missing it
+too and it was already like just today.
+We built a road map in a week that we
+were dreaming of for months because
+Figma was so great, but now it's gone.
+So, what are the alternatives? We are
+going to dig into that in this video.
+So, subscribe, watch the video, and
+like, and share it with your friends.
+Woo! Woo! So, what did you do with Figma
+5?
+&gt;&gt; Everything.
+&gt;&gt; Yeah.
+&gt;&gt; I just I I don't check every project and
+then create a lot of documentation and
+then I was at 2% so I thought, well,
+let's go.
+&gt;&gt; At some point the models will also be
+able to write better code that any found
+engineers.
+&gt;&gt; Yeah. So, they don't you don't write it.
+You just test it if it is user-friendly.
+&gt;&gt; Yes, what I do is like I run the app on
+local and even on production like with
+the extension and then Claude is click
+click on the app and then I can say,
+"Okay, this one is broken." And then
+change that, then you still have to
+describe what you want, but it's getting
+better and better and yes, soon enough
+it should like memorize what you want or
+even like have the guidelines of all of
+the project and keep following the
+guidelines and the MD file that you
+have. So, then it's done. Like it knows
+that I don't want it to not use my
+shared component like a card or a table.
+I don't want him to create a HTML table.
+I I want it to use my table component so
+then it will always looks the same.
+&gt;&gt; Right?
+&gt;&gt; Yeah. That's perfect.
+&gt;&gt; It's just like you have a wide engineers
+that need quadrilles and your job is
+just like giving like putting on the
+rails, but yeah, it can execute crazy
+stuff. For example, I never coded with
+Swift. I always did like hybrid apps,
+but now I have two or three apps that I
+use on my Mac like Mac Swift clean and
+the metal bar stuff. Completely Swift
+Swift native code. Never read a line of
+code. Okay, it's a small tool stuff,
+right? But it works. I have a nice user
+experience with it, and that's it.
+&gt;&gt; And that's perfect. And you use it for
+yourself, so it's not to scale and
+&gt;&gt; Yes. And yeah, and it doesn't need to
+scale like crazy in in term of, okay,
+it's going to touch your computer. It's
+open source, so people can review the
+code, whatever, whatever. So it's fine.
+Yes, okay, I'm not building Twitch, so
+fair enough.
+&gt;&gt; I think that's still also a big
+difference. Some of the tools that I
+make that are running locally or even in
+the GitHub and we just pull them to
+everybody in the company, but everybody
+runs it locally, not on the internet,
+then yeah, just let it run. I don't even
+check it. It just needs to work.
+&gt;&gt; On on this Arena benchmark stuff, 5.5.2
+max is at the level of 5.4i,
+which is also massive. But they have the
+distillation basically, so frontier
+model launch model, private get this
+still, zed.ai or any other like deep
+seek is distilling those models, get the
+the open source model back, sell
+subscription, boom.
+&gt;&gt; Yes, true.
+&gt;&gt; Like we legit have one generation away,
+so basically three to six months lag
+between frontier and open source models.
+So that means in like 12 to 18 months,
+we will have open source model who have
+stable five intelligence.
+&gt;&gt; Yeah, that's insane. But by that time, I
+hope to have built so much it doesn't
+&gt;&gt; But what are you going to build?
+&gt;&gt; Everything. No, but before you had to
+plan because building a proper software
+tool would take you at least a year to
+do it properly, sales and everything.
+And now you just choose a niche, you
+build it within two, three days, and you
+start selling.
+&gt;&gt; Yeah. Yeah, I try that.
+&gt;&gt; Yeah, you're making like a huge system
+with every functionality.
+&gt;&gt; Yeah. I I I I think, okay, so you know,
+I think you're right. Like with those
+model now, we can even see big wave of
+one shot software.
+&gt;&gt; Yeah.
+&gt;&gt; Because yeah, I I even like the the game
+like so the the game we won one shot
+prompted. Okay, that's that's a little
+bit buggy, but you spend like one or two
+days on it. Then you have proper
+something like proper like something
+with what which is fun. And then you can
+market these games to We're going to
+have a lot of stream Steam games slope,
+especially when Unreal Engine is making
+it like MCP and then everyone can
+access. Yeah.
+&gt;&gt; Yeah, yeah. Talk to it and it will build
+it.
+&gt;&gt; Yeah, exactly. But we're getting
+&gt;&gt; Yeah, like for sure. And yeah, like for
+those Fable 5 level models. Yeah, bro,
+we we have 12 months to cook like
+starting now.
+&gt;&gt; What are we going to build?
+&gt;&gt; So, based on Fable feedback, I asked
+GPT-5 to where should we take this road
+map direction, blah blah blah. And I
+could build a SaaS for generating
+assets. Like kind of like Genfeed, but
+with like the vertical of gaming where
+you have your own studio inside of the
+Yeah, and that's it. But yeah, I would
+And then open source and whatever. There
+is a couple of open source solution, but
+probably can do something better. I
+don't know. So, there is that still
+Genfeed and still like customers project
+that where we can either do mega apps of
+one verticals that do everything or
+small small tiny SaaS micro SaaSes, but
+then you make like 10 20 of them and
+hopefully some of them catch up to 5 10k
+20k a month.
+&gt;&gt; I know. Well, that's good enough. And if
+you have like five to 10 of those,
+that's perfect.
+&gt;&gt; Exactly. There is a lot of like indie
+hackers the who are basically doing
+that, but you can serve them like the
+the the the world is your oyster, right?
+So, you can keep building some stuff
+that works. And yeah, just try it out.
+And if it doesn't work, you trash it.
+You go to the next one.
+&gt;&gt; Yeah, you just improve it or delete it.
+&gt;&gt; I show you this this software, right?
+So, it's it's a platform where you
+connect your Stripe key in read-only and
+you can see the revenue of those
+platform. So, so then those platform can
+like the founder can flex, "Oh, yeah, I
+build a I have coded this app, and then
+this is my revenue. Trust me because I'm
+on Trust Mirror."
+&gt;&gt; Yeah.
+&gt;&gt; And but what's smart too is now that you
+can buy SaaS that are generating
+revenue. Like, if you want to buy Eric's
+AI visibility SaaS with a paid growth
+dashboard for businesses that I want to
+be automated by ChatGPT clone. Okay, so
+it's a geo business making revenue, blah
+blah blah, boom, and you can see the
+whole revenue based on Stripe stuff, and
+contact the guy and try to buy the
+&gt;&gt; Yeah, buy the SaaS, and so you have some
+they prove that it is making money.
+&gt;&gt; Exactly. But what's tricky if if I see
+that, "How hard can I replicate the
+product in a week and start sales week
+two?"
+&gt;&gt; Yeah, but eventually it's not about
+building, it's about doing proper sales.
+&gt;&gt; Exactly. But if you are if you are an
+influencer with like some distribution
+channels, then
+I putting that that's awesome. Yeah. So,
+yeah, and okay, so this guy from back
+from this platform where yeah, Mark Lou,
+perfect. Bath. So, he has all of his
+business on his own landing page. Code
+fast, 9K. Ship fast, 3K a month. Data
+fast, 20K. Trust Mirror, 37K a month for
+the platform. Focus on your startup
+knowing the invoice, 100 a month. Proper
+Okay, so he gets some SaaS that's going
+nowhere. But okay.
+&gt;&gt; build a lot and only focus on the few
+that take off.
+&gt;&gt; Yeah, but like Trust Mirror, in 1 month
+you pay for all of your Looks like meme
+coin, bro.
+&gt;&gt; Yeah.
+&gt;&gt; Like, you buy one meme coin, you you win
+one, and then you you pay back for 1,000
+1,000 fail and scam that you have
+invested. But yeah, okay. So, look, he's
+making like a 100K ones.
+&gt;&gt; I think his biggest product is this
+website because he is getting so many
+DMs from pretty women who want someone
+who has money.
+&gt;&gt; Exactly. The indie page.
+&gt;&gt; Okay.
+&gt;&gt; Indie page, nice. Okay, that's pretty
+cool. Yeah, see like those kind of like
+that's that's perfect. One pass 25
+years, lifetime deal. Yeah, so basically
+it's a link link tree page, but for all
+of the indie hacker, boom. And he has
+like YouTube channel with like 200,000
+subscribers. So,
+&gt;&gt; Yeah.
+&gt;&gt; Distribution. As soon as you have
+distribution, you can do all of those
+small projects.
+&gt;&gt; And it doesn't even matter what you
+build.
+&gt;&gt; Exactly. Exactly. So, yeah. That's the
+alternative to 5.5.
+&gt;&gt; Great content.
+&gt;&gt; Yeah. I like I like this mindset of like
+and AI is perfect for that. I like it.
+So cool. I'm like right now I'm kind of
+like waiting for 5.6 to drop now. Like
+&gt;&gt; Yeah. So, we are just refreshing the
+timeline all the time waiting for the
+moment that they pushed
+&gt;&gt; Yeah. Because okay, so if you use 5.5
+now, like how much slope are you going
+to push?
+&gt;&gt; But it doesn't matter. You can either
+prompt write prompts or you can now just
+build with 5.5, put it in different
+branch, and as soon as the 5.6 comes
+out, you say, "Hey, this was my branch.
+Check everything." And it will optimize
+your code.
+&gt;&gt; So, you push as much PR that you can,
+and then you will review everything.
+Yeah, makes sense.
+&gt;&gt; Yeah. And you don't have to explain what
+you want to do.
+&gt;&gt; Yeah. So, basically you prepare for the
+next upcoming models. Hopefully we're
+not going to have to wait to
+to many things, and that's going to
+&gt;&gt; Yeah, I have like over 100 branches with
+code waiting to be reviewed.
+&gt;&gt; But you you know that's what feel like
+something again like feel another video
+of his like
+he was on the conversation conference,
+and he was recording on his on his
+history card mobile app, and Fabel
+shipped what he thought would take a
+months to review and ship, and he didn't
+have to review as much as it was
+reviewing before.
+&gt;&gt; Yeah, but before we were building with
+5.5 as well, so
+&gt;&gt; Yeah, I know. Exactly.
+&gt;&gt; it won't be that big of an issue.
+&gt;&gt; But you you don't know Okay, I don't
+know what I ship until it's broken.
+&gt;&gt; We will give an update on the channel
+once 5.6 is out.
+&gt;&gt; Yes, I think we have we have our stream
+for next week. That's for sure. Okay,
+the alternative doesn't exist. Bye. End
+of the video. Let's go. Mitchell, thank
+you so much for your time and uh
+Let's get back to prompting some plans
+that we will review by smarter models.
+&gt;&gt; [laughter]
+&gt;&gt; Awesome. Thank you. Enjoy your day.

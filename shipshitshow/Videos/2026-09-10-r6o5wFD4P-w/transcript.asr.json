@@ -1,0 +1,1187 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,200"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5200
+      },
+      "text": " Astra, I started checking all my projects and that's a cool thing. Every time when you get a"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,200",
+        "to": "00:00:10,720"
+      },
+      "offsets": {
+        "from": 5200,
+        "to": 10720
+      },
+      "text": " new model, I say, hey, check this product, take security to the next level, remove all box you"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,720",
+        "to": "00:00:16,480"
+      },
+      "offsets": {
+        "from": 10720,
+        "to": 16480
+      },
+      "text": " find. And then it says, oh no, I'm sure it's a perfect project. And then we go to Astra and it"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,480",
+        "to": "00:00:22,800"
+      },
+      "offsets": {
+        "from": 16480,
+        "to": 22800
+      },
+      "text": " found like, yeah, the first thing I do with every model is check my entire code base for a few"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:22,800",
+        "to": "00:00:27,520"
+      },
+      "offsets": {
+        "from": 22800,
+        "to": 27520
+      },
+      "text": " projects that we just keep on continuous upgrading. And it found like full list,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:27,520",
+        "to": "00:00:32,800"
+      },
+      "offsets": {
+        "from": 27520,
+        "to": 32800
+      },
+      "text": " we improved everything. Then I said, I want to make sure that my servers get less load because"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:32,800",
+        "to": "00:00:39,280"
+      },
+      "offsets": {
+        "from": 32800,
+        "to": 39280
+      },
+      "text": " we need to be able to scale on the same amount of servers. And it did everything. And in my graphs,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:39,280",
+        "to": "00:00:45,600"
+      },
+      "offsets": {
+        "from": 39280,
+        "to": 45600
+      },
+      "text": " I just see the RAM and the memory uses, I see a drop. So that's perfect. That's awesome. And it"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:45,600",
+        "to": "00:00:52,000"
+      },
+      "offsets": {
+        "from": 45600,
+        "to": 52000
+      },
+      "text": " just keeps optimizing queries and everything. Okay. Yeah. Okay. So, but it's like, remember"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:52,000",
+        "to": "00:00:57,280"
+      },
+      "offsets": {
+        "from": 52000,
+        "to": 57280
+      },
+      "text": " like when we drop like four point, when they drop 4.8 and then we check the exactly the same stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:57,280",
+        "to": "00:01:02,640"
+      },
+      "offsets": {
+        "from": 57280,
+        "to": 62640
+      },
+      "text": " and then, oh shit, there is a shit ton of bugs, probably a lot of slope, right? And now we still"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:02,640",
+        "to": "00:01:09,360"
+      },
+      "offsets": {
+        "from": 62640,
+        "to": 69360
+      },
+      "text": " have this D slope steps two years later. Yes. I think if you drop it a project from 2010,"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:09,360",
+        "to": "00:01:13,120"
+      },
+      "offsets": {
+        "from": 69360,
+        "to": 73120
+      },
+      "text": " when we were coding, you will get a response that should not be able to work."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:13,120",
+        "to": "00:01:21,440"
+      },
+      "offsets": {
+        "from": 73120,
+        "to": 81440
+      },
+      "text": " Yeah. Are you sure it's live? Yeah. I think speed can play a big role because if you fix"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:21,440",
+        "to": "00:01:27,760"
+      },
+      "offsets": {
+        "from": 81440,
+        "to": 87760
+      },
+      "text": " something, if you do something fast and you can quickly also fix it fast, if it goes wrong"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:27,760",
+        "to": "00:01:34,080"
+      },
+      "offsets": {
+        "from": 87760,
+        "to": 94080
+      },
+      "text": " and it doesn't take like crazy turns, like just go for it, right? Yeah. And the result is still"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:34,080",
+        "to": "00:01:40,000"
+      },
+      "offsets": {
+        "from": 94080,
+        "to": 100000
+      },
+      "text": " faster than when another model does it in double the time. What do you expect for the next round of"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:40,000",
+        "to": "00:01:46,400"
+      },
+      "offsets": {
+        "from": 100000,
+        "to": 106400
+      },
+      "text": " model, like 5.2 and 6.1? Like what do they need? Like, do they need to be smarter or cheaper,"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:46,400",
+        "to": "00:01:52,240"
+      },
+      "offsets": {
+        "from": 106400,
+        "to": 112240
+      },
+      "text": " faster? Yeah. Eventually I just want more tokens, but I don't think they are going to do that,"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:52,240",
+        "to": "00:01:56,720"
+      },
+      "offsets": {
+        "from": 112240,
+        "to": 116720
+      },
+      "text": " but I think eventually the models will get better, better, better, better, better. And then if you"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:56,720",
+        "to": "00:02:04,080"
+      },
+      "offsets": {
+        "from": 116720,
+        "to": 124080
+      },
+      "text": " are at, let's say 95%, does the 95.1 or 0.2% make a big difference? I don't think so. So then it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:04,080",
+        "to": "00:02:12,080"
+      },
+      "offsets": {
+        "from": 124080,
+        "to": 132080
+      },
+      "text": " all about optimizing to be more efficient and to maybe even give it more speed. Yeah. But the"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:12,080",
+        "to": "00:02:18,400"
+      },
+      "offsets": {
+        "from": 132080,
+        "to": 138400
+      },
+      "text": " problem is also that at the end of the day, at some point they will make us pay the correct price"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:18,400",
+        "to": "00:02:23,680"
+      },
+      "offsets": {
+        "from": 138400,
+        "to": 143680
+      },
+      "text": " of the token. Yeah. Unless they go bankrupt before. Yeah. Yeah. I don't know, but like for"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:23,680",
+        "to": "00:02:30,000"
+      },
+      "offsets": {
+        "from": 143680,
+        "to": 150000
+      },
+      "text": " professional developer. Yeah. At least two, right? Yeah. I hope people do because still, even if I"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:30,000",
+        "to": "00:02:35,520"
+      },
+      "offsets": {
+        "from": 150000,
+        "to": 155520
+      },
+      "text": " don't double check it with another agent, there's still a box in it. Yeah. Yeah. Yeah. Bugs are not"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:35,520",
+        "to": "00:02:42,240"
+      },
+      "offsets": {
+        "from": 155520,
+        "to": 162240
+      },
+      "text": " solved. But do you expect anything different from the upcoming models? Yeah. More speed and cheaper"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:42,240",
+        "to": "00:02:48,000"
+      },
+      "offsets": {
+        "from": 162240,
+        "to": 168000
+      },
+      "text": " cost. Like if they can reduce the cost of, of the tokens, that would be nice because yeah, again,"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:48,000",
+        "to": "00:02:54,240"
+      },
+      "offsets": {
+        "from": 168000,
+        "to": 174240
+      },
+      "text": " yeah. Like you said, right. Give us more usage so we can use your model. But it happened with"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:54,240",
+        "to": "00:03:02,160"
+      },
+      "offsets": {
+        "from": 174240,
+        "to": 182160
+      },
+      "text": " Opus 4.8, right? This update at that time was an update of the token consumption. And eventually"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:02,160",
+        "to": "00:03:07,120"
+      },
+      "offsets": {
+        "from": 182160,
+        "to": 187120
+      },
+      "text": " they need to because the Chinese models will work on smaller and smaller and smaller PCs with less"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:07,120",
+        "to": "00:03:13,680"
+      },
+      "offsets": {
+        "from": 187120,
+        "to": 193680
+      },
+      "text": " RAM. And if there is a big difference, if I know that I can invest four or 5K and earn it back in"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:13,680",
+        "to": "00:03:19,920"
+      },
+      "offsets": {
+        "from": 193680,
+        "to": 199920
+      },
+      "text": " a year, then yeah, then Claude and Astra are losing. You would invest like 10 grand in the"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:19,920",
+        "to": "00:03:26,960"
+      },
+      "offsets": {
+        "from": 199920,
+        "to": 206960
+      },
+      "text": " hardware to install a model right now? Yeah. Why not? If you, if you need such big API usage so"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:26,960",
+        "to": "00:03:33,600"
+      },
+      "offsets": {
+        "from": 206960,
+        "to": 213600
+      },
+      "text": " that your costs are like 10K per year, and you can do it on a local, on two local models so that you"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:33,600",
+        "to": "00:03:39,680"
+      },
+      "offsets": {
+        "from": 213600,
+        "to": 219680
+      },
+      "text": " buy two of the NVDAs for 5K or like two Mac Minis, the bigger ones, I would do it because then you're"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:39,680",
+        "to": "00:03:45,200"
+      },
+      "offsets": {
+        "from": 219680,
+        "to": 225200
+      },
+      "text": " redundant. If one breaks, you still have the other one and you only need a year to earn it back"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:45,200",
+        "to": "00:03:51,200"
+      },
+      "offsets": {
+        "from": 225200,
+        "to": 231200
+      },
+      "text": " because people on the API costs, they have high bills. People are not telling it. Everybody is"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:51,200",
+        "to": "00:03:57,200"
+      },
+      "offsets": {
+        "from": 231200,
+        "to": 237200
+      },
+      "text": " showing hurry, I'm doing this for $200, but the companies who don't, they pay like easy 5 to 10K"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:57,200",
+        "to": "00:04:02,400"
+      },
+      "offsets": {
+        "from": 237200,
+        "to": 242400
+      },
+      "text": " per month in API tokens. Yeah. But then like, okay, maybe it will slow down with like the"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:02,400",
+        "to": "00:04:09,120"
+      },
+      "offsets": {
+        "from": 242400,
+        "to": 249120
+      },
+      "text": " new models update, but the level of intelligence will slow down maybe. But okay. You buy hardware"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:09,120",
+        "to": "00:04:15,920"
+      },
+      "offsets": {
+        "from": 249120,
+        "to": 255920
+      },
+      "text": " for DeepSeek for right now. Yeah. What happened when everyone is using Astra spending 10 grand"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:15,920",
+        "to": "00:04:22,880"
+      },
+      "offsets": {
+        "from": 255920,
+        "to": 262880
+      },
+      "text": " on API or whatever, and you are stuck with a dumb model that is six months old. I mean,"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:22,880",
+        "to": "00:04:29,760"
+      },
+      "offsets": {
+        "from": 262880,
+        "to": 269760
+      },
+      "text": " if they distill February 5.1 in 48 hours, that's another game. Yeah. But it also depends on what"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:29,760",
+        "to": "00:04:34,880"
+      },
+      "offsets": {
+        "from": 269760,
+        "to": 274880
+      },
+      "text": " you need. If you're building WordPress websites and you're doing like 50 websites per month,"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:34,880",
+        "to": "00:04:40,400"
+      },
+      "offsets": {
+        "from": 274880,
+        "to": 280400
+      },
+      "text": " then the cheaper model is good enough. There is no big complicated code needed. Yeah. Especially"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:40,400",
+        "to": "00:04:45,200"
+      },
+      "offsets": {
+        "from": 280400,
+        "to": 285200
+      },
+      "text": " to be able to scale. Yeah. Maybe if you have like same routines all the time and you have the same"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:45,200",
+        "to": "00:04:49,280"
+      },
+      "offsets": {
+        "from": 285200,
+        "to": 289280
+      },
+      "text": " task again and again and again, then you don't need to upgrade the frontier model too. Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:04:49,280",
+        "to": "00:04:54,800"
+      },
+      "offsets": {
+        "from": 289280,
+        "to": 294800
+      },
+      "text": " But also if you just put it in house and you have like a big warehouse and you need to track stock"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:54,800",
+        "to": "00:04:59,280"
+      },
+      "offsets": {
+        "from": 294800,
+        "to": 299280
+      },
+      "text": " and everything in house that people now do manually and you always have differences,"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:59,840",
+        "to": "00:05:06,320"
+      },
+      "offsets": {
+        "from": 299840,
+        "to": 306320
+      },
+      "text": " that will cost so much money that you can easily, the 5K will be earned back in a month. Yeah. Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:05:06,320",
+        "to": "00:05:10,960"
+      },
+      "offsets": {
+        "from": 306320,
+        "to": 310960
+      },
+      "text": " Maybe we'll see, or like the end of the year we'll update, but yeah, maybe next year we should"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:10,960",
+        "to": "00:05:17,120"
+      },
+      "offsets": {
+        "from": 310960,
+        "to": 317120
+      },
+      "text": " invest in some hardware. But the price is going nuts too. Computer use capabilities. That's the"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:17,120",
+        "to": "00:05:23,520"
+      },
+      "offsets": {
+        "from": 317120,
+        "to": 323520
+      },
+      "text": " big usage right now you can see on the timeline. Astra to use your software that you use every day,"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:23,520",
+        "to": "00:05:27,680"
+      },
+      "offsets": {
+        "from": 323520,
+        "to": 327680
+      },
+      "text": " they can do it better, faster than you. I'm going to use, I'm going to edit this video"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:27,680",
+        "to": "00:05:34,560"
+      },
+      "offsets": {
+        "from": 327680,
+        "to": 334560
+      },
+      "text": " after with Premiere and see how it reacts for real. Right. I built an MCP. So right now,"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:34,560",
+        "to": "00:05:41,200"
+      },
+      "offsets": {
+        "from": 334560,
+        "to": 341200
+      },
+      "text": " Premiere was drive via the MCP. It's like the API is kind of shit and there is like some actions that"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:41,200",
+        "to": "00:05:48,240"
+      },
+      "offsets": {
+        "from": 341200,
+        "to": 348240
+      },
+      "text": " you can't do via the MCP. And like if they have a better computer use, then I should also be able to"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:48,240",
+        "to": "00:05:56,160"
+      },
+      "offsets": {
+        "from": 348240,
+        "to": 356160
+      },
+      "text": " improve the sound and improve like the colorimetry and stuff directly because the model will use the"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:56,160",
+        "to": "00:06:01,440"
+      },
+      "offsets": {
+        "from": 356160,
+        "to": 361440
+      },
+      "text": " app. So yeah, that could be cool. But in this case, do they just give Astra access to the"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:01,440",
+        "to": "00:06:08,480"
+      },
+      "offsets": {
+        "from": 361440,
+        "to": 368480
+      },
+      "text": " entire computer? Yeah, that's computer use, right? Like your hollow Charge GPT app to use your"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:08,480",
+        "to": "00:06:16,320"
+      },
+      "offsets": {
+        "from": 368480,
+        "to": 376320
+      },
+      "text": " computer the way you would use it. Yes. And if the editing of the videos is quite simple, I expect"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:16,320",
+        "to": "00:06:22,480"
+      },
+      "offsets": {
+        "from": 376320,
+        "to": 382480
+      },
+      "text": " Astra to do a better job than me because I'm not an editor. I mean, yeah, I am by definition."
+    },
+    {
+      "timestamps": {
+        "from": "00:06:23,200",
+        "to": "00:06:28,800"
+      },
+      "offsets": {
+        "from": 383200,
+        "to": 388800
+      },
+      "text": " But like if it can cut better than me, let's go. Yeah. So it doesn't mean that we can also give"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:28,800",
+        "to": "00:06:36,800"
+      },
+      "offsets": {
+        "from": 388800,
+        "to": 396800
+      },
+      "text": " Astra an assignment, like show this image every five seconds. I mean, yeah, pretty sure it can do"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:36,800",
+        "to": "00:06:42,160"
+      },
+      "offsets": {
+        "from": 396800,
+        "to": 402160
+      },
+      "text": " it. And that would be interesting. For example, for the clips, instead of using Opus Pro, can we"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:42,160",
+        "to": "00:06:49,120"
+      },
+      "offsets": {
+        "from": 402160,
+        "to": 409120
+      },
+      "text": " tell Astra to cut five clips, add the subtitle, export, boom. That would be awesome. Yeah,"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:49,120",
+        "to": "00:06:53,520"
+      },
+      "offsets": {
+        "from": 409120,
+        "to": 413520
+      },
+      "text": " that would be that would be cool. But then it would be interesting to see how much it costs. So"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:53,520",
+        "to": "00:06:58,720"
+      },
+      "offsets": {
+        "from": 413520,
+        "to": 418720
+      },
+      "text": " yeah, I'm going to run this experience after this live stream. Thibaut mentioned that it was a"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:58,720",
+        "to": "00:07:04,000"
+      },
+      "offsets": {
+        "from": 418720,
+        "to": 424000
+      },
+      "text": " competitive advantage to have Charge GPT Astra before they release it. So now they release it,"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:04,000",
+        "to": "00:07:09,760"
+      },
+      "offsets": {
+        "from": 424000,
+        "to": 429760
+      },
+      "text": " they'll probably have seven and then they go even beyond that, right? Like so. Yeah. Yeah. They are"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:09,760",
+        "to": "00:07:17,120"
+      },
+      "offsets": {
+        "from": 429760,
+        "to": 437120
+      },
+      "text": " just so far ahead of us. Yeah. But yeah, so what are we going to do? Like, what's the goal? Build"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:17,120",
+        "to": "00:07:23,120"
+      },
+      "offsets": {
+        "from": 437120,
+        "to": 443120
+      },
+      "text": " more stuff, build better stuff, make sure we don't only build but earn money and just optimize"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:23,120",
+        "to": "00:07:28,960"
+      },
+      "offsets": {
+        "from": 443120,
+        "to": 448960
+      },
+      "text": " everything. And we can even start to rethink business model as integrate like AI integrator"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:28,960",
+        "to": "00:07:35,520"
+      },
+      "offsets": {
+        "from": 448960,
+        "to": 455520
+      },
+      "text": " stuff like they call that FGE, forward dev deployed engineer is a technical role that"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:35,520",
+        "to": "00:07:39,840"
+      },
+      "offsets": {
+        "from": 455520,
+        "to": 459840
+      },
+      "text": " embedded directly within customer environment to build deploy and integrate custom production"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:39,840",
+        "to": "00:07:46,640"
+      },
+      "offsets": {
+        "from": 459840,
+        "to": 466640
+      },
+      "text": " ready AI systems. There is also a new business model where you can come to a company, install AI"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:46,640",
+        "to": "00:07:53,040"
+      },
+      "offsets": {
+        "from": 466640,
+        "to": 473040
+      },
+      "text": " and stuff and you get paid based on performance. Oh, that's cool. And if you do that at scale,"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:53,040",
+        "to": "00:07:59,440"
+      },
+      "offsets": {
+        "from": 473040,
+        "to": 479440
+      },
+      "text": " and instead of 400k, you do that with 1 billion, then it's good. Yeah. And you just target the"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:59,440",
+        "to": "00:08:05,760"
+      },
+      "offsets": {
+        "from": 479440,
+        "to": 485760
+      },
+      "text": " bigger companies. Exactly. And how many big companies have the spending hundreds of thousands"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:05,760",
+        "to": "00:08:14,400"
+      },
+      "offsets": {
+        "from": 485760,
+        "to": 494400
+      },
+      "text": " of millions every month on XYZ stuff? And for you, it's one prompt, one skill, and even one"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:14,400",
+        "to": "00:08:21,040"
+      },
+      "offsets": {
+        "from": 494400,
+        "to": 501040
+      },
+      "text": " training, like two hours of trainings to with some like currents, and then you save them like 80% of"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:21,040",
+        "to": "00:08:27,360"
+      },
+      "offsets": {
+        "from": 501040,
+        "to": 507360
+      },
+      "text": " the yeah, of the cost. Yes. And you go on a holiday paid by them. Yeah, you can work six months and"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:27,360",
+        "to": "00:08:32,000"
+      },
+      "offsets": {
+        "from": 507360,
+        "to": 512000
+      },
+      "text": " then you make enough money from that. There is something because even like in in five years,"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:32,000",
+        "to": "00:08:39,360"
+      },
+      "offsets": {
+        "from": 512000,
+        "to": 519360
+      },
+      "text": " you will still integrate AI to big system or like big companies or jet laggers. Yeah. Yeah,"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:39,360",
+        "to": "00:08:46,560"
+      },
+      "offsets": {
+        "from": 519360,
+        "to": 526560
+      },
+      "text": " for sure. In France, I think they're still like integrating systems like internet, maybe not"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:46,560",
+        "to": "00:08:52,800"
+      },
+      "offsets": {
+        "from": 526560,
+        "to": 532800
+      },
+      "text": " internet, but like computer stuff. Anyway, how many how many integrators you have for Microsoft?"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:52,800",
+        "to": "00:08:57,760"
+      },
+      "offsets": {
+        "from": 532800,
+        "to": 537760
+      },
+      "text": " Yeah, so many. But as soon as you go to the big companies, you also have to look at privacy. And"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:57,760",
+        "to": "00:09:02,320"
+      },
+      "offsets": {
+        "from": 537760,
+        "to": 542320
+      },
+      "text": " yeah, how do you train the people? So it's a bigger project, but there is a lot of money in"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:02,320",
+        "to": "00:09:08,240"
+      },
+      "offsets": {
+        "from": 542320,
+        "to": 548240
+      },
+      "text": " it for sure. No, yeah. And if you go to deploy like an open source, like open weight model,"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:08,240",
+        "to": "00:09:15,040"
+      },
+      "offsets": {
+        "from": 548240,
+        "to": 555040
+      },
+      "text": " locally, like and you it's then you don't have like, yeah, like, it's fucking huge product."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:15,040",
+        "to": "00:09:20,640"
+      },
+      "offsets": {
+        "from": 555040,
+        "to": 560640
+      },
+      "text": " That's like the videos you see online and like people buying 500 Mac minis. And if they are"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:20,640",
+        "to": "00:09:25,200"
+      },
+      "offsets": {
+        "from": 560640,
+        "to": 565200
+      },
+      "text": " sold out, they just buy MacBook Pros. Yeah, there's so many opportunities, right? Bro,"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:25,200",
+        "to": "00:09:29,360"
+      },
+      "offsets": {
+        "from": 565200,
+        "to": 569360
+      },
+      "text": " we need to print. We're getting hyped. But yeah, and you can do that, for example, for content,"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:29,360",
+        "to": "00:09:35,600"
+      },
+      "offsets": {
+        "from": 569360,
+        "to": 575600
+      },
+      "text": " right? You run ads, you have a you run like you spend 100k on ads, I have my AI process,"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:35,600",
+        "to": "00:09:41,680"
+      },
+      "offsets": {
+        "from": 575600,
+        "to": 581680
+      },
+      "text": " you don't even have my SaaS, but I'm using my SaaS for myself, I run ads for you, you spend,"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:41,680",
+        "to": "00:09:49,680"
+      },
+      "offsets": {
+        "from": 581680,
+        "to": 589680
+      },
+      "text": " you cut the cost by 50%. But you get 200% better result. Yeah. And I get 20% of the savings."
+    },
+    {
+      "timestamps": {
+        "from": "00:09:49,680",
+        "to": "00:09:55,520"
+      },
+      "offsets": {
+        "from": 589680,
+        "to": 595520
+      },
+      "text": " That's, that's perfect. And and it's not even the usage, the usage is not even it's on me,"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:55,520",
+        "to": "00:10:00,480"
+      },
+      "offsets": {
+        "from": 595520,
+        "to": 600480
+      },
+      "text": " I pay for the usage, I you don't pay for the seats, you can just have an access to a dashboard"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:00,480",
+        "to": "00:10:05,200"
+      },
+      "offsets": {
+        "from": 600480,
+        "to": 605200
+      },
+      "text": " or whatever. But like, oh, you can even connect it to your own chat TPT, you get you get it,"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:05,200",
+        "to": "00:10:10,240"
+      },
+      "offsets": {
+        "from": 605200,
+        "to": 610240
+      },
+      "text": " you get all of the data, drop down. Well, I think we are going towards sort of such systems."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:10,240",
+        "to": "00:10:18,320"
+      },
+      "offsets": {
+        "from": 610240,
+        "to": 618320
+      },
+      "text": " Yeah, it makes sense. And then also, like it will empower the experts in every domains to"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:18,320",
+        "to": "00:10:26,240"
+      },
+      "offsets": {
+        "from": 618320,
+        "to": 626240
+      },
+      "text": " develop and increase their expertise. And the level of delivery and output will increase."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:26,240",
+        "to": "00:10:31,760"
+      },
+      "offsets": {
+        "from": 626240,
+        "to": 631760
+      },
+      "text": " Thanks to AI. So subscribe and watch the next video. And that's a wrap. Thank you."
+    },
+    {
+      "timestamps": {
+        "from": "00:10:31,760",
+        "to": "00:10:33,760"
+      },
+      "offsets": {
+        "from": 631760,
+        "to": 633760
+      },
+      "text": " Cheers, everyone. Bye bye. Bye."
+    }
+  ]
+}

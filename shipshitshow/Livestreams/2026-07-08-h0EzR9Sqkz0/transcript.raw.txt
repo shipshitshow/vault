@@ -1,0 +1,1086 @@
+And we are live. Welcome back on the
+Ship Ship Show for a new week. And what
+a week. What a week.
+&gt;&gt; A busy week.
+&gt;&gt; Yes. That That was a fun one. Like
+&gt;&gt; it's kind of I I'm fully maxed out on
+everything. So
+&gt;&gt; yeah. Yeah. I didn't use my codeex reset
+yet, but uh I
+&gt;&gt; I'm done with CL to account like
+bye-bye.
+&gt;&gt; Exactly.
+&gt;&gt; Yeah. Uh G No. Yeah.
+GM O. Oh, forgot the tweet again, but
+that's fine. We were making like a so
+should be fine. And YouTube, are we live
+on YouTube? I think it's going to be
+good. Yes, we are live. Let's go. Let's
+go. Let's go. Okay, cool. Uh okay. I'm
+excited, man. I'm excited. I'm hyped.
+&gt;&gt; So, you've just finished your entire
+work for the whole year in a week.
+&gt;&gt; I'm I'm catching up with what I was late
+on the last few months, but uh yeah,
+that was that was a week. Okay, I'm
+going to do the intro and then we jump
+right away and then Okay.
+&gt;&gt; Uh okay.
+&gt;&gt; Fiber is gone and you are missing it.
+And we know that because we are missing
+it too and it was already like just
+today.
+&gt;&gt; Yeah, [laughter]
+&gt;&gt; we build a road map in a week that we
+were dreaming of for months uh because
+fable was so great but now it's gone. So
+what are the alternatives? We are going
+to dig into that in this video. So uh uh
+subscribe, watch the video and like and
+share it with your friends.
+Nice.
+&gt;&gt; Perfect.
+&gt;&gt; Oh, okay. Cool. Uh, okay. So, what did
+you do with SE 5?
+&gt;&gt; Uh, everything.
+&gt;&gt; Yeah,
+&gt;&gt; I just had Adam check every project
+and it created a lot of documentation
+and then I was at 2%. So, I thought,
+well, let's go.
+&gt;&gt; Yes.
+&gt;&gt; Because I don't know, but last time it
+was was the usage going on much faster.
+Right.
+&gt;&gt; I Okay, so for me, I slow down on ultra
+code.
+I put it on high.
+&gt;&gt; I I was fable high the whole week.
+&gt;&gt; Yes.
+&gt;&gt; But only on planning and documentation
+and uh stuff like that. And I was I used
+ultra code only for when I asked it to
+discover something in the codebase.
+&gt;&gt; Mhm.
+&gt;&gt; But as soon as I had one or two session,
+I was taking like 10% of the usage like
+nuts. But like it it was like spawning
+like Yeah. 100 sub agent worked for 30
+minutes. So maybe that's why. But like
+the output was nice.
+&gt;&gt; Yeah. And I think your code base is much
+bigger than the ones that I use.
+&gt;&gt; Uh 1 million of code like
+&gt;&gt; Yeah, it's bigger. I use it for small
+projects as well and that's that's
+awesome.
+&gt;&gt; Okay. Yeah. Okay. Yeah, there is also
+that
+um interesting. So just getting a a
+something stupid like a WordPress theme
+&gt;&gt; that was custommade but like two three
+years ago.
+&gt;&gt; Yeah.
+&gt;&gt; I only downloaded team asked uh Fable to
+just update everything
+&gt;&gt; and it gave me a list and then it said
+please wait and it gave me another list
+and it did everything and even Google
+page speed went up from like 30 to 98.
+&gt;&gt; Damn. It just improved everything.
+&gt;&gt; Yeah. I mean like in the data set I can
+expect that a lot of WordPress theme and
+website and stuff are like it's
+basically the front door of internet. So
+all of that [&nbsp;__&nbsp;] was been has been
+scrapped and all of the public template.
+Yeah.
+Yeah. That would be Yeah, that's nice.
+Um but do you see no like not a value
+but like do you see this industry like
+dying because now it will be like you
+can v one prompt one shot a WordPress
+template.
+&gt;&gt; No I think the industry is is even going
+to get bigger because so many people get
+access
+&gt;&gt; and they will just create and then if
+they want something fixed they still ask
+a defaf because they can do everything.
+&gt;&gt; Yeah. I mean maybe for the like the big
+the big ecom websites.
+&gt;&gt; Yeah. But also for small I have a
+customer who is creating the entire
+design with with claw design.
+&gt;&gt; Okay.
+&gt;&gt; And he doesn't know how to use FTP. So
+he keeps asking me to upload the HTML
+files.
+&gt;&gt; Why doesn't use He's almost here. He's
+almost here.
+&gt;&gt; Yeah. Yeah. But this explains people see
+how it works. they can do it
+&gt;&gt; and they have the design ready and then
+they don't know what to do.
+&gt;&gt; Yeah. Ah yeah. So they don't have the
+knowledge and they don't they didn't ask
+okay. So now what do I do to uh to make
+it live basically?
+&gt;&gt; But then they they need to enter enter a
+FTP address or an IP and they don't know
+where the IP is so they search their own
+IP and they try to link in to the local
+network. You know all those funny MS
+that people show.
+&gt;&gt; Yeah. Um, who is Jason? Well,
+&gt;&gt; yeah,
+&gt;&gt; actually people are doing it and then
+they say I'm out of uh uh of of Google
+&gt;&gt; of my site is not indexed and then
+you're checking you don't have a sitemap
+or they just uploaded all the HTML files
+over the WordPress website. So the
+WordPress website is still giving the
+sitemap and the HTML files are
+overriding the PHP file. So you're
+seeing a different website and so
+honestly
+I've seen this at multiple customers who
+think that they did it correct and they
+are afraid of breaking stuff and don't
+know what they're doing. There was still
+a lot of work for people who have a
+little bit of knowledge.
+&gt;&gt; Okay, that's interesting. That's
+interesting. Yeah. So there's still a
+gap even like if I mean it's like yeah
+everyone can
+use Photoshop but if you are not not an
+artist or like a professional editor you
+can prompt what the [&nbsp;__&nbsp;] you want but if
+you didn't study light or you have an
+understanding of light aspect color
+palette color blah blah blah uh then
+you're not going to go anywhere.
+&gt;&gt; Yeah. And if there is nothing exciting
+in your in your hosting,
+&gt;&gt; you can just give cloud code, the SSH
+key, just give him the username,
+password, tell them the IP, it will log
+in and it will do everything for you. It
+will clean up, it make improvements, it
+will do testing,
+it does everything.
+&gt;&gt; Yeah. Oh yeah, like that that was one of
+my big aha moment with AI when uh I set
+up a server for genfit
+&gt;&gt; and CL did the whole configuration
+and three years, five years ago, it
+would have take me like maybe
+three day to a week to maybe even more
+because then you you set up the
+configuration but then you forgot a
+comma in the nix config file and then
+the redirection is not talking and it
+took you like three weeks to [&nbsp;__&nbsp;]
+find this comma.
+&gt;&gt; Yeah. But also, if you want to connect
+two servers in the same uh space,
+&gt;&gt; you want to do it via private tunnel.
+So, you have to set it up. You have to
+test everything.
+&gt;&gt; And that took so much time. And now you
+just say, "Hey, set it up like this,
+this, this." And then you do your test,
+you give him the results, it finishes,
+and it's done.
+&gt;&gt; No, not that. But still like we know
+what we want, how we want to do it and
+which question to ask. So yeah, but
+still with that perspective with Fable 5
+like what are your first impression of
+like using
+&gt;&gt; like Yeah. How do how is that different
+from Opus 4.8?
+Opus just felt like I had still had not
+a junior but maybe a meteor and I still
+had to give a lot of improvements and
+say well you rebuilt everything but I
+only wanted to change uh this line in
+CSS
+&gt;&gt; that would have fixed it. Um and it
+would give me options on what I could do
+and then I would say have you thought
+about this and said oh yeah that's a
+great option as well. So I still had a
+lot of conversations and if it's really
+solid
+&gt;&gt; in the prompt that you gave it, it will
+do it perfectly.
+&gt;&gt; But giving it more freedom was still
+having issues and I was fable. It was
+like I had a second team lead.
+&gt;&gt; Yeah. What same feeling like
+&gt;&gt; and even when he said and I he gave me
+options and I was like one is okay, two
+is better. Three, what is three? Explain
+it to me. And he gave me like a whole
+new solution to do it even better.
+That's exactly the same like it it feel
+for me it feel like a proper co-founder
+like technical co-founder where like
+that level like that level of like
+direction and solution and stuff. So the
+future is bright bro.
+&gt;&gt; Oh yeah. Imagine it getting even better.
+&gt;&gt; Yeah. Like
+&gt;&gt; it it starts to talk back to me and say,
+"Hey, you're doing it wrong." [laughter]
+&gt;&gt; Uh
+I saw your tweet. Uh I'm gonna show you
+uh when he asked um Fable to uh rate his
+codebase and he got toasted. [laughter]
+&gt;&gt; But before this was like really good.
+You would hire these guys at really high
+rates just to get them to do it for you.
+And now an AI roast them.
+&gt;&gt; Exactly. And it was not fine. It okay.
+Maybe also he prompted it as a joke and
+stuff. But uh that was uh that was uh
+&gt;&gt; Yeah, but if it can't find anything
+wrong then there is nothing wrong.
+&gt;&gt; Yeah. I mean yeah until you ask uh are
+you sure and then it go oh yeah by the
+way I found that and that and that.
+&gt;&gt; Yeah. Um where is it? Uh
+&gt;&gt; well the cool thing is with Fable if it
+came back with the new solutions and I
+asked one okay what sort of companies
+use it? He said, "Yeah, like enterprise
+level." So I said, "Well, that takes a
+long time to set up. Maybe we do this
+first." And he said, "Oh, no, no, no.
+It's like a few setups and it doesn't
+even take more time than the way that
+you do it." And I just set it up
+properly.
+&gt;&gt; Yeah. No, no, like the estimation of uh
+task and implementation is garbage
+because again, it was trained on human
+implementation time.
+&gt;&gt; But AI is, "Oh yeah, no, we need three
+weeks to implement that, bro. You can do
+it in five minutes. Shut the [&nbsp;__&nbsp;] up."
+&gt;&gt; Yeah. Yeah. And even if you ask, it's
+normally 3 weeks. How long does it take
+when I use like two AI agents who do it
+for me? He still says a week. [laughter]
+&gt;&gt; Mental. But okay. So you uh Okay. Uh I'm
+going to
+&gt;&gt; do you know what the issue is then?
+Maybe AI still thinks that we read
+everything.
+&gt;&gt; Oh,
+&gt;&gt; just wait for the moment that it knows
+that we don't read the code it creates.
+Then we have a problem. I'm I'm already
+here, bro. Because uh
+Okay. Okay. Okay. Okay. Okay. Okay.
+That's gonna That's gonna be a good
+point. Okay. Uh okay. We don't care
+about this this tweet anymore.
+&gt;&gt; Yeah.
+&gt;&gt; So, reviewing code
+&gt;&gt; Mhm. If [clears throat]
+the cost of writing code is zero
+and you can ship fast, what's the point
+of reviewing
+code that you can instantly fix anyway?
+&gt;&gt; The only thing is there is a difference
+in reviewing between having a bug and
+not working and having it working but
+being insecure.
+Yes, but uh at some point the models
+will also
+be able to write better code that any
+fun engineers.
+&gt;&gt; Yeah. So they don't you don't write it.
+You just test it if it is user friendly
+&gt;&gt; that that yes like the taste of codeex
+5.5 or even like uh 4.8. I didn't do any
+front end with fable. I mean did I maybe
+maybe a bit but uh I still use Opus 4.8
+for front. Um but yes what I do is like
+I run the app on local and even on
+production like with the
+extension and then code is uh click
+click click on the app and then I can
+say okay this one is broken and then uh
+change that then you still have to
+describe that you want but uh it's
+getting better [clears throat] and
+better and yes soon enough it should
+like memorize what you want or even like
+have the guidelines of all of the
+project and keep following the
+guidelines and the MD file that you
+have. So then it's done like it knows
+that I don't want it to not use my
+shared component like a card or a table.
+I don't want him to create a HTML table.
+I I want it to use my table component.
+So then it will always looks the same,
+you know.
+&gt;&gt; Yeah, that's perfect.
+So yeah, it just like you have a wide
+engineers that need guard rails and your
+job is just like giving like put him on
+the rails. But yeah, it can execute like
+crazy stuff. Like for example, I never
+coded with Swift. I always did like um
+um
+hybrid apps.
+&gt;&gt; Mhm. But no, I have two or three apps
+that I use on my Mac like the Mac sweep
+clean and the metabar stuff completely
+sweep swift native code.
+Never read a line of code. Okay, it's a
+small tool stuff, right?
+&gt;&gt; But it works. I have a nice user
+experience with it and that's it
+&gt;&gt; and it's perfect and you use it for
+yourself. So it's not to scale and
+&gt;&gt; Yes. I mean yeah and and it doesn't
+needs to scale like crazy in term of
+okay uh it's going to touch your
+computer it's open source so people can
+review the code whatever whatever um so
+it's fine yes okay I'm not building
+Twitch so fair enough
+&gt;&gt; I think that's still also a big
+difference some of the tools that I make
+that are running locally
+&gt;&gt; or even in a GitHub and we just pull
+them to everybody in a company but
+everybody runs it locally not on the
+internet Then yeah, just let it run. I
+don't even check. It just needs to work.
+&gt;&gt; Yeah. Yeah. Exactly. And I could see
+like even a a future where like you use
+more apps than web cloud based stuff
+because at scale like you could even
+maybe you have like yeah server
+synchronization and stuff like that but
+you
+um relocate the server effort to your
+user computers.
+&gt;&gt; Yes,
+&gt;&gt; there is some Yeah. stuff like that. But
+yeah, I don't know. I don't know how
+that will change. But yeah, Feb Feb 5
+was great. I know it's coming.
+&gt;&gt; You know it's coming. So what's coming
+next?
+&gt;&gt; Uh 5.6 like soon, please.
+&gt;&gt; And they promise us it was better.
+&gt;&gt; Yeah. I mean, okay. So Chibo
+Chiu, do do you know this guy? Not this
+guy. This guy. This guy.
+He's a guy who has the power to reset
+our Codex subscription
+and um Ultra will be in Codex with 1
+million views for reply.
+&gt;&gt; Yeah,
+&gt;&gt; open OpenAI missed a tricky uh a trick
+by keeping 5.5 Pro out of Codex. With
+Codex having much higher usage limit and
+open eye giving out so many reset,
+there's basically no reason to pay for
+clone max 20 uh right now. No, I really
+hope they had 5.6 Pro or so ultra to
+Codex. Ultra will be on Codex.
+&gt;&gt; Yeah. And he even has like so much more
+views than the person with the original.
+&gt;&gt; Yeah, because everyone is like quoting.
+But uh yeah, it's it's going to be nuts.
+Um closing. Okay, I don't care about
+that. Uh, okay. It was working. Yes. Uh,
+and they are teasing it like hard. So, I
+think it's coming soon. Uh,
+&gt;&gt; even if you just think about the
+marketing, they know that people want it
+because they use Fable.
+&gt;&gt; Yeah.
+&gt;&gt; And now Fable is being taken away and
+put behind a very expensive API.
+&gt;&gt; Exactly. So I would wait and I would
+just say eventually well to everybody
+come to us we have it for you and it is
+cheaper and better
+&gt;&gt; and and you don't have credits because
+uh you can press the reset button
+whatever you want.
+&gt;&gt; Yeah.
+&gt;&gt; And entropy can catch up because they
+don't have the little computers to run
+like see uh GPT 5.6 solar ultra uh 92%
+5.6 six soul which is like the yeah it's
+the big uh fable five mitos uh uh GPT
+right equivalent right but it's at the
+same level slightly above it
+&gt;&gt; yeah they had one question more in the
+correct way so they
+&gt;&gt; oh
+&gt;&gt; for the 0.8% 8%.
+&gt;&gt; Yeah, could be. Yeah. Uh, okay. Yeah.
+So, even like the Terra, which which
+will be like the I think the first one.
+No, it's Moon, Terra, and Soul, right?
+So, it will be probably like the
+equivalent of like XI or high and it's
+at the same level of Fable 5. So, wait,
+what? 5.5 is at the No, that's not true.
+&gt;&gt; No, that's not true.
+&gt;&gt; Okay, maybe uh maybe this short is
+[&nbsp;__&nbsp;]
+Search for the real benchmark they gave
+us.
+&gt;&gt; Yeah, but I don't think we have it,
+right?
+Uh 5.6 model available only to selected
+trust partner. So that's cool. Uh 5.5
+low is fast. Imagine 5 sold on Sarah
+Brass. Okay, whatever. Oh yeah. See,
+Cerras, that was the what the the
+company that uh Nick uh was talking
+about.
+&gt;&gt; Mhm.
+&gt;&gt; Last week.
+Uh
+uh so 5 bit. So 5.6 soul ultra already
+bit five a fable five on terminal bench.
+Okay. So that's what we saw. Um I'm
+going to try to find the charge again.
+Half the price less guardrail killing
+normal coding task. No weekly limit that
+sales build up running 24 hours.
+&gt;&gt; Yeah.
+&gt;&gt; So you just buy another subscription
+after 24 hours.
+&gt;&gt; Yeah. That that's going to get shipped.
+That going to get expensive if we do
+that again. Um
+uh wait what upcoming prediction? Yeah.
+Okay.
+Okay. I lost the tweet. Oh okay. So no
+that looks like the chart is legit.
+uh 5.6 launches next week which is uh
+yeah the same week entropic pull pulls
+Fable 5 from subscription
+uh tech t tech yeah okay so the
+benchmark I don't understand the 5.5 in
+fable 5 in my wasn't the gap that small
+&gt;&gt; I don't think so I didn't use codeex 5.5
+with I was full cloud last week but
+Yeah. Okay. So maybe
+&gt;&gt; if the better one is coming just uh I
+don't care. Give me the better one.
+&gt;&gt; Oh yes. Exactly. Uh so Saul it will be
+the big big one. Terra and Luna. So Luna
+will be the equivalent of Sunny maybe
+and Terra Opus and Soul will be Fable
+I guess.
+&gt;&gt; Mhm. [clears throat]
+&gt;&gt; I mean they already have it but yeah
+whatever. Uh 5.56.
+What do you guys think will be a lot of
+error? I mean, even if it's at the same
+level, but with the codeex usage, that's
+it. It's game over.
+Like, how long? Oh, no. Entropic has uh
+the deal with uh
+&gt;&gt; Yeah. with Right.
+&gt;&gt; Yeah. Do we know like how long they need
+to start the servers?
+&gt;&gt; I don't know.
+&gt;&gt; Yeah. Because
+&gt;&gt; the only thing I know is that even now
+with using Fable
+&gt;&gt; in the nightly hours, so when it was US
+time,
+&gt;&gt; it would be slower than in my mornings
+and it would even sometimes just give
+issues.
+&gt;&gt; Oh yeah, like the server API like uh
+&gt;&gt; not not available. Yeah, that's
+annoying. Uh it's
+there was entropic compute
+uh yeah okay
+can I can find it but yeah okay and then
+uh if it's not chat GPT uh GPT 5.6 uh
+are you going to start to call some
+Chinese models?
+&gt;&gt; No, I'm just using the 5.5 and the Opus.
+&gt;&gt; Yeah. And only if one of my customers
+really wants Fable, he has to pay for
+it. But I'm not spending that much money
+on the model. But Fable made so much. I
+I made him uh create a road map for the
+coming six months
+&gt;&gt; on every project
+&gt;&gt; and that's like a full day of of coding
+instead of six months because it says,
+"Oh, we can do this in this month, but
+still you can do it in an hour."
+&gt;&gt; Yeah. Uh, so I have a lot of work left.
+&gt;&gt; Yeah. Yeah. So like like last time like
+you max out fable to plan everything
+out, right?
+&gt;&gt; Yeah. And then just the next two or
+three weeks you can keep on going with
+Opus and Codeex.
+&gt;&gt; Yeah. Exactly. And by that time
+hopefully you have 5.6
+&gt;&gt; the next one.
+&gt;&gt; Yeah. Uh did you try like the GPTs at
+all like the
+the initial uh launch you know like the
+open source from
+uh OpenAI introduction GP2s was that
+&gt;&gt; no I didn't test it
+&gt;&gt; that was oh what okay oh that was last
+year yes
+so yeah
+I mean
+&gt;&gt; if you need to test everything it is
+just too much.
+&gt;&gt; Yeah. And yeah, again like when you have
+a code and codexc subscription like you
+don't need that. But uh what can you do
+on a models that have been posted
+in October last year compared to now?
+That's tricky too, right?
+Because also we're building like
+workflow for the models that are live
+and frontier right now. I don't want to
+come back six months too late even if
+it's free.
+&gt;&gt; No, but you're also building it now when
+you're creating prompts and you see the
+results and you approve it and if you
+get a model that's not as good, the
+results will be very bad.
+&gt;&gt; Yeah. True. Yeah.
+&gt;&gt; Because it cannot handle the setup that
+you have created.
+&gt;&gt; Yeah. Like the organization and like the
+Yeah. like the sub agent potential blah
+blah blah benchmark
+tech
+[&nbsp;__&nbsp;] arena
+AI bench mark max
+because even right now like the
+um
+cloud fable 5 yes um the the the private
+labs are winning anyway like all of the
+models. Okay. The top 10 models are like
+all entropic or
+uh open eye.
+&gt;&gt; Yeah. But when you have a good model,
+you just use it to train.
+&gt;&gt; So if you have an edge and you are the
+front runner, you use that one to train
+your next one. Then people need to work
+really hard to get
+&gt;&gt; Yeah.
+&gt;&gt; Or they can distill your models. That's
+a problem, too.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. If if you if you come out with a
+so with AI now that you have uh the
+training that cost you1 billion dollar
+and then other people are uh distilling
+it for 100k and now they have a1 billion
+uh dollarsish
+um even if you get 50% it's still a big
+improvement
+&gt;&gt; but I think that's why uh cloud block
+China right
+&gt;&gt; or they put And they were talking about
+putting in the spyware to see who in
+China was stealing the data and blocking
+everything
+&gt;&gt; really
+I mean can they really
+&gt;&gt; I don't know it was on X so try search
+it
+&gt;&gt; China bans entropic AI from employation
+what the okay fair enough
+claps back at entropic yeah I mean if
+you lose China. That's a big market. So
+that's annoying.
+&gt;&gt; Yeah. Well, Trump blocked it anyway. So
+&gt;&gt; yeah. [laughter]
+Yeah. That's that, bro. That's a massive
+discussion because again in Europe like
+okay, we have like 300. So it's another
+like US market is with less buying power
+than the US. But it's like 400 million
+um market 400 million people market.
+Can they ban uh Europe of usage of any
+AI?
+&gt;&gt; Yeah. Well, even if you say they cannot,
+they do it with everything.
+&gt;&gt; Yeah. And it makes sense with
+intelligence, right? Because you say,
+"Oh, sorry, Rob. Uh you can't use OpenAI
+or Entropic and we're going to keep
+doing intelligence for us. See you in
+six months."
+&gt;&gt; Uh that's it. Like Yeah.
+&gt;&gt; There's no more economy in Europe at
+all. No. Can you imagine that?
+&gt;&gt; At least the smart people are then
+moving out.
+&gt;&gt; Yeah. Yeah. Are you moving to the US?
+&gt;&gt; Yeah. Yeah. [laughter]
+I am at that moment.
+&gt;&gt; Yeah, bro. Like I'm I'm Canadian too. I
+have the passport. So, let's go.
+&gt;&gt; Perfect.
+&gt;&gt; You AI immigr uh no not immigr uh alien.
+We are AI alien. Hi. What's up?
+Um
+&gt;&gt; but that's a question right for the uh
+codex 5.6
+if cloud was blocked how is codex going
+to get approved directly and not being
+blocked for the public outside the US
+&gt;&gt; because they worked with uh the white
+house before launching it. That's why it
+was in preview and now we will get it
+but all of the big cops got it like one
+or two weeks ago. So better
+preparations.
+&gt;&gt; Yeah, I know. Exactly. Better
+preparation and probably like kiss more
+houses than entropic. But it could be
+that too because they have the like
+entropic is a bit of like also like
+against the administration blah blah
+blah and the administration is bit like
+susceptible.
+So if you don't kiss the house, they're
+not going to like you. And looks like
+OpenAI was a bit better at that. So,
+Antropic was bit uh push away and open
+AAI is closer uh to the white house. So,
+then that gave like premium access I
+guess
+&gt;&gt; to
+&gt;&gt; Yeah, I mean yeah don't just don't block
+her please. But other than that,
+&gt;&gt; let let us cook. Let us cook.
+&gt;&gt; Um okay. Yeah, just quickly back to the
+benchmark stuff. Um
+&gt;&gt; uh what? Oh, did I lost it? I lost it.
+Thank
+um
+so
+we have No, I I can't even do labs. Yes,
+Labs. Entropic OpenAI then it's like a
+Z.AI with GLM 5.2 but net improvement.
+Yeah, with their highest models. So,
+confirmation of success 1669.
+Okay. So, that's on the benchmark,
+right? But uh so the labs is third and
+the model is Yeah. Okay. It's a top 10.
+Okay. Now, GLM 5.2. It's a big uh it's a
+big step for the open source.
+&gt;&gt; Yeah. But it takes so much compute.
+then you can use um the subscription on
+uh Z.AI.
+So they put their model open source, but
+you can also pay for uh the sub.
+&gt;&gt; Do they have the I never looked at it.
+Do they have the prices?
+&gt;&gt; Yeah, it's cheaper than um than uh
+&gt;&gt; it's a Yeah, they all look the same, but
+&gt;&gt; Yeah. Yeah, because why not? Uh Z ai
+slash
+pricing.
+Let's go. Okay. Value subscription.
+Okay. Oh, okay. Let's go.
+&gt;&gt; Uh I don't want chat.
+I want coding plan. Yes. Subscribe now.
+Light Pro Max 100 a month.
+Uh, and yeah, and you get uh 20x. So,
+exactly the same pricing model.
+&gt;&gt; It looks like a full ripoff.
+&gt;&gt; Oh, yeah. I know. I mean, yeah. Welcome
+to China, man. But, uh, it's it's
+cheaper, right? So if you are a bit on a
+budget and you get that kind of
+intelligence
+then
+&gt;&gt; yeah but still before if you hired a
+deaf for like two hours you would have
+the same cost as now a full month of a
+pro license.
+&gt;&gt; So for just those few dollars
+&gt;&gt; then I would go with the best one.
+&gt;&gt; Yeah. No, of course.
+&gt;&gt; If I'm fully thinking about privacy,
+want to have a local, not paying at all,
+then I'm I'm using a big machine, but
+otherwise just give me Cloud Fable.
+&gt;&gt; Yes, but you you can't even install 5.2
+on like a big machine right now. Like
+you need Yeah.
+&gt;&gt; Like you need a proper server and you
+need half a million dollar to run that
+[&nbsp;__&nbsp;]
+&gt;&gt; Yeah. And like five cooling fans to keep
+everything on temperature.
+&gt;&gt; Exactly. Like yeah uh if you want those
+if you want those model at home uh
+you're going to buy back your
+subscription with electricity.
+&gt;&gt; Yeah. Yeah. Yeah. For sure.
+&gt;&gt; Like so yeah like the alternative. Okay.
+The alternative doesn't exist. Bye. See
+you end of the video. [laughter]
+&gt;&gt; But okay. So on on this arena benchmark
+stuff 5 5.2 max is at the level of 5.4I.
+for I which is also massive
+&gt;&gt; but they have the distillation period
+basically so frontier model launch a
+model private get distill
+um z.ai AI or any other like what was
+the other one? Deepseek. Deepseek is
+distilling those models. Get the their
+open source model back sell
+subscription. Boom.
+&gt;&gt; Yes. True.
+&gt;&gt; So yeah,
+I mean like we legit have one generation
+away. So basically 3 to 6 months
+um lag between frontier and open source
+models. So that means in like 12 to 18
+months we will have open source model
+who have fable five intelligence.
+&gt;&gt; Yeah that's insane. But by that time I
+hope to have built so much.
+&gt;&gt; Yeah
+&gt;&gt; it doesn't.
+&gt;&gt; But what are you going to build
+&gt;&gt; everything?
+No, but before you had to plan because
+building a a proper software tool would
+take you at least a year to do it
+properly,
+&gt;&gt; sales and everything. And now you just
+choose a niche, you build it within two,
+three days, and you start selling.
+&gt;&gt; Yeah. Uh yeah, I tried that. [laughter]
+&gt;&gt; Yeah. Well, you're making like a huge
+system with every functionality in it.
+&gt;&gt; Yeah. I I I think Okay. So, yeah, I
+think you're right. like with those
+model now we can even see a big wave of
+uh oneshot software.
+&gt;&gt; Yeah.
+&gt;&gt; Because Yeah. Even like the
+the game like so the the game with one
+one shot prompted. Okay. That's that's a
+little bit buggy, but you spend like uh
+one or two days on it, then you have
+proper something like proper like
+something with what which is fun
+&gt;&gt; and then you can market these uh games
+to like we're going to have a lot of
+stream uh steam games slope especially
+when Unreal Engine is making it like MCP
+and then everyone can access. Yeah.
+&gt;&gt; Yeah. Yeah. Talk to it and it will build
+it.
+&gt;&gt; Yeah. Exactly. But we're getting there
+like for sure. And yeah, like for those
+fable five level models. Yeah, bro. We
+have 12 months to cook like starting
+now.
+&gt;&gt; Yeah. So, what are we going to build?
+&gt;&gt; Let's go. Let's go. Uh I um I So, based
+on fable feedback,
+&gt;&gt; Mhm. I asked um
+uh GPT5 to where should we take this
+road map direction blah blah blah and I
+could build a SAS for uh generating
+assets like kind of like Genfit but with
+like the vertical of uh gaming.
+&gt;&gt; Mhm.
+&gt;&gt; Where you have your own uh studio inside
+of the
+um
+Yeah. I mean that's it. But uh yeah and
+then open source and whatever there is a
+couple of open source solution but uh
+probably can do something better I don't
+know so there is that still genfit and
+still like customers project that where
+we can
+either do mega apps of one verticals
+that do everything or small uh small
+tiny s micro sasses but then you make
+like 10 20 of them and
+hopefully some of them catch up to 5 10k
+20k months m
+&gt;&gt; well that's good enough and if you have
+like five to 10 of those that's
+perfectly
+&gt;&gt; exactly and there's a lot of like indie
+actors who are basically doing that but
+uh you can serve them like the the the
+world is your oyster right so you can uh
+&gt;&gt; keep building some stuff that works and
+uh yeah just try it and if it doesn't
+work you trash it you go to the next
+one.
+&gt;&gt; Yeah, you just improve it or delete it.
+&gt;&gt; Yeah, like uh trustm.com.
+Like I show you this uh this software,
+right? Uh
+so it's a uh it's a platform where you
+connect your stripe key
+&gt;&gt; in read only and you can see the revenue
+of those platform.
+So
+um you so then those platform can uh
+like the founder can flex oh yeah I
+build I v coded this app and then this
+is my revenue trust me because I'm on
+trust emer
+&gt;&gt; and but what's smart too is now that you
+can buy SAS that are generating revenue
+like if you want to uh buy an AI
+visibility SAS with a paid growth
+dashboard for businesses that want to be
+recommended by chat GPT code. Okay, so
+it's a GEO uh business
+making revenue blah blah blah boom and
+uh you can see the whole revenue based
+on stripe stuff and uh contact the guy
+and try to buy the
+&gt;&gt; Yeah, buy the SAS and so you have some
+they prove that it is making money.
+&gt;&gt; Exactly. But what's tricky if if I see
+that how hard can I replicate the
+product in a week and start sales week
+two?
+&gt;&gt; Yeah. Yeah. But eventually it's not
+about building. It's about doing proper
+sales.
+&gt;&gt; Exactly. But if you are if you are an
+influencer with like some distribution
+channels then
+&gt;&gt; this is awesome
+&gt;&gt; coding that that's awesome. Yeah.
+So yeah. And okay, so this guy from uh
+tech from this platform, where is he?
+Yeah, Mark. Bam. Perfect. Puff.
+Uh so he has all of his business on his
+own landing page.
+&gt;&gt; Cut fast 9K. Ship fast 3K a month. Data
+fast 20K. Trust 37K a month for the
+platform. [snorts]
+Focus on your startup knowing the
+invoice 100 amounts pop up. Okay. So you
+get some SS not going nowhere but
+okay.
+&gt;&gt; Yeah it still is build a lot and only
+focus on the views that take off.
+&gt;&gt; Yeah but like trust in one month you pay
+for all of your looks like memecoin bro.
+Yeah,
+&gt;&gt; like you buy one income, you you win one
+and then you you pay back for 1,000 uh
+um 1,000 fail uh and scam that you have
+invested. But yeah, okay. So look, he's
+making like 100k months.
+&gt;&gt; I think his biggest product is this
+website because he is getting so many
+DMs from pretty women who want someone
+who has money. Exactly. [laughter]
+Build your indie page. Oh, okay.
+Indie page nice. Okay, that's pretty
+cool. Yeah, see like those kind of like
+that's that's perfect. One pass 25 years
+lifetime deal. Yeah. So, basically it's
+a link link tree page but for all of the
+indie a boom
+um and it has like a YouTube channel
+with like 200
+thousand subscribers. So
+&gt;&gt; yeah,
+&gt;&gt; distribution as soon as you have
+distribution, you can do all of those
+small project
+&gt;&gt; and it doesn't even matter what you
+build.
+&gt;&gt; Exactly. Exactly. So yeah, that's the
+alternative to Febru 5. Great content.
+Uh yeah, I I I like I like this mindset
+of like and AI is perfect for that. I I
+like it. So cool.
+Uh okay, what else? What else do we
+have?
+Well, um,
+&gt;&gt; we need a countdown. When is U We don't
+know what what is the countdown until um
+Fable goes offline.
+&gt;&gt; Uh, I I thought
+&gt;&gt; it was supposed to be like 10 hours ago.
+&gt;&gt; Ah, yeah. I couldn't try anymore because
+I'm maxed out until Friday.
+&gt;&gt; Me, too.
+&gt;&gt; I'm not going to buy another $200 sub
+for just two or three hours left.
+&gt;&gt; Yeah, I know. Exactly. Uh but also yeah
+look there is a rumor here Feb 5 access
+could be part of the code pro 20x
+subscription
+&gt;&gt; according to connected to to totropic or
+is he just
+&gt;&gt; no I think he's quoting another tweet is
+okay see that was like the same account
+that I've read the charts
+um February running locally in about two
+years okay so that's different um
+but Yeah, that's I could see it
+happening though like because how many
+200 the month subscription do they have?
+But the problem is like okay so you pay
+200 but you spend 5k of uh tokens anyway
+so the math is not muffing.
+&gt;&gt; No no because all the people using the
+20x sub are the ones spending a lot of
+money.
+&gt;&gt; Exactly. So yeah. Okay. Okay. Yeah. No,
+you're right. Maybe it will not happen.
+&gt;&gt; Can give me one moment.
+&gt;&gt; Yeah.
+Okay.
+Hi.
+&gt;&gt; Hello.
+&gt;&gt; Uh, okay.
+&gt;&gt; What are we doing? What are we waiting
+for? What are we going to do?
+I
+&gt;&gt; I'm like right now I'm kind of like
+waiting for 5.6 to drop now. Like
+&gt;&gt; yeah. So we are just refreshing the
+timeline all the time waiting for the
+moment that they push the
+&gt;&gt; Yeah. Because Okay. So if you use um
+5.5 now
+&gt;&gt; Mhm.
+&gt;&gt; like [clears throat] how much slop are
+you going to push?
+&gt;&gt; Um but it doesn't matter. You can either
+prompt uh write prompts or you can now
+just build with five 5.5 put it in a
+different branch and as soon as 5.6 tick
+comes out, you say, "Hey, this was my
+branch.
+&gt;&gt; Check everything." And it will optimize
+your code.
+&gt;&gt; So, you push as much PR that you can and
+then uh you will review everything.
+Yeah. Makes sense.
+&gt;&gt; Yeah. Then you don't have to explain
+what you want to do.
+&gt;&gt; Yeah. So, basically, you prepare for the
+next uh upcoming models. Uh hopefully
+we're not going to have uh to wait too
+much too too many things and that's kind
+of
+&gt;&gt; because I have like over 100 branches
+with code waiting to be reviewed.
+But you know that's um what the like
+same thing again like the another video
+of his like he was on the convers
+conference and he was uh coding on his
+um uh on his T3 code mobile app and
+Fable shipped what he thought will take
+a month to review and ship and it didn't
+have to review as much it was reviewing
+before like
+uh
+&gt;&gt; yeah but before we were building with by
+5.5 as well so it
+&gt;&gt; won't be that big of an issue
+&gt;&gt; but uh you you don't know okay I don't
+know what I ship until it's broken
+[laughter]
+&gt;&gt; t
+um [snorts] you should be re reviewing
+as much a much smaller percent of your
+code today than you were five years ago
+if your code is important It need every
+line verified. You better writing a lot
+of slope that verify these two. Yeah.
+Before AI writen review merge. Okay.
+After ai writon generated review merge.
+[snorts]
+&gt;&gt; Well, it just create a street.
+It's like or of a big loop with
+everything in it. [clears throat]
+&gt;&gt; And then you don't need to do a proper
+testing. It just have have it switch uh
+to different agents and do testing for
+you.
+&gt;&gt; Yeah. Yeah. And like jungling between
+again like the smaller models
+for task front job whatever whatever we
+have and the big brain for planning.
+Yeah. I I think that's a clear after
+this week that's a clear future where we
+can see software engineer for sure.
+&gt;&gt; Yes.
+&gt;&gt; Uh should we wrap it up here?
+&gt;&gt; Yeah.
+I think I will have a video.
+&gt;&gt; We will give a update on the channel
+once 5.6 is out.
+&gt;&gt; Yeah, that I think we have
+we have our stream for next week. That's
+for sure.
+&gt;&gt; Yeah. Yeah. But we also have a X
+account, right?
+So if you follow it, we will let you
+know when 5.6 is out.
+&gt;&gt; Yeah. Oh, yeah. Yeah. Yeah. Smart. Just
+smart. [laughter]
+&gt;&gt; In case you don't follow Antropic
+yourself. Yeah.
+&gt;&gt; Or or Open AI.
+&gt;&gt; Yeah. Follow us instead. Yeah. No news
+from entropic account.
+&gt;&gt; Nothing.
+&gt;&gt; That's all spam. Don't follow them.
+&gt;&gt; Yeah. No, exactly. We don't need that.
+We don't want that. Open AI. Open AI.
+Nothing dropped during No. Nothing
+dropped. We're safe.
+&gt;&gt; Yes.
+&gt;&gt; So, yeah. Um, okay. Con conclusion. Did
+we have a conclusion? Did we conclude?
+&gt;&gt; Yeah. We had a great week and probably
+we got an even better week upcoming.
+&gt;&gt; Nice. That will end the video. Let's go.
+Rachel, thank you so much for your time
+and
+&gt;&gt; let's get back to prompting some plans
+that we will review by Smarter Models.
+[laughter]
+&gt;&gt; Awesome. Thank you. Enjoy your day.

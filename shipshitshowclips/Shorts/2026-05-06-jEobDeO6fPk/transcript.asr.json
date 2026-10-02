@@ -1,0 +1,109 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:07,020"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 7020
+      },
+      "text": " How far are we from a slash goal in codecs to make a proper software, and it's going"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,020",
+        "to": "00:00:11,140"
+      },
+      "offsets": {
+        "from": 7020,
+        "to": 11140
+      },
+      "text": " to work in one day instead of three months?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,140",
+        "to": "00:00:17,860"
+      },
+      "offsets": {
+        "from": 11140,
+        "to": 17860
+      },
+      "text": " I think you need to have it first set up for the planning, then do checks with external"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,860",
+        "to": "00:00:22,900"
+      },
+      "offsets": {
+        "from": 17860,
+        "to": 22900
+      },
+      "text": " AIs, checking each other, putting the feedback into a goal, and when that's done, put a goal"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:22,900",
+        "to": "00:00:25,160"
+      },
+      "offsets": {
+        "from": 22900,
+        "to": 25160
+      },
+      "text": " on the build, a goal on the test."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,160",
+        "to": "00:00:30,160"
+      },
+      "offsets": {
+        "from": 25160,
+        "to": 30160
+      },
+      "text": " So you have different steps and use maybe a big goal to check multiple goals."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:30,160",
+        "to": "00:00:30,840"
+      },
+      "offsets": {
+        "from": 30160,
+        "to": 30840
+      },
+      "text": " Then it's possible."
+    }
+  ]
+}

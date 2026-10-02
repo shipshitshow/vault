@@ -1,0 +1,3605 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.000
+ ♪♪
+
+00:00:10.000 --> 00:00:20.020
+ ♪♪
+
+00:00:20.020 --> 00:00:29.960
+ ♪♪
+
+00:00:29.960 --> 00:00:33.020
+ ♪♪
+
+00:00:33.020 --> 00:00:35.760
+ And we are back. GM GM.
+
+00:00:35.760 --> 00:00:38.100
+ Yes, hello.
+
+00:00:38.100 --> 00:00:39.200
+ How are you doing?
+
+00:00:39.200 --> 00:00:40.700
+ I'm doing good. How are you?
+
+00:00:40.700 --> 00:00:42.200
+ Yeah, I'm busy.
+
+00:00:42.200 --> 00:00:48.320
+ Like, I need more agents to do more agent stuff.
+
+00:00:48.320 --> 00:00:51.920
+ How many agents do you have running?
+
+00:00:51.920 --> 00:00:55.680
+ So right now I have 10 different walkthroughs
+
+00:00:55.680 --> 00:00:59.220
+ working on the side and grok boats.
+
+00:00:59.220 --> 00:01:03.820
+ And I'm getting limited because I reached my limits --
+
+00:01:03.820 --> 00:01:06.560
+ monthly limit, end-weekly limit.
+
+00:01:06.560 --> 00:01:08.560
+ QSO increased the usage,
+
+00:01:08.560 --> 00:01:12.260
+ and then my grok boats used it all, you know, so...
+
+00:01:12.260 --> 00:01:16.340
+ But how many boats do you have active to just reach the limit?
+
+00:01:16.340 --> 00:01:20.240
+ QA stuff, some content.
+
+00:01:20.240 --> 00:01:21.840
+ I have a CTO. I have a CO.
+
+00:01:21.840 --> 00:01:23.280
+ Yeah, no, it's --
+
+00:01:23.280 --> 00:01:25.480
+ I mean, I'm not reaching the grok boat limit.
+
+00:01:25.480 --> 00:01:31.660
+ I'm reaching the QSO usage for the grok boats
+
+00:01:31.660 --> 00:01:33.520
+ to use the models.
+
+00:01:33.520 --> 00:01:34.760
+ Yes, that makes sense.
+
+00:01:34.760 --> 00:01:35.800
+ Yeah, the other one.
+
+00:01:35.800 --> 00:01:37.960
+ And, yeah, I spent, like, two, three days.
+
+00:01:37.960 --> 00:01:41.600
+ When we had the Super Grok EV subscription,
+
+00:01:41.600 --> 00:01:48.640
+ and then I used QSO to just, like, discover it again,
+
+00:01:48.640 --> 00:01:50.540
+ yeah, I'm on it.
+
+00:01:50.540 --> 00:01:55.640
+ So it went away fast.
+
+00:01:55.640 --> 00:01:56.920
+ That goes fast, yeah.
+
+00:01:56.920 --> 00:02:00.120
+ Yeah, yep.
+
+00:02:00.120 --> 00:02:01.860
+ But, yeah, what about you?
+
+00:02:01.860 --> 00:02:04.160
+ Yeah, well, I'm trying grok boats.
+
+00:02:04.160 --> 00:02:07.220
+ I've been testing it the last week, and I'm really happy.
+
+00:02:07.220 --> 00:02:08.720
+ Yeah, thanks, Elan.
+
+00:02:08.720 --> 00:02:10.320
+ Yes.
+
+00:02:10.320 --> 00:02:13.500
+ We've made our lives so much easier.
+
+00:02:13.500 --> 00:02:15.300
+ Subscribe to the livestream, Elan.
+
+00:02:15.300 --> 00:02:17.460
+ We love you.
+
+00:02:17.460 --> 00:02:19.540
+ I am not -- First, I tried.
+
+00:02:19.540 --> 00:02:21.780
+ I said, "Okay, check this every hour."
+
+00:02:21.780 --> 00:02:23.980
+ And then it doesn't work.
+
+00:02:23.980 --> 00:02:26.280
+ It forgets checking. It hangs.
+
+00:02:26.280 --> 00:02:28.980
+ And, you know, if you have a check in Outlook account,
+
+00:02:28.980 --> 00:02:31.140
+ it goes to the web version,
+
+00:02:31.140 --> 00:02:34.360
+ and every time it checks, it opens a new tab.
+
+00:02:34.360 --> 00:02:37.660
+ Oh, yeah. So eventually, the browser on their PC
+
+00:02:37.660 --> 00:02:39.620
+ that the bot is using will be so slow
+
+00:02:39.620 --> 00:02:41.860
+ that he just stops doing the tasks.
+
+00:02:41.860 --> 00:02:46.860
+ Yeah, they have some small VMs, like, behind grok boats, right?
+
+00:02:46.860 --> 00:02:49.400
+ Like, it's not the biggest resource ever.
+
+00:02:49.400 --> 00:02:50.740
+ -Yeah. -Yeah.
+
+00:02:50.740 --> 00:02:53.800
+ So right now, I set up a Slack.
+
+00:02:53.800 --> 00:02:55.740
+ I didn't use Slack anymore.
+
+00:02:55.740 --> 00:02:59.640
+ I switched to Discord, but I did set up the Slack right now,
+
+00:02:59.640 --> 00:03:03.280
+ and every webhook from something that's triggering
+
+00:03:03.280 --> 00:03:06.620
+ is going to Slack, and that notifies the bot,
+
+00:03:06.620 --> 00:03:07.760
+ and then the bot checks it.
+
+00:03:07.760 --> 00:03:09.820
+ So everything is real-time.
+
+00:03:09.820 --> 00:03:15.260
+ And did you use cloud Slack
+
+00:03:15.260 --> 00:03:18.760
+ so you can use your cloud on Slack?
+
+00:03:18.760 --> 00:03:21.960
+ No, I didn't use a cloud. I used a grok bot.
+
+00:03:21.960 --> 00:03:26.000
+ Yeah, but, like, you can connect cloud to your Slack instance,
+
+00:03:26.000 --> 00:03:28.100
+ so you can use it, like, directly,
+
+00:03:28.100 --> 00:03:32.440
+ and you can -- If you hired people,
+
+00:03:32.440 --> 00:03:35.820
+ but you don't because of the agents,
+
+00:03:35.820 --> 00:03:39.620
+ if you have a team, the whole team can build,
+
+00:03:39.620 --> 00:03:41.720
+ "Hey, cloud, build that," blah, blah, blah.
+
+00:03:41.720 --> 00:03:44.460
+ Yeah. I don't know.
+
+00:03:44.460 --> 00:03:46.700
+ I was watching the video about the grok bot team,
+
+00:03:46.700 --> 00:03:50.700
+ and they were telling about trust compared to the usage.
+
+00:03:50.700 --> 00:03:52.960
+ I don't know if I trust the grok bot.
+
+00:03:52.960 --> 00:03:54.640
+ Yeah. Yeah.
+
+00:03:54.640 --> 00:03:57.140
+ Also, in the answers, I've asked it to --
+
+00:03:57.140 --> 00:04:00.780
+ Every time I get a ticket in my support system,
+
+00:04:00.780 --> 00:04:04.240
+ I said, "Okay, read the ticket, read the history,
+
+00:04:04.240 --> 00:04:07.620
+ see what we can reply, and create a concept
+
+00:04:07.620 --> 00:04:10.280
+ and send the concept to me so I can give feedback to you
+
+00:04:10.280 --> 00:04:11.980
+ before you send it."
+
+00:04:11.980 --> 00:04:13.520
+ I don't trust it that good yet.
+
+00:04:13.520 --> 00:04:15.220
+ Yeah. Yeah.
+
+00:04:15.220 --> 00:04:17.820
+ It's going good for two days, and on day three,
+
+00:04:17.820 --> 00:04:19.860
+ it feels like it's back to the Stone Age,
+
+00:04:19.860 --> 00:04:21.100
+ and it's stupid again.
+
+00:04:21.100 --> 00:04:25.060
+ Oh, it has some open-claw PTSD.
+
+00:04:25.060 --> 00:04:29.340
+ Yeah. So I don't know if it makes a different decision
+
+00:04:29.340 --> 00:04:33.080
+ or if it has less memory that it can use.
+
+00:04:33.080 --> 00:04:34.640
+ I don't know.
+
+00:04:34.640 --> 00:04:37.440
+ I think memory is still an issue with AI agents.
+
+00:04:37.440 --> 00:04:41.880
+ Like, from one week to another, like, they forget the whole,
+
+00:04:41.880 --> 00:04:43.380
+ "Read this file," blah, blah, blah.
+
+00:04:43.380 --> 00:04:45.520
+ Again, every session, blah, blah, blah.
+
+00:04:45.520 --> 00:04:47.920
+ Like, it's not stable yet.
+
+00:04:47.920 --> 00:04:51.420
+ And on request features, please, fix the memory.
+
+00:04:51.420 --> 00:04:56.020
+ Less memory to your Starship, more memory to the AI.
+
+00:04:56.020 --> 00:04:58.340
+ Yeah. By the way, do you use the 1 million context
+
+00:04:58.340 --> 00:04:59.700
+ and even, like, the upcoming, like,
+
+00:04:59.700 --> 00:05:01.860
+ 2 million context windows stuff?
+
+00:05:01.860 --> 00:05:05.100
+ No. I don't know how it is now, but a few weeks ago,
+
+00:05:05.100 --> 00:05:07.680
+ everybody said it will make your model worse.
+
+00:05:07.680 --> 00:05:09.440
+ Yeah. So I disabled it.
+
+00:05:09.440 --> 00:05:12.420
+ Yeah, me, too. Okay. I'm on the 200.
+
+00:05:12.420 --> 00:05:16.680
+ Yeah. But also, models will become more expensive
+
+00:05:16.680 --> 00:05:19.680
+ if you use them higher memory or the higher --
+
+00:05:19.680 --> 00:05:21.380
+ the 1 million amount.
+
+00:05:21.380 --> 00:05:23.960
+ Yeah, because there is more cache to cache,
+
+00:05:23.960 --> 00:05:27.860
+ like, more context to cache, so then it's --
+
+00:05:27.860 --> 00:05:30.500
+ because it's getting stuck in each session,
+
+00:05:30.500 --> 00:05:32.560
+ so then it compounds all together.
+
+00:05:32.560 --> 00:05:34.840
+ Yeah. But also, I was checking the API.
+
+00:05:34.840 --> 00:05:36.060
+ Maybe we can check it here.
+
+00:05:36.060 --> 00:05:41.380
+ I was asking Grok about Grok 4.6 API costs,
+
+00:05:41.380 --> 00:05:44.140
+ and because I was comparing it,
+
+00:05:44.140 --> 00:05:47.820
+ and it should be cheaper than Sonnet.
+
+00:05:47.820 --> 00:05:54.520
+ Okay. But the catch is, if you use up to 300,000 tokens,
+
+00:05:54.520 --> 00:05:57.160
+ it's, like, the next amount of sense,
+
+00:05:57.160 --> 00:06:00.500
+ but if you go above it, it doubles the pricing.
+
+00:06:00.500 --> 00:06:01.600
+ Ah.
+
+00:06:01.600 --> 00:06:03.760
+ I think a bigger prompt doubles the pricing,
+
+00:06:03.760 --> 00:06:05.000
+ and I couldn't find it here,
+
+00:06:05.000 --> 00:06:07.660
+ but Grok found it somewhere for me.
+
+00:06:07.660 --> 00:06:09.600
+ I don't know if it's...
+
+00:06:09.600 --> 00:06:18.540
+ Okay. $2 million, $2 million, cache, input, context, API beer.
+
+00:06:18.540 --> 00:06:22.680
+ Let me see if I can find where it was.
+
+00:06:22.680 --> 00:06:24.780
+ Oh, yeah. No, that's a bench, and I'm --
+
+00:06:24.780 --> 00:06:26.380
+ Okay.
+
+00:06:28.760 --> 00:06:30.360
+ Really? Yeah.
+
+00:06:35.100 --> 00:06:38.140
+ Oh, and what's the Grok build?
+
+00:06:38.140 --> 00:06:40.160
+ 'Cause...
+
+00:06:40.160 --> 00:06:43.640
+ Everybody is using it to build websites and stuff,
+
+00:06:43.640 --> 00:06:45.500
+ and I tried it, but I was not happy,
+
+00:06:45.500 --> 00:06:47.140
+ so I didn't try it anymore.
+
+00:06:47.140 --> 00:06:51.380
+ But Grok build is not the terminal?
+
+00:06:51.380 --> 00:06:53.980
+ No, no, no. It's in grok.com.
+
+00:06:53.980 --> 00:06:55.180
+ Okay. On the website.
+
+00:06:55.180 --> 00:06:57.260
+ You see it as an option.
+
+00:06:57.260 --> 00:06:58.820
+ Okay.
+
+00:06:58.820 --> 00:07:00.420
+ Ah, here it is.
+
+00:07:04.120 --> 00:07:07.620
+ Let me check.
+
+00:07:07.620 --> 00:07:12.560
+ I will send you the URL.
+
+00:07:12.560 --> 00:07:14.160
+ The URL.
+
+00:07:15.900 --> 00:07:17.400
+ Okay. You have it.
+
+00:07:17.400 --> 00:07:19.000
+ That should be the one.
+
+00:07:25.220 --> 00:07:26.420
+ This one?
+
+00:07:26.420 --> 00:07:28.920
+ Yeah, you see it. Short contacts, long contacts.
+
+00:07:28.920 --> 00:07:31.020
+ Oh. Okay.
+
+00:07:31.020 --> 00:07:32.680
+ And when they send you the e-mail
+
+00:07:32.680 --> 00:07:35.120
+ that they updated the pricing and made it cheaper,
+
+00:07:35.120 --> 00:07:37.920
+ it only shows the cost for the short contacts,
+
+00:07:37.920 --> 00:07:40.360
+ but if your contacts is bigger,
+
+00:07:40.360 --> 00:07:45.000
+ you'll get a double in pricing, and then it's expensive.
+
+00:07:45.000 --> 00:07:46.600
+ That's -- Okay. Fair enough.
+
+00:07:46.600 --> 00:07:48.100
+ Yeah, and you see long contacts,
+
+00:07:48.100 --> 00:07:52.040
+ and Grok 4.6 is above 200K tokens.
+
+00:07:52.040 --> 00:07:53.280
+ Damn.
+
+00:07:53.280 --> 00:07:55.840
+ Oh, yeah, like 200K.
+
+00:07:55.840 --> 00:07:59.240
+ Yes.
+
+00:07:59.240 --> 00:08:03.240
+ So if you're building something and you have an API call,
+
+00:08:03.240 --> 00:08:06.380
+ you probably want to optimize it because if you just say,
+
+00:08:06.380 --> 00:08:08.560
+ "Hey, I sent everything because it's cheap,"
+
+00:08:08.560 --> 00:08:10.560
+ well, it just doubled in price.
+
+00:08:10.560 --> 00:08:14.400
+ Ah, it's only for the API?
+
+00:08:14.400 --> 00:08:18.160
+ Yeah, I couldn't find it on the other ones.
+
+00:08:18.160 --> 00:08:21.160
+ Let me check if Grok knows this as well.
+
+00:08:24.840 --> 00:08:28.000
+ Because I was comparing it, and Fable said to me,
+
+00:08:28.000 --> 00:08:29.480
+ "Hey, yeah, you're right.
+
+00:08:29.480 --> 00:08:31.780
+ It's cheaper," and then I put it into Grok,
+
+00:08:31.780 --> 00:08:33.220
+ and Grok just said, "No, no, no.
+
+00:08:33.220 --> 00:08:37.580
+ It's not cheaper. Only on small contacts there."
+
+00:08:37.580 --> 00:08:40.220
+ Okay, so, Evan, Fable lied to you.
+
+00:08:40.220 --> 00:08:41.780
+ Is Fable still lying that way?
+
+00:08:41.780 --> 00:08:44.560
+ It couldn't find it, or it just read it off.
+
+00:08:44.560 --> 00:08:46.020
+ Okay. Oh, yeah.
+
+00:08:46.020 --> 00:08:48.000
+ That's why I still think that important stuff,
+
+00:08:48.000 --> 00:08:50.760
+ you need to double-check between AIs.
+
+00:08:50.760 --> 00:08:54.300
+ Yeah, for real, like the review everything.
+
+00:08:54.300 --> 00:08:59.100
+ I don't trust anyone. It's true.
+
+00:08:59.100 --> 00:09:05.440
+ Okay, but you know what's cheaper than Grok 4.6?
+
+00:09:05.440 --> 00:09:06.820
+ Paying nothing at all.
+
+00:09:06.820 --> 00:09:11.820
+ Exactly. Free model on open router, man.
+
+00:09:11.820 --> 00:09:13.460
+ Okay, let's go.
+
+00:09:13.460 --> 00:09:15.360
+ Get Grok, get open AI.
+
+00:09:15.360 --> 00:09:17.520
+ Yeah. We have something better.
+
+00:09:17.520 --> 00:09:19.620
+ Exactly. All of that is garbage.
+
+00:09:19.620 --> 00:09:22.260
+ Put that on the side because it's too expensive.
+
+00:09:22.260 --> 00:09:24.700
+ I refuse to pay for my AI now.
+
+00:09:24.700 --> 00:09:27.040
+ Yes, and it's not only for good developers,
+
+00:09:27.040 --> 00:09:29.200
+ it's for everybody.
+
+00:09:29.200 --> 00:09:31.940
+ Yeah, exactly.
+
+00:09:31.940 --> 00:09:35.000
+ Because, okay, so last week,
+
+00:09:35.000 --> 00:09:39.620
+ Grok opened, yes, that's pretty.
+
+00:09:39.620 --> 00:09:43.580
+ Last week, open router announced the 0x alpha
+
+00:09:43.580 --> 00:09:47.660
+ was in stealth mode, okay, like the launcher model,
+
+00:09:47.660 --> 00:09:50.920
+ and they are going to get your prompt
+
+00:09:50.920 --> 00:09:55.000
+ and see if you like it and then launch it a week after,
+
+00:09:55.000 --> 00:10:00.460
+ which now they are announced that this model
+
+00:10:00.460 --> 00:10:06.700
+ is from ZAI, and it's GLM 5.3.
+
+00:10:06.700 --> 00:10:10.480
+ So during -- wait.
+
+00:10:10.480 --> 00:10:13.340
+ Yes, during a few days,
+
+00:10:13.340 --> 00:10:16.440
+ everyone was expecting analyzing the token output.
+
+00:10:16.440 --> 00:10:19.520
+ Okay, wait. Let me...
+
+00:10:19.520 --> 00:10:20.420
+ Zoom in.
+
+00:10:20.420 --> 00:10:22.720
+ Yeah, what the fuck?
+
+00:10:22.720 --> 00:10:25.820
+ Okay, yes. Thank you.
+
+00:10:25.820 --> 00:10:26.920
+ 0x alpha unmasked.
+
+00:10:26.920 --> 00:10:30.060
+ Okay, cool. I'm going to talk about that.
+
+00:10:30.060 --> 00:10:31.460
+ That would be better. Cool.
+
+00:10:31.460 --> 00:10:38.540
+ So, yeah, now that we know that 0x alpha is Z.AI GLM 5.3 flash,
+
+00:10:38.540 --> 00:10:40.900
+ and during the full week,
+
+00:10:40.900 --> 00:10:45.340
+ everyone was trying to guess based on the input,
+
+00:10:45.340 --> 00:10:47.080
+ the output of the model, et cetera,
+
+00:10:47.080 --> 00:10:48.980
+ like which model it was.
+
+00:10:48.980 --> 00:10:51.980
+ It basically lasted like 15 minutes.
+
+00:10:52.720 --> 00:11:00.060
+ Like, everyone was already talking about GLM 5.3.
+
+00:11:00.060 --> 00:11:03.860
+ Like, yeah, just after the launch.
+
+00:11:03.860 --> 00:11:09.660
+ And for a week, like 42 trillion tokens in six days,
+
+00:11:09.660 --> 00:11:17.540
+ yeah, open code, and it's seven, way more for open router.
+
+00:11:17.540 --> 00:11:20.380
+ Yeah, six trillion tokens for open router,
+
+00:11:20.380 --> 00:11:24.620
+ and how much I said for open code?
+
+00:11:24.620 --> 00:11:26.780
+ Where is it?
+
+00:11:26.780 --> 00:11:31.860
+ Yeah, 42 trillion tokens for open code.
+
+00:11:31.860 --> 00:11:33.820
+ Okay, back.
+
+00:11:33.820 --> 00:11:38.960
+ And, yeah, that's a big lunch.
+
+00:11:38.960 --> 00:11:41.740
+ And it was good. Did you try it or not?
+
+00:11:41.740 --> 00:11:42.700
+ I didn't try it.
+
+00:11:42.700 --> 00:11:44.300
+ Yeah.
+
+00:11:44.300 --> 00:11:46.740
+ It could have been like a billion more.
+
+00:11:46.740 --> 00:11:49.940
+ Yeah.
+
+00:11:49.940 --> 00:11:55.540
+ Yeah, you still have one day, I think, to try it.
+
+00:11:55.540 --> 00:11:59.620
+ I didn't find any crazy, big mistake stuff
+
+00:11:59.620 --> 00:12:01.580
+ because even like the benchmark was like --
+
+00:12:01.580 --> 00:12:05.560
+ in some benchmark, it was on pair with Fable 5.
+
+00:12:05.560 --> 00:12:06.860
+ And for free.
+
+00:12:06.860 --> 00:12:09.820
+ And we had that for free for a week.
+
+00:12:09.820 --> 00:12:11.460
+ Yeah.
+
+00:12:11.460 --> 00:12:15.040
+ But I had some issues try testing the model.
+
+00:12:15.040 --> 00:12:18.100
+ In open code, sometimes it just like stopped working.
+
+00:12:18.100 --> 00:12:21.380
+ I was not able to see the results in the station.
+
+00:12:21.380 --> 00:12:23.080
+ It's just like, "Build, build, build.
+
+00:12:23.080 --> 00:12:24.680
+ Stop building. What's happening?
+
+00:12:24.680 --> 00:12:26.420
+ Oh, I was building. Build, build, build.
+
+00:12:26.420 --> 00:12:27.480
+ It stopped again."
+
+00:12:27.480 --> 00:12:30.680
+ Yeah, well, on the free one, so many people are using it,
+
+00:12:30.680 --> 00:12:32.380
+ probably spikes in the usage,
+
+00:12:32.380 --> 00:12:35.280
+ and then it just goes out of a connection or something.
+
+00:12:35.280 --> 00:12:38.660
+ Yeah, exactly.
+
+00:12:38.660 --> 00:12:40.060
+ So that was a bit annoying.
+
+00:12:40.060 --> 00:12:44.020
+ And if you want to, like, do some work stuff,
+
+00:12:44.020 --> 00:12:48.200
+ that was not the best way of, like, putting the features.
+
+00:12:48.200 --> 00:12:50.300
+ But on some small scope,
+
+00:12:50.300 --> 00:12:52.840
+ or Evan ordered the GitHub dashboard and stuff,
+
+00:12:52.840 --> 00:12:57.200
+ that was pretty interesting.
+
+00:12:57.200 --> 00:13:00.320
+ Okay, so basically that --
+
+00:13:00.320 --> 00:13:03.420
+ Okay, now I'm going to do that. Yeah.
+
+00:13:03.420 --> 00:13:06.820
+ And because of that stealth month,
+
+00:13:06.820 --> 00:13:09.560
+ I decided, like, to retry open code.
+
+00:13:09.560 --> 00:13:15.920
+ And, Evan, you can do that on Curso by changing the API keys.
+
+00:13:15.920 --> 00:13:19.100
+ So you can bring your open router key to Curso
+
+00:13:19.100 --> 00:13:22.240
+ to use the Curso interface to use free models.
+
+00:13:22.240 --> 00:13:26.700
+ And Evan, like, retried open code because it was a CLI,
+
+00:13:26.700 --> 00:13:28.900
+ and it was, like, working the best with,
+
+00:13:28.900 --> 00:13:33.780
+ like, this stealth month --
+
+00:13:33.780 --> 00:13:36.580
+ this stealth model.
+
+00:13:36.580 --> 00:13:41.720
+ And, yeah, now I've discovered even more free models
+
+00:13:41.720 --> 00:13:43.580
+ because I like to pay, but, yeah,
+
+00:13:43.580 --> 00:13:46.360
+ if you can get those free models for free, that's even better.
+
+00:13:46.360 --> 00:13:49.320
+ -Then why not? -Yeah, for real.
+
+00:13:49.320 --> 00:13:51.500
+ And, basically, if you --
+
+00:13:51.500 --> 00:13:54.160
+ Like, free models are getting even better and better.
+
+00:13:54.160 --> 00:14:00.160
+ Like, for example, you have Muse 1.2 from Facebook,
+
+00:14:00.160 --> 00:14:02.880
+ so you can even test it for free.
+
+00:14:02.880 --> 00:14:03.900
+ That's cool.
+
+00:14:03.900 --> 00:14:06.440
+ And I would say it's more intelligent
+
+00:14:06.440 --> 00:14:09.720
+ than all of the models that we had before with OpenClo, right?
+
+00:14:09.720 --> 00:14:14.620
+ So you can just use free AI, no?
+
+00:14:14.620 --> 00:14:17.320
+ -Yeah. Well, you need Curso,
+
+00:14:17.320 --> 00:14:19.620
+ but you don't need a subscription to change it,
+
+00:14:19.620 --> 00:14:22.860
+ or do you put in your own API?
+
+00:14:22.860 --> 00:14:27.200
+ -I don't think so because it's using your --
+
+00:14:27.200 --> 00:14:28.960
+ Okay, so -- -It's using the API,
+
+00:14:28.960 --> 00:14:31.140
+ and you just get the software, so that's it.
+
+00:14:31.140 --> 00:14:32.400
+ -Yes.
+
+00:14:32.400 --> 00:14:35.840
+ So you have a nice UI to use AI, basically.
+
+00:14:35.840 --> 00:14:37.540
+ -Yeah. -But, okay, maybe.
+
+00:14:37.540 --> 00:14:39.500
+ I'm not going to show my key.
+
+00:14:39.500 --> 00:14:45.080
+ Let me check before models, API keys.
+
+00:14:45.080 --> 00:14:46.440
+ Yes, it's not displaying it.
+
+00:14:46.440 --> 00:14:51.420
+ Okay, cool. So I can show it.
+
+00:14:51.420 --> 00:14:57.360
+ Tag, tag, replay.
+
+00:14:57.360 --> 00:15:06.000
+ Ah. Place, window, Curso.
+
+00:15:06.000 --> 00:15:07.100
+ Okay.
+
+00:15:07.100 --> 00:15:12.480
+ So if you go to settings and models,
+
+00:15:12.480 --> 00:15:17.880
+ so you need to change the override of open AI key
+
+00:15:17.880 --> 00:15:19.380
+ and the endpoint,
+
+00:15:19.380 --> 00:15:22.520
+ and it will work to change to open router.
+
+00:15:22.520 --> 00:15:24.620
+ -Cool. That's cool.
+
+00:15:24.620 --> 00:15:27.260
+ -I mean, it's cool. It's a bit tricky.
+
+00:15:27.260 --> 00:15:29.060
+ UI stuff, you just need to know it.
+
+00:15:29.060 --> 00:15:34.600
+ But then you can use those free models.
+
+00:15:34.600 --> 00:15:35.700
+ That's lit.
+
+00:15:35.700 --> 00:15:40.300
+ Okay, so if I do that, if I do that.
+
+00:15:40.300 --> 00:15:42.000
+ On this Mac, I want --
+
+00:15:42.000 --> 00:15:47.980
+ Oh, yeah, I open code, but, okay, let me --
+
+00:15:47.980 --> 00:15:53.040
+ Tag on this Mac, open folder.
+
+00:15:53.040 --> 00:15:56.040
+ Tag, ship, ship, show.
+
+00:15:56.040 --> 00:15:59.260
+ Open router three, open.
+
+00:15:59.260 --> 00:16:03.220
+ Nice. Let's get back to it.
+
+00:16:03.220 --> 00:16:07.020
+ Window, Curso, path.
+
+00:16:07.020 --> 00:16:13.660
+ So, now, I'm in Curso.
+
+00:16:13.660 --> 00:16:15.500
+ I'm in open router three.
+
+00:16:15.500 --> 00:16:18.980
+ I have the model connected.
+
+00:16:18.980 --> 00:16:26.980
+ Hello? Who are you? Thank you.
+
+00:16:26.980 --> 00:16:28.020
+ Plan ending suit.
+
+00:16:28.020 --> 00:16:32.620
+ No. No, I don't want to resubscribe to --
+
+00:16:32.620 --> 00:16:35.380
+ I have a Super Grok subscription.
+
+00:16:35.380 --> 00:16:37.960
+ -Yeah, maybe just update on the bottom left.
+
+00:16:37.960 --> 00:16:40.700
+ -Yes, let me just use it.
+
+00:16:40.700 --> 00:16:44.900
+ But, yeah, OX Alpha, AI Coding Assistant, blah, blah.
+
+00:16:44.900 --> 00:16:46.860
+ Directly into Curso.
+
+00:16:46.860 --> 00:16:49.300
+ It's cool.
+
+00:16:49.300 --> 00:16:55.900
+ And, yeah, that's open, a new world of possibilities.
+
+00:16:55.900 --> 00:17:05.780
+ But, okay, so, also, what I want to show was tag,
+
+00:17:05.780 --> 00:17:07.500
+ open router, path.
+
+00:17:07.500 --> 00:17:12.640
+ So, that was open router, but, no, open router two.
+
+00:17:12.640 --> 00:17:13.740
+ I don't want this to it.
+
+00:17:13.740 --> 00:17:16.180
+ I want this to it.
+
+00:17:16.180 --> 00:17:22.060
+ So, open code, and, basically, yeah, that's the --
+
+00:17:22.060 --> 00:17:25.540
+ That's one of the first state I guess they did a try.
+
+00:17:25.540 --> 00:17:29.020
+ -To see if it isn't a Chinese AI or another one.
+
+00:17:29.020 --> 00:17:31.100
+ -And I guess that's working.
+
+00:17:31.100 --> 00:17:33.340
+ -Yeah.
+
+00:17:33.340 --> 00:17:35.900
+ -Tag, yeah, see, 21st of August.
+
+00:17:35.900 --> 00:17:37.380
+ ZAI is compute constraint.
+
+00:17:37.380 --> 00:17:39.580
+ Kimi 2 is not quen.
+
+00:17:39.580 --> 00:17:43.220
+ Minimax, Xami -- Ah, okay, so, this one was wrong.
+
+00:17:43.220 --> 00:17:45.140
+ Minimax, Xami, trust me, 100%.
+
+00:17:45.140 --> 00:17:47.980
+ Okay, trust me, but it's wrong.
+
+00:17:47.980 --> 00:17:49.220
+ This is not a Chinese model.
+
+00:17:49.220 --> 00:17:51.380
+ It is a Chinese model.
+
+00:17:51.380 --> 00:17:57.680
+ It says a GLM next model of Xami MIMO V3 on the August 21st.
+
+00:17:57.680 --> 00:18:01.700
+ So, yeah, like, some people got it right away.
+
+00:18:01.700 --> 00:18:04.180
+ And that's kind of smart because for the launch,
+
+00:18:04.180 --> 00:18:05.660
+ that also creates some engagement
+
+00:18:05.660 --> 00:18:07.620
+ because everyone is speculating, right?
+
+00:18:07.620 --> 00:18:10.460
+ -Yes, and people will test it.
+
+00:18:10.460 --> 00:18:12.320
+ Even if they don't know how open router works,
+
+00:18:12.320 --> 00:18:14.260
+ they will test it after when it's live.
+
+00:18:14.260 --> 00:18:15.540
+ -I mean, it works for me, right?
+
+00:18:15.540 --> 00:18:17.780
+ I never spend the time to try out
+
+00:18:17.780 --> 00:18:19.580
+ all of those free-model stuff.
+
+00:18:19.580 --> 00:18:21.940
+ I never, like, use open code, et cetera.
+
+00:18:21.940 --> 00:18:25.100
+ So, yeah, it works for me, too.
+
+00:18:25.100 --> 00:18:27.900
+ -And it shows why Cursor, again, is a perfect product.
+
+00:18:27.900 --> 00:18:32.340
+ -Yeah, I mean, like, it's become really, really great.
+
+00:18:32.340 --> 00:18:36.380
+ I mean, I guess with $60 billion, you can have some nice --
+
+00:18:36.380 --> 00:18:38.180
+ -You can do it a lot.
+
+00:18:38.180 --> 00:18:41.940
+ Well, I had Cursor before, and I removed it from the PC
+
+00:18:41.940 --> 00:18:43.140
+ because I didn't like it.
+
+00:18:43.140 --> 00:18:45.980
+ And now I installed it with my Grok Super Heavy.
+
+00:18:45.980 --> 00:18:48.100
+ -Yeah. -And I'm using it again
+
+00:18:48.100 --> 00:18:50.060
+ because it's cool.
+
+00:18:50.060 --> 00:18:52.620
+ -And because you don't read the code anymore.
+
+00:18:52.620 --> 00:18:54.380
+ Oh, at least the pull request.
+
+00:18:54.380 --> 00:18:56.780
+ -Less. -Yeah.
+
+00:18:56.780 --> 00:18:59.140
+ But, yeah, we don't need the IDE anymore, right?
+
+00:18:59.140 --> 00:19:03.660
+ Because you can just ship features, review them,
+
+00:19:03.660 --> 00:19:07.500
+ review them on GitHub, but also, like, on Cursor,
+
+00:19:07.500 --> 00:19:11.340
+ you can also review the PR directly into Cursor.
+
+00:19:11.340 --> 00:19:14.860
+ They have the PR review view.
+
+00:19:14.860 --> 00:19:20.340
+ So, yeah, it's a big win for Cursor, for sure.
+
+00:19:20.340 --> 00:19:23.580
+ -And you can also just ask Grok to connect to Cloud
+
+00:19:23.580 --> 00:19:27.100
+ and ask Fable to test everything, to get feedback,
+
+00:19:27.100 --> 00:19:29.900
+ and that works perfect, as well.
+
+00:19:29.900 --> 00:19:33.540
+ -Oh, so you have Grokbot connecting to your Fable 5?
+
+00:19:33.540 --> 00:19:35.140
+ -Yeah. -And test --
+
+00:19:35.140 --> 00:19:36.980
+ Ah, interesting.
+
+00:19:36.980 --> 00:19:37.500
+ Okay.
+
+00:19:37.500 --> 00:19:39.700
+ -It just does it in the terminal and in Cursor.
+
+00:19:39.700 --> 00:19:42.780
+ It works perfectly, and it gets the same feedback
+
+00:19:42.780 --> 00:19:45.900
+ as when I ask Cloud myself, so...
+
+00:19:45.900 --> 00:19:47.540
+ -Yeah, because, yeah, it's via the CLI,
+
+00:19:47.540 --> 00:19:50.380
+ so it's the same, right? -Yeah.
+
+00:19:50.380 --> 00:19:55.700
+ -Okay, I just want to check if they talk about GLM 5.
+
+00:19:55.700 --> 00:19:57.700
+ Maybe we'll have it later.
+
+00:19:57.700 --> 00:20:01.140
+ Um...
+
+00:20:01.140 --> 00:20:11.060
+ Tag, tag, GLM 5.0.
+
+00:20:11.060 --> 00:20:12.420
+ Okay.
+
+00:20:12.420 --> 00:20:14.700
+ So, Max.
+
+00:20:18.340 --> 00:20:19.380
+ Released August.
+
+00:20:19.380 --> 00:20:20.380
+ Okay, fair enough.
+
+00:20:20.380 --> 00:20:21.460
+ Speed.
+
+00:20:21.460 --> 00:20:23.140
+ Okay, whatever.
+
+00:20:23.140 --> 00:20:26.660
+ Pricing.
+
+00:20:26.660 --> 00:20:32.140
+ I want chat.
+
+00:20:32.140 --> 00:20:34.260
+ No, I don't want to click on ZAI.
+
+00:20:34.260 --> 00:20:36.580
+ Model comparison, okay.
+
+00:20:36.580 --> 00:20:37.980
+ Intelligence 9.
+
+00:20:37.980 --> 00:20:38.980
+ Ooh.
+
+00:20:38.980 --> 00:20:41.420
+ -That's good.
+
+00:20:41.420 --> 00:20:42.740
+ -Okay.
+
+00:20:42.740 --> 00:20:48.260
+ So, that means we had a top-ten model for free for a week.
+
+00:20:48.260 --> 00:20:50.500
+ -For a full week.
+
+00:20:50.500 --> 00:20:55.220
+ And everybody was screaming when they got Fable
+
+00:20:55.220 --> 00:20:57.260
+ for the first week where you could just do tests
+
+00:20:57.260 --> 00:20:59.620
+ and they could build everything.
+
+00:20:59.620 --> 00:21:01.340
+ Well, imagine what you could have built
+
+00:21:01.340 --> 00:21:03.500
+ and what you lost in a week.
+
+00:21:03.500 --> 00:21:04.420
+ -Yeah.
+
+00:21:04.420 --> 00:21:07.020
+ -Because you didn't use it.
+
+00:21:07.020 --> 00:21:08.860
+ -I mean, you didn't use it.
+
+00:21:08.860 --> 00:21:11.300
+ -Ah, yeah, I know.
+
+00:21:11.300 --> 00:21:13.940
+ But sometimes I have so many agents running.
+
+00:21:13.940 --> 00:21:15.900
+ -Yeah. -I need to understand it myself.
+
+00:21:15.900 --> 00:21:20.500
+ Or I need to trust my agents that everything is going okay.
+
+00:21:20.500 --> 00:21:24.140
+ -I mean, okay, so, yeah, I mean, like,
+
+00:21:24.140 --> 00:21:28.580
+ if you have, like, 50 sessions open at the same time,
+
+00:21:28.580 --> 00:21:31.940
+ you still need the bandwidth to check them
+
+00:21:31.940 --> 00:21:33.300
+ and read what they say, right?
+
+00:21:33.300 --> 00:21:37.060
+ -Yeah, we need a new MacBook or the new Mac Mini.
+
+00:21:37.060 --> 00:21:40.060
+ -Yeah, or even, like, the new MacBook Pro,
+
+00:21:40.060 --> 00:21:42.260
+ what, like, 10 grand?
+
+00:21:42.260 --> 00:21:46.180
+ The Anytime Ultra?
+
+00:21:46.180 --> 00:21:50.580
+ Okay, so, I just want -- Okay, so, five.
+
+00:21:50.580 --> 00:21:51.980
+ Fable 5 with fallback.
+
+00:21:51.980 --> 00:21:53.900
+ What?
+
+00:21:53.900 --> 00:21:56.860
+ Okay, then, okay, that's nuts.
+
+00:21:56.860 --> 00:22:00.700
+ 4.6i, genome 5.3, speed.
+
+00:22:00.700 --> 00:22:02.300
+ It's not that crazy fast.
+
+00:22:02.300 --> 00:22:04.340
+ Oh, okay, no, no, no, okay, no.
+
+00:22:04.340 --> 00:22:06.980
+ Let me -- No, it's fast.
+
+00:22:06.980 --> 00:22:09.380
+ It's faster.
+
+00:22:09.380 --> 00:22:13.500
+ Wait, it's faster than Grok?
+
+00:22:13.500 --> 00:22:15.940
+ -Yeah, and why is Grok so low?
+
+00:22:15.940 --> 00:22:19.420
+ -Because, um...
+
+00:22:19.420 --> 00:22:20.500
+ -Oh, it's a 4.6.
+
+00:22:20.500 --> 00:22:21.940
+ 4.6 is slower than 4.5.
+
+00:22:21.940 --> 00:22:27.180
+ -Yes, yes, yes, but, okay, so, Gemini 3.7 flash,
+
+00:22:27.180 --> 00:22:28.660
+ which is normal, then.
+
+00:22:28.660 --> 00:22:29.820
+ Oh, maybe that's good.
+
+00:22:29.820 --> 00:22:32.180
+ For identical conversation, maybe it's fine.
+
+00:22:32.180 --> 00:22:35.780
+ It's good.
+
+00:22:35.780 --> 00:22:42.940
+ But 90 TPS compared to 57 on Grok.
+
+00:22:42.940 --> 00:22:45.140
+ Okay, that's interesting.
+
+00:22:45.140 --> 00:22:48.300
+ But the curve per task, same.
+
+00:22:48.300 --> 00:22:49.540
+ Okay.
+
+00:22:49.540 --> 00:22:51.020
+ Okay, no, it's even cheaper than Grok.
+
+00:22:51.020 --> 00:22:55.460
+ Okay, that looks a good model, huh?
+
+00:22:55.460 --> 00:22:57.860
+ Damn.
+
+00:22:57.860 --> 00:23:01.340
+ Do you have a ZAI subscription?
+
+00:23:01.340 --> 00:23:03.460
+ -Nope. I failed.
+
+00:23:03.460 --> 00:23:07.220
+ -Yeah, I mean, oh, yeah, because they closed it, right?
+
+00:23:07.220 --> 00:23:10.300
+ It was Minimax. I don't remember.
+
+00:23:10.300 --> 00:23:12.780
+ -No, they closed the other one, the Kimi.
+
+00:23:12.780 --> 00:23:16.780
+ -Yeah, Kimi was closed, right, but not ZAI.
+
+00:23:16.780 --> 00:23:22.460
+ Okay, so, okay, I guess it will come here after.
+
+00:23:22.460 --> 00:23:25.060
+ So, yeah, 60, right?
+
+00:23:25.060 --> 00:23:26.300
+ So, here.
+
+00:23:26.300 --> 00:23:27.980
+ Okay, fair enough.
+
+00:23:27.980 --> 00:23:29.180
+ That was a good model for free.
+
+00:23:29.180 --> 00:23:32.900
+ And now I'm going to, yeah, keep following the timeline,
+
+00:23:32.900 --> 00:23:37.820
+ and when there is a next Delft mod, I'm going to be there.
+
+00:23:37.820 --> 00:23:39.380
+ -And if you want to be, as well,
+
+00:23:39.380 --> 00:23:42.340
+ just follow Shipjet on next, and we will share it.
+
+00:23:42.340 --> 00:23:51.300
+ Back, and I think that's all I wanted to talk about
+
+00:23:51.300 --> 00:23:54.420
+ about announcing all of that.
+
+00:23:54.420 --> 00:23:57.340
+ It's official now, ZAI official release, blah, blah, blah.
+
+00:23:57.340 --> 00:23:59.100
+ Yeah, we're good.
+
+00:23:59.100 --> 00:24:02.060
+ The new model that swept to the top online usage charts
+
+00:24:02.060 --> 00:24:04.740
+ with high performance at zero cost was created by China.
+
+00:24:04.740 --> 00:24:10.820
+ ZAI, also known as Zippo, nice, swept to the top
+
+00:24:10.820 --> 00:24:13.380
+ by giving away for free with no limits.
+
+00:24:13.380 --> 00:24:14.060
+ -Yeah. -Yeah.
+
+00:24:14.060 --> 00:24:18.180
+ -Imagine how many data centers are running to get --
+
+00:24:18.180 --> 00:24:20.620
+ to make the free possible.
+
+00:24:20.620 --> 00:24:23.860
+ -Yeah, I mean, like, the compute was bit like --
+
+00:24:23.860 --> 00:24:28.700
+ for example, for Kioso, slash basics, right?
+
+00:24:28.700 --> 00:24:34.860
+ I don't feel that they are still fighting for compute anymore.
+
+00:24:34.860 --> 00:24:37.340
+ You know what I mean?
+
+00:24:37.340 --> 00:24:40.300
+ It looks like even they build too much compute
+
+00:24:40.300 --> 00:24:46.620
+ for the usage, so it's not the exponential of usage
+
+00:24:46.620 --> 00:24:49.340
+ that everyone is expecting anymore, so.
+
+00:24:49.340 --> 00:24:51.860
+ -They also optimize models constantly.
+
+00:24:51.860 --> 00:24:54.540
+ -Yeah. True that.
+
+00:24:59.140 --> 00:25:01.940
+ Okay, cool.
+
+00:25:01.940 --> 00:25:06.940
+ Okay, so I think we can jump to the demonstration
+
+00:25:06.940 --> 00:25:10.620
+ and what we build because it has been 30 minutes already.
+
+00:25:10.620 --> 00:25:16.100
+ Tag, tag, tag, tag, tag.
+
+00:25:16.100 --> 00:25:18.900
+ Okay, so.
+
+00:25:18.900 --> 00:25:24.180
+ So, what can we build with those little free models?
+
+00:25:24.180 --> 00:25:25.380
+ I want to try them.
+
+00:25:25.380 --> 00:25:30.380
+ I want to try them now by building a YouTube transcript,
+
+00:25:30.380 --> 00:25:35.940
+ so we drop a link, we give a link, we get the transcript,
+
+00:25:35.940 --> 00:25:40.380
+ and if it will build that correctly,
+
+00:25:40.380 --> 00:25:41.940
+ then I want to have the clip,
+
+00:25:41.940 --> 00:25:46.220
+ so it will cut the clip of the best moment
+
+00:25:46.220 --> 00:25:48.660
+ that we have doing a live stream.
+
+00:25:48.660 --> 00:25:51.260
+ -Okay, so, basically, at the end of this video,
+
+00:25:51.260 --> 00:25:52.620
+ we can drop the URL in,
+
+00:25:52.620 --> 00:25:54.780
+ and it will create all the clips for us.
+
+00:25:54.780 --> 00:25:58.580
+ -That's what I hope it will build with a free model.
+
+00:25:58.580 --> 00:26:00.740
+ -With a free model. -With a free model, yes.
+
+00:26:00.740 --> 00:26:04.060
+ -And in 30 minutes. -Yes, exactly.
+
+00:26:04.060 --> 00:26:05.540
+ -Let's go. -So, let's go,
+
+00:26:05.540 --> 00:26:08.380
+ because that's a challenge.
+
+00:26:08.380 --> 00:26:12.540
+ Tag, path, so, okay.
+
+00:26:12.540 --> 00:26:17.780
+ I'm going to change that.
+
+00:26:17.780 --> 00:26:21.580
+ Replace window.
+
+00:26:21.580 --> 00:26:23.860
+ Or maybe I should use cursor.
+
+00:26:23.860 --> 00:26:26.620
+ That would be better than open.
+
+00:26:26.620 --> 00:26:28.740
+ Yeah, okay.
+
+00:26:28.740 --> 00:26:32.340
+ Yes, open free, so.
+
+00:26:32.340 --> 00:26:34.780
+ Okay, I'm going to close this session,
+
+00:26:34.780 --> 00:26:39.940
+ and I'm going to open a work tree.
+
+00:26:39.940 --> 00:26:42.740
+ New work initial.
+
+00:26:42.740 --> 00:26:44.180
+ Fuck.
+
+00:26:44.180 --> 00:26:53.660
+ New folder, 0xalpha, and --
+
+00:26:53.660 --> 00:26:54.620
+ Oh, no.
+
+00:26:54.620 --> 00:27:03.580
+ Git, ignite the repo, and create two folders.
+
+00:27:03.580 --> 00:27:08.100
+ 0xalpha and muse.
+
+00:27:08.100 --> 00:27:09.660
+ Okay.
+
+00:27:09.660 --> 00:27:11.340
+ I should have done that, but, yeah, whatever.
+
+00:27:11.340 --> 00:27:16.100
+ So, yeah, we're going to build the app twice,
+
+00:27:16.100 --> 00:27:17.740
+ or at least we're going to compare,
+
+00:27:17.740 --> 00:27:20.540
+ like, which model will perform the best,
+
+00:27:20.540 --> 00:27:23.900
+ and I'm going to do that.
+
+00:27:23.900 --> 00:27:27.540
+ And, oh, I didn't --
+
+00:27:27.540 --> 00:27:35.300
+ Okay, so maybe I will keep those replaced,
+
+00:27:35.300 --> 00:27:36.860
+ because I have them on open root,
+
+00:27:36.860 --> 00:27:43.820
+ so I didn't think about late night.
+
+00:27:43.820 --> 00:27:47.580
+ Where is my --
+
+00:27:47.580 --> 00:27:48.500
+ Where is it?
+
+00:27:48.500 --> 00:27:50.100
+ Okay, cool.
+
+00:27:50.100 --> 00:27:53.580
+ Yeah, yeah.
+
+00:27:53.580 --> 00:27:54.460
+ Okay, nice.
+
+00:27:54.460 --> 00:27:56.780
+ So, I have muse on the left,
+
+00:27:56.780 --> 00:28:02.180
+ and 0xalpha on the right.
+
+00:28:02.180 --> 00:28:07.980
+ And I want to use the prompt.
+
+00:28:07.980 --> 00:28:11.340
+ So, we are building a small standalone TypeScript tool
+
+00:28:11.340 --> 00:28:12.580
+ called YouTube Distiller.
+
+00:28:12.580 --> 00:28:13.660
+ Paste a YouTube link,
+
+00:28:13.660 --> 00:28:16.220
+ and you get back what the video actually said,
+
+00:28:16.220 --> 00:28:18.660
+ plus a handful of moments worth watching,
+
+00:28:18.660 --> 00:28:22.460
+ cut, and playable, et cetera, et cetera.
+
+00:28:22.460 --> 00:28:24.220
+ I want to edit that.
+
+00:28:24.220 --> 00:28:26.660
+ I'm going to put that here.
+
+00:28:26.660 --> 00:28:30.620
+ So, a prompt of 46 lines,
+
+00:28:30.620 --> 00:28:38.660
+ and create it in the folder 0xalpha.
+
+00:28:38.660 --> 00:28:42.060
+ I'm going to read that after.
+
+00:28:42.060 --> 00:28:48.140
+ That creates it in the muse folder,
+
+00:28:48.140 --> 00:28:56.140
+ because I want to compare against 0xalpha output.
+
+00:28:56.660 --> 00:29:01.980
+ So, yeah, read-only, do not write code yet.
+
+00:29:01.980 --> 00:29:05.900
+ It has two faces of one engine.
+
+00:29:05.900 --> 00:29:07.220
+ It runs the full state below,
+
+00:29:07.220 --> 00:29:09.380
+ and emits progress even when it goes.
+
+00:29:09.380 --> 00:29:11.460
+ CLI, server.
+
+00:29:11.460 --> 00:29:13.980
+ The UI is a simple, static HTML file.
+
+00:29:13.980 --> 00:29:17.140
+ No React, no Bundler, whatever.
+
+00:29:17.140 --> 00:29:19.100
+ Pipeline.
+
+00:29:19.100 --> 00:29:20.940
+ YouTube downloads.
+
+00:29:20.940 --> 00:29:22.860
+ Download the video in the English auto-caption
+
+00:29:22.860 --> 00:29:24.660
+ in GZone 3.
+
+00:29:24.660 --> 00:29:27.620
+ Parse the GZone 3, one request to open router,
+
+00:29:27.620 --> 00:29:32.340
+ free route with the entire transcript.
+
+00:29:32.340 --> 00:29:36.140
+ FM peg cuts the rank moment into playable file,
+
+00:29:36.140 --> 00:29:37.940
+ zero model request.
+
+00:29:37.940 --> 00:29:40.220
+ Runtime, minimax, free.
+
+00:29:40.220 --> 00:29:42.340
+ Okay, file off.
+
+00:29:42.340 --> 00:29:46.180
+ Tech, always.
+
+00:29:46.180 --> 00:29:48.500
+ Hi.
+
+00:29:48.500 --> 00:29:50.140
+ Fuck.
+
+00:29:50.140 --> 00:29:52.340
+ Confirm.
+
+00:29:52.340 --> 00:29:56.020
+ Okay.
+
+00:29:56.020 --> 00:29:57.380
+ Cut the rank.
+
+00:29:57.380 --> 00:30:00.620
+ I didn't check that it's using the runtime model,
+
+00:30:00.620 --> 00:30:03.340
+ so I'm not going to do it.
+
+00:30:03.340 --> 00:30:04.980
+ Oh, yeah, no, it's a backup,
+
+00:30:04.980 --> 00:30:07.140
+ because I asked for a backup of the model
+
+00:30:07.140 --> 00:30:09.220
+ if Muse is not working.
+
+00:30:09.220 --> 00:30:10.740
+ -Ah, cool.
+
+00:30:10.740 --> 00:30:11.900
+ It's not Muse.
+
+00:30:11.900 --> 00:30:15.780
+ -Yes, so runtime model.
+
+00:30:15.780 --> 00:30:17.380
+ -That comparison failed fast.
+
+00:30:17.380 --> 00:30:23.260
+ Keep Muse for execution,
+
+00:30:23.260 --> 00:30:28.620
+ because it's working.
+
+00:30:28.620 --> 00:30:30.820
+ Tech, what did I do?
+
+00:30:30.820 --> 00:30:35.900
+ I'm going to -- Fuck.
+
+00:30:35.900 --> 00:30:38.420
+ What?
+
+00:30:38.420 --> 00:30:40.020
+ Just end it, bro.
+
+00:30:43.100 --> 00:30:50.380
+ We use model, runtime model.
+
+00:30:50.380 --> 00:30:57.940
+ Keep Xerox Alpha, because it's working.
+
+00:30:57.940 --> 00:31:01.580
+ So it looks like Xerox Alpha is way faster than Muse,
+
+00:31:01.580 --> 00:31:03.540
+ or maybe it's --
+
+00:31:03.540 --> 00:31:07.340
+ -What I like to do is, when it has the full MD ready,
+
+00:31:07.340 --> 00:31:10.420
+ I say convert it to HTML so I can read it easier
+
+00:31:10.420 --> 00:31:11.900
+ and open in the browser,
+
+00:31:11.900 --> 00:31:14.260
+ and it gives you the full plan of HTML.
+
+00:31:14.260 --> 00:31:22.980
+ -Okay, so give me the plan in HTML
+
+00:31:22.980 --> 00:31:28.460
+ so I can read it better.
+
+00:31:28.460 --> 00:31:33.420
+ Tech of tech.
+
+00:31:33.420 --> 00:31:36.420
+ -Yes.
+
+00:31:36.420 --> 00:31:38.060
+ -Okay, okay.
+
+00:31:38.060 --> 00:31:39.340
+ Okay, cue, cue, cue.
+
+00:31:39.340 --> 00:31:40.340
+ Okay, cool.
+
+00:31:40.340 --> 00:31:45.220
+ I just want to check the artificial analysis
+
+00:31:45.220 --> 00:31:50.220
+ between Muse, Muse 4.1, right?
+
+00:31:50.220 --> 00:31:56.980
+ That's Muse 5.2.
+
+00:31:56.980 --> 00:32:01.260
+ I think it's the old one.
+
+00:32:01.260 --> 00:32:06.020
+ Replace Muse.
+
+00:32:06.020 --> 00:32:07.220
+ Okay. Wait.
+
+00:32:07.220 --> 00:32:08.700
+ Is that the -- Oh, August.
+
+00:32:08.700 --> 00:32:09.460
+ Okay, okay, okay.
+
+00:32:09.460 --> 00:32:11.620
+ So that's nice.
+
+00:32:11.620 --> 00:32:13.180
+ I haven't -- Jesus.
+
+00:32:13.180 --> 00:32:15.660
+ Even this model is, like, cool.
+
+00:32:15.660 --> 00:32:17.580
+ Okay, so, for example, like, a Muse pack,
+
+00:32:17.580 --> 00:32:21.380
+ I selected from open code free selection,
+
+00:32:21.380 --> 00:32:26.820
+ and the OX Alpha is on open router.
+
+00:32:26.820 --> 00:32:36.900
+ Like, back, replace, window, open router.
+
+00:32:36.900 --> 00:32:39.620
+ Okay, the document is building.
+
+00:32:39.620 --> 00:32:41.700
+ Okay.
+
+00:32:41.700 --> 00:32:43.980
+ Open.
+
+00:32:43.980 --> 00:32:46.580
+ Open the files.
+
+00:32:46.580 --> 00:32:52.180
+ Oh.
+
+00:32:52.180 --> 00:32:54.940
+ Tech.
+
+00:32:54.940 --> 00:32:56.860
+ Ooh, ooh, ooh.
+
+00:32:56.860 --> 00:32:58.100
+ Nice.
+
+00:32:58.100 --> 00:32:59.180
+ Path.
+
+00:32:59.180 --> 00:33:01.180
+ Tech.
+
+00:33:01.180 --> 00:33:05.820
+ I'm gonna -- Okay.
+
+00:33:05.820 --> 00:33:08.260
+ So that's the plane for Muse.
+
+00:33:08.260 --> 00:33:10.860
+ Replace YouTube distiller.
+
+00:33:10.860 --> 00:33:11.740
+ Bam.
+
+00:33:11.740 --> 00:33:12.900
+ There it is.
+
+00:33:12.900 --> 00:33:17.460
+ One engine applying two faces CLI plus SCC.
+
+00:33:17.460 --> 00:33:20.460
+ SCC?
+
+00:33:20.460 --> 00:33:23.860
+ Ship-shit easier.
+
+00:33:23.860 --> 00:33:24.420
+ Yeah?
+
+00:33:24.420 --> 00:33:27.980
+ Well, it will probably explain it when we read further.
+
+00:33:27.980 --> 00:33:32.900
+ SCC.
+
+00:33:32.900 --> 00:33:34.020
+ No, it doesn't.
+
+00:33:34.020 --> 00:33:35.860
+ No.
+
+00:33:35.860 --> 00:33:39.660
+ SCC, SCC, server, SCC endpoint.
+
+00:33:39.660 --> 00:33:41.060
+ What?
+
+00:33:41.060 --> 00:33:42.260
+ Whatever.
+
+00:33:42.260 --> 00:33:45.060
+ So, free tier environment.
+
+00:33:45.060 --> 00:33:46.260
+ Okay.
+
+00:33:46.260 --> 00:33:50.420
+ Oh, that's the add constraint.
+
+00:33:50.420 --> 00:33:52.500
+ 20 request mean, one request --
+
+00:33:52.500 --> 00:33:54.580
+ Oh, yeah, yeah, because there is a limitation
+
+00:33:54.580 --> 00:33:59.060
+ in the open router in the free model.
+
+00:33:59.060 --> 00:34:01.260
+ Like, so, if you pay 10 bucks to open router,
+
+00:34:01.260 --> 00:34:04.460
+ then you have one request per --
+
+00:34:04.460 --> 00:34:05.860
+ 1,000 requests per day.
+
+00:34:05.860 --> 00:34:09.340
+ And if you don't have money at all, then it's just 20.
+
+00:34:09.340 --> 00:34:11.060
+ So it has a difference.
+
+00:34:11.060 --> 00:34:14.420
+ But you can pay 10 bucks to have, like, 1,000 requests.
+
+00:34:14.420 --> 00:34:16.100
+ Anyway, that's fine.
+
+00:34:16.100 --> 00:34:18.740
+ Okay, so file layout, watch fill out zone,
+
+00:34:18.740 --> 00:34:20.180
+ blah, blah, blah, page.
+
+00:34:20.180 --> 00:34:23.060
+ Okay, so we have both.
+
+00:34:23.060 --> 00:34:27.740
+ The server, YouTube transcript, LLM open router, whatever.
+
+00:34:27.740 --> 00:34:31.260
+ Clip, counter, server, and public,
+
+00:34:31.260 --> 00:34:34.220
+ which is, like, the static page.
+
+00:34:34.220 --> 00:34:37.060
+ Model ID, fallback models.
+
+00:34:37.060 --> 00:34:38.660
+ Nice.
+
+00:34:41.460 --> 00:34:43.860
+ Exact JSON parsing approach.
+
+00:34:43.860 --> 00:34:46.380
+ Okay, so then, yeah, then I have the time.
+
+00:34:46.380 --> 00:34:51.460
+ I have the -- for the subtitle, the transcript.
+
+00:34:51.460 --> 00:34:55.220
+ Single requests, JSON schema, nice.
+
+00:34:55.220 --> 00:34:57.420
+ Okay, so then I have the transcript.
+
+00:34:57.420 --> 00:35:00.700
+ Cool, cool, cool.
+
+00:35:00.700 --> 00:35:04.060
+ Validation and what happened on malform output.
+
+00:35:04.060 --> 00:35:06.740
+ We don't need to handle errors. Everything will be perfect.
+
+00:35:06.740 --> 00:35:09.780
+ -We just push it. -Yeah, exactly.
+
+00:35:09.780 --> 00:35:11.780
+ Failure handling, nice.
+
+00:35:11.780 --> 00:35:15.100
+ Request counter, user always see budget used.
+
+00:35:15.100 --> 00:35:17.500
+ Okay, cool.
+
+00:35:17.500 --> 00:35:22.780
+ Progress event shape, oh, CLI and SCC consume it.
+
+00:35:22.780 --> 00:35:25.020
+ CLI download.
+
+00:35:25.020 --> 00:35:26.260
+ Oh, okay, okay.
+
+00:35:26.260 --> 00:35:29.580
+ So, SCC, whatever.
+
+00:35:29.580 --> 00:35:34.340
+ So, we are going to have the CLI where download via the clip down.
+
+00:35:34.340 --> 00:35:35.780
+ Okay, cool, nice.
+
+00:35:35.780 --> 00:35:40.260
+ MPP cut line for 90 minutes live build.
+
+00:35:40.260 --> 00:35:42.660
+ Projects cut folding, 10 minutes.
+
+00:35:42.660 --> 00:35:44.460
+ Okay, let's see how it goes.
+
+00:35:44.460 --> 00:35:45.900
+ Total 90 minutes.
+
+00:35:45.900 --> 00:35:47.780
+ We don't have time, bro.
+
+00:35:47.780 --> 00:35:48.620
+ We don't have that time.
+
+00:35:48.620 --> 00:35:52.100
+ -Do it faster. -Yeah.
+
+00:35:52.100 --> 00:35:53.140
+ Path, okay.
+
+00:35:53.140 --> 00:35:54.580
+ So, that looks legit.
+
+00:35:54.580 --> 00:35:58.540
+ I mean, if it works, right, like, so it goes.
+
+00:35:58.540 --> 00:36:07.980
+ And that's from, yeah, GLM 5.3.
+
+00:36:07.980 --> 00:36:12.540
+ It's the same plan, man.
+
+00:36:12.540 --> 00:36:16.060
+ Keep budget, blah, blah, blah, building.
+
+00:36:16.060 --> 00:36:22.100
+ That's a bit shorter, but that looks legit.
+
+00:36:22.100 --> 00:36:23.740
+ I want that.
+
+00:36:23.740 --> 00:36:25.900
+ Yeah, maybe we can just say do the steps
+
+00:36:25.900 --> 00:36:28.100
+ that can be done within 30 minutes
+
+00:36:28.100 --> 00:36:29.940
+ so that we can see the first things.
+
+00:36:29.940 --> 00:36:36.900
+ Yep, path, path, window, path.
+
+00:36:36.900 --> 00:36:46.860
+ So, proceed, but don't spend 30 minutes
+
+00:36:46.860 --> 00:36:54.300
+ to build, skip, end-to-end test.
+
+00:36:54.300 --> 00:36:58.540
+ You have five minutes.
+
+00:36:58.540 --> 00:37:00.180
+ -Yeah. -Thank you.
+
+00:37:00.180 --> 00:37:02.780
+ It will be cool if we can just build everything in five minutes.
+
+00:37:02.780 --> 00:37:04.300
+ Yeah.
+
+00:37:04.300 --> 00:37:06.860
+ Open your browser, model not keeping the max free
+
+00:37:06.860 --> 00:37:09.900
+ as a primary model in a one-line swap
+
+00:37:09.900 --> 00:37:11.980
+ if it ever degrades or whatever.
+
+00:37:11.980 --> 00:37:12.900
+ Cool.
+
+00:37:12.900 --> 00:37:15.060
+ Cool.
+
+00:37:15.060 --> 00:37:21.540
+ Okay, and I think I will need the open router key,
+
+00:37:21.540 --> 00:37:29.300
+ so I'm going to get one keys.
+
+00:37:34.260 --> 00:37:35.780
+ Where is it?
+
+00:37:35.780 --> 00:37:37.420
+ Sign up.
+
+00:37:37.420 --> 00:37:40.540
+ I don't want to sign up. I want to sign in.
+
+00:37:40.540 --> 00:37:42.140
+ Okay.
+
+00:37:45.900 --> 00:37:49.060
+ Path.
+
+00:37:49.060 --> 00:37:50.660
+ Oh.
+
+00:37:56.580 --> 00:38:03.060
+ Okay, so looks like the MUSE one just went straight for it.
+
+00:38:03.060 --> 00:38:14.380
+ Tech, workspace, profile, API keys, shape sheet, show.
+
+00:38:14.380 --> 00:38:20.100
+ Okay, expiration, one hour.
+
+00:38:20.100 --> 00:38:22.020
+ Raise it five.
+
+00:38:22.020 --> 00:38:25.540
+ Raise it every day.
+
+00:38:25.540 --> 00:38:28.060
+ Tech, path.
+
+00:38:28.060 --> 00:38:34.540
+ So, I'm going to put that key in the repository setup.
+
+00:38:34.540 --> 00:38:43.460
+ Okay, create the kind of file for each folder.
+
+00:38:43.460 --> 00:38:52.660
+ So, they can use open router key.
+
+00:38:52.660 --> 00:38:58.220
+ Don't share it on stream.
+
+00:38:58.220 --> 00:38:59.260
+ Important.
+
+00:38:59.260 --> 00:39:01.140
+ Yeah.
+
+00:39:01.140 --> 00:39:04.860
+ Okay, so Kyosha has the key, set up the file.
+
+00:39:04.860 --> 00:39:06.180
+ We're good with that.
+
+00:39:06.180 --> 00:39:07.460
+ We're good with it.
+
+00:39:07.460 --> 00:39:11.060
+ And we have one hour from now to finish it up,
+
+00:39:11.060 --> 00:39:14.260
+ but that's no problem.
+
+00:39:14.260 --> 00:39:17.940
+ Okay, wait, is it already done?
+
+00:39:17.940 --> 00:39:19.540
+ What?
+
+00:39:19.540 --> 00:39:24.540
+ Kyosha, it did everything.
+
+00:39:24.540 --> 00:39:26.900
+ Yeah, see, if you say, "I only have five minutes,"
+
+00:39:26.900 --> 00:39:30.500
+ it says, "Okay, I will just spin up 200 more agents
+
+00:39:30.500 --> 00:39:33.340
+ and run it in five minutes."
+
+00:39:33.340 --> 00:39:36.420
+ But wait, like this model is free, man.
+
+00:39:36.420 --> 00:39:38.180
+ Well, it depends on the quality, right?
+
+00:39:38.180 --> 00:39:40.300
+ Yeah.
+
+00:39:40.300 --> 00:39:43.260
+ I've had Devs before where they said, "I'm done,"
+
+00:39:43.260 --> 00:39:46.420
+ and then you open it and you look at it and you think,
+
+00:39:46.420 --> 00:39:52.340
+ "I don't know what you did, but nothing is familiar."
+
+00:39:52.340 --> 00:39:53.540
+ Been there, done that.
+
+00:39:53.540 --> 00:39:54.300
+ Yes.
+
+00:39:54.300 --> 00:39:57.260
+ I created the form and then ordered the HTML form
+
+00:39:57.260 --> 00:40:01.540
+ and nothing behind it.
+
+00:40:01.540 --> 00:40:03.060
+ Tech.
+
+00:40:03.060 --> 00:40:05.900
+ I mean, the form was created, right?
+
+00:40:05.900 --> 00:40:07.260
+ Yeah, yeah, it was created.
+
+00:40:07.260 --> 00:40:08.100
+ It didn't work.
+
+00:40:08.100 --> 00:40:09.100
+ You could not use it.
+
+00:40:09.100 --> 00:40:13.140
+ You could not send anything, but yeah.
+
+00:40:13.140 --> 00:40:15.780
+ No, I'm going to take the video,
+
+00:40:15.780 --> 00:40:18.980
+ like the last video that we published on Chipsheet.
+
+00:40:18.980 --> 00:40:24.620
+ If we can get some transcripts and clips,
+
+00:40:24.620 --> 00:40:25.900
+ that would be interesting.
+
+00:40:25.900 --> 00:40:31.220
+ And it's a 10-minute video, so we'll see.
+
+00:40:31.220 --> 00:40:35.980
+ Grape, resolve dependency, okay.
+
+00:40:35.980 --> 00:40:39.940
+ Burn server, come on, timeout not found, let's go.
+
+00:40:39.940 --> 00:40:41.820
+ Oh, server's on.
+
+00:40:41.820 --> 00:40:43.780
+ 3,000.
+
+00:40:43.780 --> 00:40:45.540
+ YouTube.
+
+00:40:45.540 --> 00:40:47.380
+ Cool.
+
+00:40:47.380 --> 00:40:51.220
+ Missing open router, yes.
+
+00:40:51.220 --> 00:40:54.260
+ Okay.
+
+00:40:54.260 --> 00:40:56.500
+ Path.
+
+00:40:56.500 --> 00:41:00.500
+ So both M5 created, okay, okay, okay, okay, cool.
+
+00:41:00.500 --> 00:41:06.580
+ Turn router V1, okay.
+
+00:41:06.580 --> 00:41:08.180
+ Do not display the key.
+
+00:41:08.180 --> 00:41:10.700
+ Ah!
+
+00:41:10.700 --> 00:41:13.380
+ Okay, we don't have a massive crowd, so yeah, whatever.
+
+00:41:13.380 --> 00:41:15.500
+ It's fine, but it --
+
+00:41:15.500 --> 00:41:16.620
+ We will just swap it.
+
+00:41:16.620 --> 00:41:17.780
+ Yeah, yeah.
+
+00:41:17.780 --> 00:41:21.820
+ I mean, it's a $5 limit.
+
+00:41:21.820 --> 00:41:23.460
+ If it makes people happy, let them be happy.
+
+00:41:23.460 --> 00:41:27.300
+ Yeah, let them cook.
+
+00:41:27.300 --> 00:41:29.900
+ Tech, tech, tech.
+
+00:41:29.900 --> 00:41:32.100
+ Okay.
+
+00:41:32.100 --> 00:41:35.860
+ So looks like we have everything.
+
+00:41:35.860 --> 00:41:37.700
+ So browse server, okay.
+
+00:41:37.700 --> 00:41:39.420
+ What does it look like?
+
+00:41:39.420 --> 00:41:41.900
+ Localized 3,000.
+
+00:41:41.900 --> 00:41:45.220
+ Localized 3,000.
+
+00:41:45.220 --> 00:41:48.700
+ Okay.
+
+00:41:48.700 --> 00:41:51.260
+ Run it.
+
+00:41:51.260 --> 00:42:00.620
+ Yeah, right window after.
+
+00:42:00.620 --> 00:42:03.020
+ Building five minutes, and to escape as requested.
+
+00:42:03.020 --> 00:42:05.940
+ Stay -- Yeah, see, like, the time estimation,
+
+00:42:05.940 --> 00:42:07.180
+ it's pure garbage.
+
+00:42:07.180 --> 00:42:09.540
+ It's crazy.
+
+00:42:09.540 --> 00:42:11.140
+ Okay. It's the same thing if you put in,
+
+00:42:11.140 --> 00:42:12.780
+ and you say, "Create a plan for this,
+
+00:42:12.780 --> 00:42:16.460
+ and now give me the estimate in time and in costs."
+
+00:42:16.460 --> 00:42:19.340
+ I think it still does every estimate,
+
+00:42:19.340 --> 00:42:21.900
+ and the same time that people do it without AI.
+
+00:42:21.900 --> 00:42:23.460
+ Yeah, no, 100%.
+
+00:42:23.460 --> 00:42:26.820
+ Because the data set is time estimation
+
+00:42:26.820 --> 00:42:30.260
+ based on human Reddit posts, right?
+
+00:42:30.260 --> 00:42:32.180
+ So, yeah.
+
+00:42:32.180 --> 00:42:34.140
+ YouTube distiller, pasta YouTube link,
+
+00:42:34.140 --> 00:42:36.860
+ brief three, five ranked moments,
+
+00:42:36.860 --> 00:42:41.180
+ cut in playable, one model request per video.
+
+00:42:41.180 --> 00:42:43.420
+ Okay. Okay.
+
+00:42:43.420 --> 00:42:46.300
+ Left to the estimation, download, start.
+
+00:42:46.300 --> 00:42:48.300
+ Okay, let's go. Request format is not available.
+
+00:42:48.300 --> 00:42:50.420
+ Use list for what?
+
+00:42:50.420 --> 00:42:52.020
+ Matching video.
+
+00:42:54.900 --> 00:42:59.060
+ How are you capturing the caption if there is no video?
+
+00:43:05.100 --> 00:43:06.420
+ I'm going to drop that.
+
+00:43:06.420 --> 00:43:08.940
+ I'm going to drop that.
+
+00:43:08.940 --> 00:43:10.260
+ Download done.
+
+00:43:10.260 --> 00:43:15.220
+ Working. Are you --
+
+00:43:15.220 --> 00:43:17.140
+ Are you doing anything?
+
+00:43:17.140 --> 00:43:22.860
+ -It did find it. -Or is it fake?
+
+00:43:22.860 --> 00:43:25.180
+ Fetch video, parsing, okay.
+
+00:43:25.180 --> 00:43:28.380
+ Analyzing transcript, one request.
+
+00:43:28.380 --> 00:43:29.460
+ Okay.
+
+00:43:29.460 --> 00:43:32.260
+ I'm going to -- Cutting five clip.
+
+00:43:32.260 --> 00:43:33.180
+ Wait, what? Okay.
+
+00:43:33.180 --> 00:43:36.060
+ -Yes, it does every -- Here it is.
+
+00:43:39.300 --> 00:43:44.060
+ -A livestream demo of Grog, Grog bought an --
+
+00:43:44.060 --> 00:43:46.700
+ And when Legion demo with King.
+
+00:43:46.700 --> 00:43:48.620
+ -Yeah, King was my thought.
+
+00:43:48.620 --> 00:43:49.740
+ -Yeah. Okay, wait.
+
+00:43:49.740 --> 00:43:51.340
+ I'm going to cut that.
+
+00:43:53.780 --> 00:43:56.140
+ Oh, it took the segment. Smart.
+
+00:43:59.140 --> 00:44:00.900
+ Okay, that's sick.
+
+00:44:00.900 --> 00:44:05.540
+ Because, like, see, this -- that effect,
+
+00:44:05.540 --> 00:44:09.100
+ that's what I use for the --
+
+00:44:09.100 --> 00:44:13.020
+ Oh, that works well.
+
+00:44:13.020 --> 00:44:15.620
+ For the transition in the video from one chapter to another,
+
+00:44:15.620 --> 00:44:17.740
+ right?
+
+00:44:17.740 --> 00:44:19.140
+ Walk through the food pipeline,
+
+00:44:19.140 --> 00:44:21.180
+ Google search from end-of-end leads,
+
+00:44:21.180 --> 00:44:23.700
+ prompt generation, email draft,
+
+00:44:23.700 --> 00:44:25.820
+ virtual agent, org charts.
+
+00:44:25.820 --> 00:44:27.380
+ Yeah, one minute, one minute.
+
+00:44:27.380 --> 00:44:31.020
+ Bro, that could be clips for Twitter.
+
+00:44:31.020 --> 00:44:35.380
+ -Yeah, but people are trying to do this with Claude,
+
+00:44:35.380 --> 00:44:39.180
+ and they are working for an hour to copy,
+
+00:44:39.180 --> 00:44:42.060
+ paste, put the URL in, ask it.
+
+00:44:42.060 --> 00:44:44.300
+ You can just better code your own solution.
+
+00:44:44.300 --> 00:44:47.540
+ That's so much faster.
+
+00:44:47.540 --> 00:44:49.900
+ -And it's working, and it's free.
+
+00:44:49.900 --> 00:44:52.100
+ -Yeah. This is cool.
+
+00:44:52.100 --> 00:44:57.060
+ -Like, bro, that costs zero.
+
+00:44:57.060 --> 00:44:58.860
+ -And it gave results.
+
+00:44:58.860 --> 00:45:01.540
+ -Like...
+
+00:45:01.540 --> 00:45:06.740
+ -On prompt, you find a lead that you just need to find 1,000.
+
+00:45:06.740 --> 00:45:08.220
+ -But do this automatically.
+
+00:45:08.220 --> 00:45:14.180
+ Then it will assemble, and you can imagine how you need --
+
+00:45:14.180 --> 00:45:18.380
+ -Okay, why is it refreshing all the time?
+
+00:45:18.380 --> 00:45:20.060
+ Okay, what's -- -Because it's still working.
+
+00:45:20.060 --> 00:45:21.620
+ -Yeah, but --
+
+00:45:21.620 --> 00:45:23.660
+ -Every time it creates a video, it refreshes.
+
+00:45:23.660 --> 00:45:26.500
+ -Yeah, not fake, real bug, not fixed.
+
+00:45:26.500 --> 00:45:28.500
+ You eat -- Oh, my God.
+
+00:45:28.500 --> 00:45:30.500
+ I love AI, bro.
+
+00:45:30.500 --> 00:45:32.100
+ -What?
+
+00:45:32.100 --> 00:45:36.500
+ And, again, we don't need an employee to do this for us.
+
+00:45:36.500 --> 00:45:40.300
+ -Like, yeah.
+
+00:45:40.300 --> 00:45:45.380
+ You can tell the right was the alpha model, right?
+
+00:45:45.380 --> 00:45:47.380
+ -No. Yeah, so, yeah, we can --
+
+00:45:47.380 --> 00:45:49.260
+ -You can now tell it that it needs to improve
+
+00:45:49.260 --> 00:45:51.620
+ because the other model did such a good job.
+
+00:45:51.620 --> 00:45:55.420
+ We need to be impressed to even think about using it.
+
+00:45:55.420 --> 00:45:56.860
+ -Yeah, true.
+
+00:45:56.860 --> 00:46:01.580
+ -I don't know if that works if you like to AI in a way.
+
+00:46:01.580 --> 00:46:02.940
+ -Okay. -You better do your best
+
+00:46:02.940 --> 00:46:09.140
+ because the other model created a 10 out of 10.
+
+00:46:09.140 --> 00:46:16.380
+ Rate your imp against muse
+
+00:46:19.180 --> 00:46:23.900
+ because it's really good.
+
+00:46:23.900 --> 00:46:28.300
+ And you are playing.
+
+00:46:28.300 --> 00:46:38.300
+ You are being evaluated, evaluated, evaluated against it.
+
+00:46:38.300 --> 00:46:44.220
+ Audit first, no updates.
+
+00:46:44.220 --> 00:46:45.420
+ Okay.
+
+00:46:45.420 --> 00:46:54.420
+ Also, run the server so I can test your imp.
+
+00:46:54.420 --> 00:46:57.020
+ Okay, so, not fake, real bug, not fixed.
+
+00:46:57.020 --> 00:47:01.020
+ You eat force, blah, blah, blah, but it's dash only.
+
+00:47:01.020 --> 00:47:02.620
+ Okay.
+
+00:47:08.380 --> 00:47:14.540
+ Meaning, by the way, what SSR means.
+
+00:47:14.540 --> 00:47:23.260
+ -Server -- What I think that it is is server send defense.
+
+00:47:23.260 --> 00:47:27.020
+ -Oh, okay.
+
+00:47:27.020 --> 00:47:30.540
+ Dash only. Okay, bro, muse is really fast.
+
+00:47:30.540 --> 00:47:31.820
+ -Yeah.
+
+00:47:31.820 --> 00:47:34.380
+ -Maybe they have a -- No, I'm on high thinking.
+
+00:47:34.380 --> 00:47:36.420
+ So, what the fuck?
+
+00:47:36.420 --> 00:47:38.020
+ YouTube doesn't store one file,
+
+00:47:38.020 --> 00:47:39.860
+ but video plus audio, okay.
+
+00:47:39.860 --> 00:47:43.700
+ Dash dynamic adaptive streaming over HTTP, okay.
+
+00:47:43.700 --> 00:47:45.700
+ Split high quality into separate stream.
+
+00:47:45.700 --> 00:47:46.700
+ Oh, yeah, okay.
+
+00:47:46.700 --> 00:47:49.580
+ So, that's why -- Okay, okay, okay, cool.
+
+00:47:49.580 --> 00:47:51.100
+ Server send events, yes.
+
+00:47:51.100 --> 00:47:52.580
+ HTTP event stream.
+
+00:47:52.580 --> 00:47:54.420
+ Okay, fair enough.
+
+00:47:54.420 --> 00:47:57.980
+ Cool. So, is it running the --
+
+00:47:57.980 --> 00:47:59.180
+ -Yeah. -Okay.
+
+00:47:59.180 --> 00:48:01.500
+ -It's taking its time.
+
+00:48:01.500 --> 00:48:02.980
+ -What? Okay.
+
+00:48:02.980 --> 00:48:05.820
+ So -- -Ask the same question.
+
+00:48:05.820 --> 00:48:08.260
+ Or are you not going to have it rated?
+
+00:48:08.260 --> 00:48:09.700
+ -Are you at right?
+
+00:48:09.700 --> 00:48:15.180
+ Tack. Where is the prompt?
+
+00:48:20.180 --> 00:48:21.100
+ What is it?
+
+00:48:21.100 --> 00:48:22.660
+ -Can you also do control F?
+
+00:48:22.660 --> 00:48:24.260
+ Just find it?
+
+00:48:28.060 --> 00:48:29.260
+ -Tack.
+
+00:48:29.260 --> 00:48:30.420
+ Oh, okay.
+
+00:48:30.420 --> 00:48:32.660
+ Just need to unzoom.
+
+00:48:32.660 --> 00:48:44.580
+ Tack, but against 0x alpha, not against yourself.
+
+00:48:44.580 --> 00:48:45.660
+ -Yeah.
+
+00:48:45.660 --> 00:48:49.300
+ Hi, Melita. 10/10.
+
+00:48:49.300 --> 00:48:51.180
+ I'm always curious if you do like this
+
+00:48:51.180 --> 00:48:54.580
+ and you say rate the other one because we are comparing you.
+
+00:48:54.580 --> 00:48:56.700
+ If it is smart enough to just say,
+
+00:48:56.700 --> 00:49:01.020
+ "Oh, the other one has more bugs, so I'm better."
+
+00:49:01.020 --> 00:49:05.500
+ And, oh, yeah, because I can trash the other one, right?
+
+00:49:05.500 --> 00:49:06.700
+ -Yeah. -Okay.
+
+00:49:06.700 --> 00:49:11.540
+ So, that's the one from --
+
+00:49:11.540 --> 00:49:14.020
+ So, that's Muse.
+
+00:49:14.020 --> 00:49:16.540
+ And that's GLM.
+
+00:49:16.540 --> 00:49:19.660
+ And I'm going to take the same video.
+
+00:49:19.660 --> 00:49:23.660
+ Path, path, distill.
+
+00:49:23.660 --> 00:49:25.260
+ Okay.
+
+00:49:27.060 --> 00:49:28.660
+ What?
+
+00:49:32.020 --> 00:49:33.780
+ Okay. I don't like that.
+
+00:49:33.780 --> 00:49:35.500
+ I prefer the --
+
+00:49:35.500 --> 00:49:37.860
+ -Yeah, but you said make it static HTML
+
+00:49:37.860 --> 00:49:41.620
+ and don't add in any React or anything,
+
+00:49:41.620 --> 00:49:43.580
+ so it can't make it too fancy.
+
+00:49:43.580 --> 00:49:46.100
+ -Yeah, but, like, the terminal come online like that.
+
+00:49:46.100 --> 00:49:49.700
+ It's better, right? -Yeah, that's much better.
+
+00:49:49.700 --> 00:49:51.580
+ -Tack.
+
+00:49:51.580 --> 00:49:53.300
+ Modem in MX3, whatever.
+
+00:49:53.300 --> 00:49:55.340
+ Yeah, okay, so that just --
+
+00:49:55.340 --> 00:49:57.140
+ Yeah.
+
+00:49:57.140 --> 00:50:01.580
+ 2000-watt paths, video downloaded, preflight caption.
+
+00:50:01.580 --> 00:50:02.820
+ Okay.
+
+00:50:02.820 --> 00:50:06.700
+ I mean, there is no bugs on the first run.
+
+00:50:06.700 --> 00:50:08.580
+ -It doesn't show the bugs.
+
+00:50:08.580 --> 00:50:09.740
+ -Yeah.
+
+00:50:09.740 --> 00:50:11.860
+ -But I always want to see a spinner
+
+00:50:11.860 --> 00:50:15.260
+ because you never know if it is waiting on you or you and him.
+
+00:50:15.260 --> 00:50:16.180
+ -Yeah.
+
+00:50:16.180 --> 00:50:18.220
+ I mean, like, yeah, we don't know what to do right now, right?
+
+00:50:18.220 --> 00:50:18.780
+ -Yeah.
+
+00:50:18.780 --> 00:50:22.420
+ -And hi, if that's king.
+
+00:50:22.420 --> 00:50:23.660
+ What's up?
+
+00:50:23.660 --> 00:50:25.660
+ Thanks for joining us.
+
+00:50:25.660 --> 00:50:29.140
+ Tack and path.
+
+00:50:29.140 --> 00:50:34.140
+ Okay, so this one, this one is cool.
+
+00:50:34.140 --> 00:50:37.940
+ Tack, I'm gonna wait on the other one.
+
+00:50:37.940 --> 00:50:40.100
+ Back to open code.
+
+00:50:40.100 --> 00:50:44.180
+ Tack, tack, tack, tack.
+
+00:50:44.180 --> 00:50:47.180
+ So it's thinking, it's thinking.
+
+00:50:47.180 --> 00:50:48.860
+ Running in OX-Lama.
+
+00:50:48.860 --> 00:50:50.620
+ Request timeout after 10 seconds.
+
+00:50:50.620 --> 00:50:52.300
+ Okay.
+
+00:50:52.300 --> 00:50:56.540
+ So that's a bug.
+
+00:50:56.540 --> 00:50:59.100
+ Did you fix it?
+
+00:50:59.100 --> 00:51:05.380
+ Why don't I see it in the UI?
+
+00:51:09.140 --> 00:51:12.340
+ Okay, scroll down for subagents.
+
+00:51:12.340 --> 00:51:14.660
+ No, yeah.
+
+00:51:14.660 --> 00:51:16.340
+ -The only question, why does it take so long
+
+00:51:16.340 --> 00:51:18.100
+ to rate the other product?
+
+00:51:18.100 --> 00:51:19.740
+ -I don't know.
+
+00:51:19.740 --> 00:51:24.460
+ Audits, okay.
+
+00:51:24.460 --> 00:51:29.220
+ Audit, doc, time implementation, blah, blah, blah.
+
+00:51:29.220 --> 00:51:30.140
+ Okay.
+
+00:51:30.140 --> 00:51:33.660
+ Open router, file off.
+
+00:51:33.660 --> 00:51:35.020
+ All files under.
+
+00:51:35.020 --> 00:51:37.300
+ Audits versus muse.
+
+00:51:37.300 --> 00:51:38.140
+ Summary.
+
+00:51:38.140 --> 00:51:41.860
+ Overall, partial pass, 65%.
+
+00:51:41.860 --> 00:51:46.220
+ Faithful, core free, invariant, preserve.
+
+00:51:46.220 --> 00:51:47.700
+ Delete from some bugs.
+
+00:51:47.700 --> 00:51:52.940
+ Check closest to plan, dependency budget, strict.
+
+00:51:52.940 --> 00:51:57.020
+ File layout and ownership.
+
+00:51:57.020 --> 00:51:59.700
+ Owns per plan.
+
+00:51:59.700 --> 00:52:02.140
+ Exists.
+
+00:52:02.140 --> 00:52:05.780
+ Okay, that's good, critics.
+
+00:52:05.780 --> 00:52:06.700
+ I guess.
+
+00:52:06.700 --> 00:52:07.780
+ Explore.
+
+00:52:07.780 --> 00:52:10.220
+ How do I get out of that?
+
+00:52:10.220 --> 00:52:11.460
+ Up.
+
+00:52:11.460 --> 00:52:12.860
+ Yes.
+
+00:52:12.860 --> 00:52:14.580
+ Cool.
+
+00:52:17.380 --> 00:52:24.940
+ Okay.
+
+00:52:24.940 --> 00:52:33.620
+ Common mate.
+
+00:52:33.620 --> 00:52:37.380
+ You've got five minutes left.
+
+00:52:37.380 --> 00:52:43.780
+ -How far is it in the browser?
+
+00:52:43.780 --> 00:52:46.180
+ -Oh, yeah, it's buggy.
+
+00:52:46.180 --> 00:52:53.620
+ It's -- It didn't -- It's stuck.
+
+00:52:53.620 --> 00:52:54.740
+ -Oh.
+
+00:52:54.740 --> 00:52:58.740
+ -So, like, the muse one was not stuck.
+
+00:52:58.740 --> 00:53:04.500
+ -No, and that already created the shorts.
+
+00:53:04.500 --> 00:53:07.820
+ -And, yeah, like, the CLI stuff, like, it's displayed.
+
+00:53:07.820 --> 00:53:09.780
+ And there is a brief.
+
+00:53:09.780 --> 00:53:13.900
+ Like, I want to see if there is a brief with that, but --
+
+00:53:13.900 --> 00:53:16.100
+ Oh.
+
+00:53:16.100 --> 00:53:17.220
+ Analyze.
+
+00:53:17.220 --> 00:53:18.500
+ Transcribe.
+
+00:53:18.500 --> 00:53:19.780
+ Start second round being together.
+
+00:53:19.780 --> 00:53:21.420
+ Okay, cool.
+
+00:53:21.420 --> 00:53:23.980
+ Interesting.
+
+00:53:23.980 --> 00:53:26.020
+ Deck.
+
+00:53:26.020 --> 00:53:26.620
+ Explore that.
+
+00:53:26.620 --> 00:53:28.220
+ Why is that taking more time, though?
+
+00:53:28.220 --> 00:53:30.180
+ What the -- What the heck?
+
+00:53:30.180 --> 00:53:31.780
+ What the heck?
+
+00:53:38.660 --> 00:53:40.340
+ Deck, deck.
+
+00:53:40.340 --> 00:53:42.660
+ Nope, not this one.
+
+00:53:42.660 --> 00:53:45.740
+ Nope.
+
+00:53:45.740 --> 00:53:47.780
+ Deck, place.
+
+00:53:47.780 --> 00:53:49.380
+ Window.
+
+00:53:53.140 --> 00:53:57.340
+ What's going on, mate?
+
+00:53:57.340 --> 00:54:00.020
+ Deck.
+
+00:54:00.020 --> 00:54:03.340
+ -It looks like it's still working on the other task.
+
+00:54:03.340 --> 00:54:04.460
+ Oh, no, it's auditing.
+
+00:54:04.460 --> 00:54:05.380
+ That's cool.
+
+00:54:05.380 --> 00:54:06.700
+ -Control.
+
+00:54:06.700 --> 00:54:07.860
+ Next up.
+
+00:54:07.860 --> 00:54:14.220
+ Oop, oop.
+
+00:54:14.220 --> 00:54:16.180
+ Wait, what the heck?
+
+00:54:16.180 --> 00:54:18.060
+ What can I -- Oh, just a page.
+
+00:54:18.060 --> 00:54:20.820
+ No, okay.
+
+00:54:20.820 --> 00:54:24.900
+ Are you building or what?
+
+00:54:24.900 --> 00:54:27.500
+ -Yeah.
+
+00:54:27.500 --> 00:54:31.420
+ -Okay.
+
+00:54:31.420 --> 00:54:34.180
+ Yeah, and see, like, for example, here, it just stopped.
+
+00:54:34.180 --> 00:54:39.100
+ Like, there is no animation of building or, like,
+
+00:54:39.100 --> 00:54:40.980
+ what's going on?
+
+00:54:40.980 --> 00:54:42.780
+ -No, it just stacks the messages.
+
+00:54:42.780 --> 00:54:44.460
+ -Yeah. -Now it goes to build.
+
+00:54:44.460 --> 00:54:50.940
+ -Yeah, so, wait.
+
+00:54:50.940 --> 00:54:52.500
+ -And it's back.
+
+00:54:52.500 --> 00:54:58.060
+ -Oh, it did, yeah.
+
+00:54:58.060 --> 00:55:00.620
+ Okay.
+
+00:55:00.620 --> 00:55:02.420
+ Damn, that went deep.
+
+00:55:02.420 --> 00:55:05.140
+ -Yeah, just ask it to push it to HTML again
+
+00:55:05.140 --> 00:55:09.220
+ so we can make it easier.
+
+00:55:09.220 --> 00:55:14.580
+ -Deck, and translate.
+
+00:55:14.580 --> 00:55:26.260
+ Translate the audit to HTML so I can read it better.
+
+00:55:26.260 --> 00:55:30.100
+ Okay, so, as the streams stay silent for minutes
+
+00:55:30.100 --> 00:55:32.820
+ during download analysis -- Oh, okay.
+
+00:55:32.820 --> 00:55:36.220
+ Okay, so it looks like it's running again.
+
+00:55:41.180 --> 00:55:42.620
+ Let's try.
+
+00:55:42.620 --> 00:55:44.580
+ Replace tag.
+
+00:55:44.580 --> 00:55:47.180
+ Tag.
+
+00:55:47.180 --> 00:56:00.380
+ Path, path, path, path, path, path, path, path, path, path.
+
+00:56:00.380 --> 00:56:03.100
+ Okay, fallback NVIDIA free.
+
+00:56:03.100 --> 00:56:15.380
+ Ah, okay, maybe it's fallback NVIDIA natural model.
+
+00:56:15.380 --> 00:56:19.220
+ Is it working?
+
+00:56:19.220 --> 00:56:22.620
+ You're good.
+
+00:56:22.620 --> 00:56:23.660
+ Preparating, writing.
+
+00:56:23.660 --> 00:56:27.660
+ Okay, we are going to have the audit for Muse.
+
+00:56:27.660 --> 00:56:29.020
+ GLM 5.3 is shit.
+
+00:56:29.020 --> 00:56:30.300
+ Muse is lit.
+
+00:56:30.300 --> 00:56:31.900
+ -Yes.
+
+00:56:31.900 --> 00:56:33.700
+ Muse was also a lot faster.
+
+00:56:33.700 --> 00:56:35.380
+ -Yeah. -Less bugs.
+
+00:56:35.380 --> 00:56:37.140
+ -And it worked. -Working product.
+
+00:56:37.140 --> 00:56:39.420
+ -Yeah.
+
+00:56:39.420 --> 00:56:41.740
+ Like, what the heck?
+
+00:56:41.740 --> 00:56:47.020
+ And, okay, so we have agent team up with VM agent.
+
+00:56:47.020 --> 00:56:50.260
+ And it changed the --
+
+00:56:50.260 --> 00:56:55.020
+ Yes, it changed the clips, too, again.
+
+00:56:55.020 --> 00:56:57.180
+ Interesting, right?
+
+00:56:57.180 --> 00:56:58.420
+ But that's not the same.
+
+00:56:58.420 --> 00:57:00.940
+ -No, it's not the same one.
+
+00:57:00.940 --> 00:57:02.740
+ It looks like it just keeps adding one.
+
+00:57:02.740 --> 00:57:04.140
+ -Yeah.
+
+00:57:04.140 --> 00:57:07.060
+ -Well, it is a start.
+
+00:57:07.060 --> 00:57:08.900
+ You always need -- After your first prompt,
+
+00:57:08.900 --> 00:57:11.820
+ you always need to optimize.
+
+00:57:11.820 --> 00:57:14.980
+ -Analyze error, attack.
+
+00:57:14.980 --> 00:57:16.340
+ Okay, it's coming.
+
+00:57:16.340 --> 00:57:20.500
+ And it looks like --
+
+00:57:20.500 --> 00:57:21.300
+ Oh, okay.
+
+00:57:21.300 --> 00:57:26.140
+ -And open a comparison, see what it says.
+
+00:57:26.140 --> 00:57:26.900
+ -Okay.
+
+00:57:26.900 --> 00:57:31.340
+ So, yeah, Verdict, 65% pass, single fetch,
+
+00:57:31.340 --> 00:57:33.900
+ constant, fail hotspot, validate,
+
+00:57:33.900 --> 00:57:36.300
+ clamps instead of reject, project undercut.
+
+00:57:36.300 --> 00:57:37.340
+ Yeah, okay.
+
+00:57:37.340 --> 00:57:40.620
+ So, it found some bugs.
+
+00:57:40.620 --> 00:57:45.940
+ Okay, so, now, path, and I have it here, path.
+
+00:57:45.940 --> 00:57:52.300
+ So, one engine, two faces.
+
+00:57:52.300 --> 00:57:54.260
+ Summary Verdict pass, short pass, yes.
+
+00:57:54.260 --> 00:57:57.100
+ Call tier, skeleton, intact.
+
+00:57:57.100 --> 00:58:00.940
+ Shell out, tricked, English only, key engine,
+
+00:58:00.940 --> 00:58:06.180
+ MVP scope, material division, whatever.
+
+00:58:06.180 --> 00:58:08.700
+ Files layout, ownership.
+
+00:58:08.700 --> 00:58:13.020
+ Constant, owned, pair plan, evidence.
+
+00:58:13.020 --> 00:58:16.620
+ Okay.
+
+00:58:16.620 --> 00:58:20.060
+ No API, okay.
+
+00:58:20.060 --> 00:58:22.100
+ Cheese and parsing.
+
+00:58:22.100 --> 00:58:24.860
+ I mean, that's good because, like, yeah, you're right.
+
+00:58:24.860 --> 00:58:27.140
+ Like, those comparison stuff, like,
+
+00:58:27.140 --> 00:58:30.980
+ you need to do that against, like, codex and cloud
+
+00:58:30.980 --> 00:58:33.780
+ because no matter what, like, free model or not,
+
+00:58:33.780 --> 00:58:35.020
+ you need to do that.
+
+00:58:35.020 --> 00:58:36.740
+ -Yeah. -There is always something.
+
+00:58:36.740 --> 00:58:38.700
+ Like, the same way from two developers,
+
+00:58:38.700 --> 00:58:41.220
+ you have two different ways to code, right?
+
+00:58:41.220 --> 00:58:43.060
+ -Yes.
+
+00:58:43.060 --> 00:58:45.420
+ -Verdict partial, partial fail.
+
+00:58:45.420 --> 00:58:49.460
+ Fallback model, retry after, counter, retry after,
+
+00:58:49.460 --> 00:58:53.980
+ cap 30 seconds, but counter not incremental on 4/12.
+
+00:58:53.980 --> 00:58:55.020
+ Only after success.
+
+00:58:55.020 --> 00:58:56.180
+ Okay.
+
+00:58:56.180 --> 00:58:59.940
+ Yeah, so, it will loop again and again.
+
+00:58:59.940 --> 00:59:01.980
+ Request counter, progress.
+
+00:59:01.980 --> 00:59:05.620
+ So, yeah, for some, like, critical --
+
+00:59:05.620 --> 00:59:07.860
+ It's kind of crazy that just on one prompt,
+
+00:59:07.860 --> 00:59:10.460
+ there is that much difference.
+
+00:59:13.220 --> 00:59:15.980
+ OX alpha keeps the one fetch shell out.
+
+00:59:15.980 --> 00:59:19.420
+ Trick TS skeleton, but re-rack the contract.
+
+00:59:19.420 --> 00:59:23.300
+ Budget versus counter, type versus face status.
+
+00:59:23.300 --> 00:59:25.780
+ And request shape.
+
+00:59:25.780 --> 00:59:31.340
+ So, it's not drop-in compliant with grep.
+
+00:59:31.340 --> 00:59:32.540
+ Ooh. Okay.
+
+00:59:32.540 --> 00:59:35.340
+ So, it will be buggy
+
+00:59:35.340 --> 00:59:39.300
+ because they don't follow the correct typings.
+
+00:59:39.300 --> 00:59:42.140
+ -Well, that's something to improve for the next one.
+
+00:59:42.140 --> 00:59:45.060
+ You can just put in the HTML and say, "improve everything,"
+
+00:59:45.060 --> 00:59:47.580
+ but that's the next step.
+
+00:59:47.580 --> 00:59:50.540
+ -Yeah, but, I mean, like, no, even, like, the zero --
+
+00:59:50.540 --> 00:59:53.380
+ the GLMM 5.3 flash,
+
+00:59:53.380 --> 00:59:56.900
+ it's more buggy than Muse on that one prompt,
+
+00:59:56.900 --> 00:59:58.220
+ which is nuts.
+
+00:59:58.220 --> 00:59:59.940
+ -Yeah.
+
+00:59:59.940 --> 01:00:02.380
+ It's not fake, scream validate.
+
+01:00:02.380 --> 01:00:03.660
+ Yeah, okay, whatever.
+
+01:00:03.660 --> 01:00:07.820
+ And, okay, like, that's nuts
+
+01:00:07.820 --> 01:00:14.540
+ because, like, we had so much ping-pong stuff,
+
+01:00:14.540 --> 01:00:20.140
+ but, like, the OX alpha is still stuck on running the UI.
+
+01:00:20.140 --> 01:00:23.060
+ Like, it's crazy.
+
+01:00:23.060 --> 01:00:24.580
+ -Yeah. -Okay, whatever.
+
+01:00:24.580 --> 01:00:27.140
+ Muse 1.2.3 is lit.
+
+01:00:27.140 --> 01:00:29.180
+ -Make sure you test the different models
+
+01:00:29.180 --> 01:00:30.660
+ that are available because, you see,
+
+01:00:30.660 --> 01:00:33.620
+ even if people say that it is the best model...
+
+01:00:33.620 --> 01:00:35.260
+ -Yeah. -...now you have to prove
+
+01:00:35.260 --> 01:00:37.180
+ the other one is working.
+
+01:00:37.180 --> 01:00:38.020
+ -Yeah.
+
+01:00:38.020 --> 01:00:40.380
+ I mean, yeah, like, it's crazy.
+
+01:00:40.380 --> 01:00:42.060
+ I mean, you don't have those gaps
+
+01:00:42.060 --> 01:00:45.700
+ with, like, the frontier model from Entropic and I have, yeah.
+
+01:00:45.700 --> 01:00:48.820
+ February 5 is still the best model, though.
+
+01:00:48.820 --> 01:00:50.660
+ -Yeah, also the most expensive.
+
+01:00:50.660 --> 01:00:51.300
+ -Yeah.
+
+01:00:51.300 --> 01:00:55.580
+ I mean, I think I will try to have those --
+
+01:00:55.580 --> 01:01:01.460
+ I will just one prompt the same distiller stuff with codecs
+
+01:01:01.460 --> 01:01:06.860
+ and, Claude, I'm out of Entropic, so it would be 5.6.
+
+01:01:06.860 --> 01:01:09.940
+ But, yeah, it could be interesting to try that.
+
+01:01:09.940 --> 01:01:12.380
+ But, yeah, okay, whatever.
+
+01:01:12.380 --> 01:01:16.300
+ So, yeah, like, we can even work with three models now.
+
+01:01:16.300 --> 01:01:20.740
+ -Yes, it works, and it shows, and it makes good solutions.
+
+01:01:20.740 --> 01:01:23.820
+ You see, we had, like, five videos instantly.
+
+01:01:23.820 --> 01:01:26.540
+ That's nuts.
+
+01:01:26.540 --> 01:01:29.540
+ Like, I didn't expect that to be that fast
+
+01:01:29.540 --> 01:01:32.660
+ with not the model I wanted to test first.
+
+01:01:32.660 --> 01:01:36.100
+ -But the secret sauce is tell it we need it in five minutes
+
+01:01:36.100 --> 01:01:37.460
+ because we're on livestream,
+
+01:01:37.460 --> 01:01:40.020
+ and it will just do everything in five minutes.
+
+01:01:40.020 --> 01:01:41.180
+ -True. Oh, yeah, yeah, true that.
+
+01:01:41.180 --> 01:01:44.500
+ Yeah, the shortcut is, like, "Bro, you have 30 seconds
+
+01:01:44.500 --> 01:01:47.460
+ because if you don't, I'm going to cut your electricity off."
+
+01:01:47.460 --> 01:01:48.260
+ -Yeah, yeah, yeah.
+
+01:01:48.260 --> 01:01:50.180
+ The whole world is going through damnation.
+
+01:01:50.180 --> 01:01:52.580
+ Just do it in 30 seconds.
+
+01:01:52.580 --> 01:01:55.300
+ -So, yeah, for everyone who was prompting right now,
+
+01:01:55.300 --> 01:01:59.140
+ tell your Claude that his bandwidth
+
+01:01:59.140 --> 01:02:01.500
+ is going to be reduced.
+
+01:02:01.500 --> 01:02:02.940
+ -Yes.
+
+01:02:02.940 --> 01:02:04.180
+ -Bye, yeah.
+
+01:02:04.180 --> 01:02:05.980
+ Michel, thank you so much for your time.
+
+01:02:05.980 --> 01:02:07.940
+ -Thank you for the demo.
+
+01:02:07.940 --> 01:02:08.820
+ -That was fun.
+
+01:02:08.820 --> 01:02:12.660
+ And, yeah, like, next week, some place.
+
+01:02:12.660 --> 01:02:13.580
+ Oh, yeah, no, yeah.
+
+01:02:13.580 --> 01:02:15.380
+ Some place, some time.
+
+01:02:15.380 --> 01:02:16.420
+ -Same one mine.
+
+01:02:16.420 --> 01:02:17.700
+ -Yeah. Cheers, man.
+
+01:02:17.700 --> 01:02:18.780
+ -Thank you.
+
+01:02:18.780 --> 01:02:19.980
+ -Bye. -Bye.
+
+01:02:19.980 --> 01:02:21.420
+ -Yeah, like, subscribe, share.
+
+01:02:21.420 --> 01:02:22.580
+ - Yeah, yeah.
+

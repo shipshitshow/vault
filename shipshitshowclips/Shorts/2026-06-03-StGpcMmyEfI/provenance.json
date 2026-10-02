@@ -1,0 +1,14 @@
+{
+  "youtube_id": "StGpcMmyEfI",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/StGpcMmyEfI",
+  "source_sha256": "4b8834cc0865e96a3a5d2dfce7ca62bb5b0cce0a49041550d3a76b2a8ca31687",
+  "audio_sha256": "b7a7a57044b14c8547f5b5ec18f4490d43a8dd0f4a5a93dc5f1d441bdc1a3886",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

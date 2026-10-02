@@ -1,0 +1,120 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,680"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5680
+      },
+      "text": " As I understood it, Amazon people found out that it was possible to jailbreak it or that"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,680",
+        "to": "00:00:11,280"
+      },
+      "offsets": {
+        "from": 5680,
+        "to": 11280
+      },
+      "text": " it was already jailbroken, and they reported it to the US government, and then the US government"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,280",
+        "to": "00:00:14,160"
+      },
+      "offsets": {
+        "from": 11280,
+        "to": 14160
+      },
+      "text": " decided to just block it for everybody."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,160",
+        "to": "00:00:17,040"
+      },
+      "offsets": {
+        "from": 14160,
+        "to": 17040
+      },
+      "text": " The US government doesn't have access to the model before anyone else?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,040",
+        "to": "00:00:18,040"
+      },
+      "offsets": {
+        "from": 17040,
+        "to": 18040
+      },
+      "text": " Of course they do."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,040",
+        "to": "00:00:23,660"
+      },
+      "offsets": {
+        "from": 18040,
+        "to": 23660
+      },
+      "text": " I think they have to, and they have been announcing it a long time, so everybody knew about Mitos."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,660",
+        "to": "00:00:27,920"
+      },
+      "offsets": {
+        "from": 23660,
+        "to": 27920
+      },
+      "text": " They were actually already testing it, giving it to bigger companies, and the government"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:27,920",
+        "to": "00:00:28,880"
+      },
+      "offsets": {
+        "from": 27920,
+        "to": 28880
+      },
+      "text": " is always included."
+    }
+  ]
+}

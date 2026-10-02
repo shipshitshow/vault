@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:05,680
+ As I understood it, Amazon people found out that it was possible to jailbreak it or that
+
+2
+00:00:05,680 --> 00:00:11,280
+ it was already jailbroken, and they reported it to the US government, and then the US government
+
+3
+00:00:11,280 --> 00:00:14,160
+ decided to just block it for everybody.
+
+4
+00:00:14,160 --> 00:00:17,040
+ The US government doesn't have access to the model before anyone else?
+
+5
+00:00:17,040 --> 00:00:18,040
+ Of course they do.
+
+6
+00:00:18,040 --> 00:00:23,660
+ I think they have to, and they have been announcing it a long time, so everybody knew about Mitos.
+
+7
+00:00:23,660 --> 00:00:27,920
+ They were actually already testing it, giving it to bigger companies, and the government
+
+8
+00:00:27,920 --> 00:00:28,880
+ is always included.
+

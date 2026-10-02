@@ -1,0 +1,164 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,760"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2760
+      },
+      "text": " Kioso reporting 85% of total compute"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,760",
+        "to": "00:00:06,000"
+      },
+      "offsets": {
+        "from": 2760,
+        "to": 6000
+      },
+      "text": " from its own additional training and reinforcement learning,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,000",
+        "to": "00:00:07,760"
+      },
+      "offsets": {
+        "from": 6000,
+        "to": 7760
+      },
+      "text": " they are the only one with this data."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,760",
+        "to": "00:00:11,680"
+      },
+      "offsets": {
+        "from": 7760,
+        "to": 11680
+      },
+      "text": " That's why they got bought by a lot of 10/60 billion."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,680",
+        "to": "00:00:12,840"
+      },
+      "offsets": {
+        "from": 11680,
+        "to": 12840
+      },
+      "text": " They tracked everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,840",
+        "to": "00:00:14,560"
+      },
+      "offsets": {
+        "from": 12840,
+        "to": 14560
+      },
+      "text": " And I think that's AI apps right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,560",
+        "to": "00:00:18,060"
+      },
+      "offsets": {
+        "from": 14560,
+        "to": 18060
+      },
+      "text": " Like you need to track every action, every workflow,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,060",
+        "to": "00:00:19,800"
+      },
+      "offsets": {
+        "from": 18060,
+        "to": 19800
+      },
+      "text": " because that's where the data is."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:19,800",
+        "to": "00:00:22,040"
+      },
+      "offsets": {
+        "from": 19800,
+        "to": 22040
+      },
+      "text": " And the more points you have,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:22,040",
+        "to": "00:00:23,880"
+      },
+      "offsets": {
+        "from": 22040,
+        "to": 23880
+      },
+      "text": " that's where the value is, and the more."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,880",
+        "to": "00:00:24,880"
+      },
+      "offsets": {
+        "from": 23880,
+        "to": 24880
+      },
+      "text": " - It's all about data."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:24,880",
+        "to": "00:00:26,220"
+      },
+      "offsets": {
+        "from": 24880,
+        "to": 26220
+      },
+      "text": " - Yes, and more than ever."
+    }
+  ]
+}

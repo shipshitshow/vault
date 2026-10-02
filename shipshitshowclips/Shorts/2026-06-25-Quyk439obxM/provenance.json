@@ -1,0 +1,14 @@
+{
+  "youtube_id": "Quyk439obxM",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/Quyk439obxM",
+  "source_sha256": "bf487feb6c1fa8dbade0dc771dea5ed7408a6065cff614e41a7fbe8b5be4aace",
+  "audio_sha256": "9ca000841dd1498fe946ce6aaf250a30b2043a4336324f776a4943cd688a4335",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

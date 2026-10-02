@@ -1,0 +1,98 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,880"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2880
+      },
+      "text": " Fable is gone and you are missing it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,880",
+        "to": "00:00:04,800"
+      },
+      "offsets": {
+        "from": 2880,
+        "to": 4800
+      },
+      "text": " And we know that because we are missing it too."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,800",
+        "to": "00:00:08,640"
+      },
+      "offsets": {
+        "from": 4800,
+        "to": 8640
+      },
+      "text": " We build a roadmap in a week that we were dreaming"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,640",
+        "to": "00:00:12,480"
+      },
+      "offsets": {
+        "from": 8640,
+        "to": 12480
+      },
+      "text": " for mounts because Fable was so great, but now it's gone."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,480",
+        "to": "00:00:14,500"
+      },
+      "offsets": {
+        "from": 12480,
+        "to": 14500
+      },
+      "text": " So what are the alternatives?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,500",
+        "to": "00:00:16,800"
+      },
+      "offsets": {
+        "from": 14500,
+        "to": 16800
+      },
+      "text": " We are going to dig into that in this video."
+    }
+  ]
+}

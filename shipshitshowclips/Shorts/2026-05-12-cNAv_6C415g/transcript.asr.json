@@ -1,0 +1,186 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,160"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4160
+      },
+      "text": " supply chain attack, hiding suspected CI credentials, stealing my let's go"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,160",
+        "to": "00:00:05,120"
+      },
+      "offsets": {
+        "from": 4160,
+        "to": 5120
+      },
+      "text": " what the f*ck"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,120",
+        "to": "00:00:08,320"
+      },
+      "offsets": {
+        "from": 5120,
+        "to": 8320
+      },
+      "text": " plants a watcher on your machine that nukes your home directory"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,320",
+        "to": "00:00:10,400"
+      },
+      "offsets": {
+        "from": 8320,
+        "to": 10400
+      },
+      "text": " the second you revoke your github token"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,400",
+        "to": "00:00:11,600"
+      },
+      "offsets": {
+        "from": 10400,
+        "to": 11600
+      },
+      "text": " jesus"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,600",
+        "to": "00:00:14,720"
+      },
+      "offsets": {
+        "from": 11600,
+        "to": 14720
+      },
+      "text": " this is the first documented npm worm in history"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,360",
+        "to": "00:00:18,240"
+      },
+      "offsets": {
+        "from": 15360,
+        "to": 18240
+      },
+      "text": " that shipped with a valid sign certificate"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,240",
+        "to": "00:00:20,240"
+      },
+      "offsets": {
+        "from": 18240,
+        "to": 20240
+      },
+      "text": " jesus f*cking christ"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,240",
+        "to": "00:00:23,600"
+      },
+      "offsets": {
+        "from": 20240,
+        "to": 23600
+      },
+      "text": " and hide and commit in git is unlinked"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,600",
+        "to": "00:00:26,000"
+      },
+      "offsets": {
+        "from": 23600,
+        "to": 26000
+      },
+      "text": " orphan or unreferenced snapshot of code"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:26,000",
+        "to": "00:00:26,640"
+      },
+      "offsets": {
+        "from": 26000,
+        "to": 26640
+      },
+      "text": " what the heck"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:26,640",
+        "to": "00:00:30,080"
+      },
+      "offsets": {
+        "from": 26640,
+        "to": 30080
+      },
+      "text": " slash goal fix this for me and update to the latest version"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:30,080",
+        "to": "00:00:32,160"
+      },
+      "offsets": {
+        "from": 30080,
+        "to": 32160
+      },
+      "text": " going to bed coming back in the morning"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:32,160",
+        "to": "00:00:35,520"
+      },
+      "offsets": {
+        "from": 32160,
+        "to": 35520
+      },
+      "text": " and seeing the hello welcome screen on your on your workplace"
+    }
+  ]
+}

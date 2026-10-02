@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:06,240
+ If I say to Opus, I want to have three different approaches to tackle this problem, and all three
+
+2
+00:00:06,240 --> 00:00:11,280
+ are still similar. It's just like it's stuck in a certain way of thinking. But then I use
+
+3
+00:00:11,280 --> 00:00:17,200
+ Opus and I say I need two additional ways to tackle this problem, and I get totally different
+
+4
+00:00:17,200 --> 00:00:22,960
+ approaches. And I merge them both into one by saying to Opus, "Hey, check the other two that
+
+5
+00:00:22,960 --> 00:00:28,400
+ were created by Codex." And then he says, "Oh, that's a great idea. I can merge it into my ideas."
+

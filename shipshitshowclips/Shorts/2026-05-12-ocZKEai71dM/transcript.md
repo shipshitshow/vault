@@ -1,0 +1,13 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+The novel MPL separation attack generated a signed package of 10 stack, a collection
+of open source libraries for web development.
+The attack combined the GitHub pull request target vulnerability, GitHub action cache
+poisoning and runtime memory extraction.
+Misconfigured pull request target workflow gave outside code access the repo secrets.
+Explored GitHub workflow cache poisoning, which has, as far as I know, been an issue
+for a while.
+Did GitHub also post somewhere that they are firing all the devs and have everybody in
+a company make full requests with AI?

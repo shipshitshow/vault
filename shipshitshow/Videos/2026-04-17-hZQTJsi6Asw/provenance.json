@@ -1,0 +1,12 @@
+{
+  "youtube_id": "hZQTJsi6Asw",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "6735417466876d672a2a773ae6cf26fcb9d3b6947d8c25577c3dc460172f79b0",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-04-17-video-you-hate-ai-it-doesn-t-matter.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

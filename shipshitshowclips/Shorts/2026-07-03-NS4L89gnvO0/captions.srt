@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:04,440
+ In a few days that we had Fable, I had Fable check all my projects and only write
+
+2
+00:00:04,440 --> 00:00:08,880
+ documentation on what was wrong, what we had to improve and how to do it.
+
+3
+00:00:08,940 --> 00:00:13,080
+ And after Fable was banned, I just had Opus build everything.
+

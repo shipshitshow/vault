@@ -1,0 +1,12 @@
+{
+  "youtube_id": "uSuqoiEaB1k",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "local-auto-transcript",
+  "source_sha256": "f0aa2ae09999ca57c775e3bd534089c7439e21e6462ff2916a37ede4bafbf4dc",
+  "source_file": "Studio/Tesseract/projects/260929/raws/transcript.md",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

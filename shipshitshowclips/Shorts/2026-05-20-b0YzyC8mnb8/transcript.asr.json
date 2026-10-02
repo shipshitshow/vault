@@ -1,0 +1,65 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,640"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4640
+      },
+      "text": " that's an infrastructure player you need socket.dev applications now more than ever"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,640",
+        "to": "00:00:10,400"
+      },
+      "offsets": {
+        "from": 4640,
+        "to": 10400
+      },
+      "text": " i guess because you will have agent that will attack but you will have defenders agent too"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,400",
+        "to": "00:00:14,240"
+      },
+      "offsets": {
+        "from": 10400,
+        "to": 14240
+      },
+      "text": " it will be an ai war"
+    }
+  ]
+}

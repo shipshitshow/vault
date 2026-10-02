@@ -1,0 +1,439 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:06,320"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 6320
+      },
+      "text": " It's cost me $0.07."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,320",
+        "to": "00:00:08,080"
+      },
+      "offsets": {
+        "from": 6320,
+        "to": 8080
+      },
+      "text": " That's not too bad."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,080",
+        "to": "00:00:12,360"
+      },
+      "offsets": {
+        "from": 8080,
+        "to": 12360
+      },
+      "text": " Yeah, $0.07 to generate one image."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,360",
+        "to": "00:00:14,680"
+      },
+      "offsets": {
+        "from": 12360,
+        "to": 14680
+      },
+      "text": " Hand-drawn game sprite of imaging is called--"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,680",
+        "to": "00:00:15,280"
+      },
+      "offsets": {
+        "from": 14680,
+        "to": 15280
+      },
+      "text": " OK, OK."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,280",
+        "to": "00:00:17,040"
+      },
+      "offsets": {
+        "from": 15280,
+        "to": 17040
+      },
+      "text": " So yeah, we need to work on that."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,040",
+        "to": "00:00:18,280"
+      },
+      "offsets": {
+        "from": 17040,
+        "to": 18280
+      },
+      "text": " We need to work on the prompt."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,280",
+        "to": "00:00:19,680"
+      },
+      "offsets": {
+        "from": 18280,
+        "to": 19680
+      },
+      "text": " We need to work on the input."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,720",
+        "to": "00:00:28,480"
+      },
+      "offsets": {
+        "from": 23720,
+        "to": 28480
+      },
+      "text": " I want to be able to generate batches of images."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:28,480",
+        "to": "00:00:31,040"
+      },
+      "offsets": {
+        "from": 28480,
+        "to": 31040
+      },
+      "text": " Also, use the skill to prompt the asset"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:31,040",
+        "to": "00:00:35,240"
+      },
+      "offsets": {
+        "from": 31040,
+        "to": 35240
+      },
+      "text": " and to keep the consistency in it because it"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:35,240",
+        "to": "00:00:38,760"
+      },
+      "offsets": {
+        "from": 35240,
+        "to": 38760
+      },
+      "text": " should be from the game we want to select to prompt for."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:41,760",
+        "to": "00:00:44,680"
+      },
+      "offsets": {
+        "from": 41760,
+        "to": 44680
+      },
+      "text": " Also, explain to me which kind of sprite"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:44,680",
+        "to": "00:00:47,800"
+      },
+      "offsets": {
+        "from": 44680,
+        "to": 47800
+      },
+      "text": " we are going to need if we want to add"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:47,800",
+        "to": "00:00:49,720"
+      },
+      "offsets": {
+        "from": 47800,
+        "to": 49720
+      },
+      "text": " those sprites into the games."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:49,720",
+        "to": "00:00:56,200"
+      },
+      "offsets": {
+        "from": 49720,
+        "to": 56200
+      },
+      "text": " And what's the workflow for the next asset management"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:56,200",
+        "to": "00:00:58,960"
+      },
+      "offsets": {
+        "from": 56200,
+        "to": 58960
+      },
+      "text": " for the integration to the game directly?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:58,960",
+        "to": "00:01:04,200"
+      },
+      "offsets": {
+        "from": 58960,
+        "to": 64200
+      },
+      "text": " I want to be able to generate a bunch of images,"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:04,200",
+        "to": "00:01:07,960"
+      },
+      "offsets": {
+        "from": 64200,
+        "to": 67960
+      },
+      "text": " a swarm reaper enemy lurking forward."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:07,960",
+        "to": "00:01:10,640"
+      },
+      "offsets": {
+        "from": 67960,
+        "to": 70640
+      },
+      "text": " Those prompts are shit."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:10,640",
+        "to": "00:01:14,280"
+      },
+      "offsets": {
+        "from": 70640,
+        "to": 74280
+      },
+      "text": " I like AI generation."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:14,280",
+        "to": "00:01:19,320"
+      },
+      "offsets": {
+        "from": 74280,
+        "to": 79320
+      },
+      "text": " I mean, I can't do that with this generated assets"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:19,320",
+        "to": "00:01:25,880"
+      },
+      "offsets": {
+        "from": 79320,
+        "to": 85880
+      },
+      "text": " because the small flies need to be out, but that's sick."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:27,040",
+        "to": "00:01:27,520"
+      },
+      "offsets": {
+        "from": 87040,
+        "to": 87520
+      },
+      "text": " I love it."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:27,520",
+        "to": "00:01:33,880"
+      },
+      "offsets": {
+        "from": 87520,
+        "to": 93880
+      },
+      "text": " So with those pipeline on CI, then we have recursive--"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:33,880",
+        "to": "00:01:38,480"
+      },
+      "offsets": {
+        "from": 93880,
+        "to": 98480
+      },
+      "text": " not recursive, but fully automated testing."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:38,480",
+        "to": "00:01:42,520"
+      },
+      "offsets": {
+        "from": 98480,
+        "to": 102520
+      },
+      "text": " So it should improve the quality of the software shipped"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:42,520",
+        "to": "00:01:46,800"
+      },
+      "offsets": {
+        "from": 102520,
+        "to": 106800
+      },
+      "text": " because then you have CI and QA quadrills."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:46,800",
+        "to": "00:01:47,800"
+      },
+      "offsets": {
+        "from": 106800,
+        "to": 107800
+      },
+      "text": " I love that."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:47,800",
+        "to": "00:01:52,520"
+      },
+      "offsets": {
+        "from": 107800,
+        "to": 112520
+      },
+      "text": " Because ideal attacking, running, jumping, side views."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:52,520",
+        "to": "00:01:54,160"
+      },
+      "offsets": {
+        "from": 112520,
+        "to": 114160
+      },
+      "text": " Did I pass that?"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:54,160",
+        "to": "00:01:59,880"
+      },
+      "offsets": {
+        "from": 114160,
+        "to": 119880
+      },
+      "text": " Or is it at one sprint and reprinted in different--"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:59,880",
+        "to": "00:02:03,600"
+      },
+      "offsets": {
+        "from": 119880,
+        "to": 123600
+      },
+      "text": " because yeah, ultra code is really, really nice."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:03,600",
+        "to": "00:02:04,840"
+      },
+      "offsets": {
+        "from": 123600,
+        "to": 124840
+      },
+      "text": " I love AI."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:04,840",
+        "to": "00:02:05,760"
+      },
+      "offsets": {
+        "from": 124840,
+        "to": 125760
+      },
+      "text": " So cool."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:05,760",
+        "to": "00:02:06,400"
+      },
+      "offsets": {
+        "from": 125760,
+        "to": 126400
+      },
+      "text": " It's so easy."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:06,400",
+        "to": "00:02:09,200"
+      },
+      "offsets": {
+        "from": 126400,
+        "to": 129200
+      },
+      "text": " You say which one that you get it."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "youtube_id": "kRUwZSY7IN8",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/watch?v=kRUwZSY7IN8",
+  "source_sha256": "c5d1e0ed2585246eb103ae6af6b07e5b9360e31c0744507302e574672c88ea69",
+  "audio_sha256": "36a7da660f7e483c11e96ae5a3f6c3671cf8930157f170b9711f5309d7083c40",
+  "visibility_note": "Located through original episode notes and verified channel metadata; public-tab visibility unresolved"
+}

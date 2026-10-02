@@ -1,0 +1,12 @@
+{
+  "youtube_id": "PuIJaW_YRdg",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "4dac4c2cb9f19c2b10139f0e6df34ace8fc33c926d4417ba13e2769551411410",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-20-livestream-npm-is-broken.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

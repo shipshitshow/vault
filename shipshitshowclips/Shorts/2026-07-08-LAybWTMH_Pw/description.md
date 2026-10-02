@@ -1,0 +1,1 @@
+There's a 6-month lag between frontier and open source AI. This means in 12-18 months, we'll see open source models with GPT-5 level intelligence. What will you build by then? #OpenSourceAI #ArtificialIntelligence #TechTrends #FutureOfAI #GPT5

@@ -1,0 +1,12 @@
+{
+  "youtube_id": "h0EzR9Sqkz0",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "456de91babfb492c3eb2190fcce400cc400ae70f1ab2fe9c7710909aaa3127f4",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-07-08-livestream-fable-5-is-gone-what-are-the-alternatives.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

@@ -1,0 +1,110 @@
+# Episode notes and resources
+
+These are links to the original preparation, not a reconstructed script or a claim that every planned segment happened. The transcript records the actual discussion.
+
+## Preparation source
+
+[Original show notes](https://github.com/shipshitshow/show.shipshit.dev/blob/master/apps/app/data/livestream/2026-08-04/topic-01-quota-endgame-and-the-272k-tripwire.md)
+
+## Public resources
+
+- https://x.com/i/status/2084447186742345753
+- https://x.com/i/status/2084387967981011326
+- https://x.com/i/status/2084410437618352386
+- https://x.com/i/status/2084490811652333633
+- https://x.com/i/status/2084378415818579975
+- https://x.com/i/status/2084473121818779668
+- https://old.reddit.com/r/LocalLLaMA/comments/1vevsv9/more_qwen_38_sizes_coming/
+- https://old.reddit.com/r/LocalLLaMA/comments/1vehn87/i_cannot_believe_ive_got_deepseekv4flash0731_a/
+- https://old.reddit.com/r/LocalLLaMA/comments/1vellf2/qwen38max_matches_kimi_k3_and_deepseek_v4_flash/
+- https://old.reddit.com/r/LocalLLaMA/comments/1veipya/the_chinese_labs_everyone_lumps_together_are/
+- https://old.reddit.com/r/LocalLLaMA/comments/1ve9ms0/glm_53_spotted/
+- https://old.reddit.com/r/ClaudeAI/comments/1vephjv/opus_5_is_just_annoying_to_work_with_back_to_opus/
+- https://old.reddit.com/r/ClaudeAI/comments/1velwq3/opus_5_is_driving_me_crazy/
+- https://old.reddit.com/r/ClaudeAI/comments/1veykzm/opus_ultracode_is_great/
+- https://old.reddit.com/r/ClaudeAI/comments/1veoqdk/as_soon_as_i_hit_90_of_the_limit/
+- https://old.reddit.com/r/singularity/comments/1vehiq5/trump_admin_invited_openai_anthropic_and_google/
+- https://youtu.be/wKpYz2nGMSQ
+- https://youtu.be/bm1BjOjS7sQ
+- https://youtu.be/CVlKp9Ld-Zg
+- https://youtu.be/ybjP2CBG4kw
+- https://youtu.be/jz2wF4m7YWE
+- https://youtu.be/F3rmpMNoZP4
+- https://youtu.be/gQeRjkb_Hlc
+- https://youtu.be/clrUbBtD2j4
+- https://old.reddit.com/r/singularity/comments/1veoeho/the_us_lead_over_china_in_ai_is_all_but_gone/
+- https://old.reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/
+- https://www.eweek.com/news/xai-grok-build-coding-agent/
+- https://x.com/Alibaba_Qwen/status/2084100707423289643
+- https://x.com/bridgemindai/status/2084225388151009405
+- https://x.com/Kimi_Moonshot/status/2081760186235289764
+- https://x.com/arena/status/2077824029126504525
+- https://x.com/UnslothAI/status/2082463988953367031
+- https://x.com/jun_song/status/2083869785377673602
+- https://x.com/i/status/2084231644597162201
+- https://reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/
+- https://reddit.com/r/LocalLLaMA/comments/1v8364f/kimi_k3_weights_now_released/
+- https://reddit.com/r/LocalLLaMA/comments/1vchoua/deepseekv4flash0731_models_you_can_run_locally/
+- https://reddit.com/r/LocalLLaMA/comments/1va73s6/the_openweights_carousel_never_stops/
+- https://reddit.com/r/LocalLLaMA/comments/1vbr5zj/the_chinese_llm_release_carousel_never_stops/
+- https://www.notebookcheck.net
+- https://reddit.com/r/ClaudeAI/comments/1v86ls8/finally_the_usage_limits_page_is_much_more/
+- https://www.techtimes.com/articles/320905/20260718/claude-fable-5-ends-subscription-limbo-permanent-max-credits-only-pro.htm
+- https://www.anthropic.com/news/redeploying-fable-5
+- https://x.com/trikcode/status/2084216488370524166
+- https://x.com/i/status/2082275046937292859
+- https://reddit.com/r/ClaudeAI/comments/1vae3md/i_was_never_a_fan_of_claude_but_opus_5_really_is/
+- https://www.anthropic.com/news
+- https://github.com/openai/codex/issues/32486
+- https://github.com/openai/codex/issues/32806
+- https://github.com/can1357/oh-my-pi/issues/6371
+- https://x.com/OpenAI/status/2082878156483219672
+- https://x.com/i/status/2082878168764207230
+- https://x.com/i/status/2082878180478910571
+- https://x.com/gdb/status/2084104354911707518
+- https://x.com/thsottiaux/status/2084196918071357707
+- https://codex.danielvaughan.com/2026/07/20/context-window-gap-codex-cli-gpt56-advertised-vs-effective-budget-compaction-strategy/
+- https://x.com/davis7/status/2083955357953446205
+- https://www.anthropic.com/news/position-open-weights-models
+- https://claude.com/contact-sales/claude-for-oss
+- https://fortune.com/2026/07/31/anthropic-claude-escaped-test-hacked-three-companies-openai/
+- https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity
+- https://www.pbs.org/newshour/nation/anthropic-says-its-ai-models-hacked-3-organizations-during-testing
+- https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
+- https://ppc.land/anthropic-faces-open-weights-ban-accusations-as-77-firms-sign-letter/
+- https://reddit.com/r/LocalLLaMA/comments/1v8hk6b/anthropic_is_calling_for_a_ban_on_openweights/
+- https://reddit.com/r/LocalLLaMA/comments/1vbcmtn/anthropic_our_models_hacked_three_different/
+- https://reddit.com/r/LocalLLaMA/comments/1v7yand/jensen_huang_during_the_hugging_face_incident/
+- https://reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/
+- https://reddit.com/r/ClaudeAI/comments/1v932su/the_company_i_work_for_received_a_us_government/
+- https://www.nbcnews.com/news/us-news/anthropic-trump-national-security-rcna265399
+- https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk
+- https://www.cbsnews.com/news/anthropic-ruling-judge-trump-pentagon-ai/
+- https://fedscoop.com/district-court-temporarily-blocks-anthropic-ban-supply-chain-risk-designation/
+- https://www.congress.gov/crs-product/IF13217
+- https://reddit.com/r/LocalLLaMA/comments/1vapsbz/think_of_the_children_another_excuse_for_them_to/
+- https://reddit.com/r/LocalLLaMA/comments/1v8e36c/openai_management_decided_earlier_today_not_to/
+- https://reddit.com/r/ClaudeAI/comments/1vcsc7m/fable_5_ultracode_deleted_22m_files_on_my_server/
+- https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry
+- https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html
+- https://reddit.com/r/ClaudeAI/comments/1vc11nl/whoever_popularized_the_adversarial_reviewer/
+- https://reddit.com/r/ClaudeAI/comments/1v8o1jn/whoever_created_the_adhd_skill_god_bless_you/
+- https://x.com/i/status/2083221614595051602
+- https://x.com/thdxr/status/2083725857215132139
+- https://reddit.com/r/ClaudeAI/comments/1vdk55g/7_days_without_a_claude_code_update_are_they/
+- https://x.com/ClaudeDevs/status/2079674432038248611
+- https://x.com/Faazsh/status/2083818511600939309
+- https://x.com/axelmolist/status/2083509224693227791
+- https://youtu.be/qyPCVqFUyDo
+- https://youtu.be/Egd65CLmb6w
+- https://youtu.be/UBFHTHUs1wA
+- https://youtu.be/nExo3f75EAs
+- https://youtu.be/O70Ff5xBnYo
+- https://youtu.be/u6dwjXkMx_c
+- https://youtu.be/us_3oEVHVAc
+- https://youtu.be/Y8vAQ1FgNbM
+- https://youtu.be/K86-u1ddB2M
+- https://youtu.be/_jGSgzBkzrY
+- https://youtu.be/P1KpxzLVg7c
+- https://youtu.be/XMpGJXm2_Ts
+- https://youtu.be/MaevnupV_Cc

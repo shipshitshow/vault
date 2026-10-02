@@ -1,0 +1,98 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:01,620"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 1620
+      },
+      "text": " For example, you have a new project."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:01,620",
+        "to": "00:00:05,500"
+      },
+      "offsets": {
+        "from": 1620,
+        "to": 5500
+      },
+      "text": " You can run Composer on all of the GitHub tasks and stuff."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,500",
+        "to": "00:00:09,180"
+      },
+      "offsets": {
+        "from": 5500,
+        "to": 9180
+      },
+      "text": " You start bootstrapping and then you pull everything, you test everything."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,180",
+        "to": "00:00:13,080"
+      },
+      "offsets": {
+        "from": 9180,
+        "to": 13080
+      },
+      "text": " And then you can, you can have like some good asynchronous work job on that."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,540",
+        "to": "00:00:16,000"
+      },
+      "offsets": {
+        "from": 13540,
+        "to": 16000
+      },
+      "text": " That can be a cheap, good project, good setup."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,020",
+        "to": "00:00:16,460"
+      },
+      "offsets": {
+        "from": 16020,
+        "to": 16460
+      },
+      "text": " That's cool."
+    }
+  ]
+}

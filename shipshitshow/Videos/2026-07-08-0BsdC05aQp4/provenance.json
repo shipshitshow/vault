@@ -1,0 +1,12 @@
+{
+  "youtube_id": "0BsdC05aQp4",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "90042876a1fd4ef31e6765496a1c94fb07a1a7626e668de7ee71267966aad50e",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-07-08-video-fable-5-one-more-week-to-leave-the-underclass.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

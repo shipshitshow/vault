@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:01,800"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 1800
+      },
+      "text": " 5.5 is really smart."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:01,820",
+        "to": "00:00:06,360"
+      },
+      "offsets": {
+        "from": 1820,
+        "to": 6360
+      },
+      "text": " I get faster to the results that I want and I have to correct it less times."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,420",
+        "to": "00:00:06,780"
+      },
+      "offsets": {
+        "from": 6420,
+        "to": 6780
+      },
+      "text": " Yeah."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,780",
+        "to": "00:00:10,680"
+      },
+      "offsets": {
+        "from": 6780,
+        "to": 10680
+      },
+      "text": " But even if it's double in tokens, I don't mind because it understands"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,680",
+        "to": "00:00:14,760"
+      },
+      "offsets": {
+        "from": 10680,
+        "to": 14760
+      },
+      "text": " exactly what I want in like one or two questions instead of six."
+    }
+  ]
+}

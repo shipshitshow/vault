@@ -1,0 +1,76 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,360"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5360
+      },
+      "text": " i actually read it you read the plans so why make a plan if you don't read the plan or you read like"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,360",
+        "to": "00:00:11,760"
+      },
+      "offsets": {
+        "from": 5360,
+        "to": 11760
+      },
+      "text": " the i read the whole md file because i still plan an empty and not an hd oh did you use caveman to"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,760",
+        "to": "00:00:17,520"
+      },
+      "offsets": {
+        "from": 11760,
+        "to": 17520
+      },
+      "text": " plan for example instead of like using like long sentences you do like shorter words oh no it just"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,520",
+        "to": "00:00:22,400"
+      },
+      "offsets": {
+        "from": 17520,
+        "to": 22400
+      },
+      "text": " it made it perfect i could read it easily so i don't use caveman or anything"
+    }
+  ]
+}

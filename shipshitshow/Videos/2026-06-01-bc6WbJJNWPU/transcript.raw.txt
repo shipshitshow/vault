@@ -1,0 +1,270 @@
+Are you still using cursor? Yes, no,
+maybe not because Claude card is now
+more used by everyone at the YC and
+every developer in the world. So, if you
+don't, maybe you don't know there is
+like composer 2.5 that it's probably the
+best model out there right now. So, if
+you don't use cursor, that's probably a
+mistake. Isn't it, Mitchell?
+>> Yeah, I made the biggest mistake then.
+>> We we got to talk about that right now
+and see if it's true or not. But,
+composer 2.5 is shipped way cheaper than
+Opus. It's way faster than Opus and
+Codex all together and it's based on the
+Chinese open-source model. So, that's
+also interesting.
+>> Here's [snorts] large composer 2.5 is
+now available at Inkyusor and only
+available in Inkyusor. You can't target
+it on Open Router. It's a substan
+substantial It's a substantial
+improvement in intelligence and behavior
+over composer two. It's It is better at
+sustain work on long-running task,
+follows complex instruction more re-
+reliable
+follows complex instruction more
+reliable reliable
+completion better.
+>> Yeah, yeah, much better.
+>> pleasant to collaborate with.
+>> I don't care about that. Like, I don't
+>> Listen and be smart.
+>> Yeah, exactly. Like, just do what the
+[ __ ] I want and fix my bug.
+>> Terminal bench 2.2, which is like the
+CLI benchmark. Opus 4.7 69 and composer
+69.3 and Opus is at 1.4.
+>> That's nice.
+>> GPT 5.5 82 and composer two 61. So,
+yeah. Oh, GPT5 is at 82.
+>> Yeah, yeah, I like GPT5.5.
+>> Damn.
+>> So, well, I think that's why they
+compare with Opus.
+>> These dimensions are not well captured
+by existing benchmark, but we find that
+they are better more for real real world
+usefulness. Yeah, so of course they they
+have created their own benchmark and
+they are like at the top right.
+>> Yeah. Well, I think that's always stupid
+because if you create your own
+benchmark, you're not going to lose on
+it, right?
+>> It's a good jump, but still behind Cloud
+Code and GPT, but way cheaper. That's
+interesting. 85% of the compute of
+Composer 2.5 comes from additional
+training and reinforcement learning.
+Composer training and reinforcement
+That's basically every action that it's
+going through Cursor I'm putting in on
+top of the model. So, basically what
+they do is fine-tune Kimmy 2.5 and make
+it better with all of the developer data
+they have from the ID. And that's why
+Elon Musk bought I put an option on
+Cursor because all of that data can be
+used on Grok.
+>> Yeah, they have people paying them to
+get a subscription to help them train
+their own model.
+>> Wait, they have other people paying them
+to train them Yes.
+>> Yeah, that's smart, right?
+>> I mean, that's good.
+>> I have a product we can make it better,
+please pay me to do it.
+>> Yeah, basically like together with
+SpaceX we have trained a significant
+larger model from scratch using 10x more
+total compute. Yeah, Cursor says 2
+millions with Cursor says 2 million H100
+equivalent and all combined data of
+training techniques. And so, from
+artificial analysis, which is like a
+benchmark, a third-party benchmark for
+call this Composer 2.5, which is not so
+bench, the last model in the Composer
+line was called 62 on the coding agent
+index of 40-point gain over Composer 2.
+Let's put it on third place of all
+tested agents behind only max. Oh, okay.
+4.7 max in Cloud Code 66. Okay, there's
+a gap. And GPT-5 XI reasoning in Codex
+65. Okay, the cost 4 4 bucks and 10
+cents and 482 per tax respectively. And
+next the cost of Composer 2.5 fast.
+Yeah, like at 40 cents, 44 cents, and
+60x the cost of Composer 2.5 standard.
+0.7.
+>> So, then my question is, do Cloud Code
+and Codex have so high margins, or are
+they really making it so much better?
+Yeah, if you if it's 60 times more
+expensive to use the other ones, that's
+a lot.
+>> 463. Like for what we do, I don't think
+we will see the difference in terms of
+reasoning.
+>> No, and even if you just let it run
+triple, it's still so much cheaper and
+doing it triple times or having three
+agents doing the same thing, comparing
+them, merging it, that gives you a
+better quality and so much cheaper.
+>> You can even use that for on a 20 bucks
+subscription. If you can't pay 200 bucks
+a month, then then you have a crazy good
+model.
+>> Yeah. Yeah, yeah. And for not for every
+task need like a big model. A lot of
+tasks are so simple to do.
+>> And if it's fast, you just run it
+multiple times. That's why also it's
+good at agentic, right? Because yeah,
+then you can run more in parallel. Still
+go with like the 200 subscription, but
+>> And you just give each agent a different
+task.
+>> Yeah.
+>> Like one needs to double-check
+everything and needs to question
+everything, and the other one is for
+security, and just have them merge all
+the code and and improvements that they
+can do.
+>> Are you Yeah, if you have something like
+like for example, you have a new
+project, you can run cursor agents
+composer on the on all of the GitHub
+task and stuff. You start bootstrapping
+and then you pull everything, you test
+everything, and then Yeah, you can you
+can have like some good asynchronous
+work job
+on that.
+>> That can be a cheap good project, a good
+setup.
+>> Let's go by benchmark. Okay, so I look
+legit. I mean, will that make you
+redownload cursor?
+>> Yep.
+>> One day we're going to reach like a 99%
+in every [ __ ] benchmark whatsoever,
+and getting like the the 10 more like
+0.1 point on whatever benchmark coding
+whatever will not matter at all. So
+everyone will have their own model. So
+maybe they will we will stop swapping,
+use balls or whatever once we will it
+will be like maxed out.
+>> Yeah, then it it's more about what is
+the easiest to use and the most stable
+product.
+>> Open claw got a lot of user. MS got a
+lot more and like have the same growth
+similar to growth because it was way
+more stable and less than MS than open
+claw itself. So, yeah. Maybe we can see
+the same kind of movement for the
+models, too.
+>> Yeah, I think so. I think that's going
+to matter a lot.
+>> Yeah.
+>> Because if we go up a lot more in points
+so that we go towards 99, I think the
+last points are only for people who do
+the really complex work.
+>> We're going to find vaccine against
+cancer with like composer five.
+>> Yeah, but people making WordPress
+templates and and forms, they don't need
+it.
+>> Yeah, true. I was thinking about that
+like we do like get back to Shopify
+e-commerce like drop shipping stuff on
+Shopify. And especially with like a
+Shopify CLI, with the model that we have
+now compared to what we had like one
+year ago when we started to look at it.
+>> Yeah, they didn't prove the entire game.
+>> I mean, probably not going to be the
+only one doing that and everyone on
+Earth is doing the same freaking [ __ ]
+but like their game is probably way more
+interesting right now. Continue training
+on Munch AI open weight give me 2.5 as
+with composer two with cursor reporting
+85% of total compute from its own
+additional training and run for small
+learning. They are the only one with
+this data. That's why they got bought by
+Elon 10/60 billion. They tracked
+everything. And I think that's that's
+that's AI apps are very good exclusively
+in cursor. Both cursor ID and cursor
+CLI. External is not available.
+>> Yeah, you need to have the cursor app.
+>> Yeah. I cursor CLI, too. Yeah, okay. So,
+if you have the cursor then you can in
+that that's where it works. Like the T3
+code front end is using cursor CLI. We
+use the cursor models in another
+interface.
+>> Yeah, but then it should also be
+possible to set up an API call to your
+own Mac mini and use the cursor CLI to
+get cheap API. Just host it yourself.
+>> Some feedback on Reddit. The composer
+2.5 is my new default. It's fast,
+accurate, and actually cheap. Trying
+myself to use GPT 5.5 for anything that
+was not trivial. Try composer mostly
+because I was curious and I didn't want
+to burn credit on the other fixed this
+link error loop. And it's good like it's
+annoying good. I don't know how fast it
+is. Stuff lands in the right file,
+doesn't rewrite half of the module for
+no reason, pick up weird pattern with
+without me pasting three example every
+time. Can I conclude already?
+>> Yeah, we're not going to use it, but
+thank you too.
+>> Yeah, well, were you like at least
+thinking about using it?
+>> I mean, yeah, I was even thinking like
+maybe I can get the 20 bucks
+subscription so I can use cursor when I
+completely out of open AI or Claude.
+Like for this week, I think I'm good so
+but especially with with the codex
+resetting like the subscription every
+now and then. It's happening every week
+almost or every two three days. So
+>> Yeah, if you use it at least only for
+checking the code that was created by
+codex, you can take out the opus, throw
+it away, take the cheaper one, and have
+that used.
+>> Yeah. Yeah, and try try to
+>> That will save you some money, but I'm
+not I have a working setup. I'm happy
+with pricing and they didn't convince me
+yet to swap.
+>> Yeah, I mean, I will try for you 20
+bucks and then I will tell you
+>> Whoa, use it. Use it.
+>> Thank you cursor. If you want to sponsor
+us because we said that your model are
+great, uh please send us a check. We
+take crypto.
+My mutual, thank you so much for your
+time.
+>> Thank you too.
+>> We will see you around. Bye-bye.
+>> Bye.

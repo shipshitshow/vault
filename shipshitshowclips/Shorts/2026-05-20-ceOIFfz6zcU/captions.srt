@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,400
+ the biggest issue I think because you don't know what the other ones are and you don't even care
+
+2
+00:00:04,400 --> 00:00:09,760
+ because you trust on your npm package that it's correct isn't that the biggest issue that people
+
+3
+00:00:09,760 --> 00:00:15,680
+ trust the code from other devs and just install it without looking but it's way too much to research
+
+4
+00:00:15,680 --> 00:00:20,320
+ everything you push something publicly it's used by a million of other people and then you get
+
+5
+00:00:20,320 --> 00:00:32,000
+ fucked because you forget you to fa on your ex-girlfriend's phone yes
+

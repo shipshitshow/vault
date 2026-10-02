@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:06,320
+ It's cost me $0.07.
+
+2
+00:00:06,320 --> 00:00:08,080
+ That's not too bad.
+
+3
+00:00:08,080 --> 00:00:12,360
+ Yeah, $0.07 to generate one image.
+
+4
+00:00:12,360 --> 00:00:14,680
+ Hand-drawn game sprite of imaging is called--
+
+5
+00:00:14,680 --> 00:00:15,280
+ OK, OK.
+
+6
+00:00:15,280 --> 00:00:17,040
+ So yeah, we need to work on that.
+
+7
+00:00:17,040 --> 00:00:18,280
+ We need to work on the prompt.
+
+8
+00:00:18,280 --> 00:00:19,680
+ We need to work on the input.
+
+9
+00:00:23,720 --> 00:00:28,480
+ I want to be able to generate batches of images.
+
+10
+00:00:28,480 --> 00:00:31,040
+ Also, use the skill to prompt the asset
+
+11
+00:00:31,040 --> 00:00:35,240
+ and to keep the consistency in it because it
+
+12
+00:00:35,240 --> 00:00:38,760
+ should be from the game we want to select to prompt for.
+
+13
+00:00:41,760 --> 00:00:44,680
+ Also, explain to me which kind of sprite
+
+14
+00:00:44,680 --> 00:00:47,800
+ we are going to need if we want to add
+
+15
+00:00:47,800 --> 00:00:49,720
+ those sprites into the games.
+
+16
+00:00:49,720 --> 00:00:56,200
+ And what's the workflow for the next asset management
+
+17
+00:00:56,200 --> 00:00:58,960
+ for the integration to the game directly?
+
+18
+00:00:58,960 --> 00:01:04,200
+ I want to be able to generate a bunch of images,
+
+19
+00:01:04,200 --> 00:01:07,960
+ a swarm reaper enemy lurking forward.
+
+20
+00:01:07,960 --> 00:01:10,640
+ Those prompts are shit.
+
+21
+00:01:10,640 --> 00:01:14,280
+ I like AI generation.
+
+22
+00:01:14,280 --> 00:01:19,320
+ I mean, I can't do that with this generated assets
+
+23
+00:01:19,320 --> 00:01:25,880
+ because the small flies need to be out, but that's sick.
+
+24
+00:01:27,040 --> 00:01:27,520
+ I love it.
+
+25
+00:01:27,520 --> 00:01:33,880
+ So with those pipeline on CI, then we have recursive--
+
+26
+00:01:33,880 --> 00:01:38,480
+ not recursive, but fully automated testing.
+
+27
+00:01:38,480 --> 00:01:42,520
+ So it should improve the quality of the software shipped
+
+28
+00:01:42,520 --> 00:01:46,800
+ because then you have CI and QA quadrills.
+
+29
+00:01:46,800 --> 00:01:47,800
+ I love that.
+
+30
+00:01:47,800 --> 00:01:52,520
+ Because ideal attacking, running, jumping, side views.
+
+31
+00:01:52,520 --> 00:01:54,160
+ Did I pass that?
+
+32
+00:01:54,160 --> 00:01:59,880
+ Or is it at one sprint and reprinted in different--
+
+33
+00:01:59,880 --> 00:02:03,600
+ because yeah, ultra code is really, really nice.
+
+34
+00:02:03,600 --> 00:02:04,840
+ I love AI.
+
+35
+00:02:04,840 --> 00:02:05,760
+ So cool.
+
+36
+00:02:05,760 --> 00:02:06,400
+ It's so easy.
+
+37
+00:02:06,400 --> 00:02:09,200
+ You say which one that you get it.
+

@@ -1,0 +1,9 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+the biggest issue I think because you don't know what the other ones are and you don't even care
+because you trust on your npm package that it's correct isn't that the biggest issue that people
+trust the code from other devs and just install it without looking but it's way too much to research
+everything you push something publicly it's used by a million of other people and then you get
+fucked because you forget you to fa on your ex-girlfriend's phone yes

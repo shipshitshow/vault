@@ -1,0 +1,1880 @@
+Okay, I clicked on the wrong button.
+>> We are live.
+>> And we are live. Yes, we're live because
+we can. Uh, tap Mitchell.
+>> Yes. How are you?
+>> I'm doing good. Uh, productive day. I'm
+I'm I'm feeling good about my newish
+workflows of work. It's cool.
+>> Happy that they reset the timers on
+cloud code yesterday.
+>> Yeah, I I I saw that today, but I was
+already full and Yeah. Oh, that's why I
+have some reserve uh h
+>> yesterday. I think yesterday evening
+they reseted it again.
+>> Nice. Oh, yeah. Because there is a bug,
+right? There was there was a bug. Okay,
+that's cool. I like I like though
+honestly I like them. I I like I like
+did a lot.
+>> Well, I think they actually did a lot.
+They multiplied the amount that you can
+use. They did a second reset in within
+30 days.
+>> Thanks to thanks to Elon Musk for
+providing usage, I guess.
+>> Yes, they actually have spare spare CPU.
+>> Yeah. Do you think they're gonna get
+right off those limits one day?
+Uh, I think they just want I maybe it's
+wrong, but I think it's like drugs. They
+get everybody addicted and when nobody
+can do without, they just up the price.
+>> Yeah. Yeah. Okay, that's going to be
+another live stream. We're gonna red
+alert. You don't have subscription
+anymore. It's all API usage. We're gonna
+we're gonna we're gonna
+>> I know this was not on on the list, but
+Copilot did it right. They swapped the
+entire AI uh copilot usage to API keys.
+>> Do you know anyone who use copilot
+anywhere?
+>> Yeah, schools.
+>> Oh,
+>> so schools have the entire Microsoft
+setup because they get discounts uh from
+Microsoft and they encourage all the
+students to use Microsoft Copilot on the
+IT education.
+>> Jesus.
+>> So Dale SWAT I don't even know. I I need
+to ask my uh
+>> my interns what they are doing
+>> like I I don't even think I you I tried
+copilot AI
+for me it it isn't it just codeex
+>> yeah I mean
+>> codeex is from Microsoft
+GitHub is from Microsoft GitHub copilot
+is like codeex so why don't just use
+codeex
+>> wait What? What? Codex? What? What is
+OpenAI?
+>> Yeah. Yeah. Microsoft is what what are
+they using? Microsoft is is a
+shareholder in
+>> shareholder of Open AI but um uh that's
+why also they use entropics and then
+they stopped the licensing like uh last
+week or two weeks ago.
+>> Yeah. They don't want to give away the
+secrets to uh entropic.
+>> Exactly.
+>> So yeah. and and they want to push like
+copilot usage blah blah blah to internal
+Microsoft but
+>> yeah just for everybody who is thinking
+about buying copilot don't do it so bad
+>> yeah it's it's like using mro in France
+but that's
+>> it's one of the only subscriptions where
+you cannot do a monthly but you have to
+buy a whole year
+>> that should make you think because
+that's not that's not encouraging
+>> yeah doing a yearly subscription in AI
+It's like
+>> Yeah, it's like a big bet.
+>> Yeah. And we're not doing it. Maybe
+maybe we should uh move to Y on
+anthropic and codex though because we
+basically need both.
+>> Yeah, we use them all the time.
+>> True, true, true, true. But yeah, for
+today, let's talk about Yupus Yupus
+4.8.
+>> Yes, it dropped last week.
+>> Yes, sir. Uh, okay. Okay, I'm I'm going
+to do the introduction and uh and uh and
+let's go. Perfect.
+>> Okay.
+Opus 4.8 dropped last week. We are using
+every day like we are addicted to it and
+it's kind of fun to play with it. Uh
+uh but is it is it the uh best model
+ever created? We are going to check that
+in this video right now. Subscribe, like
+the video, and share it to your friend
+because they need to watch us because we
+>> Let's go. Okay, that's going to be a
+quick introduction.
+>> Um, cool. Uh, so yeah, what did you do
+with like Opus 4.8 since last week use
+case?
+>> I I actually at first I compared it. So
+I gave uh my prompt to Codeex and I gave
+my prompt to Opus 4.8 date because I was
+fully out of Opus
+>> and my first issue was that's how long I
+haven't been using it. I was checking
+and I didn't have the 4.8.
+So I had issues last time with 4.7
+and I disabled automatic updates and I
+was still on the old version with only
+4.6. Oh,
+>> so I updated first then I compared and
+eventually my decision was to let codeex
+uh do all the programming development
+coding everything
+and have Opus 4.8
+on max effort do the entire security
+check uh coding check searching for bugs
+testing and then give a reply to codeex
+to make the improvements.
+>> Okay. Do you still plan your issues like
+your task?
+>> Uh, yes, all the time.
+>> Okay. Okay. Okay.
+>> I think I had over 1,500 lines of um
+text on my last plan.
+>> Do you use Whisper Flow for planning for
+writing your plans?
+>> Yeah. Well, I didn't write the all. I
+use Whisper Flow for inserting all my
+text into Codeex and asking Codex to
+write it into a full plan.
+>> Yeah. Yeah, that makes sense. Yeah. And
+I actually read it.
+>> You read the plans?
+>> Yeah. Why make a plan if you don't read
+the plan?
+>> Do you have a summarize card or like
+something and then you go to details or
+you read like the
+>> I read the whole MD file because I still
+plan and not a HTML.
+>> Can you change the format? Oh yeah.
+>> Uh do you change the format of the plan
+or do you get like the is that readable?
+Because sometime it's a lot of like
+lines and blah blah blah. So do you
+reduce or did you use caveman to plan
+for example instead of like using like
+long sentences you do like shorter
+words?
+>> Oh no it just it made it perfect. I
+could read it easily. So I don't use
+caveman or anything.
+>> I use caveman. I use art. I use all of
+them.
+>> Yeah. It's like you're wrong. Fix it.
+>> Yeah. Exactly.
+Uh yeah and same thing like for me what
+I've done I I quite okay so I tested it
+because I had reserved uh usage for 4.8
+>> it took me a while to switch for 4 4.6
+to to 4.7 too because it was more
+expensive then I start to use it and I
+didn't see my usage going down. So maybe
+every time they push a new model um
+there is some bugs initially and like
+the usage going nuts and I don't want to
+lose my weekly usage in one afternoon.
+So I just like uh go slow with that. So
+that's why I didn't make the jump for
+4.6 for 4.7 but 4.8 what did I do with
+it? I was just like coding and more
+front end stuff. Um, and my usage didn't
+move. And honestly, that almost the
+matrix
+uh I want to keep. If the usage is not
+going down and I just cut it like for
+six hours, I like the model.
+If if the model is cheap, I need to use
+Yeah, I didn't even have need for it
+anymore. But for like a composer uh 2.5,
+I need to test it.
+>> Yeah. Yeah, for sure.
+>> But um Yeah.
+How fast did you go through all your
+tokens? How fast were you on your daily
+and weekly limit?
+>> Uh but because of the resets, like I
+don't even know, but I'm still spending
+like five uh the full uh 5,000 a month
+uh allocation on the your 200 uh
+subscription.
+>> Okay, that's good. So
+on uh
+today,
+so for the last 30 days, okay, that's
+that's wrong because that's that's not
+the case. Uh it say like $300, but uh
+today as on Codex as I burn $170 million
+tokens.
+>> Mhm.
+>> Um
+>> that's a lot.
+>> And yeah. Okay. So on code on the codeex
+bar uh it's telling me that I've burned
+6,300
+uh aka 10 billion token for the last 30
+days. I think there is a bug on the
+forex. It's probably like just uh
+started to count um
+not the last 30 days but just yeah it
+counted just June and uh but basically
+I'm burning the pro the cost of my
+subscription in one day.
+>> Yeah. So
+>> that that's like a 30 eggs on on what
+you save in money.
+>> Yeah. Exactly. And uh yeah, I have a
+weekly reserve like so we're gonna do a
+demo after like in minutes
+>> I was 4.8 and I have a reserve of like
+50% in reserve. So what I usually do is
+um I'm cutting in high and fast mode. So
+I burn token but going way faster and
+honestly like the the experience with
+that it's kind of lit. I like
+>> I never tried fast mode
+>> but
+>> I'm like
+>> yeah but yeah but if you track it with
+codeex and you with a codeex bar and you
+have the um the reset coming soon like
+if and you still have some reserve
+subscription just codex fast.
+>> Yeah. Yeah. Just maximize your usage.
+>> Okay.
+>> So then you can burn token and let's go
+>> and you can go for the next restart.
+Yeah that makes sense. Yeah. Um, okay.
+So, when they uh announce it from the
+Twitter tech,
+uh, is it?
+Why is it not the same site?
+Another one left.
+Oh, alignment. Nice. Want to keep it
+that way. Boom. Was branding here.
+Okay. So, the only thing that everyone
+want to know is that are the numbers
+bigger or not? And they are. So,
+>> is it better and is it smarter?
+>> Exactly. Uh, introducing code Opus 4.8.
+It build it builds on Opus 4.7 with
+sharper judgment, more honest honesty
+about its own progress.
+Yeah, that's so weird to say.
+>> So that means what happened with 4.6 and
+4.7?
+>> Yeah, it it means like, okay, I'm done
+with the task. You check, you're not
+done, bro.
+>> Yeah. And now I have an update. I'm not
+going to lie anymore.
+>> Yeah, exactly. And you're going to see
+like the 4.9 will be ah, you know, we
+even more honest.
+>> It could have been better.
+Uh because that's that's both what we
+found so far, right? Like that's the
+problem with Opus. It say it's done, but
+it's not done.
+>> Yes.
+>> Uh
+yes.
+>> Oh, do do you hear some Oh, [ __ ] My mic
+is
+>> okay.
+>> Okay. Better.
+>> Yes. Much better.
+>> Okay. Nice. Oh, I hope before it was not
+that's uh
+is it okay? Good.
+>> Yeah, we don't hear anything now.
+>> Uh so uh the ability to work
+independently for longer uh than its
+predecessor available today. Same price
+at the same price at 4.7. Uh okay. So
+Aentic coding uh 69.2 2
+uh plus 5
+5 and 4.7 and 5.5 is only at 58. Um
+yeah.
+>> Yeah. But I still had the experience
+that 5.5 was sometimes better than 4.7.
+>> Yeah. But because you don't do like a
+lot of agentic coding aka like you have
+multiple agents doing like do you?
+>> Yeah. Sometimes not all the time. So
+maybe that's the difference.
+>> Yeah. Almost like aentic coding is like
+almost using LMS to code and you talk to
+one CEO and then it's
+allocate the task to a CTO front end and
+blah blah blah blah blah blah.
+>> It deploys the entire team.
+>> Yeah.
+Uh I would need to double check what I
+just said because I'm not sure 100% but
+uh I that's what I understood. Uh agency
+terminal coding uh terminal bench. Okay.
+That's the That's you talking coding the
+terminal.
+>> Uh 74. No, it's even like the tools the
+agent using the tools on the terminal to
+access a file etc.
+>> 74 against 66 and 78 for 5 5.5 and
+that's what we do. We are doing like
+agenting terminal coding more than the
+aenting coding I would say. Um multi
+disciplinary reasoning 4 uh 49 57. Yeah.
+Uh humanity last exam. Yeah. Okay. It's
+more like uh yeah the same stuff. Uh
+agotic computer use. It's like the the
+agent who can use your computer. So 83
+against 78 for 5.5.
+Uh knowledge work GDP. Okay. GDP val.
+It's like the benchmark about all of the
+white collar jobs.
+>> Mhm.
+>> 18
+1890 against uh 1769 for 5.5. So yeah,
+that's that's crazy jumps. And financial
+analysis 53.9
+against 51. So basically don't trust it
+for your taxes. But
+>> yeah, taxes are still hard. See?
+>> Yeah. But like if you do if you build an
+app to do your financial task then you
+use aentic terminal to then you know
+>> Yeah. So does that I Yeah. I wouldn't
+trust it then.
+>> Yeah. I mean the code Yes. Because then
+you build like railway to do your taxes.
+>> Yeah. Yeah. But your entire planning is
+on the lowest one. That's not good.
+>> Uh fast model fast mode is available for
+opus 4.8 eight same model roughly 2.5
+the speed
+uh and three times cheaper than before.
+Yeah, because I think it was 2.5 the
+speed but three times more expensive
+than
+uh 4.7
+like no fast 2 fast mode is 2.5 the
+speed but three times more expensive
+that normal mode like
+>> but what does it do? actually gives you
+priority in the line when you're waiting
+for an answer or
+>> yeah like it's the time of like
+computing before you get like the answer
+it just like go way faster
+>> so yeah I guess I I don't know how it's
+it's working in the back end but they
+probably have like some yeah priority
+request or something
+or more compute even uh makes uh in
+cloud code op makes call like an
+experiment experience engineer without
+needing constant checking Ah, that's not
+true.
+>> Um, it's down track across long running
+session and follow walk through in your
+repo so you can end off a feature or bug
+sweep while you focus on what's next.
+Yeah, know you're right. Uh, yeah,
+still still a lot to check after that,
+right? And finally, one of the biggest
+promising that uh even like more agentic
+world uh dynamic workflows for the
+hardest task make a plan run hundreds of
+parallel sub agent aka like you don't
+have a weekly subscription anymore like
+that's it's done
+>> and verifies it works before reporting
+back think immigration touching hundreds
+of files.
+>> Yeah. This is like the ultra effort.
+Yeah. Oh, yeah. Yeah. Is it? No.
+>> Yeah. Yeah. It It does. It is the extra
+high but in parallel mode.
+>> Oh, okay.
+>> You can check it in the terminal. It
+will show what it does.
+>> Uh introducing dynamics workflow. H
+we're introducing dynamic workflow
+include code helping take the most
+challenging task end to end. Okay.
+What would normally plan in quarters? No
+finishing days. Let's go.
+>> So from 90 days to three days.
+>> Yeah, we uh we we can code Slack end to
+end in a couple of days.
+>> Yeah.
+>> Pay inventory. Yeah, that looks like a I
+didn't try it. Did Did you? Yeah. Ultra
+code.
+>> I tried it. Yes.
+>> Ask CL to create a dynamic workflow
+directly or switch on a new code
+specific settings called ultra code.
+This is accessed through the effort menu
+and it set up the effort level to XI
+while letting CL decide automatically
+when to use workflow to handle your
+task. Okay, nice. Okay. Uh we can we can
+use that. Uh we're going to use my
+subscription to for that for a little
+demo. Uh okay, so rewrite B dynamic
+workflow. Oh, they they rewrote bun, you
+know, the npm package manager
+>> the yeah uh alternative uh to rust.
+>> So they use that. Oh, interesting.
+>> Oh, that's cool.
+>> Yeah.
+Or it works with when a workflow kicks
+off cloud plan dynamically based on your
+prompt wreck it into subtask and fans
+the work out across sub agent. Okay.
+Okay.
+>> Yeah. So it it is planning itself.
+Okay. So, you give the prompt and then
+it's Okay. Okay. Okay. We're gonna We're
+gonna try that now. Gonna be fun. Uh,
+okay. So, I think that's it. We
+basically saw like the biggest stuff.
+Yeah. Capability, whatever. Whatever. La
+brunching today. Dynamic workflow,
+effort control, messages, API. I think
+that's it. Okay. Uh, yeah. benchmark for
+the the new uh alling grill like no the
+new the new
+the new benchmark that everyone likes.
+>> Yes, I'm going to put that in dark mode.
+That would be easier. Um so 4.8 high is
+uh what is it? Average cost per task.
+Okay, so it's cheaper than uh GPT 5.4.
+Where is 5.5?
+Oh, it's here. Okay. Okay. So, 5.5 is
+more expensive than 4.8. Yeah, but it's
+XI. Where is the Okay. No.
+Where is the extra? Oh, the max. Okay.
+So, 58 plus minus. So, 12. Yeah. Okay.
+That's
+>> Yeah. And they only added GPT 5.4x high.
+>> Yeah. Yeah.
+>> Oh no. Oh 5.5x high as well.
+>> So 5
+4.8 is high but x high is here but the
+score is less. Okay. But there is no I'm
+not crazy. Right.
+>> No I don't see it.
+>> Uh AQ. Okay. So GPT 4.8 4.4. I don't
+care about that. I don't care about
+that. Don't care about that. Yeah. Okay.
+I'm not crazy. back puff puff puff.
+Okay, so cheaper. Yeah. Okay, that's
+kind of cool because Yeah. Okay. But
+it's not the same. Is it medium? Okay,
+it's medium.
+>> Wait, I don't like
+>> or maybe they have five medium also in
+the table below because I think they
+made a mistake.
+>> Yeah. Uh
+>> see here.
+>> Yeah. So maybe they wrote it down wrong.
+Yeah, medium is already
+>> because the the results match
+>> and yeah, it's not
+so
+max and here it's high
+and 5.5 is default. Okay. So maybe the
+table doesn't match the graph.
+>> Yeah, it doesn't match. But okay, so Max
+and Xi are the same, right?
+>> Mhm.
+>> So OPU is more expensive
+and it's less than 5.5.
+Okay. So all effort levels. Okay.
+Ah nice. Okay. So now you write all
+benchmark on SWA deep and SWA
+5.5 still winning. Yes.
+>> Okay. And it's way more expensive.
+Xi Xi.
+Okay. Same price but 12 points less.
+And it's take more time too. Okay. So,
+Opus 4. Is [ __ ] Bye. Subscribe to the
+channel.
+>> Yeah. But still on on checking and and
+doing feedback, I had some really good
+results.
+>> Yeah.
+And what about the ultra mode stuff? Did
+you
+>> Yeah, that was even better because I I
+tried it different times. I just had it
+do feedback
+uh on normal high and then I cleared the
+entire history and I had to done the
+exact same prompt for feedback again on
+ultra mode
+>> and ultra mode found a lot more.
+>> Okay. Interesting.
+>> And it give better explanation.
+>> Okay. Okay. So, it's worth it to spend
+more tokens on the highest mode. Yeah.
+>> Yes.
+>> Very nice. Same thing like uh you know I
+like couple of weeks ago I started like
+to use the low model stuff
+>> and instead of switching like the low
+model ef the low effort and instead of
+switching model I just uh switch the
+effort and it's kind of like
+interesting. It's it give like good
+result. So you still use the most
+optimized model but on low effort and
+that's enough for like renaming file or
+something but sometimes with a better
+sinking uh you get more file cover and
+less files left over.
+So yeah orchestration is like still
+something that's gonna stay.
+>> Yeah. Yeah. You always need to do that.
+>> Yeah. So okay so following deep SWE 5.5
+still have the lead. We will see how it
+evolves with like 5.6 5.6 will be
+interesting to to see.
+>> I just hope that they make good
+improvements and don't just see on hey
+they brought out Opus 4.8 let's push it
+already even with lesser results.
+>> Yeah
+>> I just hope they make it even better a
+lot better. We could um we could see
+some uh improvement because of the
+compute too, right?
+>> Mhm.
+>> If they have more comput and looks like
+Saman was right like if you bet on more
+computing and if you buy all of the CPU
+possible on earth then you will have a
+better model.
+>> Yeah. Because the other ones cannot use
+the CPU anymore.
+>> Yeah.
+>> So yeah, that's going to be interesting
+to to track. Uh okay, let's do some demo
+because I'm pretty sure it's going to
+take some times and we can come back to
+it uh
+if uh if it's taking some time to just
+build. So what I want to build is uh
+three different apps. Uh agent flow
+debugger. Okay, wait. Mhm. that
+so yes I want to build three uh
+different apps for to demo 4.8 eight uh
+agent flow debugger uh pocket CAD which
+build up uh a CAD application end to end
+so it's like 3D u graphics you know when
+you build a car like you can you have to
+draw the piece of the car and a CAD
+application is that uh it's basically
+like yeah 3D uh generation of piece of
+like whatever
+um and FPS arena like it's it should be
+like a first person shooter game. That's
+uh
+>> Oh, that's cool.
+>> I'm going to put on a light because I
+think my quality is really bad.
+>> Let me check.
+Uh
+so, uh dark window closed path.
+Okay.
+And I'm going to go there.
+Okay.
+So I'm going to create a new session
+open folder
+check.
+Okay. Aon demo. No, I want to do the FPS
+first. So I have the prompt ready. So
+nothing have been set up. It's just
+going to go like end uh from scratch.
+Just going to take that the FPS arena.
+Bam.
+back
+path. So, uh, build FPS arena end to end
+a playable browser first person shooter
+arena with react type create and vit
+whatever whatever and 3GS 3GS pointer
+blah blah blah.
+>> Okay. What effort do you have enabled
+right now
+>> and we are going to do that with max. So
+that should be ultra mode right?
+>> Yeah. Well, I I never you I always do it
+in terminal, but
+>> instead of the prompt, if you do slash
+effort, does it show you the to do the
+selection as well?
+Ah,
+flash. No. Uh,
+wait. Do I have the last update
+path? No, because the effort is in the
+trigger, right? Yes. So I don't have the
+the is max ultra mode
+ISF for means response but takes longer.
+Okay, let me check if I should use the
+the terminal instead. Uh cd
+uh ship ship show.8
+It's
+uh brew upgrade
+upgrading
+>> because he even added effects to the
+terminal.
+>> If you go to Ultra Code, you get like a
+>> Yeah. Like the I saw that on Twitter
+like the Yeah.
+>> the the purple radiant.
+>> Yeah. You know, Theo said that it would
+be um
+Antropic is building fetus to make you
+addicted to the
+to the
+>> It makes you think like Dragon Ball Z
+like you have a Super Saiyan.
+>> Yeah. Or more cas.
+>> Removing. Okay. Let's go. Let's go.
+Let's go. Let's go. Okay. Cool. So, uh
+clothe.
+Okay.
+slash effort
+path and we want okay so max was not
+even
+>> max was rainbow
+>> and boom
+nice
+>> see and here it says it's x high plus
+dynamic
+>> yes
+>> overflow orchestration
+>> nice or
+>> workflow orchestration
+>> okay are you right ah okay so Maybe.
+Wait, where am I? Why am Okay, I was
+completely off green.
+I don't need to zoom that much.
+Okay, next. That's cute.
+So,
+do I have the prom still? I don't think
+so. So, I'm going to take it again. Uh,
+am I in
+trouble the PWD?
+Oh yeah. Opus 4.8. Oh no. Ah
+>> try slashmodel and see what
+>> in the the game stuff.
+>> FPS FPS back
+load. Okay.
+Back. Am I? No. I'm in F. Let's go back
+to Dragon Ball Z. Bam. Path
+stack. Okay. So,
+uh, Fob FPS arena blah blah blah. Okay.
+So, let's see what it goes. Um,
+>> and you also added on 4.8, right?
+>> Uh,
+yes.
+Uh, you can't use ultra mode without
+4.8, right? I don't know. I haven't
+tried.
+>> Let me see by.
+>> Yeah. Recommended. Yes. Oh, 1 million
+context, too. Ding.
+Okay. I I should I should change that
+because uh that's bad. Uh path. Okay.
+I'm going to do
+that because I can't see anything.
+Uh replace
+window.
+Uh, clothed. We don't want clothes. We
+want
+Why is my ghost here? Okay. Nice.
+Okay. Uh, nice, nice, perfect, perfect,
+perfect.
+Is that changing? Oh, it's not changing.
+Okay, whatever. And then I want to
+uh import the CAD app.
+Pocket CAD. Boom.
+And I didn't change the folder. So I'm
+going to do that back. Uh
+add
+load
+back.
+So same thing.
+That's the prompt. Oh, low effort. Ah
+effort again. Back. Boom. Buff. Puff.
+Yeah.
+>> Uh, so what we want here it's uh
+Okay, that's crazy. I resized it and
+then I have that.
+>> Yeah, it does something weird.
+>> What the heck?
+The was like screaming at
+the terminal is right.
+>> I can't I can't res What the heck?
+>> Why is it zooming in?
+Okay. So, uh, pocket card end to end a
+Polish browser cut tool for designing
+and simple laz cut bracket or enclosure
+plate react typescript blah blah blah.
+Jesus, that's a lot. Uh, what about the
+FPS? Oh, what I write the source file.
+Uh, oh, okay. I think I need to share
+multiple uh
+I'm going to share multiple screen
+because Oh, I can't. No,
+I can't. I need to replace it.
+Uh, okay. Oh, replace. Wait. Uh, window
+entire screen window
+type.
+Let me kick off npm install in the
+background while I the source file.
+Uh, so npmable. No browser installed
+yet. What?
+No browser. I have brave. What are you
+talking about? Uh, okay. 3 minutes. Use,
+by the way, to ask a quid. Yeah. Okay.
+That before.
+No. Let me relax.
+Okay. No problem. Okay. So, it's
+building and the cat. Okay. So, same
+thing for the uh CAD app. It's um
+it's building it's building it. And then
+the last one, last example was the agent
+orchestrator demo path load path.
+And I want to replace
+window.
+Okay, we are back.
+Uh effort
+Dragon Ball Z.
+>> Yes.
+>> Do you like those animation in a cameo?
+>> It is cool for the first time and the
+second time, but
+if it is after a week, I I want to be
+able to just disable it.
+>> Yeah.
+>> But if you see it for the first time and
+it's new, then it's cool.
+>> Yeah. Yeah. It's like, you know, the
+features when they push like the pet
+companion stuff. Mhm. Like I don't I
+don't want that.
+Why?
+Okay. And this one will be uh agent flow
+debugger end to end a polish visual
+debugger for autonomous coding agent
+runs blah blah blah. The app must
+include full screen app UI with a graph
+canva
+simulator that move a task through the
+workflow. So basically reprompt ship
+code but ultra ultra mode. Mhm.
+Cool.
+>> Okay. So, all of the other files are
+Yeah. writing npm apps. And in term of
+usage, I was 100% this week. Uh where is
+my Okay, here.
+Oh, not okay. Um
+I'm going to check my usage quickly.
+>> I'm okay. Yeah, maybe it needs to finish
+the prompt first or the entire uh
+Oh my god. Okay. Um
+I changed my email address to
+uh like the domain to uh Google
+Workspace and that's [ __ ] up
+everything.
+All right. Why?
+>> Because the synchroniz because I put the
+the same address.
+>> Yeah, it's creating icons now. Oh my
+god. Um, okay. I should have changed
+that before.
+I'm going to change that to my other
+computer.
+Max
+uh setting
+usage.
+I have already used 16% of the five
+hours.
+>> Yeah,
+>> ultra effort is is really
+>> ultra.
+>> So, yeah, I I've set up like the Oh, I
+didn't click this one. No, I did. Right.
+>> And you're doing three projects at the
+same time and it is doing a research for
+each one.
+>> Yeah.
+So yeah, I I said I I I moved my Vincet
+and Vincet ship shipdev to a workspace
+account. It created a temporary email
+for this uh personal uh Google email
+>> and then created the same workspace one.
+But no, when I use Google O for on the
+apps, it doesn't match the Google ID,
+but the email the the email uh match.
+So, it create me another account.
+>> Yes.
+>> Uh okay. So, I'm curious about how long
+it will take to generate all of the
+but yeah. Okay. Nothing is uh
+uh ready yet. Okay, cool. Uh path path
+check close
+>> because on my last feedback check it it
+has been working for 21 minutes
+but it was not on fast.
+>> Oh I didn't put fast.
+>> No.
+>> Ah
+>> I don't know if you can change that
+>> if you just say stop go to fast and then
+proceed
+>> to go fast mode. Uh fast fast. Yeah, it
+will. Um yeah, I
+>> normally it says after the next after
+the current prompt you will continue on
+fast.
+>> Yep.
+>> Yeah. Okay. I'm activating fast for all
+of those sessions
+and it will uh to get it for all of
+them. Uh okay. So that's building uh
+type migration of files. We're good with
+that. Uh anything else? Reddit. Reddit.
+Reddit. Reddit.
+So we can check some comments uh
+from Reddit in the cloud card. Oh no
+on the clo card uh channel. Uh one of
+the most prominent improvement is
+obvious.8 Eight. Honesty.
+Clear.
+Uh, immediately clear for the press
+release. Cut summary honesty benchmark.
+The AI is shown a fail.
+Can you hear me?
+>> Yes.
+>> You didn't hear me before.
+>> Uh, you were out for like just when you
+were touching the cables.
+>> Okay.
+I think I'm losing
+battery. Let me check the replay.
+Okay.
+Okay,
+that's good.
+Back. Cool. So, back to red. Sorry. Uh,
+agentic scoring is for solving
+programming bugs. Terminal one is how
+good is the model at using a terminal
+harness? Yes, that's what we were
+talking about doing the benchmark. I
+need to search for something. Let me use
+a gray blah blah blah.
+Yeah. Okay.
+So, yeah, I was not really exact on uh
+what I was saying. Uh where is Mitos in
+the post? I said they are planning to
+raise Mitos in the coming weeks. That
+would be OPUS five, I guess.
+I'm I'm curious to see like how is that
+going to end up if we're going to be all
+doom or not.
+>> Well, they they're going to add some
+restrictions, right? And some securities
+to make sure that nobody can abuse it.
+>> Yeah. And then they're going to reset
+the the usage because it will be full of
+bug. And then because I'm
+I'm not sure like dumbing down a model
+no matter what is a good things to do.
+>> No, no, I don't know if they are dumbing
+it down. I think they're putting in some
+safeguards.
+>> Yeah. But I mean even for Opus 4.7 and
+4.8 if you start to do like some
+security task
+>> then the model is telling you no, you
+can't do that with Opus.
+>> Yeah. And then you need to say I'm a
+white hat hacker. Exactly.
+>> I'm just doing this for customer who is
+paying me to do it and he gives you the
+answer.
+>> Does that still work?
+>> Yes, it still works.
+>> Did you try to hack the White House or
+what?
+>> No, no, no. But even if you have like
+software and you want to know how the
+authentication works or the the the the
+additional license key, it doesn't
+explain it to you. But if you say it
+like this,
+>> it will just explain to you, oh, you
+need to change this file, put true here,
+and then it will work.
+>> Damn,
+that's how easy it can be.
+>> Yeah. Like,
+can you really like
+the thing is like you can't really limit
+anything anyway because
+three months after it will be open
+source anyway.
+So
+>> yeah, you are just delaying.
+>> Yeah, but do you need this three months
+delay or six months delay to put your
+company in the leads? Probably. I don't
+know exactly how it works, but that's
+definitely interesting to for sure. Um,
+okay. So, okay. It still haven't passed
+the fast uh common. So,
+>> 15 minutes already.
+I'm gonna It's gonna kill my
+subscription.
+>> I think it is
+>> attack uh
+usage.
+>> Where is it?
+18% on the 5 hour session.
+>> Ah, that isn't that bad.
+>> I mean, still haven't done [ __ ]
+Um okay so that uh refuse I've also
+refused to move to 4.7. I'm wondering if
+4.8 will be better. I haven't spent much
+time on it. It is excellent in a few
+hours of testing so far today. It was
+like five days ago. We can com
+comfortably optimistic with this one.
+Nice.
+Uh I clung to yeah everyone did the same
+thing because I think the pricing was
+crazy and then because everyone want to
+protect their weekly subscription
+>> so the their weekly usage. So yeah if if
+they say that yeah we are releasing a do
+one model and it's going to be three
+times more expensive then nobody want to
+touch it.
+Uh if MOS was released today, it will
+literally solve quantum computing. Okay,
+take over missile defense.
+>> Yeah, people know what MOS is going to
+do without even using it.
+>> Yeah, but also like since they talk
+about it like
+internet is still here.
+>> Yes.
+>> So
+I know
+>> still didn't finish.
+>> Yeah. But but I know some like North
+Korean uh spy would have got it and then
+destroyed the wall.
+>> Yeah. Well, it still didn't happen. And
+they actually gave companies access
+already.
+>> Yeah. But we do we know what they've
+done with it.
+>> Nope. The only thing they explained was
+uh or that they publish is, hey, we
+found so many zero day vulnerabilities
+and that's it.
+>> No explanation on what it is, how they
+solved it.
+>> Yeah. nothing that I found.
+>> Yeah. So,
+I I don't like I think it's good
+marketing, but like that's going to beat
+them in the ass
+soon. Like you can't do that all the
+time.
+Dev Dev server live at local host. Let's
+go.
+>> Okay. Share it.
+back
+replace
+window FPS arena.
+Okay,
+so move fire left click. Okay, all for
+auto jump reload. Okay.
+Oh,
+but this is cool. You have actually a
+working game already.
+Jesus.
+>> Oh, that was a bug. He walked right
+through the pillar.
+>> Yeah, there is no collision. Yes.
+>> but maybe we can fix that. Score kills
+enemies.
+>> Yeah, it it counts at all.
+>> That's crazy. That's kind of cool.
+And see there is the lights effect. Oh
+no. Okay. It's the when the when it
+dies.
+>> But this is like before people used to
+code on something like juke nug or
+whatever like quake.
+>> Yeah.
+>> Forever. And now you have it in a few
+minutes.
+>> And there is like a ammunition too. You
+don't see it but I have the counter of
+ammunition.
+Like the ammo
+I can reloading.
+That's nuts.
+Okay. 15 seconds. Okay. What? Okay. Game
+over. I died.
+>> Do you also have a scoreboard right now?
+>> No.
+>> Pause. There is a pose.
+Elf. Okay. Wait. you don't see all of
+the option. But if I do that,
+um, wait, I can do that.
+Look,
+see, elf and ammunition.
+And I can reload. And it's reloading.
+Boom.
+That's kind of sick, man.
+Okay. So, this one is good.
+Um,
+like
+uh Canva running the full verification
+like
+replace
+window. Bam.
+Like
+in 18 minutes, we have something that
+works.
+>> That's cool. And now it's just
+optimizing.
+>> Yeah.
+>> Make this better. Make this better. Give
+me an option to swap guns or whatever.
+>> Add a reloading animation.
+Oh, okay.
+And the enemies are going through the
+columns.
+>> Mhm.
+Uh so check for collision issues.
+Okay.
+>> And it would be cool to add a bigger
+boss after 10 kills.
+Check for collisions.
+Add waves. And at the end of the third
+waves, you add a boss.
+Nice, nice, nice.
+Okay,
+cool. Time out. FPS verify. Verify
+uh pointer locker error gun. Okay. Okay.
+Uh scene is non blank. A truly blank
+canva yellow. Okay, whatever. Uh, the
+arena render beautifully floor grind and
+with death glowing tire wall blah blah
+blah. This is exactly right. The first
+screen is the game and in game start
+over with control click to play blah
+blah blah.
+>> So this is actually what they said that
+Opus 4.8 would do. You give it a prompt
+and it decides on each subtask.
+>> Oh yeah. Oh yeah. Yeah. Like the user
+added new requirement made task. So it's
+it was not even done. How my
+verification baseline is green then
+implement all of the new features.
+>> It doesn't just before it would just
+start coding or whatever you ask and now
+I said no no no we can start. We need to
+do some checks first make sure that all
+works and then we can proceed.
+>> I like that.
+>> Yeah that that makes it look so much
+better
+and it's even managing. Yeah I I I saw
+that before with like 4.7 but like yeah
+nesting almost done thinking with XI
+effort. So it during the task it's also
+able to change the effort.
+>> Yeah.
+Okay. That's it.
+Um for the CAD application I is still
+building.
+I didn't expect the CAD viewer 3D stuff
+to be more complicated than a game. Uh
+and same thing for the agent flow
+builder.
+Yeah, it's still building the UI after
+60 minutes.
+So, right now we have like yeah uh 47
+minutes of like uh ultra mod.
+It's kind of cool. I like that. That's a
+good uh
+>> So this now we are happy with Opus 4.8,
+right? This is a good result.
+>> I mean that's definitely impressive.
+Uh, should we wait a bit again? I We
+could build mobile games.
+>> Yeah. Yeah. Yeah. This is something you
+could play on mobile.
+>> Okay. Do I have uh wave kills enemy?
+Okay. I don't have the wave yet. Is
+there a laz? Oh, no. It's the laz. It's
+the shooting. But uh
+>> what happens if you jump?
+Oh, see everything they the AI thought
+about everything.
+>> Uh,
+wow. Wow. Wow. Wow. Okay. Okay. Okay.
+Okay. Uh, I would be curious if we can
+add texture from GPT image
+because we could create the sprites and
+have uh, but they don't shoot at me too.
+Like the enemies should have guns.
+Well, that's for the next update.
+>> Yeah, but first we build we build the
+the skateboard and then we have a car,
+right?
+>> Mhm.
+>> That's lit.
+>> Yeah. You add two wings and the car
+flies.
+>> Yeah. Okay. So, path
+t
+uh path place FPS area arena. Bam. No,
+not the one.
+Replace.
+Yes.
+Waves. It's coming. It's coming. Total
+waves. Bus active boss else.
+Okay. Okay. Uh we can we can continue to
+track that because I'm excited.
+Uh attack. Okay. And the other app, not
+the CSS. Okay.
+No, the comprehensive [ __ ] was a polish
+leave. Okay, so the agent flow is
+getting polished. I created a mission
+control
+>> and the pocket cat stuff it's coming
+soon. Okay, so we have some notion of
+the boss. Let's see what goes.
+>> How many uh how big of is the usage
+right now?
+>> What?
+>> We were at 18% usage. Oh yes.
+>> Before this update,
+>> uh 20 22%.
+>> Mhm.
+>> 5% weekly.
+>> Okay.
+>> Yeah, that's definitely more expensive.
+But uh I mean, is that better to spend
+more tokens and have a longer workflow
+or
+smaller task, cheapest, but you have
+more human in the loop? I think you need
+both. Yeah, it depends on how much
+influence you want to have. If you want
+to have more influence yourself, you do
+smaller tasks.
+>> Yeah.
+>> If you don't care and just want the
+result, let it let it rip.
+>> Yeah. But like for example Yeah. Like
+exactly. But like for example, we can do
+QA with like ultra mode blah blah blah.
+>> Mhm.
+>> And build apps with codeex.
+>> Yeah,
+that's what I'm doing.
+>> That makes sense.
+And then I also don't mind if it if it
+burns a lot of tokens because I don't
+use it for coding.
+>> Yeah. H
+>> So I have tokens to spend.
+>> Ultra mode fast. Boom. Boom. Boom. Let's
+go.
+>> Yeah. Let's go fix it.
+>> Uh do do you have time a bit?
+>> Yeah, I have some time.
+>> Okay. Okay. Okay. Uh because yeah, I'm
+curious about this. Oh, play right. Play
+what? Play. Okay. So the other one will
+build pass for the CAD app. Can I
+uh run dev?
+Okay. So looks like this one will be
+running
+almost ready. Oh, let's see.
+>> Okay. So generate motor. So,
+oh, okay. Okay. So, it's loading.
+That looks good.
+Okay. Wait, what?
+Okay. Going to raise you
+hole.
+Okay. So, it's a bit buggy
+like for example.
+>> Yeah. But it's just the first version.
+>> Yeah. But I wanted to I asked if I can
+load a model to
+Okay. So, first generate laz cut
+controller bracket. Did you ever use a
+3D software like that?
+No, not like this. I did use the What
+did you use the 3JS?
+>> Yeah, it's all 3GS, but you know, like
+it's the for the for the people. Yeah.
+>> Yeah. The only thing I did, but it was
+over a year ago, I made a cube that you
+can turn around in all the directions.
+>> Mhm.
+>> And it had um
+all all sorts of materials in it. So,
+you were able to turn it around and
+watch materials from each side. And what
+I did to make sure that it looked like a
+real thing, a designer had the images
+from each side created. So I pasted all
+the images inside the cube on the
+materials.
+>> Mhm.
+>> And that made it look like a real life
+cube.
+>> Okay.
+>> But that was like
+Opus 4.1. I don't know. It was a really
+old version.
+Oh,
+>> you did that with Opus 4.1? Damn. Yeah,
+but it didn't look as good as this.
+>> I think if I can do it right now, it
+would save me so much time.
+>> Probably. Yeah. Uh,
+okay. So, holes. Okay. But I don't
+That's not what I wanted. I want drag to
+orbit. Okay. Uh, extraction. Redo. Undo.
+Okay. Reset. Okay. Nice. Laza cut
+controller bracket. But I wanted to have
+Okay. So CAD um stick
+example.
+Okay. So
+if I give it that will it be enough?
+I'm just trying to find
+an image that we could use. Okay. So is
+nice.
+So if I give it that the goal would be
+to reproduce this image.
+>> So
+copy image. I'm going to do build CAD
+path. What?
+Okay. I'm going to the it doesn't it
+t
+mechanical card uh
+tech
+path.
+Can you replicate this image in the
+project?
+I'm going to share it. That's going to
+be more clear place.
+So, custo
+uh I want to load a source image as a
+card spec and then I want to be able to
+edit the values of the spec directly in
+the app.
+Oh, puff. Okay.
+>> How far is the game?
+>> Uh,
+no type check and build to catch any
+errors. Okay, nice. Uh, it's coming.
+It's coming.
+>> Cool.
+>> Replace.
+Go. Bam. Bam.
+Uh, it's building. It's building
+everything. Checking if there is any
+errors. Reload bar. Reload bar. banner.
+That looks like Okay. Boss Boss bar
+wraps.
+If that works, that's going to be sick.
+Um
+Oh, look.
+Bas research preview. High speed mode
+for 4. Draw for usage credit at higher
+rate. [ __ ] off.
+Ah, you can do it without paying
+additional.
+>> Oh god.
+>> So that's how to make Well, what did we
+say in the beginning?
+>> Make them like an addict first and then
+charge money.
+>> It's crazy, bro. It's insane.
+Local lost. Wait, what? What? What the
+[ __ ] is it? The port the port is not
+correct.
+Oh, ser.
+Oh, okay.
+uh is running detach responding. Okay.
+So
+that was the P of the software. Okay.
+Okay. Aent flow debugger. So now
+back back.
+Okay. So what do we have here?
+Okay. Okay. So that's a React flow map.
+>> Mhm.
+>> Pending Q plan build test pending. Okay.
+>> Uh
+>> that's a loop.
+>> Yeah, but where are we?
+Pending. Pending. Pending. Pending.
+Everything is pending, bro.
+Okay. So that's not working. Oh, aent
+float debugger pocket build cap. Oh,
+it's it's ideal. Okay. Is it still
+building? Okay, wait. Because I don't
+think it's
+Oh, it killed the server. The
+>> Ah, see you're doing three things on the
+same server. That's
+>> wave one.
+>> Oh, you have the laser beam.
+>> I think we had it before. And you have
+your And ah now we can see your health
+bar and your uh
+>> Yes. But because I resized the wave.
+>> Oh, that's cool.
+>> Okay, wait. It Oh, there is animation.
+Oh, there is
+>> Yeah, for reloading.
+>> Okay, wait. I want the collisions check
+>> here. See, it walks around. It can't go
+through anymore.
+Okay. Okay. Okay. We have to.
+That's so [ __ ] cool.
+>> Okay, we're almost at the bus.
+>> Yes.
+Yeah.
+>> Two left, one left.
+>> We We should have bonus and new weapons,
+too,
+bro. We are building a a game.
+>> Oh, it's a bigger one.
+>> Okay, just a bigger one. Yeah,
+>> bro. That's sick.
+>> Now, the question is, does it do more
+damage as well?
+>> Oh, yeah, it does.
+That's so
+>> Oh, you out of time.
+>> No. No. Oh, did I? No.
+>> Yeah. Yeah. No. Oh, it reset it because
+you
+>> Okay. Okay. Okay. Okay. Okay. Okay. Bro,
+I want to continue this game. This is
+sick.
+>> This is cool.
+>> Okay. What? How much uh can we see
+replace
+tough?
+So, okay. Fast mode. Fast mode is
+bye-bye. Uh, cool. Puff. Fast mode.
+Okay. Dynamic workflow.
+Multi-dimensional address review app
+completed. Three minutes. No, it didn't
+take three minutes.
+I think a bit more. Uh, tag tag npm
+server. Okay, so that's cool. Okay, so
+this app didn't really worked properly,
+right? Wait, what is it doing?
+>> Yeah, but I think we were also
+using all the servers through each other
+at the same time.
+>> Yeah, that's that's probably an issue.
+Yeah, like uh Yeah, like but see like
+multiple agents running at the same
+time. It kind of [ __ ] up everything.
+Bro, the review surface 20 confirmed
+findings. It's reviewing it completed
+the apps. Now it's reviewing it.
+>> That's cool.
+Okay.
+>> How much uh uh usage do you have left?
+>> Uh 20 28%.
+>> 6% weekly.
+>> Uh
+>> so you can burn everything in an hour.
+>> Yeah, that's the problem.
+Uh okay. So
+the flaky file the server is having the
+update value. So the change is live yet
+the boss still render brown. What
+the pixel is identical to the crane. The
+boss body. Okay. Okay. Uh okay. So, uh,
+can
+give me, uh, upgrades, new weapons that
+I can, uh, drop that I can pick up after
+I kill, uh, mob and make the, uh, mob
+fire back.
+Uh, upgrade. Oh, French accent.
+Uh, upgrading. He did too much France
+accent if I give it like a French
+mustache.
+>> Yeah.
+>> Give me upgrades
+for Nisses
+new weapon
+that I can pick up after I kill the mob
+and make make the mobs
+fire back
+and add some skills
+uh for the boss.
+uh shield
+uh uh faster
+movement movement etc.
+Buff
+uh the boss no render has a clear maning
+bright red giant with glowing eyes its
+horn floating hells bar. Okay, so we
+already had that.
+>> Yeah, we already had that.
+>> Test harness artifact. Prefill the
+magazine. What? One check regressed. Oh,
+bro. It's It's That's That's cool
+because the full testing, the full
+pipeline,
+and it's been 40 minutes already. [ __ ]
+>> Mhm.
+>> Okay.
+>> Time goes fast when you're having fun.
+>> Yeah.
+Uh oh.
+On the app, I think I'm going to cancel
+and the other apps because I think we
+saw the
+>> Mhm.
+>> we saw the demo, right? But okay, the
+pocket cat build is complete and
+verified. 1212 browser check pass
+non non blank 3D another review is
+running in the background and I will
+fold any com fixes new request that
+drawing is a flank pipe cross fitting
+it's front view left alter blah blah
+blah so analy good analysis of the image
+I don't know if it's true but I will be
+I will trust it um
+how should the app turn a source image
+into a editable spec pre extract this
+drawing
+I read this drawing no and ship it as
+ready fully editable spec card. Yes, for
+the demo it should be fine. Run blank
+fat fit the tools. Okay, let's go.
+Whatever. And for the agent
+overflow stuff. I don't know what is
+reading for the
+for this app. Kind of weird. I didn't
+really understand what it's uh
+debugging.
+>> It just started somewhere. What is
+debugging itself? No, but like I want to
+see the the flow of the agent, right, of
+that uh but it was also connected to
+pocket cat and I think it's uh it's
+reloading pocket cat stuff inside the
+agent flow. So I don't know I I we need
+to reread the prompt.
+>> Yeah.
+>> Uh maybe you based both.
+>> Yeah.
+Uh, give me upgrade. Uh, T buff
+puff buff puff. The user added another
+feature request. Let me first lock in
+the green baseline, finish the harness
+fix, then implement a new features
+applying the sample fix to the contact
+damage check.
+Uh, I kind of crazy.
+How could we use that in our current
+workflow?
+>> Well, we are not game designers, right?
+>> No, no, but okay. That that's a that's
+right. But but bro, like uh we could
+become
+whatever we want
+>> dev.
+>> Yeah.
+Well, how easy is it to create a
+Minecraft game?
+I mean a prompt that
+>> I know Minecraft and Fortnite you can
+earn money building the games and maybe
+even in uh October uh GTA 6 is coming.
+>> Oh yeah.
+>> Yeah, that will be big.
+>> I don't think you can vibe code GTA 6,
+bro.
+>> No, because people are making their own
+maps in GTA 5.
+Oh,
+>> and they even had websites on the side
+where you could buy stuff that you use
+in the custom uh games.
+>> Jesus.
+>> But that is like I would like if I was
+like rockstar, I would even like inter
+uh integrate
+um code or codeex or whatever
+>> have those workflow just to for people
+to build maps more easily.
+>> Yeah. But I would say just make a a
+horse event and have people do
+competitions on unicorns and have them
+drive.
+>> Wow, that's sick.
+>> And you can upgrade your unicorn by
+paying us. Tada.
+>> Pap health, ammo damage, pickup radius,
+enemy range, blah blah blah. Boss shield
+duration and rage.
+Oh, you you make it bad.
+Projectile damage, projectile speed,
+barrage count, bar. What? Barrage
+spread. What's barrage toast? Small
+transient toast for pickup shotgun.
+Let's go. Okay, we need to test that.
+We're not We're not We're not
+>> That's a finale.
+>> That's exactly. Okay, I'm going to stop
+the other apps because I want my weekly.
+>> Yeah. Yeah. You want to make sure that
+this can be finished?
+>> Yeah. replace. Okay, that's kind of
+interesting though because
+confirm refuted. So it refused the
+some binding and fixes.
+It's it looks like ship code but
+integrated to the CLI. Yeah, but don't
+you think that eventually everything
+that we build because we think we can
+make it smarter and one or two versions
+after it's integrated into cloud code
+and codeex
+>> but because yeah like those frontier uh
+labs uh they can see what's um trending
+on GitHub and what's useless and how
+people what's useful and how people are
+interacting with XY Z application and
+say okay let's uh integrate
+aka open claw to codeex uh agent
+orchestration blah blah blah and then
+boom you have that in the CLI
+just imagine people relying on all this
+and don't know how to do it themselves
+anymore
+>> I mean like I don't even remember how to
+cut
+you have to start again at hello world
+>> yeah I ah I forgot but I mean we were
+already doing it like react overflow uh
+blah blah blah.
+>> Yeah. How to how to uh do a CSS file
+with Angular blah blah. Okay. How to
+import properly my CSS file.
+Uh that's nuts.
+Okay. Uh looks like the
+the third one no third one is over. Uh
+okay. So
+everything is green. Final end off aent
+flow debugger down a full screen
+operator gr visual debugger for
+autonomous coding agent run build end to
+end with react. Okay.
+So that's not the same port. So that's
+nice normal command. Bum bum bum. Okay.
+Path. Oh, okay. It's not running. Um
+Jack I started a dedicated port because
+Okay. Uh
+puff
+run it again on path.
+Uh okay. So four pen shell compact
+toolbar graph canvas eight workflow
+nodes start research plan build test
+review done with fix below forming the
+retry loop. Okay. Real simulator pure
+deteristic state machine. Okay.
+Whatever. Whatever. Uh, run control
+start p inspector updates live. Final
+report. Auto open after done. Cost 2.72
+bucks. Team time 3 minutes 210 token.
+One retry two fail checks. 90% average
+confidence
+20 artifact pre-stage blah blah blah.
+Uh, that's interesting.
+Uh process not after building I run a
+multi adversarial code review enjoy.
+Okay. The run is script deterministic by
+design. The reviewer always fail once
+then pass. Yeah. Review plan. Why? It
+demonstrate the Oh, okay. Okay. It
+demonstrate the retry path relability.
+It doesn't call a real model. Cost time
+tooken figures are simulated. Okay.
+Uh reun. Okay.
+Okay. So that's that's more demo than
+job done.
+>> Mhm.
+But okay, so it looks like the same
+pocket cat. Yeah, I think it loaded like
+the previous.
+Okay, so if I start play,
+it's actually doing something.
+>> I don't think so. I think it's a Yeah,
+it's a simulation.
+>> Ah, okay. But still, if this works, this
+looks good. Uh, bro, that's uh that's
+shape code.
+>> Yeah. Yeah, but
+>> I know. But that's that's okay that I
+say looks good. Ship code looks good.
+Okay, that's not exactly ship code, but
+ship code is
+it's uh it's lit.
+Okay, let's do it again. Reset start.
+So, you have the agent. Bam. Bam. Bam.
+Oh no, that's
+plan plan pass. Bum bum test fail. Okay.
+Okay. So that's
+that's lit.
+>> Cool.
+>> Okay.
+>> No, let's see the end boss.
+>> Yes.
+Okay. So I'm going to kill that. I'm
+going to push that to um background work
+is running. Uh what what's running
+one shell? Oh yeah. Okay, that's the
+server. Okay, cool. Get it, bro. Get it.
+Okay, so this one exit anyway. Bam.
+Cool. Pocket CAD is still working on it.
+And the boss the boss is still
+uh the game is still building.
+>> Ah, okay.
+>> You need to go. Uh, I can spare a few
+minutes.
+>> Uh,
+>> otherwise you're playing all by
+yourself. That's no fun.
+>> Okay.
+Um, now it's time for the hood. The hood
+jump. Which weapon?
+Okay. Key frame. Bum bum bum. Yeah.
+Uh,
+are you going to try ultra ultra mod
+again? Yes, I have to try it
+>> 7%
+on my weekly and current session 30 30%.
+With three times but I mean for one
+session
+like if you do one ultra mode at a time
+it's kind of legit man.
+Okay.
+Bam.
+Okay, let's go. Let's go. Let's go.
+Let's go. We We have some other stuff to
+do. Let's go.
+Uh tag pocket cat still. Okay, so that's
+scale. That's down. Okay.
+>> Do you have the automatic continuation
+on your API credits active if you 100%
+usage?
+>> Uh no, no, no. I deactivated that. I'm
+not I'm not spending extra money. Yeah.
+>> No, but my my settings it was toggled by
+default and I didn't do it. So
+>> really
+>> I I checked it and I disabled it.
+>> Yeah. No [ __ ]
+No, I'm not I'm not spending like 10 10k
+months on AI.
+>> Sure. Not.
+>> Yeah. Especially for a demo for a stream
+with like not a lot of viewers.
+Uh tag tag. Okay. So that's done. We're
+done with that. We done with that.
+Uh path path. Okay, let's go. Let's go.
+Let's go. Let's go. Let's go. We We have
+We have other stuff. Okay. So, that I
+don't need that. I don't need that. I
+don't need that. Oh, I I closed too much
+stuff. I don't have a brother open
+anymore.
+The problem. Uh now the property panel
+shaper control react. Oh, no. That's
+duplicated. Uh, insert the new features
+check after contact damage test. Okay,
+it's testing. So,
+I think it will be live
+>> in a few minutes.
+>> Yeah.
+Uh, local host
+537.
+Mouse click left.
+Okay, wait. Uh, puff puff replace FPS
+arena. Bam. I'm going to give you
+the bar
+of Okay. Uh, move. Look. Okay. Switch
+weapon. Switch weapon. Okay. We have the
+weapon. Mhm.
+>> One, two, three, four. Okay.
+So,
+Okay. I don't have weapons.
+Oh,
+>> shotgun.
+Okay.
+>> And double damage.
+>> Okay. Where is the rifle? Rifle.
+Shotgun. Oh, it's a
+>> Okay. That's cool.
+>> Weapon. But
+Oh, they fired. They fired back.
+>> Yeah. Yeah. Yeah. Oh, and it Oh, you're
+adding health.
+>> Yeah.
+You need to get closer for your shotgun.
+>> SMG SMG SMG SMG SMG2.
+>> Okay. It's It's change the colors of the
+>> of the top of your gun.
+>> Yeah. Okay.
+>> That's a cannon.
+>> Cannon. Cannon.
+I need
+Okay. Okay. That's getting uh That's
+getting crazy.
+I should have had music. [ __ ]
+Oh, I don't like the cannon to Okay.
+Health buff, rifle, SMG.
+And see, like the damage is less.
+>> Yeah. Yeah,
+>> but it's faster. No, it's lit, bro.
+Can we do that? Could we have done that
+before? I have never tried it, but
+I know that game studios doing this
+setup, it takes them a few days to do it
+properly.
+>> I think.
+>> Yeah.
+>> Like with 3GS?
+>> No, without AI.
+>> Oh, yeah. No, I mean like Yeah, it it's
+not uh it's not uh clear obscure
+neither, right? Like,
+>> okay, let's see how good the end is.
+>> The boss. The boss. the boss.
+>> Not the shotgun. That's too far away.
+>> Yeah. Yeah. Yeah. Yeah. And it's managed
+by that.
+He has a
+>> Oh, he has the shield
+>> cannon. Oh, the cannon is lit.
+>> More. Oh my god, that's lit. Okay, but
+Oh, okay. So, the shield is if I'm too
+close.
+>> Yeah, the shield kicks in.
+>> I'm gonna die. I'm gonna die.
+Almost. Almost.
+Okay, I can use that. Wait, I got it.
+Yes,
+>> that was cool.
+>> That's
+amazing. I had fun, bro.
+>> I would say that was a successful test.
+>> Yes, that was lit. Okay. 4 uh 4.8. Yeah,
+4.8 is lit. Yes, we like it.
+Um,
+>> nice.
+>> So, the question is, are you going to
+create full-time Minecraft games?
+>> I don't have time, man. I don't have
+time.
+>> But it could be a a real option.
+>> Yeah. Like
+because Yeah. If like a game is way
+harder, games are games development is
+way harder than any uh web pure web
+stuff, right? But uh how can that act
+into
+like for example I have a github spec a
+github issue spec can I use ultra mode
+to just oneshot it?
+>> I don't know but we can try this week
+and let's
+>> I'm gonna definitely do that
+>> and I'm actually hoping that uh because
+normally uh openai does an update a few
+days after an comes. So, I'm actually
+hoping that in the next week we get the
+new 5.6.
+>> Yes. And and I I hope it will not be
+more expensive.
+>> No.
+>> But even if it's more expensive, that
+that's great for entropic.
+>> Yeah. But I don't want to uh more of my
+subscription
+>> and and and go like unemployed after two
+days.
+>> Nope.
+So it's like working two days and having
+28 days vacation.
+>> Exactly. So that's a problem. But uh I'm
+I'm amazed by this FPS game stuff. It's
+a good benchmark.
+>> Yeah.
+>> Great.
+>> Interesting. Okay, cool. Mitch, thank
+you so much for your time.
+>> Yeah, thank you for using your tokens
+for us.
+>> Yes, my pleasure.
+Um I will post this uh the code um
+to to the GitHub like the YouTube
+channel uh repository.
+>> Yeah, push the game as well so people
+can modify it.
+>> We could we could even like add more uh
+oh we could work with it with codeex
+>> and add multiplayers and stuff like
+that. If we can use room and then a
+score scoreboard blah blah blah that
+would be sick.
+>> That would be sick. Yeah.
+>> Oh, okay. Okay. Okay. Uh let's talk
+about it. Let's talk about it.
+>> Yes.
+>> Thank you so much for your time,
+everyone. Uh thank you for watching the
+video. Like, subscribe, and we will see
+you next week.
+>> Have a nice evening and nice day.
+>> Bye.
+>> Bye-bye.

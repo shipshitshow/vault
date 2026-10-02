@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:01,760
+ - What are you going to build?
+
+2
+00:00:01,760 --> 00:00:03,320
+ - Everything.
+
+3
+00:00:03,320 --> 00:00:06,760
+ Before you had to plan because building a proper software
+
+4
+00:00:06,760 --> 00:00:09,080
+ tool would take you at least a year to do it properly.
+
+5
+00:00:09,080 --> 00:00:10,040
+ Tales and everything.
+
+6
+00:00:10,040 --> 00:00:11,760
+ And now you just choose a niche.
+
+7
+00:00:11,760 --> 00:00:15,120
+ You build it within two, three days and you start selling.
+

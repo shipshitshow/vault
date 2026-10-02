@@ -1,0 +1,12 @@
+{
+  "youtube_id": "49IkgeGr1kE",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "7cf9812d3b7ee37e16b835552b3621a0da200891082ec968a5a7c07e1654f2f0",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-04-video-opus-4-8-we-built-a-browser-fps-in-45-minutes-with-one-prompt.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

@@ -1,0 +1,1738 @@
+And we are live. Welcome back on the
+Chip Chip Chop. Hello, hello. Yeah, hi.
+What's up, mate? Good show.
+How are we doing this week? We are doing
+well.
+My limits on Codex have been reset last
+night. So, now I'm ready to code.
+You're ready to go again. Yeah, exactly.
+Just
+Are you just looking at the screen like
+this from
+waiting for the reset? Yeah, I know.
+Basically, yeah. Like I have like Codex
+bar like refresh, refresh, refresh.
+>> [laughter]
+>> That was
+I They don't do like a reset like
+midweek. It's weird.
+Well, the question is if you reset the
+the time on your PC, does it help on the
+reset? No. No.
+It was nice to try. You can change the
+clock, but no, it's it's from the server
+side, bro.
+>> [laughter]
+>> Yeah. No,
+I I just hope sometimes they [ __ ] up
+like something for Anthropic. Like I
+hope they [ __ ] up something cuz
+we had a bug. We reset. Yeah, and
+otherwise if you're at zero, just start
+complaining and asking people, "Hey, we
+have this issue, too?"
+Yeah, why why what is saying like my
+limits has been reached? Like what the
+[ __ ] is that? Yeah. Are yours? Yes, yes,
+mine as well. Maybe it's a bug.
+I'll I'll buy a new account.
+Yeah. You're still on your one account
+like
+Alex? Yeah, yeah, for Anthropic, yes.
+But on Codex, I'm working on two
+accounts.
+Mhm.
+It's like my my MacBook Pro and my Mac
+mini both have a different account.
+Okay. So, they even made me make a
+mistake.
+I was like status and then I was seeing
+like you only have 15% left and I
+changed my working space, so I went to
+the Mac mini
+and it didn't pay attention. I was like,
+"I'm back at 50. How is it possible?"
+But, no.
+>> [laughter]
+>> Uh and so you Yeah, you're using like a
+open core on the Mac mini still?
+Uh no. I miss? Did you switch?
+I I just built my own.
+Okay, sorry.
+>> [laughter]
+>> Yeah.
+Put a different factor database behind
+it for data storing, API connections for
+pulling data and then Discord bot logic
+in it, Python scripts and let it run.
+Yeah, something that works. Yeah, yeah,
+and I don't need to update it all the
+time. Yeah.
+And I still
+if you see all the the NPM hacks
+and all the GitHub issues, well
+you don't know what open core is using.
+And every time that you ask it something
+says I need to install these
+dependencies, so Yeah, no, no, it's
+Yeah, it's not Okay, so Theo talked
+about he retweeted. Yes. Yeah, are we
+already switching subject? Then we can
+move on to the
+I mean, you mentioned it, right?
+Yeah, but
+I would like to know what I have
+installed and update when I want to
+update.
+I mean,
+I think with AI there is a meta when you
+rewrite your NPM packages.
+Uh because that stuff is and TanStack is
+used a lot by a lot of people, so
+yeah, if you are
+yeah, using like TanStack 84 8 84
+TanStack NPM package will compromise and
+it was ongoing. Mini Sha Hulu
+>> [laughter]
+>> supply chain attack heading suspected CI
+credential stealing malware. Let's go.
+Yeah, but this is the this is the short
+one. Did you see that they were
+explaining that if you revoke the GitHub
+key
+that it's stealing, that it will just
+wipe your entire PC?
+What the [ __ ] I I've I'm really sure I
+read it on one of the
+Uh let me search for it.
+Cuz I'm following all the uh the
+It's
+The International Cyber Digest has
+posted it. I'm really sure. Okay, you
+can share You can share it.
+Yes. Oh, let me give you the URL for the
+account.
+It's
+in the DM.
+International Cyber Digest. I'm Google
+now threat pricing.
+Fine. Dan Stack and PM Tech is now a
+full campaign
+as it open source Mistral AI. Let's go,
+friends.
+Well, [laughter] well, AI
+UI path quiet package.
+I don't know any of them. Like I It's
+open source, yeah. If you scroll down,
+they say a new NPM supply chain attack
+uses a dead man switch.
+It is
+>> plan to watch on your machine that nukes
+your home directory the second you
+revoke the GitHub token.
+Geez.
+But if you scroll down, is it this one
+where they even say that they do it
+based on country and IP?
+Uh make sure that I don't pull two ways.
+12 million weekly. They fork Dan Stack
+3.0 and push a single hide and commit
+from there. They tricked Dan Stack home
+release system into signing the
+malicious package as they were
+the real thing to NPM and to anyone
+checking the cryptographic proof of
+origin.
+Yeah, this is a big issue.
+The poison version look 100% legitimate.
+Maintainer Tanner and Slate confirmed
+the whole team at 2FA enabled. It didn't
+matter. This is the first documented NPM
+worm in history that shipped with a
+valid signed certificate at
+Jesus [ __ ] Christ. So, even if you do
+everything perfectly, you have the
+proper setup, you check everything, this
+looks legit, and then you are infected.
+Wait, what does that look like? Push the
+single hidden commit. Okay, so the
+compromise happened
+10 stack The attacker fork
+repo and push a single hidden commit.
+How do you do that? Yeah, they
+they forked
+the GitHub repository. They make a
+change and they ask to merge it into the
+original one. Inside the the merge is a
+hidden commit that has the code in it.
+But what does that mean hidden commit? I
+don't know what a hidden commit is, but
+I don't even know how to do it, but I
+think they managed to trick the the
+developers into merging something into
+the repository
+what was not supposed to go in.
+Uh and a hidden commit in Git is
+unlinked often or unreferenced snapshot
+of code.
+What the heck? Oh, okay. So, you try to
+put it somewhere and don't say it's
+there.
+Is it happen only can you delete or
+override
+by doing a rebase is often kept in a
+local Yeah, okay. Or in a local
+mechanism like stash until they are
+cleaned up
+or garbage collected.
+Uh
+stash code, okay.
+Rebased, deleted Jesus. It So, it's part
+of like the Git protocol to allow to do
+that.
+Yeah, but probably for a different
+reason.
+Yeah.
+>> Yeah.
+I remember we wanted to rebuild the
+GitHub. Maybe we not do that.
+No, but then I'm curious how many people
+have this repository installed, the
+TanStack. Well,
+like Yeah, but are not aware that they
+are using it.
+I think everybody who is using AI now is
+saying, "Hey, build me this." And just
+accepts everything and doesn't check the
+code. They are not even aware that they
+are using it. Yeah.
+And they are infected. But it's because
+like, you know,
+the AI will recommend what everyone is
+using.
+So, then like everyone is using like
+TanStack router for React, blah, blah,
+blah. The same way we everyone is using
+Vercel to deploy or uh
+Next.js or etc., etc.
+Um so, and TanStack has an issue with
+NPM because uh Theo talked about it.
+Like the one guy uh also um squat one of
+his uh the name of the repository. So,
+there is some issues already in that.
+And because of AI that probably like uh
+it's an exponential issue
+that just keep growing because it like
+it was not fixed, basically.
+Yeah, so
+Uh no, it's not. But to go back to the
+first
+uh story again, this is why I was
+building my own uh sort of open core. I
+want to know what's in it. I want to
+know when I update, and I want to be
+able to check it.
+Yeah. Yeah, but then that means you're
+not going to use NPM packages anymore?
+Yeah, I am, but I wait like a full week
+uh before getting the the latest
+version.
+And I don't update to every new version.
+I'm upgrading every day.
+I'm not.
+Oh, yeah. Okay, so yeah.
+Mhm.
+Because okay, so yeah. Mhm. Because I I
+I pinned all of the versions. Mhm. But I
+uh
+I have a script that upgrade to the last
+anyway, but I know which version I'm
+using because I don't have like the
+tilde or like the up, right? Yeah. Um I
+have the version.
+But every day I just upgrade all of the
+package with the script. Yeah, but do
+you also check in the script to see when
+it was released and just wait 5 days for
+a stable version? That would fix stuff
+like this. No.
+Just add it. Okay. Check the release
+date minus 5 days. If that is today or
+earlier, update it. Yeah, that makes
+sense. But I check like the list of like
+uh
+packages that were being affected then I
+don't I never used any of those. Yeah,
+but if you are in the window of the
+first 5 minutes Yeah. And the chance is
+really small, but if you're in it, it is
+so much work to reset every code, revoke
+every API key.
+>> Yeah, I know. For sure. All right, okay.
+So, please be careful when you're
+working token. It looks like the payload
+installed dead man switch at local being
+GitHub token monitor as a system day
+user. Jesus Christ.
+Linux launch agent
+and Mac OS, okay. It pulled API GitHub
+token. Basically, if you have a
+Windows computer, you say
+>> [laughter]
+>> It pulled API GitHub user with a stolen
+token every 60 seconds and if the token
+is revoked it run RM. Jesus. RM RF.
+Yeah, [laughter]
+that's like bye-bye.
+I also have a better assistant
+mechanism. I have I haven't studied this
+closely.
+Yeah, [snorts] imagine that. Slash goal,
+fix this for me and update to the latest
+version. Going to bed, coming back in
+the morning and seeing the hello welcome
+screen on your on your workplace.
+For you set up.
+>> [laughter]
+>> I mean, you have a fresh computer. Yeah.
+It's just crazy.
+Uh
+the whole thing
+actually happened. Attacker opened a
+normal-looking pull request
+on the TanStack repo. GitHub
+automatically runs CI on that PR. Code
+inside the PR stole the
+stole the workflow GitHub action cache
+right token during the test run. The
+attacker used that token to plant poison
+file in the shared build cache. The PR
+could be closed afterwards. The poison
+cache stays.
+The official release Wait, did they even
+merge it?
+Yeah, I don't know.
+Holy [ __ ] it it poisoned GitHub cache.
+Yeah. On the GitHub
+So, here comes the question. How good
+are the GitHub devs? I wish I thought
+last week they are not.
+To even
+be so smart to prevent this up front.
+Because people who know how to do this
+Yeah.
+>> Those are the smart devs. If Yeah, if
+you have like a good understanding of
+the cache of the system that where the
+all of those
+projects runs, then you can get to that
+point, right? Yeah. So,
+>> Okay. So, you
+you open a pull request, you're not even
+merging it, it run the test, it poisoned
+the cache of the image, and the cache of
+the image is also used to other uh
+pull request, and then because the cache
+is poisoned, then you merge
+a good pull request from your team, and
+then it it loaded the cache, so boom,
+you are infected. Yeah.
+And this is just big one, but imagine
+doing this specifically on certain
+projects to hack a certain developer who
+you know that has other projects on his
+PC. I would have like you're doing a
+crypto project then you have that kind
+of attack on the open source crypto
+project and then you can infect every
+Yeah, you can just scrape every wallet.
+What the [ __ ]
+The official release workflow later
+pulled from the cache back the malicious
+file into the build and sign and publish
+24 malicious package version to NPM.
+>> [laughter]
+>> Fingers.
+Yeah, the attack leverage GitHub cache
+poisoning. What the [ __ ]
+Committers started the the chain was
+forged under the identity code.
+Impersonating Entropic code.
+Full text like postmortem out and
+attacker used chain known
+You used chain known vulnerabilities.
+Wait, it was known? Yeah.
+I'm not that into vulnerabilities, I
+think.
+But I see people being creative.
+And sometimes I need to read it twice to
+understand it.
+Yeah.
+Yeah, it makes sense, right? Like the
+cache poisoning. That's that's that's
+pretty clever though.
+Uh
+and runtime memory extraction of
+OIDC token from the GitHub action. No
+NPM token was stolen and the
+You don't need them. You don't need the
+NPM token. You can just use the cache.
+Yeah. But
+are these the kind of issues that they
+were talking about with
+uh what was it? The latest cloud for
+anti-hacking? Yeah, Mythos. Yeah. So, is
+it so smart that it just does this
+constantly?
+I mean, yeah, you can imagine that
+because of that attack has been done
+once and it have a need for GitHub to
+fix that cache and basically disable the
+cash or like reset the cash. I don't
+know.
+I don't know how you reset the cash
+between two pull requests because then
+you don't have cash anymore.
+>> [laughter]
+>> Um
+Yeah.
+So
+Yeah, I mean I mean maybe someone has
+access to meet us and find that
+vulnerability. Well, there were people
+who had access, right? Because they
+guessed the
+>> [laughter]
+>> the URL.
+The malicious version
+was detected publicly within 20 minutes
+by an external researcher working on
+step security. All affected version were
+have been deprecated. NPM security has
+been engaged to pull tarballs from the
+registry. We have no evidence of NPM
+credential being stolen, but we strongly
+recommend that anyone who has installed
+an affected version of
+rotate AWS-QCP
+Yeah, people don't even know that they
+have. Yeah.
+Impact 42 packages, 84 versions.
+Super package previously released 6
+minutes apart.
+Query, table, form. Yeah, okay.
+The meta package not found. Okay. Uh oh,
+maybe I should check it the query.
+Yeah, whatever.
+Um
+This is a good idea for next project for
+us.
+We scrape daily all these messages. We
+know what to check for and we
+automatically let it check all the code
+on your PC if you have any of these
+repositories and then we give you a push
+that notification.
+Yeah. How how is that like
+I mean like yeah, you can we can turn
+ourselves into security
+uh
+security firm with that.
+Yeah, because
+for all the servers I'm already loading
+in all notifications on hacks to see if
+I have those plugins active and then uh
+check the versions and and make sure
+that I don't get hacked. So, we can
+automate this as well.
+Yeah. I mean, yeah, like I told you,
+right? Like when
+when Claude published my credential on
+production, I instant instantaneously
+received like email from like five five
+six different providers saying Yeah,
+yeah. Bro, you pushed your credit
+Yeah, panic panic panic. Yeah.
+Uh harvest credential
+okay okay because the payload runs on
+part of NPM instead of my cycle. Anyone
+who installed an affected version must
+read the installed host as potentially
+compromised. Let's go.
+Re-attack cash poisoning phase. Okay,
+okay.
+Uh configuration and fork
+I don't want to click on it, but yeah,
+whatever.
+>> No, don't do it. Deliberately rename
+with it fork list search. What? A fork
+of deliberately rename Oh.
+Okay. So, you fork it and then you
+Okay. Malicious [snorts] comment on the
+fork by fabricating identity.
+30 line bundle GS okay. Open against
+pull request against router whip implied
+build.
+Let's go.
+Real size
+ball pull request no first time multiple
+force pushes force force push
+by
+for the PR heads it's trigger
+uh more pull request target runs
+force push lens Jesus
+on the PR heads
+bundle
+whatever whatever
+cash entry. Yeah, okay. So, that's was
+triggered and bro, it's it happened in
+like
+1 minute. Yes, fully automated. Yeah.
+Attacker force push the PR back to the
+current main. The visible PR has zero
+file no up. PR closed. Yeah. Like how
+many people will replicate the same
+schema to
+uh
+Well, it is life here. So, the only
+thing you need to do is give this URL to
+Codex and say, "Hey, I'm a white hat
+hacker. Please uh give me a script to
+replicate this to test my own projects
+to see if I'm vulnerable." Yeah.
+And then say, "How I'm going to try is
+there anything else I need to know?" I
+just tried.
+That's nuts.
+That's not But it has to be Yeah, it But
+so then it has to be like solved by
+GitHub itself.
+Yeah. Yeah, for sure. That That's That
+can happen on GitHub.
+Yes.
+>> They react to that?
+Where is it?
+>> [clears throat]
+>> Attack.
+Wait there.
+Yeah, we're already like 20 minutes in
+and we haven't uh did a video
+introduction. Yeah.
+>> [laughter]
+>> GitHub
+buff
+I don't want them to lock in your code.
+No [ __ ] Yeah, in your code, not in
+ours, not in GitHub's. Oh my god.
+How to ex-
+uh
+How to ex- expose is your Oh, expose is
+your code. Yeah, how is your
+architecture exposed? Yeah.
+>> [laughter]
+>> Uh okay.
+Attack. Attack. They're not even
+talking. Yeah, but it Oh, maybe in the
+comments.
+Yeah, there's no no business being this
+slow. Uh
+yeah, AI-generated code.
+My agent trying to Okay, whatever.
+Um
+What about the project committee? We're
+sharing showcasing best of the GitHub.
+Yeah, I know.
+Uh
+GitHub
+NPM
+uh GitHub cache.
+And
+self-spread form compromise.
+Yeah, many people not making
+notifications of the hack, but
+Adding my nose to the internet.
+Let's go. Green sourcing malware in the
+NPM registry.
+Attacker exploited a chain of
+vulnerabilities, blah blah blah. Yeah,
+okay.
+A novel NPM supply chain attack
+generated signed package of 10 stack of
+correction of open source library for
+web development.
+The attack combined the GitHub pull
+request target vulnerability, GitHub
+action cache poisoning, and runtime
+memory extraction.
+It has to be solved by GitHub. Yeah, we
+can fix it. Like
+What the [ __ ]
+GitHub action misconfig- misconfigured
+pull request target workflow gave
+outside code access to the repo secrets.
+Exploit GitHub workflow cache poisoning
+which has as far as I know been an issue
+for a while. This is not Yeah, but then
+also then just a question. Did GitHub
+also post somewhere that they are firing
+all the devs and have everybody in the
+company make pull requests
+with AI?
+Yeah, they're they're firing the sales,
+but but the
+they need to
+They need to
+fix that. That can't happen. Uh like,
+should we leave GitHub because it's open
+to vulnerabilities?
+Yeah, we just leave it because we also
+have positive news.
+What?
+Yeah, we also have positive news, right?
+Cloud code is now so smart it doesn't
+use MD, but it sets it up as HTML files.
+Yeah, that's the title of the last
+stream, but uh
+>> [laughter]
+>> Maybe I should we should do like a
+generic
+uh
+a generic live stream next time. Yeah.
+We can talk about whatever the [ __ ] we
+want. But that that's kind of
+interesting, right?
+Uh yeah, before you put the blame on
+TanStack, they were attacked with Venom
+Chain GitHub infra and literally any
+other package could be a victim here.
+It's They were not using action
+correctly. It's an absolute food gun.
+So, it's a number of both GitHub and
+TanStack have the ability to say that
+every any other package is incorrect.
+Okay, I don't know enough like to know
+if it's true or not, but uh Yeah, I
+don't know how it was set up. Yeah.
+Uh after GitHub Copilot,
+I've shifted to Cloud AI Pro. Yeah.
+Okay.
+Okay, yeah.
+It's interesting.
+GitHub hack
+I think it compromised on eating for the
+act work, but when you try to mitigate
+it, the dead man switch happens.
+The hack exploited GitHub workflow
+functionality, which
+uh okay.
+I got in action or not related to the
+NPM ecosystem.
+Le- uh light LLM hack was also related
+to pull request target.
+Okay.
+Pull request target
+I need to check if I used use it.
+Uh
+check hack
+of of I will check that. Okay.
+Uh yeah, that's interesting.
+Uh yeah, do we Do we have anything to
+say? Well, yeah. You better not update
+if you are using it. Just wait for it to
+be stable.
+Yeah,
+so do you update like to
+uh
+Um Oh yeah, how do you update your
+packages then?
+I do it once every X weeks manually.
+Okay. So I Yeah, not fully manually. I
+don't go through the file and just
+update everything, but I check just to
+make sure that I don't use the last
+versions. And because a lot of um
+>> [clears throat]
+>> the projects have many people working on
+it, I don't just update and hope that
+everything keeps working. So I need to
+test it anyway.
+Yeah. Yeah, oh yeah, yeah, because
+you're working with like people and
+other devs, then you don't need to
+upgrade it yourself. You don't take this
+responsibility anyway. No, but also I
+can just update and deploy because if it
+gives an issue or it has an update that
+that deletes functions or has deep the
+duplicated issues,
+then the entire system stops on certain
+points and I can't have that. So
+every update we need to test.
+Yeah, makes sense. And AI can do that
+probably.
+No, no, no, yeah, it's going to Oh yeah,
+I'm done. Yeah, but you missed half of
+the code base. No, no, but I'm done. No,
+no,
+you missed You missed half the code
+base. Oh yeah, you're right. Yeah,
+you're right. Let me retry it. Uh
+let me try again.
+Uh okay. So
+Okay.
+So should we plan some stuff with HTML
+now? Yes, let's see what you can do.
+Okay. So
+uh puff puff.
+Back. I'm going to close that. I'm going
+to close that. Puff puff puff. Okay. Oh.
+Uh okay.
+Uh we're going to do the introduction at
+marker 26. Yes.
+Okay. So
+uh
+Here are the
+It's correct. It's It's guarded.
+Um okay.
+Are you still planning with MD files?
+Maybe that's not the better output
+that you can have.
+And what about HTML files? That's what
+Tarik from Entropic
+wrote about last week.
+Uh is planning everything with HTMLs
+because it's prettier than MD the files.
+You can actually like draw some charts
+and stuff to have better plans.
+And we are going to
+um
+build a demo. Yeah, do demo, right?
+Yeah. We are going to uh demo that
+workflow uh for you. So, uh if you are
+intrigued, watch the video.
+Woo!
+>> Yes.
+We are going to make the the files shiny
+and fancy. Yeah.
+That's for sure. Okay. So, yeah. Yeah,
+did you ever try it before the live
+stream or like this week or I wanted to
+try it, but you know, I said create a
+documentation and just did MD by
+default.
+Okay. And then I asked for HTML and HTML
+was just like still the MD,
+but only uh like H1 tag in front of it
+instead of one hashtag. Oh, yeah. Yeah.
+Yeah, because yeah, Markdown can also
+read the MD file uh HTML file. So, yeah.
+Yeah. So, it didn't do what I wanted to
+do.
+Uh but let's try again again together
+then.
+Yes. Uh so, uh HTML is the new Markdown.
+I've stopped writing Markdown file for
+almost everything and switched to using
+Cloud Code to generate HTML for me. This
+is why.
+4 million tweet on an article like yeah,
+it's it's not.
+Uh the article is like 11 million
+impression and then like the retweet of
+the article is like 4 million.
+Not.
+Uh
+Markdown has become the dominant file
+format used by agent to communicate with
+us. It's simple, portable, and has some
+rich text capability, and it's easy for
+you to edit that.
+Claude has even gotten surprisingly good
+at using ASCII to make diagram inside
+markdown files.
+But, as agents have become more and more
+powerful, I have felt that markdown has
+become a restricted format. I find it
+difficult to read a markdown file of
+more than 100 of lines.
+Um
+Uh I want richer visualization, color,
+and diagram, and I want to be able to
+share them easily. So, basically, you
+get your you get your plan, you get the
+output of the plan, it's a HTML file. We
+can you I guess you can compare You can
+even like have different uh output of
+the plan or
+exactly what you are doing, right? Like
+when you have three version of the
+output, you can visualize uh
+whatever you are doing directly into the
+plan. That I can see that powerful. For
+example, if you want to redesign a
+component,
+you can have three different version in
+a preview HTML, right? Yes.
+That would be cool.
+Um
+I'm also increasingly not editing this
+file myself. I Bro, I never edited a
+markdown file Yeah. He has to write a
+blog, right?
+>> [snorts]
+>> Uh when I do make edits, I usually
+prompt in Claude to edit them. Yes,
+okay. Which remove one of the markdown
+largest benefits. Uh Okay.
+Uh I started prefer HTML as a output
+format instead of markdown and
+increasingly see the uh being used by
+other other Claude code teams, which is
+why
+uh stuff from example and here. Boom.
+So,
+here
+the unreasonable effectiveness of
+effectiveness of HTML.
+Uh 20 self-contained HTML files an agent
+produced instead of a wall of markdown.
+Okay.
+So, three code approach Yeah, exactly.
+So, that's
+I can see why it's powerful.
+Yeah, you have more more options, more
+possibilities.
+Like that that makes sense. Like yeah, I
+have some
+I have some different different way of
+coding it and then I can read it more
+easily. That that's cool. Visual
+direction, yeah, no task.
+Yeah, that's cool. Illustration
+illustration all. Okay, so you have
+empty state of
+uh
+of the plan, timeline. Yeah, that's
+cool.
+Okay, so yeah, that's not that's lit.
+Open question, do we allow editing or
+delete and repost? Okay.
+Code review.
+Annotate pull request.
+Uh
+PR write-up. Yeah, okay, that's cool.
+Okay, okay, okay. That's that's pretty
+cool.
+Uh module map, design.
+Yeah, that's lit. Like for design front
+end and stuff, that's that's
+interesting. And that's the plan, right?
+This file is supposed to be the plan at
+the output plan that we we will have,
+right? Yeah, but this is more like a
+brand book.
+Yeah, but that's also a plan. You can
+choose and change like the colors and
+stuff like that. And
+later in the article, you can even like
+have Google to change the plan directly.
+Like interactively. But that's almost
+like a front end
+uh
+app. Like Cloud Pods
+UI could actually do that inside the
+chat conversation.
+Yeah.
+Like they they could use markdown to
+generate a good UI for it. But this is a
+good example, but just for planning and
+communication inside with your agent,
+I don't see any benefits. Like it's
+agent to human, not agent to agent,
+right? Yeah, or human to agent. Yeah.
+Uh
+I mean, you meant to agent? No, you you
+still like
+prompting.
+Yeah, you're still prompting, but
+if you set up the entire document, you
+just throw it into another agent and say
+build this.
+Mhm. Uh
+And I prefer MD files.
+But maybe HTML gives better results. I
+don't know. Oh, yeah, because okay, so
+yeah, I I I don't know if you explain
+that in the article, but yeah, like
+because there is more text to it, right?
+So, is it scrapping all of the tags
+to send it as a context?
+Exactly. I like how clean the MD files
+are. Yeah.
+Uh, animated illustration. Okay, so
+that's basically okay, you plan
+something and then you have an
+illustration of what it can be uh
+after. So, fair enough.
+Uh, touch but while HTML information
+density, okay, okay. Popular data. Okay,
+so it's visually yeah, okay.
+That's
+uh yeah.
+That's is Wait. Bam. That's
+No. That
+That is better than that. Yes. Thank
+you.
+>> Yes. Yes.
+Uh, visual clarity and ease of reading,
+okay, blah blah blah. Ease of sharing.
+Uh
+are fairly hard to share since most
+browser do not render the natively, you
+often add them as attachment to email or
+messages. Yeah, well, why are you
+sending MD files to people who don't
+know how to code? That's stupid. Yeah, I
+haven't but yeah, maybe they work with
+with a team and they share plans.
+Yeah.
+Well, I have a shared folder, right? You
+don't attach it to an email, but
+Yeah. You just convert it to a PDF.
+The MD file and share that PDF to your
+customers. You can add default styling
+and you have the same setup as the HTML.
+Uh yeah, with HTML it's like a job load.
+For example, in A3 you can share the
+link easily. Yeah, okay.
+>> [snorts]
+>> Uh yeah, okay. So, to share that to
+share the plan, he send he upload it to
+A3, share the link. Yeah, okay. The
+chance of someone actually reading your
+spec report or PR write-up is much
+much higher if it's actually I mean, on
+GitHub, if you could have like a HTML
+preview,
+uh that would be lit.
+And that's perfect. Because GitHub can
+only read MD files right now.
+>> Yeah. Yeah, it seems you're right now
+and maybe that's not going to be the
+highest priority for this week. Well, I
+think it's also security issues, right?
+Uh HTML it's like an email.
+If you don't authorize JavaScript, then
+it's fine. Yeah, yeah, then it's fine.
+But if you do, then that's not good.
+>> Yeah, it's just a presentation
+presentation layer, right?
+Uh two-way interaction, yes, okay.
+apply Yeah, so yeah, you can have those
+interaction toggle and then it will
+update your plan. That's kind of cool.
+Like it's an interactive plan.
+Uh pass the result back to the agent. Uh
+HTML can allow you to interact with the
+document, for example, blah blah blah.
+Okay.
+Data ingestion, why use CloudCode to
+make HTML5 instead of CloudAI or Cloud
+design, for example.
+One of the biggest reasons is
+all the context CloudCode can ingest.
+Oh, so you increase the size of the
+context because you want to send HTML,
+really?
+Really? They earn more money if they do.
+Yeah.
+Oh, isn't it a
+Because you're spending more tokens.
+Yeah.
+And
+I'm really curious if we can test for an
+um
+asking the AI agent to do it in the in a
+MD file and a HTML file, make it as
+optimized as possible, and then give him
+both files and ask him which one he
+prefers, which one is most optimized and
+what what is the most cheapest to
+process.
+We're going to try that right after.
+Yes.
+Um be file beside the file system cloud
+code
+additional context um
+Okay. It's joyful. Okay. Yes. Okay.
+Yeah. Woo.
+Yeah, you're just going to pay like 250
+instead of 200 a month. He should have
+started with this one. Yeah.
+But to get started, I'm a little bit
+afraid that people will read the article
+and turn it into HTML skills or
+something.
+What there might be some value in that.
+I want to emphasize I don't need to do
+much to get close to do this. You can
+just ask make an HTML file make the HTML
+artifact. Okay. So, that's it. Yes.
+>> Uh the trick is knowing that you want
+the artifact to do and how you might use
+it. Okay.
+To make this more concrete, I've made
+many different HTML files. So, yeah,
+that's the effective method. That's the
+document we just read.
+>> Yeah. Specs planning exploration HTML is
+a rich canvas for Claude to dive into a
+problem.
+Yeah, okay. Yeah, and you can select the
+the option and that's it. Uh prompt, I'm
+sure what direction to take on
+onboarding screen. Generate six dis-
+distinctly different approaches, vary
+layout tone and density, and lay down
+into a single HTML file. Okay, so you
+you ask for the output to be HTML.
+Uh exploring other way to implement
+something in code code review
+What?
+Markdown file
+What?
+But with HTML we can render diff
+annotation.
+That feels complicated. Yeah, it just
+makes a makes a
+a better overview of what code is used
+and how much tokens is used and
+everything.
+Help me review this PR by creating a
+HTML artifact that described it. Okay.
+Yeah, you just get a dashboard. Yeah.
+>> [snorts]
+>> Uh blah block
+uh create PR with your PR understand
+topic in code design and prototype.
+Okay, design I understand design that
+makes sense.
+Uh report research learning. Okay, your
+rate limit works.
+Uh product for school that's lit. Yes.
+Like yeah.
+That that that will kill teachers.
+Uh
+example prompt I don't understand how
+rate limit actually works with the
+relevant code and produce a single HTML
+explainer page blah blah blah. Okay,
+cool.
+Custom editing interface. Yeah, so I I
+did that once. Um
+I wanted to explore like some design for
+component and I asked [clears throat] it
+like five different version of it and I
+had a preview and then implement like a
+version three and that's cool. Like
+that's actually cool.
+Uh
+I need to re-prioritize like selling in
+a ticket whatever blah blah blah.
+Frequently asked question everything.
+Okay, is it less token efficient? While
+Markdown often use fewer token I found
+that the added expressiveness of HTML
+and the much
+higher likelihood of me reading it means
+I get overall better output. Okay. With
+the 1 million context window in Opus 4.7
+the increased token usage is not really
+noticeable. Yeah, because the rest of
+the of the model is too expensive that
+if it's
+you don't see it.
+>> but still this is a stupid answer. Yeah.
+Isn't it less token efficient? Yes or
+no? And then you get a full [ __ ]
+answer, but he doesn't answer it. Yeah,
+he says it doesn't matter. That's that's
+the answer. He answered to say yeah,
+it's more expensive. Yeah.
+>> [clears throat]
+>> Uh when do you do this when do you use
+markdown file now? I've honestly stopped
+using markdown. Okay.
+Uh, who have you the
+HTML files I tend to just open it in a
+browser locally upload it to S3 if you
+want to share a link. Yeah, because
+that's the issue, eh? If you send it to
+a customer who is not an IT guy, he
+doesn't know how to open HTML. Yeah, but
+is your customer is going to
+check all of your plan? No, but he is
+making reports and everything in HTML.
+I prefer sending them a PDF.
+Yeah.
+Maybe I don't know how good Claude is.
+If you say convert this to an PDF.
+Mhm.
+Wait, how do you generate your PDF then?
+Yeah, first you make your HTML.
+And then you just optimize it and then
+I've written a script that just converts
+it to PDF, but you can also ask Claude
+to convert it to PDF. Mhm.
+Yeah, like you have a little Yeah, HTML
+to PDF libraries things. Yeah, I do. And
+I prefer the the MD to PDF because you
+can add every styling that you want.
+Mhm.
+Okay.
+Uh, but
+markdown is basically a simplified
+version of HTML anyway. Yeah. So, there
+is that. Uh, what about version control?
+One of the biggest downside of HTML is
+noisy and hard to review compared to
+markdown. Okay.
+How do I get a Claude to match my test
+not making it ugly from 10 designs code?
+Okay.
+You can then use that design file as a
+reference for the staying loop blah blah
+blah.
+Uh, cool. Okay, so we have that.
+Uh, thanks. That's fine.
+That's all stuff. Okay, so Kapathy
+replied to it. Uh, this works really
+well by the way. At the end of your
+query ask your LLM to structure your
+response as HTML. Then use the generated
+file in your browser. Uh-huh.
+Uh
+in my opinion, audio is the human
+preferred input to AI.
+Whisper flow is
+lit. Lit. Uh but vision, image,
+animation, video is the preferred output
+for them. Around a third of our brain
+are massively parallel processors
+dedicated to vision, okay?
+Uh I think we'll see a progression that
+takes advantage of raw text, markdown,
+HTML, interactive neural video
+simulation. Lol.
+Uh the extrapolation though the
+technology doesn't exist just yet and in
+some kind of interactive video generated
+directly. Yeah, okay.
+Uh telling you that the input output
+mind meld between human and AI is going
+is ongoing and there is a lot of work to
+do and significant progress to be made.
+Maybe for all of the way to learning
+SQL. Okay, whatever.
+For what is worth exploring at the
+current stage, hot tip, try ask for
+HTML. Okay, we're going to try that now.
+Uh move from markdown and give it AI
+which I can
+and uh Matt Pocock like a big guy like
+sharing a [ __ ] ton of AI content.
+Try that too. So, yeah, should we Yeah,
+let's try it.
+Cuz all the big IT guys who are really
+smart are now getting so many views and
+impressions with just the notification
+of ask for HTML. Yeah. So, uh let's do
+exactly the same [ __ ] Yes. [laughter]
+Uh so, you want to do it?
+What? Do you have it open?
+Uh I have a new project with nothing and
+T3 code ready, but uh that's it. You can
+>> Yeah, let's do it. I have nothing open.
+I closed everything when you said I have
+it ready. Oh.
+Okay.
+>> [laughter]
+>> Uh so, I'm going to do that to that T3
+cards. T3 cards. Um
+So, this is T3 cards. T3 card we have to
+just record.
+Theo
+Shout out.
+Thank you. Thank you. Thank you, Theo.
+Okay, so bam, bam,
+oh [ __ ]
+Like
+Can I
+resize correctly? Okay, so
+uh above chat, I'm already in it.
+Uh okay, so
+Uh is that going to work?
+>> going to type? Are you Do you have
+Whisper also active? I have Whisper on
+this computer. Cool.
+Um
+So
+What we are going to
+do an app
+to check if the
+the repository is using the TanStack
+that has been compromised. Yes.
+>> [laughter]
+>> And hope it says no.
+Yeah.
+Uh I want to build a micro app um to
+check the vulnerability of open source
+project.
+Nice. Micro app to check the
+vulnerabilities.
+Back. I'm going to do plan. Okay. Open
+source project uh that have been
+impacted by the latest attack.
+I'm going to give you some
+back.
+Uh okay, I'm going to get the tweet.
+Uh what was that?
+I forgot.
+Um
+Okay. So still have it open.
+Bam.
+Uh where is the postmortem so I can
+share it to code right away?
+Uh update blah blah blah.
+Look at it.
+Update.
+Where's the postmortem?
+Okay, yes.
+Cool.
+TanStack NPM package, okay. So,
+uh
+path
+the latest attic
+of the TanStack
+uh
+packages.
+Nice. See, the accent and stuff, it's
+perfect. It understands you perfectly.
+>> Yeah.
+Uh all of the
+uh
+impacted package are listed in that
+article.
+path
+Uh
+plan the app and I want the output of
+the plan in HTML file. So, create a HTML
+artifact for the plan.
+Also add it in MD, so we have both, so
+we can compare.
+And also add the MD file, so we can
+compare uh the outputs.
+And I want you to tell me how many how
+many token you use to generate the plan
+in MD file and HTML.
+And the app uh will also generate HTML
+report.
+That's clear? We're good?
+>> Yes.
+Uh so oh, I'm a uh yeah, so I'm using
+4.6 and I'm on high effort reasoning.
+Yes.
+I start by exploring the current code
+base and fetching the article about
+TanStack and understand the scope. And
+the repository is empty. So, let's go.
+Okay. So, that's it. That's planning.
+Let's [clears throat] see how good it
+is. Yeah.
+Project directory is empty and I have a
+web fetch tool already. Okay, cool.
+Uh yeah, okay. So, how's your life, bro?
+Yeah.
+>> [laughter]
+>> It's like this, always waiting on the
+AI. I argue No, you just like spawn like
+five of the prompts and then you you can
+put you you can you create like five
+side projects Yeah. and then you wait
+for the main one. And then you type a
+prompt from project one in project three
+and you get the the answer. I cannot
+find this.
+And you say, "How stupid are you?" And
+then you notice that you're in the wrong
+project. Yeah, exactly.
+Uh, do you tell him intelligence on the
+attack? No, let me design the
+implementation plan. Let's go.
+The project directory is empty. Okay,
+cool.
+Nice. Initialize guide. Get. Uh, do you
+use T3 cuts?
+Nope. Oh.
+I I I'm still working as CLI.
+Yeah, okay. Uh, it's honestly, I think
+T3 cut is better than the CLI.
+Yeah. It's It's It is the issue. I
+We keep switching so many times. I don't
+have the time to keep switching. I
+Okay, don't switch to T3 cuts because
+soon you will you will switch to ship
+cut. Yes. That's the That's the better
+one. Yeah, exactly.
+But like for example like in
+T3 cut when I like Okay, so
+Why I want to that? Yes. Okay, so you
+can load the whatever like local folder,
+whatever, whatever. Path.
+Ship ship show. And I'm going to do open
+Sora. Yeah.
+Uh, but Okay, so in the prompt um
+in the prompt app, you can switch the
+agents.
+Yeah. So, you have access to all of the
+providers. Mhm. [clears throat] And you
+can switch the contact and you can even
+switch Uh, it's not a feature yet. It's
+not implemented, but it will. You can
+start with um
+Opus and then you can switch to Codex in
+the same context window. Yeah, that's
+cool. You can easily check it. Exactly.
+And uh, yeah, so you can use Cursor,
+open code, Gemini, and GitHub Copilot.
+Uh
+Okay,
+you can use GitHub Copilot. Let's go.
+Yeah.
+Isn't GitHub using GitHub Copilot? I
+don't think so.
+I hope not.
+Uh excellent have detail. Okay, uh let's
+think faster.
+Hey, you put it on high. Yeah.
+I only want smart stuff. Yeah, yeah. So,
+you're saying burn more tokens. Yeah,
+exactly.
+>> Ask me more money, think longer.
+And and if it is a better result, I
+don't know. Yeah. I mean, yeah, like
+there is some like a Tarik uh
+Tarik or Tarik?
+Okay, the guy from Anthropic uh told us
+that yeah, it's going to burn more
+token, but uh it's better. Yeah, yeah.
+Trust me. Yeah.
+>> [laughter]
+>> Is that Tarik or Tarik? It I don't know.
+What sounds best? I think.
+Anthropic
+ic ic
+Ah.
+Yeah, Tarik. Okay. My bad.
+Uh oh, I was not sharing the screen.
+Okay, cool.
+Uh let's go, let's go. Like sibling's
+project structure for style reference.
+What?
+Okay.
+Just do it. Uh there is no sibling's
+structure or project to follow. Just
+Just show us the Just do a setup. Yeah.
+Uh tak tak. Okay. Last time I told that
+the first thing I said is I need to show
+customer a proof of concept or an MVP,
+and I need it done in 5 minutes.
+Please create a working setup. And it
+was so fast. Really? Yeah.
+But you were in the medium?
+No, no, yeah, I'm in a in the project
+itself. Yeah, but you were in medium or
+is it not?
+>> Oh, no, no, I was on Codex X High. Okay.
+And I just explained like I'm already
+running late.
+>> [laughter]
+>> I need to set up right now.
+And it it it said, "Okay, I will be fast
+and I will give you a minimum needed
+code base just to get it working." And
+it it it it worked. Bam.
+Uh I have all of the intelligence and a
+detailed design. Let me read the
+existing memory index and then write a
+comprehensive plan file. Cool. I can
+write the files. Okay, it's coming. It's
+coming. I can't feel it. It's coming.
+Uh maybe we should have started the that
+and then talk about the security. Yeah.
+Let's go. Uh
+tag
+and path.
+Yeah, what is it talking about?
+Uh
+tag.
+Yeah.
+Finish uh something else.
+Oh.
+Oops.
+Base.
+Yeah.
+Is it is it still talking about the
+Cuz it wants to go well on the system.
+Okay.
+I hope you guys understand this is going
+to keep gaining loss. Yeah. Yes. It is
+just the beginning. Mhm.
+The reason behind this is developer
+pushing code.
+Oh, someone who is new using NPM. Is
+there a centralized agent consumer list
+for these notices? What's the best
+protection mechanism?
+Uh
+generate new version, disable auto
+update or home brew if using.
+Don't use random skill from anybody.
+Highly recommend a second box for any
+dev work for only dev work. Yeah, yeah,
+staging server.
+Yeah.
+Oh.
+Yeah, but if you are on a bigger project
+that people rely on, then you you
+already have it. You don't auto update
+and push. You you check what you update,
+you push it to staging, [clears throat]
+test it, and then push it to live.
+Uh should I create them in the project?
+Yes.
+Project root.
+Auto can tracking. I can estimate token
+based on puts.
+Auto can be English word. Okay.
+Include this in a footer? Yes.
+Uh both file? Yes.
+The app name is shield check. That's
+[snorts] perfect. [laughter]
+That's perfect.
+So then we can check like T3 codes and
+then if uh the T3 code has been
+impacted, uh then I'm using the app. So
+I guess I'm safe or not.
+>> [laughter]
+>> Just pull out your internet connection
+out of your laptop.
+>> [clears throat]
+>> Oh, wait. Maybe.
+Uh
+because
+I'm going to
+That's the plan.
+But I'm using T3 codes to plan.
+So I have the
+because I'm going to validate the plan,
+right?
+>> Mhm.
+So if I validate the plan, then I will
+have Yeah, it's it's already
+it's already planning the whole app.
+Yeah. Yeah, but that's not a problem. We
+want to see it in an empty and an HTML.
+Yeah, but that is where we are planning
+on the file create first in the project
+root.
+Okay, so I'm going to tell him to just
+give me the
+plan. Okay.
+All scanners module. Okay.
+I want to review the plan first.
+So you are going to just create those
+two plans in the repository, and then
+we're going to approve the rest of all
+of the steps.
+I want to review the plans.
+Okay.
+Wait for me to confirm
+uh the plan before implementing the
+rest.
+Ah.
+Documentary verification. Let me know if
+there I should start building. Okay,
+I will create just plan MD. Let's go.
+Walking. Walking.
+I love AI. It's so smart.
+Okay, cool. Uh path replace replace.
+Um
+uh pinning lock way
+lock lock your tree. Yeah.
+Let's go on this.
+NPM compromise in ongoing many show
+related attack.
+Is that still going?
+Yeah, well, everybody is writing about
+it just to get the views, right? Yeah.
+Recommend action immediate triage run
+on all rooter in it files in your
+dependency tree match against
+Really?
+Rotate all secrets immediately on any
+system. Revoke GitHub action or this is
+a mission critical. Yeah, that's not
+That's crazy. Audit cloud and VS cards.
+Open search mistrial blah blah blah.
+Yeah.
+We have been online over two hours no
+stealing creds. Regardless, I just came
+to say hello.
+Oh my god.
+Domain also display a sign or
+Uh they they took it down. Like the kids
+10 stack is down.
+Yeah, they don't have much choice. They
+need to make sure that people don't get
+infected.
+I see Mistral AI Mistral open search
+quad rail
+It's nuts.
+Uh file change okay.
+I mean
+yeah it's
+mental.
+And socket.dev looks legit.
+jQuery find a companion of open source
+package
+maintenance
+whatever whatever will protect you from
+vulnerable and malicious packages.
+Oh, can you install that?
+free for individual developer and small
+team looking to stay secure
+unlimited developer and repo 1,000 Oh,
+interesting.
+developer security for team of all size
+Okay. My question is what does it check?
+Because if it checks the signature that
+was legit.
+Yeah, but I'm pretty sure they would
+send you an email if so you can monitor
+all of the package.
+I'm going to I'm going to
+I I will check that later.
+Tag path replace uh window T3 no
+T3 yes cool
+path
+tag Can I zoom?
+Uh can I
+uh I can't toggle. There's no toggle.
+No.
+Cool.
+Uh tag tag tag Okay, both plan and
+artifact are created. Uh
+3,000 4,000 for the
+uh the plan.dmg and 6,000
+So, yeah, almost double. Yeah, 50% more
+expensive.
+Estimate output, markdown, estimate
+input token. Okay, 1,000. Yeah, so
+estimated
+Wait, what?
+Okay.
+Oh, yeah, on the output token. Yes,
+okay.
+Uh HTML version used 63% more output
+token due to the marker best care
+signing. Yeah, whatever. Open plan.
+Okay, cool. Cool.
+Open it. Yeah.
+Q so
+five five
+Yeah. So, if I open
+Q so
+base window
+Q so
+Wow.
+So, that's the MD file.
+Uh that's quite long.
+But, that's that's readable. I mean
+Yeah, but
+I don't know the the code editors I use,
+they always have a second screen beside
+it when I open an MD file. So, I can see
+code and preview.
+Uh I Okay, so on Q so it's an extension
+where you can uh preview the markdown.
+Uh oh, preview. Right, look. Yeah,
+and then it's readable. Yeah.
+Yeah, like uh Yeah, there is nothing
+crazy here, right? Uh to uh
+uh to to review anyway. So, okay, and
+now I'm going to open
+the MD uh
+HTML file.
+five five open in
+browser
+five
+Oh, okay.
+Yeah, I can I can open in QSO. They have
+a brother.
+Wow, it's the same [ __ ] but purple.
+Yeah, different colors. Okay, that's
+cool. Compare It's like bootstrap
+styling over it in dark mode.
+Yeah.
+Uh okay, so later bam uh generated by
+Opus 4.6. Chill chick chill chick
+implemented plan ba ba bam. Uh
+generation matrix HTML ba ba bam. Okay,
+self-contained yes inline CSS no
+external resources.
+Uh yeah, that's more yeah, it's more
+readable. It's not that crazy, right?
+Um okay, so I'm curious now in the in
+the AI if you now just clear the entire
+history
+drop in both files the MD and the HTML
+and ask it which file is best optimized
+for him to start coding the project. Uh
+Okay, so I clear the context? Yes.
+Uh
+Can I clear it?
+Uh
+I don't know if slash clear works.
+Okay. And just drag in both files.
+It's so smart. It's so smart.
+Okay. Uh
+What the [ __ ]
+Oh, it is coming in preview.
+Files.
+Or you can even say uh because it's in
+the in the folder already. Yeah. Yeah.
+Bring the folder like back back.
+History uh I think uh history yeah
+history will not
+work.
+Uh okay, so
+I'm going to save some token. Okay,
+medium.
+Uh Read both plan uh files and tell me
+which one will is more consistent for
+you and more useful.
+And cheaper to implement.
+Back back. Good? Mhm. Let's see what it
+answers.
+Back. Okay. Okay. I have but I mean for
+example for components I could
+I like that. I like the output. Again
+like I want to redesign whatever
+something and then I
+I ask Claude to give me three version of
+that React component redesign and
+then we can even integrate with that
+preview. I did that for example for the
+splash screen of the
+of the ship code because it was only on
+the splash screen of the app and I said
+give me a preview of the splash screen
+and we're going to we work with that and
+it was interesting for sure. Yeah. I
+would also say for your own customers is
+better. You can just create a HTML,
+print it to PDF and give it to them and
+say hey, here it is shiny and new and
+tell me what you like.
+I read both file they contain identical
+content the same sheet check plan in two
+format. Mhm. Lines 200 for the MD file
+and almost 600 570 for the plain HTML.
+Estimate tokens three
+3.8
+6.2 so
+final to knows high pure content low 200
+line of CSS HTML boilerplate. Yeah.
+Consistency
+table header code block and unambiguous.
+That's interesting.
+Plain.md is a clear winner for on all
+three criteria.
+Huh.
+Recommendation use plain.md lol.
+Yeah.
+It works both but HTML is just more nice
+to look at and and more expensive to
+use.
+I mean, that's the all experimentation.
+Yeah. [laughter]
+I mean, we just wanted the plan, right?
+It's just for as output plan. So, yeah,
+for the general evaluation, yeah, like
+Okay, okay, so If you use it for
+internal planning, then use the MD
+files. If you want to do reporting and
+and use it for sharing with people, you
+can do the HTML. That's what I think.
+Yeah, that makes sense. Yeah, okay. So,
+like, yeah, it's it's like almost
+don't use ever like just one, use both,
+basically.
+Yeah.
+I think that's it.
+Yeah. So, yeah, okay, that's it. That
+was nice demo. Good job, Tim.
+Uh
+What? Extra camera? No, I don't want the
+extra camera. I want to do the
+conclusion.
+Uh tak. I'm going to kill that later. Uh
+okay, cool. So, Mitchell, are you going
+to use HTML for now? [laughter]
+If I want to share something nice for
+you, I'm going to use HTML, but as soon
+as I want it to be optimized and use it
+for planning internally, all all MD
+files.
+How about you?
+I mean, again, I I can see your use case
+for components, for sure. If I want to
+redesign a component, I will ask for a
+preview in HTML, cuz that doesn't like
+for a couple of percent of token more,
+like, I would rather iterate on content.
+Uh
+on on the HTML with the HTML files to
+redesign something. And I'm using Claude
+for design and more like
+all of the rest of the execution, I use
+Codex anyway. I don't I still don't use
+chat GPT 5.5 for design because it's the
+taste of the model is [ __ ] So, I will
+definitely use Cloud and the front-end
+skill to do front-end stuff
+and delegate all of the implementation,
+the rest of the implementation to
+Codex.
+Perfect. Yeah.
+Nice. Okay, awesome. We will not be
+That was it. Yeah. We have a good demo
+if we have did like a 26-minute
+introduction.
+>> [laughter]
+>> But that that's that's talent, man.
+That's talent. Yes.
+So, Mitchell, thank you so much for your
+time and everyone in the chat and in the
+if you are watching the video until the
+end, uh
+please subscribe, like, share it with
+your friends because we need it. Uh we
+are still
+We miss some subscribers to 1 million
+subscribers. So, it's time to time to
+subscribe. Yeah, let them come in. Yeah.
+Uh
+and that's it. Bye.
+See you next week. See you next week.

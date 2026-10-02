@@ -1,0 +1,175 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,820"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3820
+      },
+      "text": " I was writing code and just after three weeks,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,820",
+        "to": "00:00:05,020"
+      },
+      "offsets": {
+        "from": 3820,
+        "to": 5020
+      },
+      "text": " it deleted my database."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,020",
+        "to": "00:00:07,660"
+      },
+      "offsets": {
+        "from": 5020,
+        "to": 7660
+      },
+      "text": " And it said, yeah, the test failed, the test failed."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,660",
+        "to": "00:00:11,300"
+      },
+      "offsets": {
+        "from": 7660,
+        "to": 11300
+      },
+      "text": " So I tried to deploy all the migrations again."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,300",
+        "to": "00:00:14,640"
+      },
+      "offsets": {
+        "from": 11300,
+        "to": 14640
+      },
+      "text": " Oh, and by mistake, that reset your entire database."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,640",
+        "to": "00:00:16,580"
+      },
+      "offsets": {
+        "from": 14640,
+        "to": 16580
+      },
+      "text": " And I was like, I have it in here"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,580",
+        "to": "00:00:17,940"
+      },
+      "offsets": {
+        "from": 16580,
+        "to": 17940
+      },
+      "text": " that you're not allowed to do that."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,940",
+        "to": "00:00:20,180"
+      },
+      "offsets": {
+        "from": 17940,
+        "to": 20180
+      },
+      "text": " If the test fails, you report to me"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,180",
+        "to": "00:00:21,620"
+      },
+      "offsets": {
+        "from": 20180,
+        "to": 21620
+      },
+      "text": " and we check what's wrong."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,620",
+        "to": "00:00:24,280"
+      },
+      "offsets": {
+        "from": 21620,
+        "to": 24280
+      },
+      "text": " Because if it before was working,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:24,280",
+        "to": "00:00:27,320"
+      },
+      "offsets": {
+        "from": 24280,
+        "to": 27320
+      },
+      "text": " then only the last test is wrong or your last changes."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:27,320",
+        "to": "00:00:29,500"
+      },
+      "offsets": {
+        "from": 27320,
+        "to": 29500
+      },
+      "text": " And still it did, but it's only locally."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,500",
+        "to": "00:00:32,140"
+      },
+      "offsets": {
+        "from": 29500,
+        "to": 32140
+      },
+      "text": " So it doesn't matter that much, but it deleted everything."
+    }
+  ]
+}

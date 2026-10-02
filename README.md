@@ -1,84 +1,36 @@
 # Ship Sh!t Show Vault
 
-This repo is a pure Obsidian vault for the two YouTube channels:
+Public episode transcripts, notes and resources for [the main show](https://www.youtube.com/@shipshitshow) and [the clips channel](https://www.youtube.com/@ShipShitShowClips). Open this repository as an Obsidian vault or browse its Markdown on GitHub.
 
-- `shipshitshow`
-- `shipshitshowclips`
+## Start here
 
-## Entry Points
+- [Production handbook](production/index.md): source-led shows, editing folders, packaging and public handoff.
+- [Upload catalog](catalog.json) and [coverage ledger](_admin/data/youtube-coverage.csv).
+- [Main-channel livestreams](shipshitshow/Livestreams/_Index.md), [edited videos](shipshitshow/Videos/_Index.md) and [Shorts](shipshitshowclips/Shorts/_Index.md).
+- [Brand kit](brand/README.md): current direction, colors and asset inventory.
+- [Viewer production skills](https://github.com/shipshitshow/skills) and [episode examples](https://github.com/shipshitshow/examples).
+- [Obsidian home](00%20Home.md), [content map](01%20Content%20Map.md) and [manual canvas](02%20Content%20Canvas.canvas).
 
-- [00 Home](./00 Home.md)
-- [01 Content Map](./01 Content Map.md)
-- [02 Content Canvas](./02 Content Canvas.canvas)
-- [shipshitshow](./shipshitshow/index.md)
-- [shipshitshowclips](./shipshitshowclips/index.md)
+## Archive state — October 2, 2026
 
-## Vault Layout
+All **147 identified uploads** have a transcript: 56 main-channel livestreams/videos and 91 clips. The catalog unions historical inventory, current public tabs and verified episode links. This is a lower bound on uploads; it does not establish completeness for inaccessible or unlisted account content.
 
-### Main channel
+Recovered local ASR is explicitly unreviewed. Check names, numbers and wording before quoting. Every transcript has provenance and a source hash; raw captions or local ASR source files are preserved when available. Historical imports retain their original text and identify capture details that are unknown.
 
-- [shipshitshow/index.md](./shipshitshow/index.md)
-- [shipshitshow/Livestreams](./shipshitshow/Livestreams)
-- [shipshitshow/Videos](./shipshitshow/Videos)
+The dated [audit snapshot](_admin/docs/audits/2026-10-02/README.md) records the gaps before recovery. The maintained catalog and ledger record the current state.
 
-### Clips channel
+## Content model
 
-- [shipshitshowclips/index.md](./shipshitshowclips/index.md)
-- [shipshitshowclips/Shorts](./shipshitshowclips/Shorts)
+Each YouTube asset has its own `overview.md`, `transcript.md` and `provenance.json`. Captions, descriptions, notes and cut maps live alongside it when available. Source livestream, recap and Shorts use separate clocks. Relationships require evidence; similar dates/titles alone do not establish a derivative link.
 
-### Admin
+Existing vault links are preserved. New folder names include publication date and YouTube ID; recording date is separate. Unknown dates remain explicit. Original preparation notes are distinguished from what happened on air.
 
-- [_admin/docs](./_admin/docs)
-- [_admin/scripts](./_admin/scripts)
-- [_admin/templates](./_admin/templates)
+Media and native editing projects stay in the Studio library. Public GitHub handoff contains text, captions, cut maps and sanitized provenance. See [the editing architecture](production/editing-workflow.md).
 
-## Content Model
+## Maintain the vault
 
-Each content chain is linked together:
+Support scripts, templates and documentation live under `_admin`. [Frontmatter rules](_admin/docs/FRONTMATTER.md) reserve `youtube_tags` for YouTube keywords. `.obsidian` contains the owner's editor configuration.
 
-- livestream -> recap video -> derived shorts
-- overview notes link to related entries in the other channel folders
-- transcripts live beside each entry as `transcript.md`
-- Notion notes, where imported, live beside the livestream as `notes.md`
+Validate the archive with `python3 _admin/scripts/validate_archive.py`. Import an authorized local ASR handoff with `python3 _admin/scripts/import_local_asr.py --recovery-dir <text-handoff>`. This importer does not download or upload media. See [the transcript contract](production/transcript-archive.md) before importing.
 
-Navigation notes:
-
-- [01 Content Map](./01 Content Map.md) is the note-based MOC
-- [02 Content Canvas](./02 Content Canvas.canvas) is the manual canvas layout
-- Obsidian Graph View is configured through [.obsidian/graph.json](./.obsidian/graph.json)
-
-## Formatting
-
-Biome is used for vault-side formatting with spaces, not tabs.
-
-- Config: [biome.json](./biome.json)
-- Formatter script: [_admin/scripts/format_vault.sh](./_admin/scripts/format_vault.sh)
-
-Run:
-
-```bash
-./_admin/scripts/format_vault.sh
-```
-
-## Frontmatter Rules
-
-YouTube keyword phrases must use `youtube_tags`, not `tags`.
-
-See:
-
-- [_admin/docs/FRONTMATTER.md](./_admin/docs/FRONTMATTER.md)
-
-## Current State
-
-- YouTube videos are imported
-- YouTube livestreams are imported
-- YouTube shorts are imported
-- thumbnails are stored beside imported YouTube entries
-- transcripts were backfilled from available captions
-- completed livestream notes from Notion were imported where available
-
-## Notes
-
-- `shipshitshow` and `shipshitshowclips` are the actual vault roots for channel content
-- `_admin` is only support material for maintaining the vault
-- `.obsidian` contains the Obsidian workspace, graph, and plugin config
+Vault formatting uses [Biome](biome.json) through `_admin/scripts/format_vault.sh`.
