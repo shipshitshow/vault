@@ -1,0 +1,284 @@
+Last week we built once a game in with
+one prompt with Opus 4.8. Yesterday
+Fable 5 launched and now what we are we
+are going to build a full a native
+gaming studios.
+&gt;&gt; With one prompt.
+&gt;&gt; With maybe two.
+&gt;&gt; Maybe two.
+&gt;&gt; So if you want to see what Fable 5 is
+capable of, watch this video.
+&gt;&gt; The coding is Fable already. Here it
+makes you think of a game, right?
+&gt;&gt; I mean
+&gt;&gt; It's a perfect name.
+&gt;&gt; I mean for for sure. Like for sure.
+&gt;&gt; Game studio AI.
+&gt;&gt; Yes. Did you play Fable on Xbox when it
+&gt;&gt; [laughter]
+&gt;&gt; No, I didn't. I think I did it like once
+or so, but I I can't even remember, so.
+&gt;&gt; What we have done last week was that.
+&gt;&gt; Yes. But this is cool. You have actually
+a working game already.
+&gt;&gt; A nice video.
+&gt;&gt; Yes.
+&gt;&gt; Yeah, we left it over with the same
+pieces all together. We put like we
+prompted like a couple of times after,
+but now
+&gt;&gt; You made some upgrades.
+&gt;&gt; Yeah, automatically. Okay. So the way I
+did it was I got another account and
+then I run it on automation. Like every
+hours, two hours and four hours because
+then it was taking too much token. So I
+every four hours I had a GitHub board
+with all of the features and all of the
+direction that I wanted and now welcome
+to Ship [&nbsp;__&nbsp;] Games.
+&gt;&gt; Yeah, just to tell people that you did
+this with your own skills, your own
+prompts and your own automation to to
+optimize everything. It is not a one
+shot at game.
+&gt;&gt; Yeah, I know exactly. Yeah, it's it's
+basically like since last week auto
+automations, loops and verification for
+the asset and stuff. It's not like 100%
+done yet, but it's getting there. So we
+have a website. We have 200 commits 200
+commits in 30 days. I also have a
+building public Git tracker now. It's
+connected to GitHub and it tracks all of
+the commits.
+&gt;&gt; Okay, that's cool.
+&gt;&gt; I didn't build seven games, one game but
+seven. Production sprites, okay, that's
+nice. Like for the weapon and stuff like
+that. And ships 200 130 here, okay. So,
+seven games, I'm going to show you all
+of them after that. But yeah, scores
+game deadline, which is like a top
+defender. Pack four, which is like a
+mobile jewels stuff. Star light, it's
+like a not space invader, it's arcades
+game stuff. Like a fight
+when you shoot and then you move and
+stuff like that. Redline, which is it's
+like a Sonic alternative, Sonic
+Hedgehog. You just run the map and
+because you have a messenger to deliver
+blah blah. Worth, I don't remember which
+is one. The platform. Yeah, no, it's
+Super Mario.
+&gt;&gt; Oh, cool.
+&gt;&gt; So, yeah, I want to I want to try
+different game style and see which one
+is like the easier to to implement. And
+the war lane is table commander slash
+maps and it's a hobby for because it's
+will be all of that will be multiplayer
+because why not? And it's a map with the
+war and stuff. Yeah.
+&gt;&gt; And that's why you make it more
+difficult, right? Because a multiplayer
+is not just a one shot a game that runs
+locally.
+&gt;&gt; Yeah, I mean, you know, like I I define
+a scope and then it's oh yeah, I have a
+new idea, let's build that. Let's see
+where it goes. So, play dead road,
+that's the game. And obviously,
+everything is open source. So, if you
+want to check how we did that, check all
+of the links, the skills, the games
+itself, all of the repository,
+everything is free. And it's also based
+on your on the skills that we have and
+like the ship sheet dev V0 template.
+Everything is a mono repo, so everything
+is accessible and public. And if you
+want to pay us, you can buy a studio
+pass 99 99 dollars [laughter]
+&gt;&gt; You're lucky, only $29.
+&gt;&gt; Yeah, exactly. And yeah, also clean
+clean clean content because we can with
+a bit luck. And a gallery, the second
+website is dead roads, which is the game
+by itself. And I'm going to the same
+thing like with the law and stuff. I'm
+going to talk about the law too because
+that's going to be interesting. But
+first, demo of the game. so we are going
+into war lane. It's going to be loud
+because that's a doom like design mood
+reduced sound. So we have a common
+stable where your strategy base stuff is
+like resources that will impact all of
+those games. With like I'm going to show
+you the FPS first because that's the
+most built-in game. So sketch survivor
+player run. You can choose your
+character. There is different weapons, a
+gun, shotgun, a SMG and sniper.
+&gt;&gt; I'm going to try with that shotgun. That
+would be fun. And now we are back on the
+map.
+&gt;&gt; Oh.
+&gt;&gt; They explode. There is loud. There is
+like some members and stuff. And that's
+the bonus. So you improving your
+&gt;&gt; Yes, yeah. Your abilities.
+&gt;&gt; Yes, exactly. Abilities are doing the
+game. That player run. I'm going to try
+with another one. And now we have
+another weapon and it's a SMG. Back
+Okay, that's the game. Okay, I'm going
+to back to the I'm going to go back to
+the lobby. Okay, so star blood. That the
+playing game. You're going to see it
+away. So I'm a plane and then there is
+like some space invaders coming and then
+I'm shooting them. And same thing like
+same gaming loop. You have abilities and
+you get you improve them. That's it.
+That's the game.
+&gt;&gt; I'm I'm wondering if I should like do it
+like a 3D, but I'm curious about the
+sprites that are
+&gt;&gt; That makes it difficult.
+&gt;&gt; Yeah. Main menu path. War lane. Okay, so
+star blood. We did it. Back for Yeah,
+see that for example like the sprite is
+bleeding on the right and because it's
+one band and it should only display one
+image.
+&gt;&gt; Yeah, yeah.
+&gt;&gt; That's the MOBA. Okay, that was one
+prompt of office 4.8. That's supposed to
+be like a League of Legend, but not here
+yet.
+&gt;&gt; It It needs some modifications.
+&gt;&gt; So dead lane. Okay, back path deploy. Oh
+yeah, that's the tower defense. It's
+sick. So I'm building a a tower and then
+&gt;&gt; Tower defense game.
+&gt;&gt; Yes. And And the first prompt was like a
+3D views. The game works. [&nbsp;__&nbsp;] works.
+And I can't I've gold so I can rebuild
+the tower again with more and it's going
+to be I I think this one is going to be
+is going to be amazing. Like Okay,
+that's it.
+&gt;&gt; That's cool.
+&gt;&gt; Yeah, it's nice. The public repository
+ship ship games dead road and the skill
+and everything is a mono repo which for
+dead road we have all of the games in
+app/games but we have the law which is
+an obsidian vault with only markdown
+files and I can So what I do is I write
+the law like the story the tier etc. And
+then all of the games are attached to
+the law.
+&gt;&gt; So that means that every game is playing
+in the same world.
+&gt;&gt; Exactly. That's the same universe. Yeah,
+the obsidian vault. So yeah, I haven't
+like the design. I have like the design
+MD file that will be consistent with
+everything all of the games all of the
+universe is based on that. So I will
+probably like change it along the way
+but like everything And because it's a
+mono repo then the agent has the context
+of that all the time and I it should at
+least refer to it all the time.
+&gt;&gt; Yeah, yeah. I get almost the same
+styling and
+&gt;&gt; Exactly. And then I can always like
+yeah, go back to a refer yourself to the
+the vault check yeah, like the game what
+we define for the game problem law the
+goals you want format win condition.
+It's it's just nuts. And then you
+iterate on top of that again and again
+and again for weeks months and then you
+have a cool Mario Party Doom like game.
+Yeah, so everything is extracted to
+build for that games in a ship ship game
+stuff but like the engine to build all
+of the sprite or like to animate the
+monster in the game can works in other
+game and like you said yeah, if people
+wants to use that CLI or those
+integration etc. They can to generate
+their own sprite and for their own
+stuff.
+&gt;&gt; Yeah, I think it's a good start. You can
+use it as a basis.
+&gt;&gt; Exactly. And I also have like resources,
+which is some YouTube channel that I've
+dropped the YouTube link and it extract
+the transcript. And by doing that, I
+have everything that I talk about. And
+if there is any rules that I need to
+know to build the games, then I can drop
+it and read the transcript and I create
+the next tool on stuff like that.
+&gt;&gt; Yeah, and I saw up to AI oriented dev.
+Like I love his channel.
+&gt;&gt; It's It's It's going to be us later on.
+&gt;&gt; I love his channel. Like it's really
+cool. And he's making He's making a lot
+of views. Like his fighter games,
+amazing. Look Look at the name.
+&gt;&gt; This is good. This is not This is
+awesome quality.
+&gt;&gt; Yeah. Like it's it's like it's frame
+perfect. It's It's awesome. And it it
+does like crazy. Whereas the same tools
+that we have. And one technique that I
+learned from his transcript is to For
+example, for an animation, instead of
+generate sprites from image to image,
+you generate a video and then you
+extract the frame of the animation.
+&gt;&gt; Then it's always the exact same styling.
+&gt;&gt; Exactly. And it's not bleeding from one
+to another. It's just going to be a bit
+more expensive to generate. So, yeah,
+that's a problem. You can drop the tools
+that he they they use and drop it to
+Fable and to like copy paste and web
+coding the same process. I love it.
+&gt;&gt; Nice. We're going good way.
+&gt;&gt; Nice.
+&gt;&gt; Now we just need to be able to split it.
+&gt;&gt; Yeah. Yeah, but then like it's just
+Yeah, that's that's lit. But like Okay,
+see that for example, it should never do
+that because it's out of frame. So, that
+should not happen.
+&gt;&gt; Yeah. You have good results. Now it's
+just optimizing.
+&gt;&gt; Sprite from directive, let me check.
+Nice. Nice. Nice. Love it.
+&gt;&gt; Love it.
+&gt;&gt; Let it go and see what it does.
+&gt;&gt; Yes. Should we do like a series of live
+slash video about how to how we progress
+with that?
+&gt;&gt; Oh yeah, that's cool.
+&gt;&gt; Yeah, like it.
+&gt;&gt; We even just small follow up, but just
+let's go where and see let people see
+what we are doing next.
+&gt;&gt; Exactly. And uh hopefully have some
+revenue because people will buy
+&gt;&gt; the awesome skills.
+&gt;&gt; description. And uh yeah, everyone
+subscribe to the channel. Thanks for
+watching the video. And play our games.
+Bye.

@@ -1,0 +1,317 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.200
+ Astra, I started checking all my projects and that's a cool thing. Every time when you get a
+
+00:00:05.200 --> 00:00:10.720
+ new model, I say, hey, check this product, take security to the next level, remove all box you
+
+00:00:10.720 --> 00:00:16.480
+ find. And then it says, oh no, I'm sure it's a perfect project. And then we go to Astra and it
+
+00:00:16.480 --> 00:00:22.800
+ found like, yeah, the first thing I do with every model is check my entire code base for a few
+
+00:00:22.800 --> 00:00:27.520
+ projects that we just keep on continuous upgrading. And it found like full list,
+
+00:00:27.520 --> 00:00:32.800
+ we improved everything. Then I said, I want to make sure that my servers get less load because
+
+00:00:32.800 --> 00:00:39.280
+ we need to be able to scale on the same amount of servers. And it did everything. And in my graphs,
+
+00:00:39.280 --> 00:00:45.600
+ I just see the RAM and the memory uses, I see a drop. So that's perfect. That's awesome. And it
+
+00:00:45.600 --> 00:00:52.000
+ just keeps optimizing queries and everything. Okay. Yeah. Okay. So, but it's like, remember
+
+00:00:52.000 --> 00:00:57.280
+ like when we drop like four point, when they drop 4.8 and then we check the exactly the same stuff
+
+00:00:57.280 --> 00:01:02.640
+ and then, oh shit, there is a shit ton of bugs, probably a lot of slope, right? And now we still
+
+00:01:02.640 --> 00:01:09.360
+ have this D slope steps two years later. Yes. I think if you drop it a project from 2010,
+
+00:01:09.360 --> 00:01:13.120
+ when we were coding, you will get a response that should not be able to work.
+
+00:01:13.120 --> 00:01:21.440
+ Yeah. Are you sure it's live? Yeah. I think speed can play a big role because if you fix
+
+00:01:21.440 --> 00:01:27.760
+ something, if you do something fast and you can quickly also fix it fast, if it goes wrong
+
+00:01:27.760 --> 00:01:34.080
+ and it doesn't take like crazy turns, like just go for it, right? Yeah. And the result is still
+
+00:01:34.080 --> 00:01:40.000
+ faster than when another model does it in double the time. What do you expect for the next round of
+
+00:01:40.000 --> 00:01:46.400
+ model, like 5.2 and 6.1? Like what do they need? Like, do they need to be smarter or cheaper,
+
+00:01:46.400 --> 00:01:52.240
+ faster? Yeah. Eventually I just want more tokens, but I don't think they are going to do that,
+
+00:01:52.240 --> 00:01:56.720
+ but I think eventually the models will get better, better, better, better, better. And then if you
+
+00:01:56.720 --> 00:02:04.080
+ are at, let's say 95%, does the 95.1 or 0.2% make a big difference? I don't think so. So then it's
+
+00:02:04.080 --> 00:02:12.080
+ all about optimizing to be more efficient and to maybe even give it more speed. Yeah. But the
+
+00:02:12.080 --> 00:02:18.400
+ problem is also that at the end of the day, at some point they will make us pay the correct price
+
+00:02:18.400 --> 00:02:23.680
+ of the token. Yeah. Unless they go bankrupt before. Yeah. Yeah. I don't know, but like for
+
+00:02:23.680 --> 00:02:30.000
+ professional developer. Yeah. At least two, right? Yeah. I hope people do because still, even if I
+
+00:02:30.000 --> 00:02:35.520
+ don't double check it with another agent, there's still a box in it. Yeah. Yeah. Yeah. Bugs are not
+
+00:02:35.520 --> 00:02:42.240
+ solved. But do you expect anything different from the upcoming models? Yeah. More speed and cheaper
+
+00:02:42.240 --> 00:02:48.000
+ cost. Like if they can reduce the cost of, of the tokens, that would be nice because yeah, again,
+
+00:02:48.000 --> 00:02:54.240
+ yeah. Like you said, right. Give us more usage so we can use your model. But it happened with
+
+00:02:54.240 --> 00:03:02.160
+ Opus 4.8, right? This update at that time was an update of the token consumption. And eventually
+
+00:03:02.160 --> 00:03:07.120
+ they need to because the Chinese models will work on smaller and smaller and smaller PCs with less
+
+00:03:07.120 --> 00:03:13.680
+ RAM. And if there is a big difference, if I know that I can invest four or 5K and earn it back in
+
+00:03:13.680 --> 00:03:19.920
+ a year, then yeah, then Claude and Astra are losing. You would invest like 10 grand in the
+
+00:03:19.920 --> 00:03:26.960
+ hardware to install a model right now? Yeah. Why not? If you, if you need such big API usage so
+
+00:03:26.960 --> 00:03:33.600
+ that your costs are like 10K per year, and you can do it on a local, on two local models so that you
+
+00:03:33.600 --> 00:03:39.680
+ buy two of the NVDAs for 5K or like two Mac Minis, the bigger ones, I would do it because then you're
+
+00:03:39.680 --> 00:03:45.200
+ redundant. If one breaks, you still have the other one and you only need a year to earn it back
+
+00:03:45.200 --> 00:03:51.200
+ because people on the API costs, they have high bills. People are not telling it. Everybody is
+
+00:03:51.200 --> 00:03:57.200
+ showing hurry, I'm doing this for $200, but the companies who don't, they pay like easy 5 to 10K
+
+00:03:57.200 --> 00:04:02.400
+ per month in API tokens. Yeah. But then like, okay, maybe it will slow down with like the
+
+00:04:02.400 --> 00:04:09.120
+ new models update, but the level of intelligence will slow down maybe. But okay. You buy hardware
+
+00:04:09.120 --> 00:04:15.920
+ for DeepSeek for right now. Yeah. What happened when everyone is using Astra spending 10 grand
+
+00:04:15.920 --> 00:04:22.880
+ on API or whatever, and you are stuck with a dumb model that is six months old. I mean,
+
+00:04:22.880 --> 00:04:29.760
+ if they distill February 5.1 in 48 hours, that's another game. Yeah. But it also depends on what
+
+00:04:29.760 --> 00:04:34.880
+ you need. If you're building WordPress websites and you're doing like 50 websites per month,
+
+00:04:34.880 --> 00:04:40.400
+ then the cheaper model is good enough. There is no big complicated code needed. Yeah. Especially
+
+00:04:40.400 --> 00:04:45.200
+ to be able to scale. Yeah. Maybe if you have like same routines all the time and you have the same
+
+00:04:45.200 --> 00:04:49.280
+ task again and again and again, then you don't need to upgrade the frontier model too. Yeah.
+
+00:04:49.280 --> 00:04:54.800
+ But also if you just put it in house and you have like a big warehouse and you need to track stock
+
+00:04:54.800 --> 00:04:59.280
+ and everything in house that people now do manually and you always have differences,
+
+00:04:59.840 --> 00:05:06.320
+ that will cost so much money that you can easily, the 5K will be earned back in a month. Yeah. Yeah.
+
+00:05:06.320 --> 00:05:10.960
+ Maybe we'll see, or like the end of the year we'll update, but yeah, maybe next year we should
+
+00:05:10.960 --> 00:05:17.120
+ invest in some hardware. But the price is going nuts too. Computer use capabilities. That's the
+
+00:05:17.120 --> 00:05:23.520
+ big usage right now you can see on the timeline. Astra to use your software that you use every day,
+
+00:05:23.520 --> 00:05:27.680
+ they can do it better, faster than you. I'm going to use, I'm going to edit this video
+
+00:05:27.680 --> 00:05:34.560
+ after with Premiere and see how it reacts for real. Right. I built an MCP. So right now,
+
+00:05:34.560 --> 00:05:41.200
+ Premiere was drive via the MCP. It's like the API is kind of shit and there is like some actions that
+
+00:05:41.200 --> 00:05:48.240
+ you can't do via the MCP. And like if they have a better computer use, then I should also be able to
+
+00:05:48.240 --> 00:05:56.160
+ improve the sound and improve like the colorimetry and stuff directly because the model will use the
+
+00:05:56.160 --> 00:06:01.440
+ app. So yeah, that could be cool. But in this case, do they just give Astra access to the
+
+00:06:01.440 --> 00:06:08.480
+ entire computer? Yeah, that's computer use, right? Like your hollow Charge GPT app to use your
+
+00:06:08.480 --> 00:06:16.320
+ computer the way you would use it. Yes. And if the editing of the videos is quite simple, I expect
+
+00:06:16.320 --> 00:06:22.480
+ Astra to do a better job than me because I'm not an editor. I mean, yeah, I am by definition.
+
+00:06:23.200 --> 00:06:28.800
+ But like if it can cut better than me, let's go. Yeah. So it doesn't mean that we can also give
+
+00:06:28.800 --> 00:06:36.800
+ Astra an assignment, like show this image every five seconds. I mean, yeah, pretty sure it can do
+
+00:06:36.800 --> 00:06:42.160
+ it. And that would be interesting. For example, for the clips, instead of using Opus Pro, can we
+
+00:06:42.160 --> 00:06:49.120
+ tell Astra to cut five clips, add the subtitle, export, boom. That would be awesome. Yeah,
+
+00:06:49.120 --> 00:06:53.520
+ that would be that would be cool. But then it would be interesting to see how much it costs. So
+
+00:06:53.520 --> 00:06:58.720
+ yeah, I'm going to run this experience after this live stream. Thibaut mentioned that it was a
+
+00:06:58.720 --> 00:07:04.000
+ competitive advantage to have Charge GPT Astra before they release it. So now they release it,
+
+00:07:04.000 --> 00:07:09.760
+ they'll probably have seven and then they go even beyond that, right? Like so. Yeah. Yeah. They are
+
+00:07:09.760 --> 00:07:17.120
+ just so far ahead of us. Yeah. But yeah, so what are we going to do? Like, what's the goal? Build
+
+00:07:17.120 --> 00:07:23.120
+ more stuff, build better stuff, make sure we don't only build but earn money and just optimize
+
+00:07:23.120 --> 00:07:28.960
+ everything. And we can even start to rethink business model as integrate like AI integrator
+
+00:07:28.960 --> 00:07:35.520
+ stuff like they call that FGE, forward dev deployed engineer is a technical role that
+
+00:07:35.520 --> 00:07:39.840
+ embedded directly within customer environment to build deploy and integrate custom production
+
+00:07:39.840 --> 00:07:46.640
+ ready AI systems. There is also a new business model where you can come to a company, install AI
+
+00:07:46.640 --> 00:07:53.040
+ and stuff and you get paid based on performance. Oh, that's cool. And if you do that at scale,
+
+00:07:53.040 --> 00:07:59.440
+ and instead of 400k, you do that with 1 billion, then it's good. Yeah. And you just target the
+
+00:07:59.440 --> 00:08:05.760
+ bigger companies. Exactly. And how many big companies have the spending hundreds of thousands
+
+00:08:05.760 --> 00:08:14.400
+ of millions every month on XYZ stuff? And for you, it's one prompt, one skill, and even one
+
+00:08:14.400 --> 00:08:21.040
+ training, like two hours of trainings to with some like currents, and then you save them like 80% of
+
+00:08:21.040 --> 00:08:27.360
+ the yeah, of the cost. Yes. And you go on a holiday paid by them. Yeah, you can work six months and
+
+00:08:27.360 --> 00:08:32.000
+ then you make enough money from that. There is something because even like in in five years,
+
+00:08:32.000 --> 00:08:39.360
+ you will still integrate AI to big system or like big companies or jet laggers. Yeah. Yeah,
+
+00:08:39.360 --> 00:08:46.560
+ for sure. In France, I think they're still like integrating systems like internet, maybe not
+
+00:08:46.560 --> 00:08:52.800
+ internet, but like computer stuff. Anyway, how many how many integrators you have for Microsoft?
+
+00:08:52.800 --> 00:08:57.760
+ Yeah, so many. But as soon as you go to the big companies, you also have to look at privacy. And
+
+00:08:57.760 --> 00:09:02.320
+ yeah, how do you train the people? So it's a bigger project, but there is a lot of money in
+
+00:09:02.320 --> 00:09:08.240
+ it for sure. No, yeah. And if you go to deploy like an open source, like open weight model,
+
+00:09:08.240 --> 00:09:15.040
+ locally, like and you it's then you don't have like, yeah, like, it's fucking huge product.
+
+00:09:15.040 --> 00:09:20.640
+ That's like the videos you see online and like people buying 500 Mac minis. And if they are
+
+00:09:20.640 --> 00:09:25.200
+ sold out, they just buy MacBook Pros. Yeah, there's so many opportunities, right? Bro,
+
+00:09:25.200 --> 00:09:29.360
+ we need to print. We're getting hyped. But yeah, and you can do that, for example, for content,
+
+00:09:29.360 --> 00:09:35.600
+ right? You run ads, you have a you run like you spend 100k on ads, I have my AI process,
+
+00:09:35.600 --> 00:09:41.680
+ you don't even have my SaaS, but I'm using my SaaS for myself, I run ads for you, you spend,
+
+00:09:41.680 --> 00:09:49.680
+ you cut the cost by 50%. But you get 200% better result. Yeah. And I get 20% of the savings.
+
+00:09:49.680 --> 00:09:55.520
+ That's, that's perfect. And and it's not even the usage, the usage is not even it's on me,
+
+00:09:55.520 --> 00:10:00.480
+ I pay for the usage, I you don't pay for the seats, you can just have an access to a dashboard
+
+00:10:00.480 --> 00:10:05.200
+ or whatever. But like, oh, you can even connect it to your own chat TPT, you get you get it,
+
+00:10:05.200 --> 00:10:10.240
+ you get all of the data, drop down. Well, I think we are going towards sort of such systems.
+
+00:10:10.240 --> 00:10:18.320
+ Yeah, it makes sense. And then also, like it will empower the experts in every domains to
+
+00:10:18.320 --> 00:10:26.240
+ develop and increase their expertise. And the level of delivery and output will increase.
+
+00:10:26.240 --> 00:10:31.760
+ Thanks to AI. So subscribe and watch the next video. And that's a wrap. Thank you.
+
+00:10:31.760 --> 00:10:33.760
+ Cheers, everyone. Bye bye. Bye.
+

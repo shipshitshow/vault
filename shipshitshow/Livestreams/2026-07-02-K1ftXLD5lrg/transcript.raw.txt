@@ -1,0 +1,1534 @@
+And we are live. Let's go.
+&gt;&gt; Yes, hello, hello.
+&gt;&gt; Hi Mitchell. How are you doing?
+&gt;&gt; Oh, it was delayed. I was still waiting
+on a YouTube, but now it's now it's
+counting down. Perfect.
+&gt;&gt; Oh, okay. So, but it works. We are live.
+We are live live. People enjoy it. And
+comment and subscribe.
+So,
+&gt;&gt; Everything.
+&gt;&gt; How's your week?
+&gt;&gt; Uh busy.
+&gt;&gt; Yeah?
+&gt;&gt; Again.
+&gt;&gt; Yeah.
+&gt;&gt; Testing, building, watching for the new
+versions, waiting on Fable, but we got
+surprised.
+&gt;&gt; Yes. I mean, it was like 4 months ago
+that they released like Sony 4.6. So,
+yeah, I would think.
+&gt;&gt; Yeah.
+&gt;&gt; Possible thing.
+&gt;&gt; We got a new one.
+And it's better, right?
+&gt;&gt; Oh, yeah. The Yeah, Sony Sony 5. Yeah,
+so
+yeah, we're going to talk about that,
+but like
+yeah, I like it. I I like Sony and even
+like uh
+it changed the workflow. And even this
+week with like the all of the automation
+and stuff that I set up, don't I I run
+the task on
+uh Codex
+&gt;&gt; Mhm.
+&gt;&gt; and GPT 5.5 and stuff. And excite
+because they always reset it. So, I'm
+just like boom boom boom. And I have to
+use the limit credits, too.
+&gt;&gt; It [snorts] feels like we got like six
+accounts this month.
+&gt;&gt; Yeah, exactly. And
+um so, I I I build with 5.5 XI
+&gt;&gt; Mhm.
+&gt;&gt; and I review with Opus 4.8 Ultra code,
+whatever. So, all of the PR are getting
+reviewed by Opus.
+&gt;&gt; Mhm.
+That's awesome. Yeah. So, what are we
+going to talk about today?
+&gt;&gt; Okay, yeah, yeah, okay, okay, okay. Bro,
+like you are invited.
+&gt;&gt; We can do the intro. Yes.
+&gt;&gt; Oh, yeah.
+&gt;&gt; [laughter]
+&gt;&gt; Okay, so let's do the intro and then I
+can
+for the video is going to be good. Okay,
+cool.
+Um
+Okay.
+Fiber 5 is back. Woo. Wait, wait.
+&gt;&gt; Fireworks.
+&gt;&gt; That was loud. Fireworks,
+fireworks, what do we do fireworks?
+I forgot.
+&gt;&gt; [laughter]
+&gt;&gt; Uh puff puff puff puff. Yes. Oh, that's
+loud as [&nbsp;__&nbsp;]
+Oh, yeah, okay. So,
+&gt;&gt; [laughter]
+&gt;&gt; Fiber 5 is back and we also got a little
+surprise from the little brothers Sony
+5. And
+if you read the timeline it said that a
+good model or it said that like
+expensive. So, we're going to discuss
+about that because yeah, I'm I'm not
+sure personally. Have you checked the
+prices?
+&gt;&gt; Uh no. I use everything within a
+subscription and I didn't update my APIs
+yet.
+&gt;&gt; Yeah. Yeah. So, yeah.
+Is that really the model that everyone
+was expecting? Probably not, but we got
+it. We're going to use it. And
+tomorrow like Fiber 5 will come back
+soon enough so we can burn even more
+token.
+But
+how is that going to match on our on our
+workflow automation and workflow that we
+have set up? We are going to see that in
+that video. So, subscribe, like the
+video, comments, and thank you.
+Woo. Right. Okay.
+Nice.
+Uh okay. So, Fiber 5.
+&gt;&gt; Yeah. Do you think that when Fiber comes
+back it's directly just API only?
+&gt;&gt; So,
+yeah, they talked about that in the
+announcement, too.
+But for Fiber 5 it will No, no, it's
+subscription, but they're going to stop
+it. They're going to give us a few days
+to test it on a subscription and it's
+going to be only 50% of the subscription
+max that way you can use Fable.
+&gt;&gt; Yeah. So, it's a bit like drugs again.
+Here is a little bit, use it.
+&gt;&gt; Exactly. There is so many children again
+for Fable 5. It's nuts.
+&gt;&gt; Yeah.
+&gt;&gt; But okay, so first
+the little brother Sony 5.
+Okay, so same design, same logo. Okay,
+that's cool.
+Which is Okay, that I like.
+The benchmark again for Sony 5
+against 4.8.
+That's cool because it's almost the same
+thing and
+from 4.6 to 5 we got from Agile coding
+like the terminal bench 2.1 from 67 to
+80%.
+&gt;&gt; That's a lot.
+&gt;&gt; That's insane. And yeah, the other
+benchmark Okay, it's a lot. Whatever
+computer use cool and knowledge work.
+Yeah, knowledge work it's even above
+4.8.
+&gt;&gt; Yeah, but just a little little bit.
+&gt;&gt; Yeah.
+&gt;&gt; Nothing too big, but
+&gt;&gt; But the pricing
+cloud
+pricing
+tag
+path
+Let's go.
+Okay. Nope, not this one.
+&gt;&gt; Nope.
+Different pricing.
+&gt;&gt; pricing API
+tag
+Okay, yeah, let's go.
+Tag tag I'm going to do.
+but
+Okay.
+Tag tag. So,
+4.8 is 5 in
+and
+&gt;&gt; 25 out
+and Sony 5 okay, so until August 31st,
+two in and 10 out.
+For the same benchmark.
+&gt;&gt; Yeah.
+That's that's a lot cheaper.
+&gt;&gt; Yeah.
+&gt;&gt; And after that it's going to do
+&gt;&gt; 15
+&gt;&gt; 50% on top.
+&gt;&gt; Yeah.
+So
+&gt;&gt; By September 1st, we will have like
+Sonet 7 if it's going in this base.
+&gt;&gt; Yeah, could be too.
+&gt;&gt; [laughter]
+&gt;&gt; But
+yeah, like
+It's from now that's that's great. And I
+mean okay, so that's the price of the
+the model itself, but
+&gt;&gt; What is the difference in price with the
+previous Sonet?
+&gt;&gt; Uh
+&gt;&gt; So the 4.6.
+&gt;&gt; Yes.
+&gt;&gt; How much more expensive did they make
+it?
+&gt;&gt; 4.6
+So three in and 15 out. What?
+&gt;&gt; Yeah, that's the that's the same price
+for five. So you can just update your
+API to five and pay nothing additional.
+&gt;&gt; Yeah, it's even Yeah, okay.
+&gt;&gt; Because of the discount they give you.
+&gt;&gt; Yes.
+&gt;&gt; So if you have an API, update it.
+Put it on five.
+&gt;&gt; We do that. But also
+That's the pricing per token, but it
+depends of the how many token the model
+is using to do a task.
+&gt;&gt; Yes.
+&gt;&gt; So
+yeah, because A cool is like one in and
+five out, but I know I never use A cool.
+Like it for with open clue A cool was
+just to do the heartbeat.
+&gt;&gt; Well, I tried it and it gave me
+such bad results that I skipped it after
+30 minutes of testing.
+&gt;&gt; I know exactly. Like nobody's using A
+cool whatsoever, right? Uh
+But again, like yeah, if you have a big
+task with Sony.
+And
+um
+it take less token to use than it can be
+even cheaper than some open source model
+that are way cheaper per token, but it
+take 45 minutes to do a task that it
+will take 5 minutes to do Sony and burn
+like 10 times more tokens. So,
+yeah, those those benchmark are tricky
+and it needs to be output based. But,
+how do you measure the input anyway?
+&gt;&gt; Well, you have to do the exact same
+prompt for each model, right?
+&gt;&gt; Um
+&gt;&gt; So, you make like a small easy prompt
+and then you go bigger like you have 10
+and you try all 10 of them and see how
+many tokens they use.
+&gt;&gt; Yeah, but the problem with that is like
+once we have a
+the the the test where the model can be
+trained on, then it will perform way
+better on that
+&gt;&gt; Yeah.
+&gt;&gt; test and then it's fixed. So, yeah, it's
+&gt;&gt; But, that's in every test.
+&gt;&gt; Yeah, I know exactly.
+&gt;&gt; for that one.
+&gt;&gt; Yeah, exactly. And so, that that's
+really tricky based on
+uh yeah, like those those benchmark are
+tricky. That's why we need to test it
+for your own code base and like
+implementation. And even from one code
+base to an another, like for example
+from a yeah, JavaScript mono repo to a
+PHP project, I don't know how the AI
+uh
+are reacting to it differently. Because
+historically, maybe there is more PHP
+code and also maybe not.
+&gt;&gt; Yeah, well, it depends a lot. It also
+depends do you have a framework that he
+knows or do you have something
+completely custom built? Do you have
+documentation in it?
+Adding um explanation in your files
+helps a lot.
+&gt;&gt; Yeah.
+&gt;&gt; Because I've noticed that if you put
+explanation in your files above your
+function, it reads it first and if it
+understands that it doesn't need the
+function, it doesn't read it. It just
+skips it.
+&gt;&gt; Mhm.
+&gt;&gt; So, that saves some time and and tokens.
+&gt;&gt; Oh, so you have an inline document like
+you a GS Docs or PHP Docs stuff now?
+&gt;&gt; And just say, "This This function is
+used for new clients, and this function
+is used for existing clients." So, then
+it knows what function to use.
+&gt;&gt; Also, code is low for real.
+Uh And you don't have the same
+documentation inside the MD files?
+&gt;&gt; Yeah, I do.
+&gt;&gt; Okay.
+&gt;&gt; But, then it doesn't always I don't
+know. It doesn't always read your MD
+files.
+&gt;&gt; Yeah. No. No. Like I I have an issue
+with Okay, so Codex I'm fighting against
+the Once the session is done, open a
+pull request, commit, push, and pull
+request. And Claude is
+uh
+today wiped out my work trees.
+I say, "Oh, yeah, clean those work trees
+in that project." And it clean it went
+to clean the other project too. And it
+said,
+&gt;&gt; Yeah.
+&gt;&gt; "Bro, what the fuck?"
+&gt;&gt; [laughter]
+&gt;&gt; Yeah. I had some spare time and spare
+tokens, so I did everything.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; [laughter]
+&gt;&gt; Uh yeah. So, yeah, it's still tricky.
+But, uh like we're getting really really
+powerful models like uh
+Do you ever look at the code anymore
+still?
+&gt;&gt; I do at the end. I check it.
+&gt;&gt; Okay.
+&gt;&gt; But, I still do even I don't only use
+Opus for uh reviewing. I still have
+Codex 5.5 finding issues that Codex of
+uh that Opus doesn't find.
+&gt;&gt; Okay. Yeah, I mean like both
+models are good working together. Like
+again, so
+this week I've uh so I I kept set up
+those automation in Codex and the Claude
+desktop app.
+So, now I have um
+implementation like features
+implementation taking from GitHub every
+2 hours and I have a
+pull request review every 6 hours and
+then it merge to master and I'm I'm
+about to put a auto deploy
+to production
+later this week maybe.
+And because yeah, like okay, green up so
+it's different. But so there is that and
+um I also have like a routine of
+refactoring and dry the code because
+we have a lot of slope in the app so
+those three those routine are required.
+But
+yeah, it's good and I didn't burn my
+cloud subscription in 2 days this time.
+So that's a win.
+&gt;&gt; Yeah, I'm doing my best but I'm only
+able to burn it fully.
+&gt;&gt; Yeah.
+Run automations.
+&gt;&gt; Yeah. I'm still looking for I've been
+seeing on the timeline some posts about
+Grok.
+&gt;&gt; Oh yeah.
+&gt;&gt; How they are training it right now using
+Grok to train it and installing and and
+I know
+yeah, all these companies.
+&gt;&gt; Yeah.
+&gt;&gt; So I'm really looking forward
+to see the next model because I didn't
+test it yet.
+&gt;&gt; I mean 1.5 trillion parameters that's
+going to be fun.
+And uh there is a play maybe for Elon
+Musk to launch Grok as a or even like
+another model like he he can just redo
+something else but open source.
+&gt;&gt; Yeah, but he has so many things that he
+can
+have the AI learn like every car is
+giving data, every Grok user is giving
+data. I think Cloud and OpenAI are
+behind on the amount of data that they
+are inputting.
+&gt;&gt; And and he has the compute and energy to
+power a big gigantic model stuff.
+&gt;&gt; He is already given Cloud some of his
+resources, so
+&gt;&gt; So, yeah.
+&gt;&gt; I do think he has some spare left then,
+right?
+&gt;&gt; Mhm.
+And and again, like if it's an open
+source model, that that would be fun.
+&gt;&gt; Yeah.
+&gt;&gt; Because that yeah, we're going to talk
+about like I think next week if we don't
+have a 5.6 by then, we should definitely
+do the open source model
+uh uh live stream video and
+um
+like GL
+GLM 5.2, it's really good, but
+&gt;&gt; [laughter]
+&gt;&gt; if you want to run it at home, you need
+a half a million hardware to run that.
+&gt;&gt; Yeah. Well, 5K should be enough, but
+still.
+&gt;&gt; Yeah, so
+&gt;&gt; And then, I think even when you set it
+up
+when you when you buy the hardware, you
+still need some IT knowledge to set it
+up.
+&gt;&gt; No, exactly. But I
+No, it's it's not like those open source
+model are getting getting like crazy.
+So, then
+that means you need to pay API keys, API
+pricing for those models.
+But then that means you also depends of
+like
+AWS Bedrock and whatever to run them on
+open router. That means if
+the US wants to
+forbid you to use an open models from
+China, then
+&gt;&gt; it just blocks them.
+&gt;&gt; Exactly.
+&gt;&gt; Yeah, like they did now with Fable 5.
+&gt;&gt; Yes.
+So, that's fun. Like
+&gt;&gt; So, I still think at home having your
+own almost data center in the corner of
+your room with like three fans blowing
+at it so it doesn't overheat, it's a
+good solution, but it's not as easy as
+download, install, and ready to go.
+&gt;&gt; Yeah, and what are you going to run on
+it?
+&gt;&gt; Uh
+I have been researching people sell You
+see a a of posts, people selling their
+computer online.
+&gt;&gt; Mhm.
+&gt;&gt; Oh, really?
+&gt;&gt; And then earning money by having other
+people use their RAM and their
+resources. But also that that's not
+working as they tell you in the post.
+&gt;&gt; No way. What What What a surprise. You
+[laughter] read your next article and
+half of it is [&nbsp;__&nbsp;]
+&gt;&gt; Yeah, yeah, yeah, for sure. You see the
+Have you seen the videos where they have
+like
+where they are saying we had a full data
+center of Bitcoin miners and we
+converted everything to AI token usage
+so that people can rent out and now we
+are doing a 5x compared to Bitcoin
+mining. Well, I researched it and I
+don't know how they do the math, but
+they didn't use AI for it because it's
+wrong.
+&gt;&gt; Oh, yeah.
+&gt;&gt; It's like the
+Yeah, the most optimal
+idea that you can have like 100% of the
+time having a good price, not people on
+the cutting you and everything.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, that's when you make the money,
+not in real life.
+&gt;&gt; Yeah, yeah, something like for Bitcoin
+miners, right? Like you need to have a
+electricity deal with like
+your national provider to be worth it.
+&gt;&gt; Yeah, it's it's not possible for a
+normal person with his with his standard
+house.
+&gt;&gt; 100%. And look
+what I found
+on the timeline from Theo
+versus Alex Finn.
+They were talking about Sonic. It
+happened. Cloud Sonic 5 released
+dominated over 4.6 almost
+a fraction of the price. Theo tweet, a
+fraction of the price? I guess 1/3 of
+1/2 is the definition of fraction.
+&gt;&gt; [laughter]
+&gt;&gt; It is the other way around.
+&gt;&gt; Yeah, so that's exactly that kind of
+content that make people read, but yeah.
+&gt;&gt; Yeah, people read it, people don't
+think, and then they go and use it.
+&gt;&gt; Yeah.
+&gt;&gt; And they will never post online that
+they were the ones overpaying because of
+&gt;&gt; I mean, that that's quite uh that
+happened with Alex when uh he talked
+about open models uh on his live stream
+and stuff.
+He
+um he create content about them and it's
+good it brings people in and stuff. But
+then like
+you you check the next live stream and
+say, "Oh, yeah, by the way, my brain is
+closed." Okay, cool. Cool, bro.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, so and then you you buy hardware
+of like, yeah, he he spend like uh 50
+grand on DGX and like two Mac Mini to
+like
+um
+use
+models that have been like 6 months old,
+but you can't do [&nbsp;__&nbsp;] with that. It's
+not even like Sonnet 3.5
+of intelligence.
+&gt;&gt; And for running it locally, that's not
+enough. You need to have external APIs
+that are now burning a lot of tokens,
+connect them to your locally set up. But
+then you have to set up additional
+VPN tunnels or whatever to make it
+secure.
+And nobody can do that like two clicks.
+&gt;&gt; Exactly. And that's what Okay,
+we are definitely doing the next week
+live stream. But uh
+Amazon Bedrock.
+Like you need a EC2 instance {slash}
+Bedrock to run any models and to be a
+bit like uh
+open source {slash} uh you own the
+models and you own the setup. But you're
+still going to pay a few grand amounts
+to
+&gt;&gt; Yeah.
+&gt;&gt; for that kind of intelligence. And if
+you put few grand amounts on Bedrock,
+then maybe it's better to pay a few
+subscription on Cloud.
+&gt;&gt; Yeah, of course.
+&gt;&gt; Yeah. So
+yeah, like the next few months, like the
+next 12 to 18 months will be insane.
+Like it's it's going to be fun.
+&gt;&gt; Yeah.
+&gt;&gt; But okay, should we go back to
+&gt;&gt; This Sonnet 5.
+&gt;&gt; Yes.
+&gt;&gt; Uh [snorts] puff puff puff. So yeah,
+benchmark good. We we like big numbers,
+that's fine. Uh working with Cloud
+Sonnet. Okay, so here cost per task. Um
+Opus 4.8, Sonnet five. This this schema
+is like this chart is bit weird because
+it shows that Sonnet is more expensive
+and a little bit more efficient but it's
+almost the same [&nbsp;__&nbsp;]
+&gt;&gt; Yeah. Well,
+indeed, it's weird.
+&gt;&gt; Yeah. Yeah.
+But
+um
+with Fable five, like if we can compare
+to Sonnet five, Opus 4.8 and Fable, that
+should be
+a more interesting chart, I think.
+&gt;&gt; Mhm.
+&gt;&gt; Okay, also also also, let me come back
+to that. Okay. So, with Sonnet five,
+it's
+uh
+Sonnet is used if you run Ultra code for
+with Opus 4.8 and Fable, but Ultra code
+with 4.8 use Sonnet is the sub agent
+that Ultra code is calling.
+&gt;&gt; Also the 5.0.
+&gt;&gt; 5.0 like uh
+&gt;&gt; Yeah, they're the version five.
+&gt;&gt; Yes, yes. I I hope I think it does
+because uh Sonnet is the default model
+now. Like uh Sonnet five. So, you burn
+on tokens for 4.8 and then you burn
+token for Sonnet five, which is like
+okay, not the same price as 4.6, we just
+saw it. But
+uh yeah, that's
+then if it if it's not efficient enough
+and it burn more token than 4.6, then
+Ultra code 4.8 is going to be expensive
+as [&nbsp;__&nbsp;]
+&gt;&gt; Yeah, well, it feels like it's draining
+your money because as soon as you set it
+up and you see oh I'm deploying six
+agents, then it's deploying 12, then it
+goes to 48, and before you know you're
+over 200 agents.
+&gt;&gt; [laughter]
+&gt;&gt; Yeah, each one taking your money saying
+thank you and running away.
+&gt;&gt; Yeah, exactly. But at least the task is
+done somehow.
+Maybe.
+Yeah.
+&gt;&gt; [laughter]
+&gt;&gt; Uh so yeah, those like again but that
+you can't
+you have to try it yourself and with
+your own workflow even from one day to
+another then it's a different workflow.
+But all of those orchestration
+um
+uh all of those orchestration will
+matter a lot especially where we are
+going to um
+pay the real price of a token because
+right now we are like uh
+the price is subdivided by five
+basically.
+And uh
+Hi Alex.
+&gt;&gt; is cheap.
+&gt;&gt; Yes, exactly. But uh we don't because we
+don't pay the real price. Okay, so
+Alex, thank you for your comment on
+Twitch. And uh how is it compared to
+4.8? That's the uh
+chart we just uh passed by.
+Um
+So 4.8 is in yellow and Sonnet 5 is on
+uh in orange and uh this is that's the
+price. And like the the price Okay, so
+wait.
+Uh
+Hm.
+Wait, maybe Okay, maybe I was reading it
+wrong because
+it's cheaper, right?
+&gt;&gt; Yeah.
+&gt;&gt; Cost per task. So it's way cheaper than
+4.
+uh
+&gt;&gt; It It is not comparable with low and low
+and medium and medium. You have to run
+uh Sonnet high to get Opus low results.
+&gt;&gt; You have to run Sonnet Okay, yes, okay.
+Yes, it's cheaper. Yes, okay. It's
+cheaper. But yeah, again, so the task
+while you run again like the the task
+that you run the models against matters,
+too, because it
+based on the token and efficiency run to
+execute the task.
+So, even that those
+by effort level, yes, okay, fair enough.
+If the task So, the task need to be the
+same.
+And then you can compare the tokens.
+It's fast as [&nbsp;__&nbsp;] so that's why I like
+Yeah, I agree with that. It's It's
+definitely
+faster than Opus.
+Which reasoning are you using, Alex?
+Axel, sorry. Axel.
+It's looks here.
+Okay, yes. And yeah, so that's like
+So, did you change like Mitchell, did
+you change your
+Did you change your workflow
+with Sony from 4.8 to Sony 5?
+&gt;&gt; [snorts]
+&gt;&gt; I did for the lesser
+difficult problems because indeed it's
+going a lot faster. It feels like you're
+actually chatting with a real person
+instead of getting all those annoying, I
+know better and sorry, I made a mistake.
+It goes really smooth.
+But, every time I give Opus 4.8 Ultra
+code a task and that was what I was
+doing up until yesterday,
+I could grab two coffee
+&gt;&gt; [laughter]
+&gt;&gt; before it was done.
+&gt;&gt; But, don't you feel that if it's
+reasoning higher and it takes more time,
+then you the output will be better
+because
+&gt;&gt; Yeah.
+&gt;&gt; took time to think?
+&gt;&gt; I hope the output will be better, but
+sometimes I just want to see in between
+what it's doing. I want to see small
+results before I wait like 30 minutes
+and create something and I am like,
+yeah, I didn't mean it way. Because it
+still does some weird things sometimes.
+&gt;&gt; Yeah, I know cuz it sometimes is going
+like woo, it's just completely like
+that's not what I asked, bro.
+&gt;&gt; Yes. And then you have spent like a lot
+of tokens and 30 minutes of your time.
+&gt;&gt; And look at Mitchell like Alex is has
+five max 20 x subscription.
+&gt;&gt; [laughter]
+&gt;&gt; So
+&gt;&gt; Alex has like 10 Mac minis all working
+all the clock.
+&gt;&gt; That's not Alex, that's Axel.
+&gt;&gt; Oh, sorry, Axel. Yes.
+&gt;&gt; Yeah, I I said I said wrong, too.
+But okay, Axel, like what are you
+building with like five subscription? Do
+you have a team? Do you have a company?
+Are you talking maxing in the in the
+wind?
+&gt;&gt; Yeah.
+&gt;&gt; I want to see the output of that.
+&gt;&gt; And I hope you're not doing it manually
+giving prompts all the time. I hope it
+all just loops.
+&gt;&gt; I have a startup, yes. Let's go.
+Uh Axel Ericsson
+defense tech. Ah, makes sense.
+That makes sense.
+What's the name of the startup? You can
+chill You can chill the chat because
+there's a lot of people, so
+I want Let's Let's see Let's see the
+homepage.
+Um defense tech, yeah. Well, actually no
+[&nbsp;__&nbsp;] you're burning the five
+subscription. Oh.
+&gt;&gt; Yeah, yeah, and always using ultra
+codes, then I guess.
+&gt;&gt; industry
+industries
+industries I'm just going to check it
+offline. Ooh, that's cool.
+Wow.
+Okay.
+Uh tech path
+chat tabs
+noise
+van industry
+&gt;&gt; It's awesome that you can just build a
+company using cloud code.
+&gt;&gt; Oh, yeah. I mean I have not one, but
+like uh
+uh 20
+Yeah, but I mean like
+&gt;&gt; I don't think Axel is uh building more
+company that if it's defense tech that
+that's uh
+You can be focused on that.
+CNN space space contact
+uh uh
+carrier
+Build the things you join the industry.
+What what what what? Build the things
+you join the industry to build. Build
+the things you join the industry to
+build. Ah, that's cool.
+Uh,
+okay. Where is the Okay, good. One
+person on Tuesday. Not fair. Okay.
+Axel Oh, that's you. Founder Okay. Open
+Okay. Okay. Okay. So, what's the state
+of the startup right now? Like, uh did
+you raise money? Like, what what are you
+doing?
+&gt;&gt; Well, yeah. And just to say it's not
+100% cloud code. We get that, but it
+helps a lot.
+Yeah.
+&gt;&gt; I mean, like, in defense tech
+uh if you you have to be you have to
+have good skills if you
+&gt;&gt; Yeah. Don't just trust anything cloud
+tells you. You need to know what you're
+doing and check it.
+&gt;&gt; I mean, I I hope Axel is know what he's
+doing if he's working in that kind of
+industry because I can I can push bugs
+in production. I can fix them fast,
+right? Uh, if it if it's plane off start
+shooting stuff that's a that's another
+problem.
+&gt;&gt; That's a then a bug is a big problem.
+Yeah.
+&gt;&gt; Nice. I have a lot of previous venture.
+Okay, nice.
+&gt;&gt; It's really cool to see that people are
+using so many cloud code subscriptions
+and just
+build something insane.
+&gt;&gt; Exactly.
+Uh, I'm talking with investor right now,
+but I'm also funding a lot of myself. I
+will
+&gt;&gt; Yeah, that's awesome.
+&gt;&gt; I've had a lot of uh awesome.
+Thanks for joining us, Axel.
+How did you find us? Just because of the
+title on Twitch? That's cool.
+Uh, but yeah, thank you for being in
+chat with us.
+Okay, and
+do you Sony Sony 5 in the planes that
+you're building right now? Like
+I believe the future in AI, yeah.
+It's a whole lot faster, yeah, in the
+future in AI. It's a whole
+&gt;&gt; Yeah, we are just in the beginning. It's
+going to get so much faster, better.
+&gt;&gt; Yeah.
+&gt;&gt; And
+I don't think eventually you need to
+think about coding yourself anymore.
+Really looking forward to see what we
+can do by the end of the year.
+&gt;&gt; Yeah. Uh yeah, like that's why like
+having those systems
+&gt;&gt; in place right now
+to work with the models like in 6
+months, that's
+that's why yeah, it's it's going to be
+it's it's more even more important that
+what you build right now. But like
+yeah, again with like some good
+automation and some like routines
+automation and some well-defined PRD,
+you can build a web startup like pretty
+fast.
+Uh
+chat Cerberus to see the speed of the
+future. They build some special ships.
+That's cool.
+Cerberus AI um
+I think I heard about it.
+&gt;&gt; Yeah, we will check that after the show.
+&gt;&gt; So
+right right
+&gt;&gt; Maybe that's his other startup.
+&gt;&gt; Yeah. [laughter]
+No, no no no I mean they got bought by
+Wait, no. Wait
+back back
+Yeah, the first that I think trans like
+yeah, they're building
+chipsets, yes.
+chips
+Okay, I forgot what it is, but I already
+saw this name on Twitter. I don't know
+what they do. Um okay, cool. So, where
+we
+we went like woo, it's going to be it's
+going to be tough.
+&gt;&gt; [laughter]
+&gt;&gt; We were talking about just about Sony 5.
+&gt;&gt; Yeah, check out the chat link to see the
+speed of the thing.
+Okay.
+Um okay, so Sony five and yeah, okay,
+fiber five fiber five
+like one minute
+chance.
+Okay,
+I'm curious.
+Thank.
+Oh, wait. I have the W first.
+Oh, okay. Meet instantly. Okay, okay.
+Give me okay, later later later bro.
+Okay, so
+we're deploying fiber five back
+path path path blog post. Okay, so this
+one is like I hate those shenanigans
+from Entropic.
+But look.
+Like thank thank thank.
+On Friday, June 12th, the US government
+apply export control. Okay, so that's
+what happened before. As of today, June
+30th, the export control on fiber five
+emitters and been has been have been
+lifted. So yeah, cool. It's coming back.
+Fiber five will be available starting
+tomorrow, Wednesday, July 1st to Okay,
+so basically today.
+Um.
+Probably US time. So they're sleeping
+right now.
+Uh, so okay, so yeah,
+clearly for pro max team and select
+enterprise fiber five will be included
+for up to 50% of the weekly usage limit
+through July 7th, after which it will be
+available via usage credit.
+[&nbsp;__&nbsp;] them.
+Well, it is just a full week of of
+maximize uh Not maximize. 50% maximize.
+Yeah, but still every day you need to
+use the full 50%.
+Yeah, but No, but no no no, on a weekly.
+So you get 50% of your weekly stuff that
+will burn your whole subscription. Like,
+Axel will buy 10
+accounts.
+&gt;&gt; Yeah, yeah, but make sure you max what
+you can do because afterwards it will be
+paid and Fable was good last time.
+&gt;&gt; Yeah, I know exactly. But like
+for what the cost is, again, I will I
+will drop all of my pull requests and
+like all of the stuff, but like the
+review, I want the execution to be done
+with like 5.5
+Opus or Sony 5, whatever, and then have
+those uh big models to review them
+because I think the iteration and like
+the
+implementation is better when you use
+that the cheaper model first and then
+the review
+uh with the final result and what you
+want to push at the end with like a big
+gun model.
+&gt;&gt; Yeah. Well, that's what I did last time
+in a few days that we had Fable. I had
+Fable check all my projects and only
+write documentation on what was wrong,
+what we had to improve, and how to do
+it.
+And after Fable was banned, I just had
+Opus build everything.
+&gt;&gt; Yeah. Uh that's cool. Yeah,
+I should drop them into the ship ship
+game stuff.
+Uh that would be fun to see what it go
+it goes. Uh
+&gt;&gt; Don't burn your tokens on something
+you're not going to use.
+&gt;&gt; True.
+But just for the for the for the little
+But yeah.
+Um also, GPT-5 is coming up in the next
+weeks and has been benchmarked to quite
+a bit better than 5.5. That's true. So,
+like [snorts] those regulation stuff,
+like the US is becoming like the EU.
+As well, like
+&gt;&gt; For as long as the companies are are in
+the US, as soon as you get a better
+competitor
+outside the US who does release it,
+then who who might know what is going to
+happen.
+&gt;&gt; Well, that's why like models like GLM
+5.2 are good for the US to push them
+into the like the competi- like the
+competitiveness of like I just let those
+models
+get out because you're going to get
+caught up by Chinese open source guys.
+&gt;&gt; And eventually, even if China makes a
+big model and says the US does not
+deliver, we do.
+Imagine how many people just use the
+Chinese model.
+&gt;&gt; Exactly.
+Yeah, I know
+quite a way. Like even for the videos,
+so I've I've generated like some UGC
+videos with like those Chinese model
+like the students
+&gt;&gt; [clears throat]
+&gt;&gt; two.
+Can't wait for three.
+Um
+So, I don't like it was basic prompt and
+just testing, but
+at some point like the voiceover was in
+Chinese.
+&gt;&gt; [laughter]
+&gt;&gt; And
+because I didn't specified any text in
+English. And but like the the the speed
+of like generation and like the quality
+of the video, like that was not. So,
+yeah, students is a bit different, but
+uh
+Like you you can imagine an
+orchestration between open source
+models, open weight model, and close
+model. That would be definitely
+interesting. Basically, what's Alex
+thing was doing at the end of the day.
+And from Axel again,
+I'm mostly waiting for the Chinese open
+weight model to become really good since
+that would be
+very helpful. Yeah, I I think
+that's clear. Like
+honestly
+there there is there is a world when you
+use all of them anyway.
+&gt;&gt; Yeah, at least combine them to find the
+stuff that the other one is missing.
+&gt;&gt; Exactly. And like I mean we we we say
+that's
+um
+like 6 months ago when we um
+when we were talking about yeah, like
+imagine
+open open source model will
+give us like ChatGPT 4.5 etc. We still
+didn't use any of them.
+&gt;&gt; No.
+&gt;&gt; And we are the we are we there but uh um
+I will also be buying a lot of RTX Park
+chips for the local AI usage possibility
+when they come out. Yeah, uh do you
+follow Alex Finn on X and
+YouTube because you're going to like his
+content.
+Um okay, so
+that I don't think there is anything on
+on the article that was
+talking about now.
+Um is Fiber 5 already released to
+public? Okay.
+&gt;&gt; just going to cost a lot of tokens if
+you want to use it after a week.
+&gt;&gt; Yes. No, yeah. I'm I'm not using Fiber 5
+VIP that's not
+&gt;&gt; No.
+&gt;&gt; okay, so I'm going to drop Alex Finn
+channel
+in the chat.
+Thank you.
+Okay, so yeah, Axel, you can check the
+Alex Finn YouTube channel and is Fiber 5
+released to public? Not yet. It's coming
+in the next few hours.
+Just in Europe we are like a Wednesday
+first but in the it's US time and it's
+coming up today. So
+just wait.
+And uh buy a new sub a new sub.
+&gt;&gt; Yeah.
+&gt;&gt; Or wait for 5.6 or 2.4.
+&gt;&gt; have enough.
+&gt;&gt; Uh
+No, uh okay, so I'm French but I live in
+Malta because
+French friends are
+crazy country. I can win that. Win that.
+Win that.
+We're going to win the World Cup but
+other than that can't work in there.
+Um okay, so reaction from the timeline.
+Thanks. Thanks.
+Okay, so see you
+talking about a little bit of Alex Finn.
+But, uh big Okay, so
+uh
+that Febel 5 will be included 50% of the
+weekly. So, yeah, we already see talk
+about that.
+Um we were actually going to get 100%
+usage from June 9th to June 23rd. Uh 15
+days. Instead, we get 100% usage for 3
+days and 50% usage for seven.
+&gt;&gt; Yeah. And then still it has to be
+released because I don't have access
+yet.
+&gt;&gt; Yeah, true.
+&gt;&gt; If you're in the last batch of getting
+access, then you you lose a lot of days.
+&gt;&gt; No, it's it's going to be nuts. Um
+Tropic plans to bring back Febel 5
+tomorrow. They're making us wait. Okay,
+so yes, that was the later that uh
+where we got the news first.
+Um so, that's it, I think. Uh film about
+Open AI. Yeah, okay.
+That That the comparison between Febel 5
+and 5.6 will be definitely interesting.
+&gt;&gt; Mhm.
+&gt;&gt; Um
+&gt;&gt; And then it's good to see it from other
+people and not just their own
+benchmarks.
+&gt;&gt; Yeah.
+Uh you're you're sweating, bro. Okay, so
+sorry about that, but uh we're go we're
+going to bring the the cup at home.
+&gt;&gt; [laughter]
+&gt;&gt; Uh okay. Puff puff puff. Okay, yes. Uh
+artificial analysis uh Claude Sony uh
+I I
+What? Achieves the 53 of the artificial
+analysis intelligence index, but with a
+promotional pricing will cost more per
+task than 4.8.
+Um
+number of fifth models on the artificial
+analysis intelligence index, which is
+not because it's a Sony model.
+It's crazy.
+&gt;&gt; Yeah. And then still imagine what we had
+had like 6 months ago.
+&gt;&gt; Yeah, exactly. No, it's it's it's
+insane.
+Uh Max effort Sony works harder than
+previous Anthropic model. It used 40%
+more output token per intelligence in
+this
+Okay. And three x the agentic stones for
+knowledge work evaluation.
+Yeah, okay. That's That's See, that's
+the actual That's why it's not that
+cheap.
+&gt;&gt; No.
+&gt;&gt; Yeah. I mean, maybe it's because of the
+lunch.
+Uh,
+could fine-tune those
+They could fine-tune post-training on
+the Anthropic side, but yeah.
+Um, yeah. Like
+I mean, if we get more intelligence, I
+don't know. Like the workflows from 4.8
+and Fable 5 that they're using in
+neutral code mode will be interesting
+for that because I Yeah, I'm going to
+build my subscription like crazy again.
+Yeah. I don't know, man.
+Uh, Claude 2.5 cost more per task than
+4.8 before accounting for push
+promotional pricing.
+Uh, 2.5 cost 2.29 per task on the
+intelligence index a two x increase
+compared to 4.8
+4.6.
+Yeah.
+Yeah. I mean
+&gt;&gt; That's a big difference if you compare
+it to the chart, right? Even gives you a
+discount at this moment.
+&gt;&gt; And 50% more than Claude Opus.
+4.8.
+Yeah, okay. It's cheaper than Fable 5
+basically.
+Look sick.
+Uh, this is driven entirely by increased
+token usage. Yes. Okay, so yes, like the
+price per token is cheap cheap or like
+same price, but it used more tokens.
+That's sad.
+Uh, matches our performance uh, 4.8 on
+agentic codex
+knowledge work work task. Yeah, because
+I think the jump will be on five, right?
+Uh Sony is still sitting behind in
+largest its larger siblings. Yeah,
+that's normal.
+Uh okay, wait.
+Sony five scores 50 70% and this is a
+four 14 point higher than its
+predecessor, but behind GLM 5.2. Hmm.
+Claude Opus and Fable and GPT five 5.5
+XI and Pro.
+Pro is only on API, right?
+Mhm. Yeah. [clears throat]
+Um Sony five also shows significant
+improvement
+over Sony 4.6. Yeah, no [&nbsp;__&nbsp;]
+Uh cool cool cool. Informative. Okay.
+So, Fable five
+4.8 max
+5.5 XI. Yeah, okay, that's not bad.
+&gt;&gt; Yeah, it's just waiting for 5.6.
+&gt;&gt; Yeah.
+&gt;&gt; From OpenAI.
+&gt;&gt; Yeah, because like now we are like one
+generation behind them. So,
+Yeah, it's going to be it's going to be
+interesting. Like the release will be
+not
+&gt;&gt; Where is Mistral?
+It's a mystery.
+&gt;&gt; Oh my god. Really?
+&gt;&gt; But you see the old models with which
+you were happy a few months ago are now
+all the way back. Nobody is even looking
+at them
+unless you bought like a subscription
+for four year.
+&gt;&gt; Yeah,
+but also like the bench like the max the
+ceiling of those benchmark with was
+were lower, too, right? Now we expect
+like
+Yeah, we expect like Sony
+Sony five to be at least the level of
+like all of those big ass models.
+&gt;&gt; Yes.
+&gt;&gt; Like if you don't get 53 on the
+index intelligence uh
+intelligence index, my bad.
+Um then I'm not going to you.
+Next Mistral
+uh next Mistral models is rumored to be
+released by July 15th.
+Okay, yeah, let's go.
+Two weeks later.
+Can't wait. Can't wait to not use it.
+&gt;&gt; [snorts]
+&gt;&gt; Okay, close to me. Okay, so that's
+better ask.
+It's better mixed
+benchmark for Sony 5, no?
+Not going to that charging more than
+Opus for 6.5. That's kind of rough.
+I mean, yeah.
+If Opus is already doing the job for
+most people, yeah, that's true. Do you
+have like limitation of 4.8 right now?
+&gt;&gt; No, I have no limitations.
+But eventually, yeah, all the people
+reacting are just devs who
+they
+take the effort to research it fully and
+compare it. Most of the people are just
+reading, "Hey, it is more cheaper, it's
+better, and it is discounted, so
+everybody will just enable it."
+&gt;&gt; My bad.
+&gt;&gt; Bless you.
+&gt;&gt; Okay, and GPT 5.6 rumored to be July
+11th. Uh
+Are you also like, "Trust me, bro?"
+&gt;&gt; Yeah.
+Well,
+it [clears throat] was said that it
+should already have been Yeah, they are
+delaying, right?
+Otherwise, they have to block it as
+well.
+&gt;&gt; Yeah, like it was in preview, and then
+they were waiting for the government to
+validate it because they didn't want to
+get banned. But, what's your take on
+that? Like
+on those bans by the government because
+the models are getting distilled/stolen,
+and then Amazon complained that
+Fable can't find
+Ax.
+&gt;&gt; You know what? Eventually, they also
+said that they were the government and
+other stuff was getting hacked by
+Flipper and they couldn't prevent it.
+So,
+they were afraid of what it was going to
+do. And I get it. If people jailbreak it
+and then just use it to hack everything,
+you don't want to have it out, but
+everything will eventually just do that.
+&gt;&gt; Yeah, but okay. So, also it's like you
+know a pen test like it's it's easier to
+find hacks when you have access to the
+code base than if you do
+if you try to enter an infrastructure
+from the outside without any knowledge
+whatsoever and it's a black box, right?
+&gt;&gt; Yeah, yeah. So, the difference between
+black, gray, and white.
+&gt;&gt; Uh
+No, that's
+like a black hat is like a bad guy and a
+gray hat is mixed.
+&gt;&gt; Oh, no. I also mean they also name it
+for about how much do you know about the
+environment and how many
+&gt;&gt; Yeah, okay. My bad. Yes, okay. Black
+box, gray box, white box. Yeah, okay.
+Okay. Okay. My bad. My bad. I
+misunderstood. But,
+okay. So, yes. So, if you know nothing
+So, and Amazon with his
+uh its red team
+basically
+connected the what they wanted to test
+to Flipper Zero 5 and say, "Oh, yeah.
+Flipper Zero 5 found some issues and we
+are capable blah blah blah." But, yeah.
+No [&nbsp;__&nbsp;] It's because you give it your
+infrastructure.
+&gt;&gt; Yeah. But, Flipper also found Linux
+issues that have been there for over 10
+years and nobody abused them because
+people didn't know.
+&gt;&gt; Yeah, no. Exactly.
+And I don't like also it could be like
+the cost of exploiting those issues
+is too high even for an AI / a previous
+black hat hacker to
+to do it.
+I don't I don't know.
+Uh at 2 we stream block list. Bam. I'm
+not buying viewer, bro. Bye-bye.
+Uh okay. So, another
+reaction from Bridge Mind. You know, the
+guy is streaming like
+uh vibe coding
+uh until you reach 1 million
+in revenue.
+&gt;&gt; I haven't seen him. I'm not one of his
+viewers.
+&gt;&gt; Okay. Me neither, but I see him on the
+timeline. He is quite He's quite good at
+distribution, so that's interesting. Uh
+and his a point of view about yeah,
+Fable and
+uh Sony.
+Uh
+Anthropic mentions everyone with the
+original post language. Yeah. Like Oh,
+yeah. Also,
+uh in the near term, some routine task
+like coding and debugging will fall back
+to Opus 4.8.
+&gt;&gt; That's like what every bus everybody
+does with it right now.
+&gt;&gt; What are you doing except coding with
+[&nbsp;__&nbsp;] Opus?
+&gt;&gt; Well, I think they want to make it like
+a a cyber product.
+&gt;&gt; Yeah. Yeah, but that's still coding.
+Like a cyber or not?
+&gt;&gt; Oh, no. I mean,
+defense and and hacks and security
+issues and
+&gt;&gt; I mean,
+that's where the big money is, right?
+That's why Axel is building a startup in
+tech defense, too, right?
+&gt;&gt; Yes.
+&gt;&gt; But yeah, it's
+It feels
+closed written and not human reviewed.
+&gt;&gt; No. They are just putting in some words
+so they can always fall back to a
+different model if needed.
+&gt;&gt; Yeah, but then I Bro, at this level,
+like you need a lawyer
+to review what you generated for the on
+the article.
+Um okay. So, Fable 5 is back. Blah blah
+blah. Fable enough with its return. As
+every benchmark finds original 12 Fable
+5, the moment assets is the more We are
+re-running everything. Fair enough. Fair
+enough. Uh cool cool cool. And then I
+wanted his
+uh
+feedback about Sony. Yes. So,
+we back.
+Token efficiency is so bad it's end up
+being more expensive than Claude 4.8
+Opus 4.8.
+Uh
+that kind of sad.
+That's the article we are
+we just read.
+Um
+Yeah.
+If and that's why
+Theo was also talking about when say
+like
+OpenAI is focusing on token efficiency
+because it's also compute, right? If
+Anthropic is [&nbsp;__&nbsp;] up with those token
+consumption, no [&nbsp;__&nbsp;] they don't have
+enough compute.
+Yeah, well. But if they fix that, if
+they are efficient and they have the
+smartest model for coding etc.,
+that's a banger.
+&gt;&gt; The thing is we don't know, right? We
+don't know if they need to optimize it
+and it will be better later. We don't
+know if they just wanted to push and
+couldn't push fast enough, so they agree
+with using more tokens and they can
+reach the level that they want.
+So, if you want to boost like a few
+points on on on the comparison on the
+benchmark, you can also just let it burn
+more tokens and it will be better.
+&gt;&gt; Yeah.
+Yeah, and like the more token you use,
+the more subscription you burn, so let's
+go.
+&gt;&gt; Yeah.
+&gt;&gt; And see, that's Bridge Mind, that's what
+he's doing every day all day.
+&gt;&gt; Well,
+why not? If he gets to 1 million, let's
+see how he does.
+&gt;&gt; [snorts]
+&gt;&gt; Uh okay, Sonnet 5 taking request, blah
+blah blah, cool cool cool. Okay, that's
+it. So, that was
+&gt;&gt; So, for me the question is to you, what
+are you going to do? Keep using Opus 4.8
+or are you using Sonnet 5 by default? Or
+just say I use 4.8 Ultra Code and have
+them both.
+&gt;&gt; So, yeah, I think for now I'm going to
+keep my
+workflow that I have now because
+uh so
+the P&amp;E is playing uh but by Opus and
+then it's sent to GitHub. Then I I have
+those routines that run on the Codex app
+uh that picked up those task, implement
+them
+um and then I have those reviews with uh
+4.8 Ultra code and then I push
+everything to master and I publish. Uh I
+don't think like Sony 5 um
+um
+would change anything with that because
+it still works. It's just like the split
+is kind of like a cool. Actually yeah,
+maybe I can optimize it or have
+different routines um
+and more actions where the cheapest
+model and if Sony 5 is smarter than 4.6
+then I I will have a
+better cleaner
+GitHub board.
+Yeah.
+So, that's what I like.
+I like I like to have clean board.
+&gt;&gt; Yes. Have it empty and everything built.
+&gt;&gt; Yeah. And auto
+we we saw me reviewing anything.
+&gt;&gt; [laughter]
+&gt;&gt; Yeah.
+&gt;&gt; I just in the app on production and say
+oh yeah, it's broken. Claude, fix it.
+&gt;&gt; Yes.
+When he's offline, make sure it works
+when he comes back.
+&gt;&gt; Exactly.
+&gt;&gt; Oh I I know did you ever use like the
+Claude extension like to test the app in
+the browser?
+&gt;&gt; No.
+Do it. It's good. It's very good.
+&gt;&gt; Oh yeah, yeah, yeah.
+Like uh
+&gt;&gt; I've been testing so many stuff and they
+bring out so many features and most of
+the time I just fall back to Claude code
+and have him do everything.
+&gt;&gt; Yeah. No, no, no, but that then Claude
+code has a Claude extension in your
+browser that you download and it connect
+to your Claude session and then it open
+the browser and it can click, click,
+click. So, it can test your button, test
+everything, and you're going to love it.
+&gt;&gt; Okay, that's cool.
+&gt;&gt; It's not something that I vibe coded or
+something. It's
+It's an official extension. So, let's
+go.
+&gt;&gt; It's got actually built it himself.
+&gt;&gt; Exactly.
+&gt;&gt; Yes, that's great.
+&gt;&gt; I saw a tweet about
+I don't know. Yeah, how much is real,
+but yeah, whatever. I do for Claude
+Sonnet 5 can build
+Chrome extension to add friends on
+LinkedIn. And it send a message
+automatically. And using this kind of
+the same Chrome extension than Claude
+before, [clears throat]
+but you can have those
+This is the extension connected to your
+LinkedIn account to create more friends,
+like
+connect more friends on LinkedIn. And uh
+Yeah. So, there is that, too.
+But okay, should we wrap it up? I think
+we're good.
+&gt;&gt; Yes, okay, cool.
+Yeah, okay. So, I mean, I kind of
+conclude already anyway.
+But yeah, what about what about you?
+Like how Sonnet 5 will be
+um entering your workflows, or are you
+going to um
+to wait for February 5 to burn
+your subscription?
+&gt;&gt; No, yeah, I'm sure for going to wait for
+February 5 cuz
+it's going to review everything I've
+built in the past few days.
+&gt;&gt; Mhm.
+&gt;&gt; But all my API setup for for that's
+connecting to my software,
+I'm going to upgrade to Sonnet 5. Just
+see what it does and see if I see a peak
+or a change in my cost. And if it is
+around the same amount, I don't mind.
+I'm just keeping
+Sonnet 5.
+&gt;&gt; Yeah, okay. That makes sense.
+That makes sense. Okay, cool.
+Uh Axel, test Cerebrus.
+We will do that
+definitely. And if it's cool, like if
+you gave us something cool to test,
+maybe we can do even like talk about it
+in a video / live stream anyway.
+Uh Uh but Axel, thank you so much for
+joining the chat and
+uh Lucas too, thank you.
+And Michelle, thank you for your time.
+And see you next week. Yes, next week
+about open models if 5.6 doesn't drop in
+then.
+Um and yeah, subscribe for uh blah blah
+Subscribe, comments, like, share the
+video because we need more views.
+&gt;&gt; Do everything.
+&gt;&gt; Thank you.
+&gt;&gt; Bye.
+&gt;&gt; I

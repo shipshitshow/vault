@@ -1,0 +1,120 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,840"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2840
+      },
+      "text": " With Fable, it was like, I had a second team lead."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,840",
+        "to": "00:00:07,360"
+      },
+      "offsets": {
+        "from": 2840,
+        "to": 7360
+      },
+      "text": " And even when he said, and I, he gave me options and I was like, one is gay."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,360",
+        "to": "00:00:08,160"
+      },
+      "offsets": {
+        "from": 7360,
+        "to": 8160
+      },
+      "text": " Two is better."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,160",
+        "to": "00:00:09,120"
+      },
+      "offsets": {
+        "from": 8160,
+        "to": 9120
+      },
+      "text": " Three, what is three?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,160",
+        "to": "00:00:10,080"
+      },
+      "offsets": {
+        "from": 9160,
+        "to": 10080
+      },
+      "text": " Explain it to me."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,120",
+        "to": "00:00:13,080"
+      },
+      "offsets": {
+        "from": 10120,
+        "to": 13080
+      },
+      "text": " And he gave me like a whole new solution to do it even better."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,160",
+        "to": "00:00:15,820"
+      },
+      "offsets": {
+        "from": 13160,
+        "to": 15820
+      },
+      "text": " It will, for me, it feels like a proper co-founder, like"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,820",
+        "to": "00:00:19,800"
+      },
+      "offsets": {
+        "from": 15820,
+        "to": 19800
+      },
+      "text": " technical co-founder that level of direction and solution."
+    }
+  ]
+}

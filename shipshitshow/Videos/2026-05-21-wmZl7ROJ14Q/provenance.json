@@ -1,0 +1,12 @@
+{
+  "youtube_id": "wmZl7ROJ14Q",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "0e35f19690ed28c6a9356f71b6c08696a7c50a5bd150356024b39c27c42ceef9",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-21-video-your-npm-packages-are-compromised.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

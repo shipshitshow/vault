@@ -1,0 +1,1668 @@
+And we are live. Welcome back to the
+Ship Show
+&gt;&gt; Welcome, welcome.
+&gt;&gt; Welcome. What's up in chat? How are you
+doing?
+&gt;&gt; I I like I liked your introduction.
+&gt;&gt; Yeah, yeah, that was that was fun.
+&gt;&gt; [laughter]
+&gt;&gt; Well, everything is going fine. How are
+you?
+&gt;&gt; Yes. Um busy like yeah, it's
+trying to get those AI agents working by
+itself, but it's not working. And I got
+stuck some
+revelations about something I was doing
+wrong for the last
+15 years. Okay, like the branch and
+stuff.
+&gt;&gt; [laughter]
+&gt;&gt; So now everything is going to speed up
+like a 10x.
+&gt;&gt; Yeah, or at least I'm going to push more
+[&nbsp;__&nbsp;] but still not going to work.
+&gt;&gt; Well, let's see what it does.
+&gt;&gt; Yeah, I see. But yeah, like it make more
+sense at the age of AI with this like
+from base workflow stuff. Yeah.
+Um so yeah, like what did you do last
+week?
+&gt;&gt; Well,
+I first did like 24/7 and Cloud Fable.
+&gt;&gt; Mhm.
+And then it stopped.
+&gt;&gt; And then it stopped and I was like,
+"Okay, let's touch some grass outside."
+&gt;&gt; [laughter]
+&gt;&gt; But I was lucky.
+&gt;&gt; Yeah.
+&gt;&gt; So I was pushing hard just to check
+everything I have. So I was in time.
+&gt;&gt; That's nice. And yeah, because it's
+like this story is insane.
+And but we're we're going to talk about
+that
+in a
+in the next hour. Yeah, this is
+the live stream. Okay, let me do the
+introduction and then we go.
+Cuz that's exciting. I like this mic.
+Like the
+standing is cool.
+&gt;&gt; It's looking nice.
+&gt;&gt; Yeah. I look like a radio host now.
+And
+welcome to the best podcast in the
+world.
+Uh okay.
+So, you tried Claude Fable 5 for a
+couple of hours until the US government
+took it away from you and now you are
+all sad. I know we are all like we are
+sad too. Yeah, exactly.
+&gt;&gt; [laughter]
+&gt;&gt; And but that's not the only thing that
+Anthropic brought back this week. Okay,
+you all received an email about Claude
+minus P like the programmatic uh common
+from the your Claude subscription where
+you can use it from API keys to
+subscription. It's back. So, we can get
+back to uh
+um AFK Claude-ing, which is cool. And
+we're going to talk about that in this
+video too and live stream my video for
+later or whatever. And uh what's the
+conclusion? The conclusion of my
+introduction I forgot.
+&gt;&gt; Yeah, we need Fable back.
+&gt;&gt; Yeah. Oh yeah, we need Fable back. Watch
+this video. Thank you. Subscribe.
+&gt;&gt; Yes.
+&gt;&gt; Uh okay.
+&gt;&gt; So, first of all, when are we going to
+see people who post online?
+Uh I'm looking for a husband from
+outside the US and my benefit is I can
+give you Claude Fable.
+&gt;&gt; Yeah, that's that's good. Bro, that's
+good. Like that's the next Tinder.
+&gt;&gt; Yeah.
+&gt;&gt; [laughter]
+&gt;&gt; You need to pay a lot but you get Claude
+Fable included.
+&gt;&gt; But wait
+&gt;&gt; [laughter]
+&gt;&gt; wait like the they said
+Fable 5 will be only available to
+Americans?
+&gt;&gt; Yeah, only to US residents. So, outside
+the US nobody can use it.
+So, even the people who work at uh
+Anthropic
+&gt;&gt; Yeah.
+&gt;&gt; who are not in the US, they can't use
+it, their own stuff.
+&gt;&gt; Uh that's that's
+Okay, so
+that's the tweet from Claude Dev, but we
+have the other one after. Uh as a result
+of the uh US government directive, we
+are suspending access to Claude Fable 5
+for all users. You can continue uh to
+use all of the other Claude models. Um
+across Claude product, new session will
+run on your selected default model or
+Office 4.8.
+And the official tweet was the uh US
+government sitting national security
+authorities has issued
+an export control directive to suspend
+all access to Fable 5 and Metis 5 by any
+foreign national.
+A foreign national means like
+aliens or people inside the US.
+I even I
+I Chinese from China in China land can't
+access
+&gt;&gt; Yeah, yeah, exactly. You have to be a US
+citizen to be able to access it. So, and
+it doesn't matter if you're not, but
+you're inside the US, you cannot access
+Claude Fable.
+&gt;&gt; That's crazy.
+&gt;&gt; So, it doesn't matter if you're inside
+or outside the United States.
+&gt;&gt; Yeah.
+Like
+&gt;&gt; And then the bottom line says is in said
+it including foreign national Anthropic
+employees. So, everybody non-US
+even if they are in the main office in
+the United States, they cannot use
+Claude Fable.
+How are you going to do that?
+&gt;&gt; I don't
+I mean KYC? I mean you were coming for
+crypto, right? So, there is that.
+&gt;&gt; Yeah, yeah. So, it is like I'm going to
+the toilet, I didn't lock my PC, anybody
+can use it now.
+&gt;&gt; Yeah. Yeah, yeah, it's not like
+I mean, yeah, like Anthropic will be the
+new Binance.
+Yeah, it's going to be fun.
+&gt;&gt; And uh okay, we got a message from
+Praka.
+Sorry if I don't say your name
+correctly. Uh why do connect webinar
+with no identities? It's because we're
+we're just getting started, man. And we
+are recording a video at the same time.
+So, it's not a video webinar. It's more
+like a live stream.
+So, welcome home.
+&gt;&gt; [laughter]
+&gt;&gt; Happy to have you here.
+&gt;&gt; Yes. Um okay, so the next effect of this
+order is that we must abruptly disable
+Fable 5 and Metis 5 for all customers to
+ensure compliance. Do you think they
+will bring them back
+this week?
+&gt;&gt; The Fable 5?
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, well, the last thing I read is
+that they were trying to but didn't
+have any success, so
+I don't know how many options they have
+and how easy it is.
+&gt;&gt; I mean,
+it's
+you can already like see some benchmark
+that it was already distilling some
+Chinese model anyway, so
+&gt;&gt; Yeah, but
+I think they are just too scared that
+other people abuse it.
+That's the main issue, right?
+&gt;&gt; [snorts]
+&gt;&gt; Yes.
+&gt;&gt; yeah.
+&gt;&gt; But I mean,
+I is that some like people in Washington
+saying, "Oh yeah, no like
+Anthropic told me what to eat tonight,
+so we can't use it nationwide?"
+&gt;&gt; Well, as I understood it,
+Amazon people found out that was
+possible to jailbreak it or that it was
+already jailbroken and they reported it
+to the US government.
+And then the US government decided to
+just block it for everybody.
+&gt;&gt; But like the US government doesn't have
+access to the model before anyone else?
+&gt;&gt; Yeah, of course they do. I think they
+have to and they have been announcing it
+a long time. So, everybody knew about
+Metis. They were actually already
+testing it, giving it to bigger
+companies and the government is always
+included.
+&gt;&gt; Exactly. Yeah, so even like the timing
+is well because you launch it then you
+said in 3 days going to be API keys and
+then in 2 days after boom you like US
+government say no no no.
+&gt;&gt; Yeah, but did you see any difference
+between Opus and Fable?
+Because you used it, right?
+&gt;&gt; Uh so yes, I used it and I just saw my
+subscription like going for 15 months.
+Um
+but I preferred
+4.8 plus ultra code
+than Fable 5.
+&gt;&gt; And for coding or for reviews or you
+didn't do any different testing?
+&gt;&gt; I was doing like more um
+yeah, coding task because yeah I was
+busy on that that stuff but like yeah,
+instead of like doing some
+asset generation like from the replicate
+things that
+Opus could have done that already.
+We should have rebuilt the games
+directly because I saw some crazy game
+setup um
+on on the timeline with Fable 5.
+Uh
+&gt;&gt; Do you still have it?
+&gt;&gt; 5
+Fable 5 games.
+Be careful what I'm sharing live.
+Uh
+&gt;&gt; It should be a blank account.
+&gt;&gt; So up.
+Yeah.
+But wait, no that's not possible and
+that's not Fable because
+that can't generate asset. Oh yeah,
+whatever like the capability were like
+way more than anything else, right?
+I mean of course jeez.
+Trading Yeah, so if you are able to vibe
+code that kind of game, I don't think
+it's
+I don't think it's real.
+Is it?
+A world of Cloudcraft. Oh, okay.
+Damn.
+Yeah, that's not just Fable.
+&gt;&gt; No, no. People just use Fable to get
+into the trending topics, but they are
+using a lot more or they have an
+existing code base, existing images, and
+graphics.
+&gt;&gt; Yeah, it was not launched with Fable
+yet. So
+&gt;&gt; Don't believe everything you see on X.
+&gt;&gt; Yeah, true that.
+But wait, like is a project like 6-day
+old?
+Okay.
+So maybe this is real. I don't know.
+Uh
+Cloudcraft. That's That's kind of
+interesting though.
+&gt;&gt; And he has how many stars?
+&gt;&gt; 800 and
+200 fork.
+But yeah, the first commit.
+Right.
+Okay, June 16.
+No, I won't.
+I want that and I want that.
+Okay. Maybe that was a
+Fable 5 stuff there.
+&gt;&gt; Yeah, but still.
+I think he had some stuff before
+available.
+&gt;&gt; Uh
+When was the launch? Oh yeah, that's
+That's going to be
+&gt;&gt; I think a week ago.
+&gt;&gt; Uh
+thank
+thank.
+13.
+Okay, I'm not going to do that, but uh
+3 days
+&gt;&gt; Yeah, just take 7 and 8 of June, then
+you know.
+&gt;&gt; Okay.
+&gt;&gt; [clears throat]
+&gt;&gt; If any of you have a flavor of my
+current first time
+Simcoe
+Who's the author? Yeah.
+Closed. Committed last week. No, they
+started with it. No.
+&gt;&gt; [snorts]
+&gt;&gt; That's interesting.
+Sorry, whatever.
+Yeah. So, what did you What did you do
+with Fable? Like when we while
+we had it.
+&gt;&gt; I had it
+check every code base I have for every
+project and write down an MD file with
+all the bugs, all the issues, all the
+security issues, everything it found.
+I didn't have it completely fix
+everything
+because that was taking too much tokens.
+&gt;&gt; That was That was crazy.
+&gt;&gt; Yes. So, I upgraded to the max 20X and I
+just had every project that a customer
+pays me to maintain. I had it fully
+analyze everything.
+So, right now I have a full backlog
+of all the projects with like some
+projects have having 20 MD files in full
+setup doing everything from a pen test
+to a to a security to to small I don't
+know what everything I asked.
+And now I can just
+use Codex and and Opus to fix everything
+even when we don't have Fable.
+&gt;&gt; So, would you use Fable as an
+orchestrator or like finding features,
+stuff to do, and then execute it with
+like 4.8 or XI?
+&gt;&gt; Yeah, it depends. If I have to look at
+the
+cost for the tokens and credits,
+uh I would have it just double-check
+everything. So, I would create a full
+plan
+uh on Codex
+and have Fable check it, give feedback,
+and then have Codex build everything,
+and then have Fable do the full review.
+&gt;&gt; Okay, so you would rather like have
+the executor like the executioner like
+the the coder uh Fable 5 and you plan
+before with all the cheapest model.
+&gt;&gt; Yeah.
+&gt;&gt; Okay.
+&gt;&gt; Because if Fable can actually add
+everything in the documentation, you
+don't need an expensive model to build
+everything because the thinking is done
+up front.
+&gt;&gt; Yeah, but like if the plan is first and
+you have the cheapest model, then you
+probably going to miss something in the
+plan, no?
+&gt;&gt; Yeah, but that's what the what Fable is
+going to fix, I hope. He's going to
+check the plan as well and document
+everything
+even better. [clears throat]
+&gt;&gt; Okay. Okay, so first pass with like a
+cheapest model, then the expensive one,
+then you execute with
+the cheapest one XI XI or
+4.8, whatever, and then Okay, makes
+sense.
+&gt;&gt; I wasn't able to do a full check on
+quality yet to to see the difference,
+but I did a test where I asked Fable to
+do the full full planning and where I
+did Codex with a with a Fable check.
+And both of the plans are like fully
+documented. I didn't have them build
+both, but
+uh
+if you have Fable planning everything
+from the start from scratch, it is way
+more expensive.
+&gt;&gt; Yeah. Yeah, no, no, it's crazy. And even
+like a plan with like 4.8 ultra code,
+uh I have session that just like it I
+have one session it was like just to
+review and refactor like the a search
+bar
+to
+to make it like the same UI the same
+component and same stuff because it did
+like the same features five times like
+five times and five different ways. So,
+I wanted to refactor that into one
+component. The plan was like 15 minutes.
+&gt;&gt; Yeah.
+I know it it looks like it checks
+everything and it goes really deep into
+the code to see if it can find any
+relations or
+or whatever, but
+a week ago, more than a week ago, we
+were really happy with Codex 5.5.
+&gt;&gt; Yeah. I and now I can't use it anymore.
+Like even for the for the talking point
+of like Okay, so it's not recording.
+It's like more writing stuff. Like I
+should use another model for that even.
+&gt;&gt; Yeah.
+&gt;&gt; But um
+it it was dumb. Like and now I feel like
+5.5 missed so it's I
+missed so many things.
+Yeah. So, yeah. It's it's kind of crazy.
+And
+um so, like now you are full on 4.8
+Ultra Guard?
+&gt;&gt; Uh yeah, combined with
+Codex 5.5 XHigh.
+&gt;&gt; Okay. Okay. Okay. And like with a skill,
+do you send the plan to a VR skill or do
+you still copy-paste?
+&gt;&gt; No. No. No. I have my own skill that I
+use.
+&gt;&gt; Nice.
+Always.
+&gt;&gt; Not copy-pasting anymore.
+&gt;&gt; Yeah. No.
+It's so 2024.
+&gt;&gt; Yeah.
+&gt;&gt; [laughter]
+&gt;&gt; Uh yeah, that's nice. Um
+so, yeah. Do you think like the US
+government will put it back? 5.5? And
+they will say okay, uh that was allowed.
+Well, sorry.
+&gt;&gt; You know see see you know see both
+coming online. I know it's expensive for
+people having those um
+like a full server at home, a 128 GB RAM
+PC.
+That's not even a PC anymore, but
+&gt;&gt; [laughter]
+&gt;&gt; and they are using open source models.
+I think if those go harder,
+then
+um Anthropic needs the bigger models.
+like Fable, because otherwise people are
+going to skip
+Anthropic and use different solutions.
+&gt;&gt; I mean, yeah, like
+I don't know, like I don't know where
+we're going with those open-source
+models because Okay, so coding it's an
+interesting
+crowd of user and pro user because we
+are nerds and tech guys, so we can
+[&nbsp;__&nbsp;] install a rack at home just
+because it's cool, right? And then you
+use you use
+a couple of like computers to have your
+own model at home, but like in term of
+adoption and distribution, you're not
+going to It's mass
+uh critical mass with that because it's
+too niche and it's like the skill set to
+do that even if you are like AI guided.
+I don't know how many people will
+install their own open-source model, but
+everyone will download ChatGPT.
+&gt;&gt; Yeah, but what does a PC cost with that
+much of of gigabytes of RAM? Like 4 to
+5K? I've seen them.
+&gt;&gt; That's a lot.
+&gt;&gt; Well, it isn't for a company.
+&gt;&gt; Yeah, yeah, I know.
+&gt;&gt; You just hire an IT guy that puts it in
+their own server room, sets it up,
+points all the API points locally to
+their internal VPN network as well, so
+you can do it from outside, and you're
+done.
+&gt;&gt; Yeah.
+And then you hire one guy just to
+monitor that so you don't have like uh
+&gt;&gt; Yeah.
+&gt;&gt; I have
+&gt;&gt; Because if you make like 5K in in
+tokens,
+that's easy.
+&gt;&gt; Oh, yeah. I Yeah.
+Um with my 200 subscription, I'm like
+with Fable, I was burning I I don't like
+I topped at 2.5 billion token in a day.
+&gt;&gt; Yeah. Now,
+calculate how much money that is. That's
+insane.
+&gt;&gt; Yeah, I was at one uh 1K 1.5K a day.
+So, yeah. And about those local source
+models, like it's the Alex thing come
+back because he preached that for yes uh
+for 6 months.
+5 months ago I bought 30k of Mac Studios
+Mac Mini and the JX box. I did this
+because I predicted the hardware price
+would explode government will start
+limiting LLM usage local models would
+get way more powerful. AI influencers
+touched me for this. Call me
+called me a dangerous hype merchant.
+Literally 100% of those prediction came
+true. Mac Studio above 100 gigabyte are
+not even sold anymore.
+Really?
+&gt;&gt; Yeah, Apple took them away from the
+website but
+you have like AMD has another solution
+right now.
+&gt;&gt; Yes.
+&gt;&gt; Yeah.
+February 5th got banned and new local
+models are Opus level. Are they?
+&gt;&gt; And people say they are.
+&gt;&gt; Yeah.
+&gt;&gt; I didn't test it myself yet.
+&gt;&gt; Yeah. Yeah, because you yeah, because
+you need to spend like
+3 days to implement it but then you have
+a full dashboard of features to
+implement too. So
+&gt;&gt; Yeah, I'd rather wait for some
+benchmarks because if I spend like 5K
+and 3 days for setting everything up.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; And then it feels like Opus 4.2 that
+would be bad.
+&gt;&gt; True.
+Another sample message out waiting local
+model of the future. Yeah, okay, cool.
+And what you were talking about was the
+AMD
+Is that the arrow?
+&gt;&gt; AMD
+Oh, that one.
+&gt;&gt; So that by the way that's not even true
+100% like the price
+would be way more expensive than 1.5k
+but uh
+Anyway, that's
+&gt;&gt; Yeah, I've seen seen people put it into
+a PC and then
+I think it cost like 4 or 5K.
+&gt;&gt; Yeah.
+Okay, let's watch this quickly.
+&gt;&gt; Now, I would say this is pretty
+beautiful.
+Do Do guys agree?
+&gt;&gt; Yes.
+&gt;&gt; [applause]
+&gt;&gt; So, let me tell you what it is. This is
+the smallest AI development system in
+the world.
+Capable of running models with up to 200
+billion parameters locally. Not
+connected to anything.
+It's powered by our highest end Ryzen AI
+Max processor with 128 GB of high-speed
+unified memory that is shared by CPU,
+GPU, and NPU.
+This architecture accelerates system
+performance and makes it possible to
+efficiently run large AI models on a
+compact desktop PC that fits in your
+hand.
+Thank you.
+&gt;&gt; [applause]
+&gt;&gt; Yeah. So,
+are we going to have AI models directly
+in our MacBook Pro?
+And then uh
+we don't need a subscription anymore?
+&gt;&gt; I'm spending like $500 at least every
+month on AI subscriptions. If I can
+replace it by spending 5K on this,
+I don't mind.
+&gt;&gt; Yeah, no, for sure.
+&gt;&gt; But
+how do you upgrade that?
+&gt;&gt; You
+buy a second one.
+&gt;&gt; [laughter]
+&gt;&gt; Yeah.
+Because the yeah, the problem with the
+hardware is like instead of like a brew
+install
+uh code and codex to get the stable 10,
+uh do I need to buy another one that can
+Oh, you can upgrade the software inside
+the hardware, right? But uh
+then the power the the params
+uh needs to fit in?
+&gt;&gt; Yeah.
+Well,
+I'm waiting for the other people to try
+it first.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; The real tech guys who are like tech
+savvy and they they even buy one, take
+it apart, and they say it's not good
+enough, and they put in their own parts.
+Let those people test first.
+&gt;&gt; [laughter]
+&gt;&gt; I mean
+Yeah. For what we do like
+uh uh Opus 4.8 and Codex 5.5 / 5.6
+incoming whatever, that's good enough
+with like we don't need to get to those
+uh
+crazy leftovers point on benchmark to do
+one more integration in on Reactor PHP
+whatever.
+&gt;&gt; We are not working for banks or the
+government or whatever. So, we are
+building normal systems with uh where
+the security that we add is good enough.
+&gt;&gt; Yeah, not exactly.
+&gt;&gt; We don't need like triple uh
+authentication and I know whatever they
+are adding.
+&gt;&gt; For sure. And okay, so what also
+um
+getting hype on X right now, it's all
+about loop coding stuff and thanks to
+Matt Pocock is the kind of like the
+leader of that trend because he builds
+like his skills
+for engineers uh
+AI arrow deck.
+Can I access the website directly?
+Uh
+learn pro
+agent skills for
+Okay.
+&gt;&gt; We have someone who is buying an RTX Pro
+6000.
+Any comments?
+&gt;&gt; Yeah.
+Oh.
+Oh. Uh okay. So,
+my uh hi Brian. Uh my friend is getting
+Static to buy an RTX Pro 6000
+and 96 GB PC for AI and some other work.
+Should he wait for this stuff?
+I mean Static.
+I know.
+&gt;&gt; The biggest issue is every It's like the
+AI models. People now know that the uh
+if you are the first on market with a
+big
+uh update on the RAM
+then you can sell it so much and that's
+what they are doing doing. They have a
+speed race. So, I I right now they are
+coming with different and better models
+like every one or two months.
+&gt;&gt; Yeah.
+&gt;&gt; Um
+but if you're spending this amount of
+money,
+you better calculate the return on
+investment properly
+because if it only saves you $200 a
+month, it's a lot to to to pay. But if
+you can hook up like um
+customers that you have who are using
+your setup as well via an API connection
+and they don't buy additional tokens,
+you can invoice them for the usage, then
+it's a perfect setup.
+&gt;&gt; Yeah, exactly. And no matter what the
+price, that that business model works
+for everything you do.
+&gt;&gt; Yeah.
+&gt;&gt; Like if you have customers to pay twice
+the price you buy something,
+that's good.
+&gt;&gt; Yeah.
+But
+&gt;&gt; Oh, yeah.
+&gt;&gt; I would do a proper calculation on uh
+the new models and this model.
+And even if they say it is really cheap
+and it does the same thing, it's good to
+to to make sure that you double-check
+everything because it's a lot of money.
+&gt;&gt; Yeah.
+That's for sure.
+And that's my comment to the input.
+Thanks, Michelle.
+Uh [snorts] okay, so
+Yes, I have his back.
+Is we put the story. Do you Do you know
+this guy? Do you use this SQL?
+&gt;&gt; I have seen him, but I haven't used SQL
+yet.
+&gt;&gt; Yeah.
+So, okay, better than that.
+I have for the SQL, yes, that's
+So, here are my seven phases of AI
+product development. I've been thinking
+that the pre-PRD phase need more
+structure. You need to figure out of the
+shape of the design three first before
+then working down higher fidelity
+prototypes. In other words, grill grill
+with dogs needs to change again. Okay,
+whatever.
+Uh so,
+grill, research prototype, PRD issues,
+implementation review.
+Um
+is that in this order? Yes.
+Um
+And that's all working on GitHub. So
+basically it's building software on
+GitHub actions.
+&gt;&gt; That's cool. Yeah.
+&gt;&gt; Like okay so yeah I have some kind of ID
+for an app okay so you
+but it's basically ask
+the the tool
+ask user about blah blah blah you know
+when you
+reverse prompt today I
+was with like a
+the AI asking a question to have more
+details about it. Researcher research
+if execution would involve difficult
+explore phase create a research MD asset
+to catch them so you can explore like
+different opportunities like for example
+for you can research on
+Google on GitHub open source open source
+project if that's like something that
+already exists that your app idea or
+features or whatever and then you can
+either import it or just don't do it and
+do something else whatever.
+Prototype hash how to add in code to get
+early feedback. PRD create a markdown
+file to describe the destination visual
+story and implementation notes. Issues
+turn the PRD into individual tickets.
+Implement in a loop run a coding agent
+to execute all of the tickets on the
+Kanban board.
+That I think 4.8 can do it with ultra
+code.
+&gt;&gt; Yeah and
+I am really sure that both of us did
+this setup before but just more
+manually.
+&gt;&gt; Yeah.
+&gt;&gt; Because it wasn't able to do everything
+itself but
+exactly this flow and maybe even some
+improvements because of course we we
+have tried a lot and the small tweaks do
+a lot but we have been doing this
+before.
+&gt;&gt; Yeah.
+Yeah but like the fact that it's all a
+skill and what I like also it's like
+it's it's running on GitHub actions.
+&gt;&gt; Yeah but those get expensive.
+&gt;&gt; Yes. Uh except if you run open source
+software, but like uh
+I mean, I think it Yeah, I
+I think it's run on GitHub Actions
+because it Yeah, I know. I know. It It
+is because I So, what I did was like I
+took his skills repository and I compare
+it with like the ship ship dev / skills
+that we have.
+And I asked
+I asked Claude, "Yeah, can we merge some
+skills? Is there any duplicate? Is it
+matching my current workflow?" Blah blah
+blah. And yeah, and he asked me for an
+entropy entropy key. So,
+uh it's run on GitHub Action when like
+you tag
+when you add the label to
+uh on the issue or if you move the issue
+to a uh
+a column on the Kanban board, then the
+agent pick it up automatically.
+I mean, with the GitHub Action. So, you
+can either use an automation uh on the
+Codex app or
+Claude app with a routine to pick up new
+tasks that have been ready for your
+agent to do.
+&gt;&gt; Mhm. [clears throat]
+&gt;&gt; But that's what they do in a loop, like
+the implementation phase in a loop,
+um to build software
+with AI.
+&gt;&gt; Yeah. Well,
+I still prefer having my own setup on my
+Mac mini and I don't mean like open claw
+or paper clip or whatever.
+&gt;&gt; Yeah.
+&gt;&gt; Just have Claude build
+the GitHub Actions in your own Python
+script, run it locally on your Mac mini
+in your own network, and use that to
+automate. It will save you a lot of
+money.
+&gt;&gt; Mhm.
+&gt;&gt; And you can just add additional checks
+and and loops on whatever you want and
+you don't rely on GitHub.
+&gt;&gt; Yeah.
+&gt;&gt; I mean, I I like GitHub as a central
+place of everything.
+Like like to have all of the issues can
+be bold and even like the road map
+stuff. I think I'm going to like migrate
+like the GenFit deployment development
+directly on
+on GitHub side with that kind of
+workflow because that's basically open
+source now. And something for ship code,
+I kind of like that aspect of it cuz
+again like I can run like all of the
+end-to-end test.
+&gt;&gt; Yeah, the problem is I'm going to have
+[&nbsp;__&nbsp;] burn my subscription.
+&gt;&gt; Yeah.
+And I'm still convinced that I don't
+want to rely on external services where
+I cannot control the final price.
+I think Microsoft 365 it's it's totally
+different but it showed this.
+Everybody bought Word and Office before
+&gt;&gt; Yeah.
+&gt;&gt; for like $200 per user
+and you could use it for as long as you
+want but you didn't go to the next
+version you had to buy it again. And now
+everybody's using the Microsoft 365.
+And
+in July they are raising the prices
+between 10 to 16% again.
+And if your
+full company is relying on it, you don't
+have a choice but a 16% increase is a
+lot.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, but I mean
+If you vendor locked in, you're vendor
+locked in, right? Like
+&gt;&gt; Yeah, so now you can just build whatever
+you want with AI.
+&gt;&gt; Mhm.
+&gt;&gt; Why are you going to rely on GitHub
+actions?
+&gt;&gt; Because of like the automation CI. Like
+I have the quad rail on GitHub.
+&gt;&gt; Yeah, but you can just build anything
+you want within one or two days.
+&gt;&gt; I'm not I don't think I can write code
+GitHub.
+&gt;&gt; Not full GitHub.
+&gt;&gt; [laughter]
+&gt;&gt; Like yeah yeah I mean and also like in
+term of computer power like I would need
+to
+to run a GitHub action. I mean, I would
+kind of do it for Victor anyway, but
+like we have No, we have like our own
+GCP instance to run the CI because I
+didn't want to pay for GitHub action
+because yeah, we ran out of the 5K uh
+minutes like in 2 days.
+&gt;&gt; Yeah.
+&gt;&gt; And
+so
+and like one day after we upgraded like
+the to enterprise because
+uh on the GCP like the instance was
+already not enough.
+&gt;&gt; Yeah.
+&gt;&gt; Because it's like permanent like not
+permanent, but like we do like five
+release a day or every hour.
+And uh
+that's take a lot of compute and
+processor time. So,
+the problem.
+&gt;&gt; Yeah, that would be expensive.
+&gt;&gt; Yeah. Yeah. I think like Peter saying
+talking about
+Open Claw, he said
+it would cost me like 15 grand a month
+to run it because um all I mean,
+I didn't
+specify
+for GitHub action or checks, but uh
+probably like AI cost anyway, too. But
+yeah, that was part of it because he's
+permanently testing everything all the
+time.
+&gt;&gt; Yeah. Where does he get the time?
+&gt;&gt; I mean, it
+You have 24 hours, but you have
+unlimited token at OpenAI. So,
+&gt;&gt; He's spending money.
+&gt;&gt; I mean, on months.
+&gt;&gt; [laughter]
+&gt;&gt; Yeah.
+&gt;&gt; And now like Open Claw is behind Hermes
+agent. So, that's something else.
+Like Yeah, I don't know, man. It's well.
+But like Okay, so you're not convinced
+by Matt's uh we already doing it anyway,
+right?
+&gt;&gt; Yeah, we already doing it, but maybe
+slightly different.
+&gt;&gt; Yeah.
+&gt;&gt; And I feel like every one or 2 weeks,
+they found out something new that's way
+better and all the rest is [&nbsp;__&nbsp;]
+And yeah, I don't know.
+&gt;&gt; I mean, like
+&gt;&gt; It feels like they want to be on the
+timeline. That's it.
+&gt;&gt; Yeah, true. Yeah, also that Yeah, also
+that. That's that's also a part of that
+when you read something on Twitter,
+that's a possibility that the goal is
+just to
+make some impression and get some
+fame or slash earn money.
+&gt;&gt; Yeah, I think those those IT guys who
+are in the attic only working with no
+light at all.
+&gt;&gt; Yeah.
+&gt;&gt; [laughter]
+&gt;&gt; Those are the guys that have like the
+best setup.
+&gt;&gt; Mhm.
+&gt;&gt; They are automating everything.
+And so even when they go outside for a
+full week, everything just keeps on
+running.
+&gt;&gt; Yeah.
+But then you spend like [&nbsp;__&nbsp;] ton of
+money on to get Like if I start to to
+So,
+last week I played on automation because
+I wanted to have some time off, but
+still uh shipping some features.
+I On Monday, I was like on my 5 hours
+session limits and it was 7:00 a.m.
+Monday.
+&gt;&gt; Yeah.
+&gt;&gt; So, that's a problem.
+&gt;&gt; Yeah, yeah, that's a problem.
+&gt;&gt; And also yeah, that was also during the
+couple of days when we had fever. I had
+one day fever like
+nuke.
+&gt;&gt; Yeah.
+&gt;&gt; That's the day I had I bought a second
+second subscription.
+But yeah.
+Like
+it [snorts] yeah. So, okay, we're not
+that far from this. But like
+from seven steps,
+&gt;&gt; Mhm.
+&gt;&gt; uh six of them are PM management, like
+project manager and stuff like that.
+Like real research prototype PRD Yeah,
+prototype could be
+hybrid, but PRD issues.
+PM.
+How long do you spend per PRD slash
+to build the plan and to make sure like
+everything is
+covered.
+&gt;&gt; I don't know, it varies a lot.
+It is between like 10 minutes to 2 hours
+or 3 hours.
+&gt;&gt; Okay, [&nbsp;__&nbsp;]
+&gt;&gt; But that my goal is always then to one
+shot it.
+&gt;&gt; Yeah. And like do you succeed?
+&gt;&gt; Yes.
+Well, I don't. Cloud does.
+&gt;&gt; [laughter]
+&gt;&gt; Opus succeeds, but
+&gt;&gt; Yeah.
+And okay, so you if you have a PRD for
+that do you schedule for three like
+prepare for 3 hours?
+How long does it take for Opus or like
+Codex whatever to do it?
+&gt;&gt; Yeah, yeah, it well, eventually it takes
+him like 3 hours, but sometimes I ask
+hey, come with three different solutions
+and I ask Codex to do the exact same
+thing to come with three different
+solutions and I just merge them into one
+document and then say what's the
+difference,
+uh what can you take from other
+solutions to improve it. So and then
+they think like 10 minutes again. So the
+3 hours is including the thinking time
+of the AI.
+&gt;&gt; Mhm.
+Damn. And do you ask Claude to give you
+like directive or directions?
+Or better solution?
+&gt;&gt; Yeah, always.
+&gt;&gt; Yeah.
+I mean like do you offer solution and
+then Claude is giving you a better one?
+&gt;&gt; Uh yeah, it does because so I still
+Google it sometimes.
+&gt;&gt; Damn.
+&gt;&gt; Yeah, yeah. Because
+uh
+my question in the beginning was why
+didn't you think about this or what is
+this solution that somebody else used? I
+don't even do it on Google. Even in X
+you can Google it and other devs are
+sharing solutions.
+Um
+And the questions like why are they
+using this one? What are the benefits
+that they have and how does that compare
+to the benefits that I have from a
+solution that you created for me? Those
+questions make huge improvements on the
+eventual solutions that I'm adding.
+&gt;&gt; Yeah.
+&gt;&gt; Because I think like even an AI has
+tunnel vision. It goes into a certain
+way and it just keeps on building on the
+steps that it has already taken.
+&gt;&gt; Yeah. Yeah, but that's why you have also
+hallucination when like it just get a
+tiny bit of hallucination from one
+feature or one direction or one text tag
+that you had
+like couple of weeks ago, but like the
+module doesn't exist anymore in the code
+base and they're like
+it's going to reinstall all of the
+package and you are going back to you
+are going back to that that pipe that
+was just you know what? That's why also
+like
+if you have in your cloud MD don't do
+that
+it will think about that
+like the stuff that you didn't specify
+and it will do it anyway.
+&gt;&gt; Yeah.
+So, yeah.
+&gt;&gt; But that's also why I like to do and to
+have cloud and codex both think about
+the same thing and you will see that
+they find the entire different solutions
+and when you give the solution to the
+other one it says hey this is
+interesting.
+&gt;&gt; Yeah.
+Yeah, no, no, no,
+yeah, oh yeah, that's one yeah, because
+it's built differently and so it think
+differently.
+&gt;&gt; They even come with different solutions
+or different software usage.
+And then when you say so if I have a
+small addition like I already have
+stripe fully integrated that's easy
+because I just add a different function,
+but when I need to include software or
+whatever I want to do a full research
+and that takes time.
+&gt;&gt; Mhm. That makes sense.
+&gt;&gt; And the question always is I want to
+scale to an enterprise solution.
+&gt;&gt; But wait, what? What do you mean?
+&gt;&gt; I always say I want to scale to an
+enterprise solution so make sure that
+whatever you build is scalable.
+&gt;&gt; Yeah, that's a dangerous proof though
+because you're going to
+It's going to install you like a full
+rack and stuff.
+&gt;&gt; [laughter]
+&gt;&gt; No, no, no.
+No, no, no.
+It is, yeah. And they say that it does
+the the first part, but
+&gt;&gt; Yeah.
+&gt;&gt; you don't want it to build something and
+when you scale to 10 you 10 users using
+it that it crashes because the RAM is
+going too hard or the I don't know
+whatever the issue can be, but
+&gt;&gt; Yeah.
+True that. Uh hi Michael, what's up?
+Good afternoon from Europe. I don't know
+where you are.
+&gt;&gt; Yes.
+&gt;&gt; Thanks for coming back.
+Uh okay, so Matt Pocock skills
+we are using them. We thought using
+them, but that's that's okay. That's
+cool.
+Uh
+yeah, Boris Cheney I can't get the
+loop interview for the Cloud Code Guy.
+Oh, now we have it. Nice.
+Thanks a lot for
+fixing with
+&gt;&gt; making this possible.
+&gt;&gt; Yeah.
+Uh
+tag path
+Let's go. Okay.
+So
+yeah, Kratos Cloud Code
+Uh 100% of your all for pull requests
+that are in tropical run by Cloud Code.
+80 to 90% of code review, too. It shows
+a bit because that's not the best user
+experience /
+code quality you can get.
+And yeah, that was the whole loop
+engineering thesis that was based on
+this interview. That was um
+like from him and then all everywhere on
+the timeline you have uh
+people explaining how loops works.
+&gt;&gt; It's easy, yeah?
+&gt;&gt; Yeah.
+&gt;&gt; Do check React.
+&gt;&gt; [laughter]
+&gt;&gt; Uh
+so yeah, what a loop actually does.
+Yeah, let's go. Find work, any Twitter
+agent, check results, record what
+happened, decide next move. Yeah. Okay,
+thank you.
+That's a good bro.
+Do you do QA with like Playwright or any
+like similar [snorts] tools to
+do the QA?
+&gt;&gt; I didn't. Should I?
+&gt;&gt; What?
+&gt;&gt; Should I do it?
+&gt;&gt; Ah, man. No, but
+but okay, okay, wait, wait, wait.
+All right, let's go back to yeah, that.
+If
+AI ship pull request faster than you in
+in your last 20 20 years. How do you QA
+that amount of pull request if you're
+not doing it with AI?
+&gt;&gt; Yeah, I probably do it like a noob.
+&gt;&gt; [laughter]
+&gt;&gt; Uh, you you you test everything
+manually?
+&gt;&gt; Uh, a lot.
+&gt;&gt; Yeah. I I yeah.
+&gt;&gt; But it also writes testing, so
+&gt;&gt; Yeah.
+&gt;&gt; I have tests on everything, but
+it feels like I have like an infinite
+amount of tests.
+&gt;&gt; Yeah.
+&gt;&gt; And I even needed to add rules for
+testing because if it tries redeploying
+your database, that's not good.
+&gt;&gt; Yeah, like the migration stuff. Yeah,
+like yeah, [&nbsp;__&nbsp;] off. Yeah.
+&gt;&gt; That deletes the entire database in your
+test.
+&gt;&gt; Yeah, like in my CI I ask you take a
+snapshot before every migration.
+There is a backup like every migration
+in the CI like yeah.
+Um, but
+yeah, it's
+I think also like different state of the
+code base, it's kind of different. Like
+if you start a project then everything
+is broken at the same time and you need
+to fix, that's harder to ship fast. But
+once you have something strong, then you
+can reduce the surface of the pull
+request and then uh, it's way more main-
+maintainable and manageable, I guess I
+would say.
+&gt;&gt; Yeah. But do you make like big
+uh, changes or do you just split
+everything in
+many small tasks?
+&gt;&gt; Like this week I did a task where
+I I changed the plugin from to to the
+form validation. So, that needs to be a
+wild surface like architecture choice,
+blah blah blah.
+But I won't because I want the same
+tools and it was like from Yub to just
+end library or stuff like that. Uh that
+I need to go into
+&gt;&gt; Yeah, that's a big one.
+&gt;&gt; Yeah. But I want to reduce my the
+surface of my pull request, but I don't
+have like a product is not stable
+enough.
+&gt;&gt; Mhm.
+&gt;&gt; But we're getting there, but
+it's a little bit time.
+Couple of days.
+&gt;&gt; And you don't do like two versions in
+your code? Like have 90% of the forms on
+the old one and only 10% on new one, so
+you can easily test and make sure it
+works.
+&gt;&gt; No no no no. I I don't like legacy code
+stuff. Especially with the AI. Like if
+you do something, you do it everywhere
+because uh
+Like I I don't want to have like one
+form with one plugin and then another
+form with another one.
+Maybe I'm wrong, but I would rather like
+nah.
+Yeah, I don't think I'm wrong.
+&gt;&gt; I always get a bit scared when
+I have a service
+full system for a customer and I need to
+update something big like this.
+The first thing I do is add it like a
+V2.
+Put it on the forms that are not used
+that much, so that we can probably check
+and manage it for two or three days. See
+how many errors we get and when it's all
+working.
+&gt;&gt; Yeah.
+&gt;&gt; That feels to me like
+&gt;&gt; Yeah, because you already have like
+customers on production and stuff. Like
+I
+like the apps I work on are more like
+greener, so
+Again, it's different. Like yeah.
+&gt;&gt; Yes. So, it it depends on how your setup
+is and usage.
+&gt;&gt; Yeah. I don't want to change this phone
+plug-in whatsoever anytime soon because
+now it's done, but
+and I mean it also match the tools that
+I have so then I can go faster.
+&gt;&gt; Mhm.
+&gt;&gt; [clears throat]
+&gt;&gt; Uh so, yeah.
+Uh
+I mean
+I forgot to share.
+&gt;&gt; Yeah, we were in the loops.
+&gt;&gt; Yeah.
+Uh loop engineering is replacing
+yourself as the prompter.
+I don't know if I Yeah, okay. So,
+primitive automation discovery triage
+job in the loop discovery and triage on
+schedule, code acts up automation tab,
+uh cloud code schedule task and cron
+loop call hooks, GitHub action.
+Uh there is like the routines in the
+cloud code apps, too.
+Work tree work tree isolate isolate
+parallel features by chain work tree per
+thread, Git work tree work tree
+isolation. Yeah, okay. So, I mean work
+tree scales, plug-in connectors connect
+your tools, MCP MCP server. Okay, that's
+basically the same thing.
+Uh sub agents, which is managed by 4.8
+and then track code. So, yeah, don't
+care about that. I mean, yeah, like the
+sub agent was something that you we
+define like in 24, right?
+Do you still use them? Do you still have
+sub agents?
+&gt;&gt; Yeah.
+&gt;&gt; No, anymore. Isn't it replaced by
+skills?
+Probably and like the the current Opus
+4.8 Fable did it really good. You just
+gave it a task and it creates the agents
+himself.
+&gt;&gt; Yeah, so it's like having an agent.
+Yeah, so if you have an agent Yeah,
+okay. So, maybe we should reuse again
+sub agent because Fable will come back
+Yeah, at some point.
+&gt;&gt; Well, I had Fable like asking him one
+thing and he deployed 231 agents.
+&gt;&gt; Yeah,
+yeah, like I showed you, right? Like it
+it worked for 20 30 minutes and I had
+like 85 agent or something.
+&gt;&gt; I don't know, man.
+&gt;&gt; And like
+almost 10 million amount of tokens used.
+&gt;&gt; I can't wait to have like a a proper
+framework that's telling me, "Okay, this
+is what you do. You do that. You follow
+the rules, and now you can build your
+software." And that's it. That's it. Not
+like having skills and sub agent and
+plugin connector. Please, simplify.
+Um because yeah, we we still need the
+quad rails and stuff that we can find
+from a framework. So, do we have a AI
+Is that Vercel AI SDK? No, not even.
+Uh but uh
+Yeah. Yeah, everyone is still trying to
+figure out anyway, I I would say.
+Uh run the four conditions.
+Test before you do anything. Is that
+TDD?
+The task repeats. Verification is
+automated. Token budget up some the
+waste. Agent has senior agent in our
+tools.
+Answer yes to all four pass builder
+loop. What?
+Run the four condition loops and a cost
+under four conditions. Miss one and the
+loop cost more than it returned. The
+honest take for alpha signal analysis
+and the part and the part most egg
+threat skip. Uh okay, okay.
+Um
+uh the task repeats. A loop amortizes
+its setup across many runs.
+For one job, a good prompt is faster and
+cheaper if the work does not recur
+weekly.
+You don't have a loop. You have a script
+you run once. Fair enough.
+Verification is automated. The loop
+needs something that can fill the work
+without you in the room. A test suite, a
+type checker, linter, a build.
+Your token budget can accept the waste.
+Loop reread context, retry, explore.
+That burns token whether or not the run
+ships anything.
+The technique scales with budget, which
+is why it reads as obvious to people
+with effective free token and reckless
+to people. Yeah.
+Yeah.
+That That's the problem. Like we are not
+Peter Peter with like working at Codex
+with like unlimited subscription. That's
+the main problem. Like the budget
+behind those loop
+nuts.
+&gt;&gt; Maybe that's why it's it it is their own
+people who are constantly giving us
+these options.
+&gt;&gt; Yeah.
+&gt;&gt; Like the Ralph loop and now this loop.
+&gt;&gt; Yeah.
+I mean
+yeah.
+There is
+in a way there is some
+good ideas of
+behind it because it makes sense, right?
+Like
+you you set up like the scope of the
+issue and then you had your test and
+then till all of the test is passed
+passed then you have your loop and
+that's it and then the task is not done.
+But like
+Ultra code does that by itself.
+&gt;&gt; Yeah, it does. And you don't have any
+influence on it. It just keeps on going
+and when you think I ask a small
+question it goes on for 20 minutes.
+&gt;&gt; Yeah.
+&gt;&gt; I think there can be an issue here
+because if you actually pay for all the
+tokens and you have an infinite loop
+that cannot fix itself.
+&gt;&gt; Yeah. Like
+&gt;&gt; I would only not real for after three
+runs and you still haven't fixed it.
+Stop it, flag it, give me a push
+message.
+&gt;&gt; Yeah.
+Yeah, because like Ultra code on loop
+you going to do that twice.
+&gt;&gt; Yeah.
+&gt;&gt; Um who wins, who lost? Who wins, who
+loses? A loop's favor whoever can spend.
+Okay. Yeah.
+Uh actually who actually benefit in
+practice? Team with repetitive machine
+checkable work and a budget to run it.
+Code base with strong existing test
+suites.
+I think I think first teams with
+multiple agent pattern already in use.
+Uh who should skip it today? Solo
+builders and
+on consumer plan. Let's go.
+Anyone working on code with no automated
+verification and teams whose real
+constraint is review capacity rather
+than typing speed.
+Um
+Oh
+Sup A Jira. Is it better to get uh
+AI coding program running locally?
+Uh where
+as a
+local model or running locally from
+subscription instead of GitHub or
+&gt;&gt; Yeah, if you can use it in your
+subscription, then it's harder to
+automate and and build a loop because it
+will stop every time. Building the loop
+uses always AI credits.
+&gt;&gt; Yeah. I mean like if you I with your
+track code mod, uh
+it will work for like 20 1 hour
+whatever, and then you can check if the
+task is done. And then you you Yeah,
+it's like you need to be prompted and
+say, "Oh yeah, try again. That's
+broken." But at least
+you can QA during the loop.
+&gt;&gt; Yeah. But still solo builders and
+consumers,
+they never have a full system that needs
+to be built that is as big as this one.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. So they always have smaller tasks.
+So the loop is just overkill, I think.
+&gt;&gt; But I mean you are solo builder and you
+have
+uh
+&gt;&gt; Yeah, but I never needed to code for
+like
+hours at once. That's insane.
+&gt;&gt; Uh
+&gt;&gt; Cuz
+&gt;&gt; I just say you prep for 3 hours and then
+the agent runs 3 hours.
+&gt;&gt; Well, I prep for 3 hours and hoping the
+agent can do it in 30 minutes.
+&gt;&gt; [laughter]
+&gt;&gt; Because I did a lot preparations, but I
+I the preparations like step-by-step.
+&gt;&gt; Yeah.
+&gt;&gt; And even if I do like a full system
+build, like I I say I want full Zendesk.
+&gt;&gt; Mhm.
+&gt;&gt; I have it I am doing like a full day of
+planning, researching, checking, but I
+divide it into steps and I just build
+step-by-step. I never have it built like
+step one until 50.
+&gt;&gt; Yeah. Yeah, build a build Zendesk, make
+no mistakes. That's that doesn't work.
+&gt;&gt; That's insane.
+&gt;&gt; Yeah.
+&gt;&gt; And I I I really want to make sure that
+every step that we have that has one
+functionality, I test it after it's
+done.
+&gt;&gt; Yeah.
+Oh, that makes sense.
+Uh oh, yeah. Okay, so local models so
+you can skip paying credits. Yes, okay.
+So
+you would have
+I mean, that's what we already talked
+about like a couple of weeks ago like
+about those open clue and RMS
+um orchestrator where you plan with the
+paid model and then you execute with
+like open open open source model
+on your local machine so you don't
+spend that credit and you only pay for
+plans.
+&gt;&gt; Yeah. And if you want to do it with a
+competiting of a competitor model right
+now, it's really expensive. You need
+that the PC that we just showed the AMD
+like 4 to 5K, have the knowledge how to
+set it up and you can't run it fully
+locally.
+&gt;&gt; Yeah.
+&gt;&gt; But if you have a big project, that
+could that could be like
+&gt;&gt; Mhm.
+&gt;&gt; a good investment.
+&gt;&gt; Yeah.
+That makes sense. And
+yeah, but the problem also with the
+local models
+right now like
+uh
+Quen's 3.7
+uh I don't think you can run that on a
+Raspberry Pi.
+&gt;&gt; No, no.
+No, you need like a bigger PC.
+&gt;&gt; Yeah.
+Uh 3.7
+uh
+requirements.
+Uh,
+when
+3.7 series by Alibaba consists probably
+sequence whatever whatever complex
+reasoning local hardware is not required
+instead you can access the API. Yeah,
+okay.
+Architecture 1 billion token access
+method.
+Yeah, self hosting.
+&gt;&gt; 50 cent per million token.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Uh, self hosting
+VRAM 24
+to 48 depending of quantization
+and the target model environment python.
+Yeah, okay, whatever. Uh,
+can I run it on
+uh, M1 Mac.
+Yes, okay.
+For M with 16 gigabyte RAM.
+Uh, what you can smaller models, okay, 7
+to 9 billion.
+Mac with 32 RAM M1
+Pro Max Ultra. That's not bad.
+It's worth a try.
+Yeah.
+Ollama, yeah, okay. So, that's the whole
+setup but uh,
+Okay, so you know what? I have a good
+laptop I think. Yeah, okay, so
+try it and come back next week and then
+tell us how it goes.
+&gt;&gt; Yes, we are next week here at the same
+time.
+&gt;&gt; Yes.
+That would be that would be interesting.
+Um,
+yeah.
+[&nbsp;__&nbsp;] we're going back to open flow LMS
+orchestration. I mean, do you see a
+future with that? Like
+Yeah, I do you think you're going to
+code with like five agents and one
+orchestrator and like five of them.
+&gt;&gt; I prefer building my own orchestrator
+because every time I updated one of
+those, I was having issues.
+&gt;&gt; True.
+That's why Ship got Ship got should be
+orchestrator, man.
+&gt;&gt; Yes.
+&gt;&gt; And now that uh Claude the like
+Claude pays back, then it makes sense to
+use it again.
+&gt;&gt; Yeah.
+So, what are we going to do?
+&gt;&gt; Uh we're going to create loops and
+automation.
+&gt;&gt; [laughter]
+&gt;&gt; On a 5K Mac Mini with 128 GB of RAM.
+&gt;&gt; No, 5K M5 laptop.
+&gt;&gt; Yeah.
+&gt;&gt; Uh that's going to be That's going to be
+That's going to be fun.
+Uh okay, so
+I'm just going to close Okay, where
+should we conclude? Yes, so it's time to
+go home.
+Uh talk what all Claude got. I'm going
+to have a look at it. Maybe I can use it
+for score survival.
+Uh okay, cool. So, are you Are we still
+waiting for February 5th?
+&gt;&gt; Well, if it comes back, I want to use it
+for sure. Yeah. But, I'm also waiting on
+the answer from OpenAI.
+&gt;&gt; Yes.
+&gt;&gt; If they can have a similar model that
+will not be banned, they will take a lot
+of customers from Anthropic.
+&gt;&gt; And it should be cheaper, too.
+Cuz they have more compute.
+&gt;&gt; So, if they are listening right now,
+make the price lower, please.
+&gt;&gt; Yes. Price lower, better model,
+and [laughter]
+and then we can like Yeah, right now I
+have two Anthropic subscription. I want
+to cancel one so I can buy another one
+for Codex and let's go.
+Yeah. Because I mean like for Opus 4.6
+and 4.7 against 5.5, 5.5 was better.
+And then they dropped 4.8 and Ultra
+code, and then Codex lost a bit of
+steam.
+So,
+yeah. That's going to be
+uh the next few weeks should be
+interesting.
+Uh Fable 5, I mean, that's it. Is that
+the conclusion? I think that
+&gt;&gt; Yeah, that's conclusion. We are going to
+wait.
+&gt;&gt; Let's go.
+&gt;&gt; Thank you.
+&gt;&gt; Thank you so much everyone from the
+chat. Uh Michael, uh
+yeah, Michael and
+uh SG Rack, thank you, and Brian, and uh
+Brian, yeah. Okay, cool. Uh for your
+comments. Michael, thank you so much for
+your time.
+&gt;&gt; Thank you, too.
+&gt;&gt; And yeah, see you next week.
+&gt;&gt; See you.

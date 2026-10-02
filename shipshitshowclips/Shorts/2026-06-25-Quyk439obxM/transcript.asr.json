@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,800"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3800
+      },
+      "text": " If I have a crunchable webhook in it, it needs to check every minute if there"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,800",
+        "to": "00:00:08,520"
+      },
+      "offsets": {
+        "from": 3800,
+        "to": 8520
+      },
+      "text": " is an update, but I know because I'm running it locally, I just have a"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,520",
+        "to": "00:00:11,440"
+      },
+      "offsets": {
+        "from": 8520,
+        "to": 11440
+      },
+      "text": " biten script that initiates a task."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,480",
+        "to": "00:00:15,760"
+      },
+      "offsets": {
+        "from": 11480,
+        "to": 15760
+      },
+      "text": " So the biten script is the cron job in scraping it and it will cost me zero tokens."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,240",
+        "to": "00:00:18,080"
+      },
+      "offsets": {
+        "from": 16240,
+        "to": 18080
+      },
+      "text": " I only trigger the AI when I need to."
+    }
+  ]
+}

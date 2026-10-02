@@ -1,0 +1,12 @@
+{
+  "youtube_id": "oYLvDwEAWN8",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "586de68deba43325b8fff34b87241e5a41cb84f0d3e335b3bb74be63b05e8f69",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-13-video-stop-using-markdown-files-are-html-plans-better.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

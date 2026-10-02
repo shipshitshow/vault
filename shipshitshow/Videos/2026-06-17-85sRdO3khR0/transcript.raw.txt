@@ -1,0 +1,226 @@
+Trying to get those AI agents working by
+itself, but it's not working.
+&gt;&gt; Well, let's see what it does.
+&gt;&gt; So, what's also getting hype on X right
+now, it's all about loop coding stuff,
+and thanks to Matt Pocock is the kind of
+like the leader of that trend because he
+builds lucky skills for engineers. Real
+research prototype here are the issues
+implementation review. That's all
+working on GitHub. So, basically he's
+building software on GitHub actions.
+&gt;&gt; I still prefer having my own setup on my
+Mac mini, and I don't mean like open
+claw or paperclip or whatever. Just have
+cloud build the GitHub actions in your
+own Python scripts, run it locally on
+your Mac mini in your own network, and
+use that to automate. It will save you a
+lot of money, and you can just add
+additional checks and and loops on
+whatever you want, and you don't rely on
+GitHub.
+&gt;&gt; I I like GitHub as a central place of
+everything to have all of the issues
+come aboard, and then like the road map
+stuff. I think I'm going to like migrate
+like the Gen AI development directly on
+GitHub side with that kind of workflow
+because that's basically open source
+now, and same thing for ship code. I
+kind of like that aspect of it cuz again
+like I can run like all of the
+end-to-end test. Yeah, the problem is
+I'm going to [&nbsp;__&nbsp;] burn my
+subscription.
+&gt;&gt; Yeah, and I'm still convinced that I
+don't want to rely on external services
+where I cannot control the final price.
+I think Microsoft 365 it's it's totally
+different, but they showed this.
+Everybody bought Word and Office before
+for like $200 per user, and you could
+use it for as long as you want, but you
+didn't go to the next version. You had
+to buy it again, and now everybody's
+using the Microsoft 365, and in July
+they are raising the prices between 10
+to 16% again. And if your full company
+is relying on it, you don't have a
+choice, a 16% increase is a lot.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah, but I mean, if you vendor locked
+in, you're vendor locked in, right?
+&gt;&gt; Yeah, so now you can just build whatever
+you want with AI.
+Why are you going to rely on GitHub
+actions?
+&gt;&gt; And yeah, that was the whole loop
+engineering thesis that was based on
+this interview that was from him. And
+then everywhere on the timeline, you
+have people explaining how loops works.
+&gt;&gt; Yeah, it's easy, yeah.
+&gt;&gt; Yeah.
+&gt;&gt; Do check React.
+&gt;&gt; So yeah, what a loop actually does.
+Yeah, let's go. Find work and it will be
+agent, check results, record what
+happened, decide next move. Yeah. Thank
+you. That's a loop, bro. Yeah, okay. So
+maybe we should reuse against the agent
+because Fable will come back Yeah, at
+some point, I guess.
+&gt;&gt; I had Fable like asking him one thing
+and he deployed 231 agents.
+&gt;&gt; Yeah. Yeah, like I showed you, right?
+Like it it worked for 20, 30 minutes and
+I had like 85 agents or something.
+&gt;&gt; I don't know, man. And like almost 10
+million amounts of tokens used.
+&gt;&gt; I can't wait to have like a a proper
+framework that's telling me, "Okay, this
+is what you do. You do that. You follow
+the rules. And now you can build your
+software."
+&gt;&gt; Yeah, that's it.
+&gt;&gt; Not like having skills and sub-agent and
+plugin connector. Please simplify
+because yeah, we we still need the
+guardrails and stuff that we can find
+from a framework. Everyone is still
+trying to figure it out anyway.
+&gt;&gt; Loops and their cost and their fault
+condition, miss one and the loop cost
+more than its return. The task repeat, a
+loop amortizes its setup across many
+rounds. Verification is automated. The
+loop needs something that can fill the
+work without you in the room. The token
+budget can accept the waste. The
+technique scales with budget, which is
+why it's reads obvious to people with
+effectively free token and reckless to
+people. Yeah, that's the problem. We are
+not Peter Peter always like working at
+Codex with like unlimited subscription.
+That's the main problem. Like the budget
+behind those loop are nuts.
+&gt;&gt; Maybe that's why it's it it is their own
+people who are constantly giving us
+these options.
+&gt;&gt; Yeah.
+&gt;&gt; Like the raw loop and now this loop.
+&gt;&gt; In a way, there is some good ideas of
+behind it because it makes sense, right?
+Like you you set up like the scope of
+the issue and then you had your test and
+until all of the test is passed passed,
+then you have your loop and that's it
+and then the task is not done. But like
+Ultra code does that by itself.
+&gt;&gt; Yeah, it does and you don't have any
+influence on it. It just keeps on going
+and when you think I ask a small
+question, it goes on for 20 minutes.
+&gt;&gt; Yeah.
+&gt;&gt; I think there can be an issue here
+because if you actually pay for all the
+tokens and you have an infinite loop
+that cannot fix itself.
+&gt;&gt; Yeah, like
+&gt;&gt; open hot rail for after three runs and
+you still haven't fixed it, stop it.
+Flag it, give me a push message.
+&gt;&gt; Yeah, because like Ultra code on loop,
+you're going to do that twice.
+&gt;&gt; Yeah.
+&gt;&gt; Who wins, who loses? A loop's favor,
+whoever can spend actually who actually
+benefit in practice, team with
+repetitive machine check over work in
+the budget to run it. Code base with
+existing test suits, asking first teams
+with multiple agent pattern already in
+use. Who should skip it today? Solo
+builders and on consumer plan, let's go.
+Anyone working on code with no automated
+verification and teams whose real
+constraint is review capacity rather
+than on typing speed. Is it better to
+get AI coding program running locally? I
+mean, that's what we already talked
+about like couple of weeks ago like
+about those open code and MS
+orchestrator where you plan with the
+paid model and then you execute with
+like open open source model on your
+local machine so you don't spend that
+credit and you only pay for plans.
+&gt;&gt; Yeah. And if you want to do it with a
+competing of a competitor model right
+now, it's really expensive. You need
+that that PC that we just showed, the
+AMD like 4 to 5K, have the knowledge how
+to set it up and you can't run it fully
+locally.
+&gt;&gt; Yeah.
+&gt;&gt; But if you have a big project, that
+could that could be like a good
+investment.
+&gt;&gt; Yeah, that makes sense. And yeah, but
+the problem also with the local models
+right now like Quince 3.7, I don't think
+you can run that on a Raspberry Pi.
+&gt;&gt; No, no. You need like a bigger PC.
+&gt;&gt; [&nbsp;__&nbsp;] we're going back to open cloud LMS
+orchestration. I mean, do you see a
+future with that? Like yeah, do you
+think you're going to code with like
+five agents and one orchestrator and
+like five open
+&gt;&gt; I prefer building my own orchestrator
+because every time I updated one of
+those, I was having issues.
+&gt;&gt; Yeah, true. That's why Ship got Ship
+should be orchestrator, man.
+&gt;&gt; Yes.
+&gt;&gt; And now that Cloud like Cloud Pi is
+back, then it makes sense to use it
+again.
+&gt;&gt; Yeah.
+&gt;&gt; So, what are we going to do?
+&gt;&gt; to create loops and automation.
+&gt;&gt; On a 5K Mac Mini?
+&gt;&gt; Yeah.
+&gt;&gt; of RAM?
+&gt;&gt; No, 5K M5 laptop.
+&gt;&gt; Yeah.
+&gt;&gt; That's going to be That's going to be
+Yeah, that's going to be fun. I I was
+still waiting for Fable 5.
+&gt;&gt; Well, if it comes back, I want to use it
+for sure.
+&gt;&gt; Yeah.
+&gt;&gt; But I'm also waiting on the answer from
+OpenAI.
+&gt;&gt; Yes.
+&gt;&gt; If they can have a similar model that
+will not be banned, they will take a lot
+of customers from Anthropic.
+&gt;&gt; And it should be cheaper, too.
+&gt;&gt; So, if they are listening right now,
+make the price lower, please.
+&gt;&gt; Yes, price lower, better model. The next
+few weeks should be interesting. Is that
+the conclusion? I think that's the
+conclusion.
+&gt;&gt; We are going to wait.
+&gt;&gt; Let's go.
+&gt;&gt; Thank you.
+&gt;&gt; Thank you so much, everyone from the
+chat. Michal, thank you so much for your
+time.
+&gt;&gt; Thank you, too.
+&gt;&gt; And yeah, see you next week. Bye.

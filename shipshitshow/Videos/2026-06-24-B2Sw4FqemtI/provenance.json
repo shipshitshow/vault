@@ -1,0 +1,12 @@
+{
+  "youtube_id": "B2Sw4FqemtI",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "692385423e3d09aef3df6d1bb8bd8365124cd3968e3b3c8baf539ba3fe52aad0",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-24-video-how-to-use-ai-loops-with-claude-codex.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

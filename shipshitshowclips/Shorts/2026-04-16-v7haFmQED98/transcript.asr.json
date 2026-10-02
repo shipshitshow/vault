@@ -1,0 +1,109 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,280"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5280
+      },
+      "text": " From one month to another, the quality of output AI generated is like 10 times better."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,280",
+        "to": "00:00:12,720"
+      },
+      "offsets": {
+        "from": 5280,
+        "to": 12720
+      },
+      "text": " 90% of the AI generated content is like pure slop, but 10% is 10 times better than human output, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,280",
+        "to": "00:00:15,360"
+      },
+      "offsets": {
+        "from": 13280,
+        "to": 15360
+      },
+      "text": " At the end of the day, like good content is good content."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,360",
+        "to": "00:00:18,480"
+      },
+      "offsets": {
+        "from": 15360,
+        "to": 18480
+      },
+      "text": " Just give it a few more months and people won't see the difference."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,480",
+        "to": "00:00:20,320"
+      },
+      "offsets": {
+        "from": 18480,
+        "to": 20320
+      },
+      "text": " Right now, if you have the really good models,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,320",
+        "to": "00:00:23,920"
+      },
+      "offsets": {
+        "from": 20320,
+        "to": 23920
+      },
+      "text": " you already don't see a difference between AI and a real image."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,920",
+        "to": "00:00:29,120"
+      },
+      "offsets": {
+        "from": 23920,
+        "to": 29120
+      },
+      "text": " When 70% of the content on the internet is AI generated, like what the fuck are you talking about?"
+    }
+  ]
+}

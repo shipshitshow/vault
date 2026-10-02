@@ -1,0 +1,1 @@
+Is OpenAI's AI more polished than Anthropic's? Users report OpenAI feels more stable and finished, even in its frontend. Claude excels at UI, but the overall product feels less refined. #OpenAI #Anthropic #AIQuality #TechComparison

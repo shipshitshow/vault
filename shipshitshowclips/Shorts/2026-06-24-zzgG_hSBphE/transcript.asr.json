@@ -1,0 +1,109 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,240"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3240
+      },
+      "text": " It deleted Zendesk and I did my own ticket system."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,480",
+        "to": "00:00:08,500"
+      },
+      "offsets": {
+        "from": 3480,
+        "to": 8500
+      },
+      "text": " So I have my local Mac Mini that copies my database because I don't want"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,500",
+        "to": "00:00:11,560"
+      },
+      "offsets": {
+        "from": 8500,
+        "to": 11560
+      },
+      "text": " it active in the actual database."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,600",
+        "to": "00:00:15,620"
+      },
+      "offsets": {
+        "from": 11600,
+        "to": 15620
+      },
+      "text": " So it does a pull request, updates the database once per hour, and I can just"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,620",
+        "to": "00:00:20,920"
+      },
+      "offsets": {
+        "from": 15620,
+        "to": 20920
+      },
+      "text": " say, see ticket five, number five, and read it, and it looks up the tickets"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,920",
+        "to": "00:00:24,480"
+      },
+      "offsets": {
+        "from": 20920,
+        "to": 24480
+      },
+      "text": " in my database and it knows the exact conversation and the issue and it knows"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:24,480",
+        "to": "00:00:25,000"
+      },
+      "offsets": {
+        "from": 24480,
+        "to": 25000
+      },
+      "text": " what to do."
+    }
+  ]
+}

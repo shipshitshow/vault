@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:01,300
+ - I did that once.
+
+2
+00:00:01,300 --> 00:00:04,300
+ I wanted to explore like some design for component.
+
+3
+00:00:04,300 --> 00:00:06,660
+ And I asked it like five different version of it
+
+4
+00:00:06,660 --> 00:00:10,040
+ and I had the preview and then implement like a version three
+
+5
+00:00:10,040 --> 00:00:10,920
+ and that's cool.
+
+6
+00:00:10,920 --> 00:00:12,180
+ Like that's actually cool.
+

@@ -1,0 +1,14 @@
+{
+  "youtube_id": "5VSiexTohak",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/5VSiexTohak",
+  "source_sha256": "268eacd1ca0d670677bfed6aba2374ae4393ec0ab14f94880b22c10ee13e7f72",
+  "audio_sha256": "ab92c5b110b73590a8ec2bd1fdbff19f24e5ca1e088b67a5991362a04a7d18ab",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

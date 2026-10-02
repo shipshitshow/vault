@@ -1,0 +1,12 @@
+{
+  "youtube_id": "fJl3YoRIvuQ",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "f6936e47ad617be87db94360fccc0f0a482649c67756b2639ff2e609e142cbc6",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-17-livestream-wtf-is-going-on-w-anthropic-claude-fable-5.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

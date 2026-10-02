@@ -1,0 +1,142 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,020"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2020
+      },
+      "text": " - They have actually a working game already."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,020",
+        "to": "00:00:03,100"
+      },
+      "offsets": {
+        "from": 2020,
+        "to": 3100
+      },
+      "text": " - Jesus."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,100",
+        "to": "00:00:04,060"
+      },
+      "offsets": {
+        "from": 3100,
+        "to": 4060
+      },
+      "text": " - Oh, that was a bug."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,060",
+        "to": "00:00:05,580"
+      },
+      "offsets": {
+        "from": 4060,
+        "to": 5580
+      },
+      "text": " He walked right through the pillar."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,580",
+        "to": "00:00:07,260"
+      },
+      "offsets": {
+        "from": 5580,
+        "to": 7260
+      },
+      "text": " - Yeah, there is no collision yet,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,260",
+        "to": "00:00:08,620"
+      },
+      "offsets": {
+        "from": 7260,
+        "to": 8620
+      },
+      "text": " but maybe we can fix that."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,620",
+        "to": "00:00:10,300"
+      },
+      "offsets": {
+        "from": 8620,
+        "to": 10300
+      },
+      "text": " Score, kills, enemies."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,300",
+        "to": "00:00:12,380"
+      },
+      "offsets": {
+        "from": 10300,
+        "to": 12380
+      },
+      "text": " - Yeah, it counts it all."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,380",
+        "to": "00:00:13,740"
+      },
+      "offsets": {
+        "from": 12380,
+        "to": 13740
+      },
+      "text": " - That's crazy."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,740",
+        "to": "00:00:14,820"
+      },
+      "offsets": {
+        "from": 13740,
+        "to": 14820
+      },
+      "text": " That's kind of cool."
+    }
+  ]
+}

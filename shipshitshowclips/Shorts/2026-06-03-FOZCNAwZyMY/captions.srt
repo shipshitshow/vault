@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,860
+ But this is actually what they said that Opus 4.8 would do.
+
+2
+00:00:02,860 --> 00:00:06,140
+ You give it a prompt and it decides on each sub task.
+
+3
+00:00:06,140 --> 00:00:08,180
+ - The user added new requirement mid task.
+
+4
+00:00:08,180 --> 00:00:10,140
+ So it was not even done.
+
+5
+00:00:10,140 --> 00:00:12,100
+ I'll tell my verification baseline is green
+
+6
+00:00:12,100 --> 00:00:14,900
+ then implement all of the new features.
+
+7
+00:00:14,900 --> 00:00:17,260
+ - Before it would just start coding or whatever you ask.
+
+8
+00:00:17,260 --> 00:00:18,700
+ And now I said, no, we can start.
+
+9
+00:00:18,700 --> 00:00:20,140
+ We need to do some checks first,
+
+10
+00:00:20,140 --> 00:00:22,220
+ make sure that all works and then we can proceed.
+
+11
+00:00:22,220 --> 00:00:23,340
+ - I like that.
+
+12
+00:00:23,340 --> 00:00:25,380
+ - That makes it look so much better.
+
+13
+00:00:25,380 --> 00:00:27,900
+ - So that before was like 4.7, but during the task
+
+14
+00:00:27,900 --> 00:00:29,940
+ it's also able to change the effort.
+

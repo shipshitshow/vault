@@ -1,0 +1,452 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+and we are back welcome home everyone it's been a minute yeah it has been two weeks yeah two weeks
+two weeks 10 days off um and yeah i'm i'm excited like uh it's good to be back
+yes yeah so how was your little break it was good yeah i had a break my mac mimi didn't yeah
+that's the goal right like the new slaves or computers now yes exactly so it was good to be
+on holiday and that was good to actually be forced to use uh your mic mini from a large distance and
+to keep on going creating new branches new new commits and everything yes now exactly like uh
+that was a nice experience that you you're doing literally nothing but still the the pull requests
+are coming out yes you're just checking your your phone for notifications yeah oh bro like uh i went
+so i went away in the in the it was by night yes and uh around like two three m i checked and i had
+the github authorization issues i said fuck i can't validate with my computer because like uh
+codex was telling me yeah uh you need to click on your computers and stuff oh i'm not on my computer
+so um can you give me a mobile link to click it to it's a yeah i can do that okay yeah it does
+everything exactly i had fable connected so to my uh to my app on my phone nice and i gave it full
+access to my mac mini because it's it only has the code on it nothing else only some projects
+and it doesn't matter what i asked it it just said i can do that for you no problem yeah it
+reminds you like the uh uh open cloud day yeah only better much better uh it works this works
+and even if it doesn't work you ask it to get a workaround or to give a solution and says oh we
+can do this this and this yeah perfect oh yeah no it's not like it's it's a new year and um
+it's even like getting better with the all of the new models that we got during those 10 days
+yes yeah and also what you do is like talking to cloud on mobile right cloud on mobile or codex
+yeah yeah cloud on mobile yeah yeah i do and it doesn't matter just one of the two that's good
+enough i i use codex because uh we get more results so uh i burn three resets during those
+10 days though that's a lot how many projects were you handling so i had automation for 10 projects
+like non-critical projects like small stuff um like a couple of mobile apps like a tv show tracker
+for me and my girlfriend so we can share the show then the share the status of the show so that's
+cool um the meta bar like the codex bar but uh mine and it's better than peter codex bar it's
+better um what do they do a couple of other projects and uh yeah uh website factory for
+restaurants because that's gonna be the first autonomous company that fully autonomous company
+that i want to lunch and uh jen feed what did i what else did i do okay i can check
+and uh yeah some other non-critical project uh the game stuff i continue also those like much slower
+like not every two or three hours uh just less like four hours for those ones just because you can
+yeah exactly i also know i use figma so i had a routine to uh put all of the screen to figma
+because the mcp and also the mcp is uh limited to 200 calls a day so uh i had a daily routine
+to just burn those 200 maximize it yeah uh max sweep like the cleaner like the tools to clean
+your hard drive on your mac after all of those walkthroughs and branches uh open tv tracker
+that's done uh ship code yeah ship code too and uh yeah in the games that's it yeah around 10
+10 custom uh thing customers 10 project like that love it and you just burned every token available
+like everything i've run two subscription on cloud and uh four weekly equivalent of codex on with me
+awesome and it's everything is coming out uh so now it's getting honestly it's getting uh i
+shipped it didn't like uh just burn token to burn token like the project are coming out now
+like meta is done i'll send you the link sorry uh ship code uh i need to check it i need to qa
+and the other same thing like qa or more progress so nice well i think if you do the intro
+we see the numbers oh [ __ ] that's even better
+so yeah okay i actually didn't think about that we can edit it after so that's no problem
+um okay but we we're not doing videos anymore do we yeah maybe a small one i don't know it is better
+to have shorts right yes yeah we don't know okay so um okay we went away for 10 days but codex and
+claud didn't take any time off while we were on the beach swimming while we were on the beach um those
+our agent uh keep shipping pull requests every hour and we are going to show you what we have
+shipped and uh not not how much money we made because that's that's no first you have to build
+yeah and we are going to show you which product we are shipped and how we are uh
+how we set up those automation so subscribe like the video and uh enjoy
+cool nice cool good job i need to check because i think
+oh let me connect my mouse okay
+so now i can scroll because i built in a cost tracker oh you too yeah yeah but i make a
+difference between how much costs are made within my subscription that i just pay like the 90 for
+cloud or the 200 or whatever and then i made a difference in what do i actually use in adi cost
+and i have one cloud um 200 subscription connected and i have one codex 90 subscription connected
+and in during my holiday i've burned for 3109 worth of tokens yeah i'm not surprised so that's
+a 10x yeah yeah no like uh for for codex i think we we get like worth uh 15 grain of token and uh
+for cloud we get 5k or something yeah that's possible because uh cloud was 2100 and codex
+was almost 1k yeah and i'm using codex to do the review so that's less yeah okay nice and this is
+just on the the uh on the task that i put in the system this is not everything i did additional on
+the side myself only the automation part yeah okay but that that's big paying like 300 dollars and
+getting 3k in 10 days back yeah i mean if you can convert that into dollars that's a win right
+that's employees basically yeah yeah for sure yeah like the goal for us is like to convert those
+tokens into dollars and that's all well it's just getting projects and just having oh having us
+automate your business because we know how to automate yeah and uh i i i think like with those
+all of those release i think we are getting like really close to uh the quality of the output is
+good enough to be fully automated maybe it was like a human uh reviewing the like yeah remain
+in the loop to review at the end but like it's getting there yeah i had codex 5.6 soul review
+my opus and after five rounds of reviewing they would give me a final result if it went wrong
+and sometimes they had like really good issues they found stuff that honestly i don't know if
+i would have found it correctly but you don't know if those issues are real or not though like
+you know like because sometimes it can find something that's not here yeah if you say it
+has to do a cli check it has to do a discount notification it doesn't have the right to do it
+then it will crash on it but that's why i have cloud fable connected on that mega mini who runs
+everything it can fix it can give the the rights that are needed and everything you use m s or open
+claw to orchestrate those subscription yeah nope everything was built by myself by fable yeah
+yeah and i i don't feel i have the need for those it was like one day of work and i didn't even sit
+at my pc i just told him what to do and it's on the side working and then i come back and i say
+hey i'm missing this and it does it yeah no exactly because even like if you so i updated
+my global and codex and claud when um opus 5 dropped so even like to change the aliases even
+like to set up the orchestration to tell claud to use uh gpt 5.6 as a subagent or even like they
+can talk to each other plus define the aliases so now if it's opus it will always be the latest opus
+i know gpt something like i use like a 5.6 so i for everything yeah me too yeah um
+and uh but like what's hammers doing more than that i don't know and honestly
+i don't want external software built by someone else on my pc because i don't know what they're
+putting in exactly yeah and again you are like one prompt away of like uh implementing yourself
+and you have you know what's up right yeah so why should i do it if we can do it better ourselves
+and easier now we have the tokens because we have big subscriptions i mean uh kind of like uh i
+i burn my clothes subscription uh i think it's because of the skill and mcp like i burn them
+in two days uh yeah that's that's going hard i got i got the reset on friday and on monday afternoon
+so okay i'm gonna use codex now yeah but that's the cool thing here every time that i see that
+i'm burning a lot the first question i ask is hey we are burning so fast this is impossible to
+maintain what can we do to make it burn less tokens uh and if he needs to set up something
+manual just do it but improve it and that works yeah all the time yeah and even like i saw some
+tweets about like one of the french entrepreneurs saying like yeah on friday um i just clean up
+my context or like my cloud md and like the agent.md because it gets so much shit so fast
+uh even on twitter you can yeah i don't know if you saw that but um some people were saying uh
+for opus 5 direct your skill and uh review your cloud and then the model will
+work better oh that's cool yeah so you need like a big cleanup
+uh yeah so did you use uh opus 5 uh i just started using it yeah but i did it only in
+a terminal i didn't add it to my automation yet because i didn't want to crash everything by
+accident when i was like uh 1600 kilometers away yeah you know what uh what you do like it's what
+when it works don't break it right yeah yeah exactly and just make sure that you have full
+access i did have access because unify has these uh travel routers it is amazing not promoting a
+product but uh i have the entire unify setup at home okay and they have a travel router so
+in the apartment that we rented i just put their uh router uh internet cable into my unify router
+put this power in and it set up a local vp network with the same thing as at home and a vpn connection
+to my home router my firewall oh that's slick so working in spain i was on my dutch ip all the time
+working from my home lab for my home and all the ip filters everything was set up just within five
+minutes that's sick that's pretty cool yeah okay because uh before i was changing my aws
+cloud watch to access my instance from airbnb ip yeah yeah that's not fun i have ip blocks
+everywhere yeah so i just have to travel router i put it in and i get my own wi-fi all the devices
+are instantly connected and i'm using my home ip address that's nice interesting how much does it
+cost the thing costs like 70 or 80 euros but you have to set up your entire unify network at home
+as well and that's a bit more expensive um but again it works perfectly can't you connect it to
+delscall to be part of the network yeah you can but i like this because it just works yeah and
+it's tech so it's cool to have um that that's interesting um okay what about the 5.6 soul like
+what's your feedback on it sometimes it's annoying or is it just me yeah like yeah this morning i was
+mad against it cloud fable just worked perfectly like like a good employee and then 5.6 it just
+does weird stuff and then when you say why are you doing this it didn't give you the task to do it
+and you are now changing a lot of stuff that was working and said oh yeah you're right it's like
+going back in time yeah we're just arguing with the ai all the time this one goes rogue more like
+it um i had the issue with like version like the deployer versioning and it was just instead of
+increasing the patch she was uh increasing the minor so every deployment had a new minor fucking
+release yeah like stuff like that and and oh yeah this morning so uh i had you know like the so i
+have um the authorization as a custom like uh just don't ask me the just just go don't ask me for
+github authorization so like yes to everything yes and this fucker wrote the whole branch into
+uh the temp folder and the temp folder doesn't have the authorization of um the authorization
+like the perms yeah so it was asking me to use github come online like github pull request
+create the github read github read it was asking me to confirm a github read i said bro stop doing
+that and uh 30 minutes after then i found the you know in the block of files edited it was all in
+prior in temp temp folder say why the fuck did you do that yeah and i think this is one of the
+perfect examples why you need us just yeah because we understand what what goes wrong yeah i don't
+know exactly other people just have to delete everything and restart and hope that it doesn't
+make the same mistake and eventually after two days of testing they get it working
+um we just know why it's not working yeah no exactly i mean you're not never like
+uh you never know if you are you are going to find the bug solution in the next five minutes
+or five hours right yeah but knowing what you're doing and then debugging and asking the right
+questions that helps a lot oh but uh i mean
+those instruction file like the cloud and the agent.md we are like the models are still not
+listening to it nope nuts no but that's why i like review rounds because eventually i force uh in a
+first review round to check everything versus the agents.md and the readme.md files oh so even when
+opus does the first coding even if it skips some parts then i have a rule in the first uh checking
+round from codex that it checks the readme the agents and everything and it compares it to what
+has been coded and that has been going good so far because i log um the conversation between the two
+agents i just tell them to write down all the findings and then opus has to reply on each finding
+and why he thinks it's correct why he thinks it's not correct so i can read back the entire
+conversation they had and it's really funny to see they even say you are wrong but like
+all of that shit goes to the context window no i just write it in comments under the issue
+in github oh yeah in the thread right but like the whole conversation between codex
+and cloud is it not going into the context of your session yeah it is but it's max yeah
+but it's max five five rounds and then i just clear everything okay so it's per task yeah
+okay okay that makes sense yeah okay so you have a thread on on github or in the md file uh yeah
+well they do it in md file but eventually they write it in a comment on github in the issue so
+that i can see the issue what was written down and see the entire conversation yeah that makes sense
+i love i love github look for tracking like the agent stuff yeah i just hope they keep it as a
+good software because it had some issues lately last week he had like a uh 500 there or like i
+was not able to use github for i think half a day or a couple of implementation like yeah i can't
+read that's a big issue bro like github goes down there is no more software in the world yeah and
+the weird thing is almost everybody uses it and when you speak to somebody using gitlab or
+something they say yeah we use gitlab but it doesn't have all the options get a pass
+yeah no way yeah yeah it's yeah i know it's uh but like i also wants to build its own
+agentic competition to github yeah so elon is building it well yeah we'll see how it goes
+but uh okay so we talk about 4.65 febble five febble bro febble five oh uh it's going away in
+seven days yeah going away we're gonna keep it for another seven days
+no my joke is falling because they keep saying that it was going away again and again three times
+but we knew it yeah as soon as they have competition they won't if they delete it from
+subscription they will lose people and they use they lose subscribers no for sure but still like
+cloud looks better than 5.6 right like yeah for for all the front end tasks as soon as i
+i start talking to codex uh i'm getting i'm getting anxiety because i know the front will be
+shit but i also don't get it it's like they have been telling us so many times fable went out
+and you only still only get 50 percent of your subscription in fable tokens yes and now they
+released opus 5 and on some parts fable is better but i'm coding opus is better and you can just use
+it at half the price 100 of your subscription so what's the use of fable maybe some cyber stuff
+that's all of this basic uh yeah all of the stuff we don't do but for coding like crud apps it's
+fine yeah but even if you use fable to do it after you you did coding you just do it for a check
+and you can just have fable check everything and you're still within your limit easily oh
+yeah like i'm not i'm not implementing anything with fable fable is too precious like it's only
+doing the the planning right yeah and uh yeah and the execution on 5.6 that's all right okay so i
+can say save my cloud subscription but also like we are we have a bonus right now on the session
+right so we are like 50 percent more so we need to like until the august of the end of the week
+we have rotation but after that limitation or going down what's going on with like the the
+the deal with ellen are they not you're supposed to have like more compute now
+yeah i damn it doesn't it they have a different uh a different promotion every time yeah
+oh what what every time they have a different promotion so now they are saying you have it
+until august but before they had it as well i just keep keep getting free resets i don't know
+but i always get enough tokens so i don't mind and uh reset on codex like uh on entropic side
+i'm waiting for them like they need the button they need a better yeah yeah but they will they
+have to compete so they will add something eventually yeah the only thing i still haven't
+tried was the new grok oh yes uh now we have it in europe like it has been available um
+uh last week i think so we had the two two weeks delay on grok um yeah i i have it i need to run
+it it's it's included in the meta bar uh monitoring so i have a backup ai stuff but i don't know yeah
+we need to test it but um yeah but if it can do a a final check or whatever even if you use it
+for simple things maybe it finds more than codex does or something different that will be awesome
+what was the benchmark on 4.5 it was good yeah benchmark 4.5 grass is
+oh 4.5 grok because i'm gonna get opus uh tech man's studio
+tank path
+uh okay what the fuck is benchmark i don't think i'm gonna use that
+oh yeah uh grok is way cheaper though than uh 4.8 at the time uh artificial artificial analysis yes
+intelligence so opus five faber five yeah that was fun oh it's just outside of the window yes
+perfect claud is one point above faber five opus five max
+yeah so it's almost the same quality kimi three yeah okay open source model that's gonna be fun
+too yeah but did you see how much ram you needed for the kimi tree oh yeah you know but you need
+open source model doesn't need it's gonna run on your computer right it just need it means it's it
+it means it's coming from china yeah it is but i i think they block new subscribers really you're
+not getting it yeah because eventually uh when cloud was up almost at full usage and they wanted
+to keep selling subscription they just halved all the capacity from everybody and kimi said okay we
+are almost at full capacity we block all new people coming in so if you have a subscription
+you're lucky and otherwise you're out of luck you can't get one so i don't know if they opened it by
+now but this shows a big difference in how they treat it damn oh yeah kimi just ended premium ai
+subscription what the fuck that was okay wait that was one week ago yeah it was one i don't know if
+they upgraded the usage at this moment uh has received far more love than we expected and our
+gps are feeling it over the past 48 hours the moon has pushed close to the limit of occurring
+capacity to protect the experience of existing subscribers we are temporarily posing new
+subscription and practice compute for current members wow jesus uh gimme ai yeah i think this
+is good they just give give you what you pay for that's perfect okay uh where's the okay again
+don't even have fucking uh kimi pricing
+no there is no pricing what the heck yeah let me check
+i think you have to sign up first yeah and i didn't sign up yet but this shows that if you
+want to have an open model that's going good you better get a subscription yeah and then just pay
+for it because once you're out you're out and i even don't know if it's possible to upgrade
+oh this is it why am i in italian
+allegrito i like what wait is that is that the what the whole the name they are playing
+yeah because you have english below it what wait what yeah yeah this is good
+okay and you can just say join waitlist
+where oh fuck you have scroll like five times over it yeah it's a white button damn really
+damn well yeah i was talked on the fucking allegro stuff yeah why are you doing setting music stuff
+because it's possible okay yeah why not uh so even on the annually plan you have to join a waitlist
+yes okay fair enough new membership plan coming yeah we really need more compute
+yeah yeah yeah we if you want to keep scaling we do that's crazy i mean yeah so that that
+means like even the inference battle like uh elon musk is right then because uh that's that's the
+game in town because nobody can offer the best model to the people at full capacity like no but
+for the easy things you can do it locally i'm using olama on a 16 gigabyte ram just for chatting
+communicating and giving me answers on the open progress and everything yeah really you can only
+say hello and then maybe it works okay it's like i have fable connected to my mcmini but also i have
+olama it's connected to discord and if i want to know how many tasks are open what the status of
+a task is and everything but olama also builds a database of every task that i've put in so
+it has uh like a database in the back end and i can just say hey okay um give me an overview
+of what we did for this customer on this task okay it'll give me all the tasks which which model do
+you run on olama um i don't know fable chose it oh maybe you have mistral you are one of the user of
+mistral and you don't know it i then i don't know it but it works really good and then it is on the
+same mcmini yeah it's like a local vector database that's it yeah okay it's like the equivalent of
+your eco uh model basically yeah and that's good enough and for those small questions just getting
+status updates i save all those tokens yeah oh now warps onto like yeah i mean uh yeah if i if i
+use all of my cloud i can always have olama or slash croc uh alternative stuff um but okay no
+yeah we were talking about grok and on the benchmark yeah it's uh so kimi three kimi yeah
+kimi three and just after yeah after yeah i would just say even if you don't want it just join the
+wait list because you never know when they are scaling up and if they do it by the time that
+they make an even better model then you wish you had joined it in time that's nuts that's nuts uh
+new oh yeah like nvidia is starting to do some uh models too well you have to start somewhere
+yeah uh tuck and muse yeah also like the same day uh mark uh the camera like dropped the
+facebook model did you try it nope yeah me neither do people even want to try a facebook model
+because facebook is known for selling all your data yeah like so why give them even more on ai
+exactly all right and again like entropic and codex are in my workflow now so i don't have a
+point i'm not even using grok and i have installed it and i don't even talk to it so well i think
+that's the thing right once the setup in your entire infrastructure and you're making money so
+you don't care that it costs like a few hundred dollars then they are not leaving unless they have
+a big fallback and other models are much better yeah i mean maybe there is a play for open source
+model i don't know but okay so yeah about the cost per task that's nuts yeah that's crazy
+uh why is that so expensive like it's twice 5.6 to run cloud opus max
+than 5.6 max like what yeah but this is just the ai tokens compared
+yeah true and you get like a bigger multiplier in your subscription so eventually for you it's
+cheaper yeah and also like the cost wait our weighted average cost usd pair intelligence
+tasks so laura is better yeah thank you um no that's the cost of the time so it's not the token
+used anyway it's just like how much it costs to do one task right oh so it's all relative it's not
+the cost per token yeah i thought it was for the token usage for the same task and then comparing
+it on different models yeah but wait that doesn't make sense because like deep seek why not everyone
+is using deep seek if we have a task and cost two bucks with opus everyone should use deep seek yeah
+but don't you think that for sure companies in the us here the deep seek is from china and they just
+don't trust it that there is a huge discussion right now on twitter about that because um
+right did you have you seen like the attack from uh the next model from open ai that hacked again
+face yeah and then you again faced uh again face use a chinese model like open source because they
+were not able to use fable or 5.6 because it was uh too much of a quad rail stuff oh i missed that
+one i just i only read that open ai had a model going rogue and hacking logging face yes and they
+didn't even notice it in the first few days yes and i didn't check anything further and the the
+rest of the story the last uh 20 of the story i missed it i tried to use fable and then there's
+fable told them oh you know it's a security uh go back to 4.8 and then 4.8 was not able to uh
+attack them that would defend them properly so they installed kimi uh three or two maybe whatever
+one of the kimi instance and then they were able to defend themselves again the attack
+oh that's cool they use a chinese model to defend themselves against a u.s model yeah that was
+supposed to help them yeah that seems fun yeah i think they should just tell open ai we want
+a full year of free tokens for this shit yeah exactly i mean yeah click one two uh three more
+times reset button please yeah but eventually this shows that you need some good devs to understand
+how to use models and everything and to defend your company because it's gonna be fun yeah
+this is going wild do you still have a clear vision of the architecture of all of the projects
+that you've encoded in the next in the last 12 months um yes and no yeah would you be able to
+stop using ai and keep working yes well except for two projects because i did two test projects
+uh where i had them build a website with sas product and i said everything needs to be ai
+built i don't want to do anything um and every time that i have tokens left in my account yeah
+i just burn them on those projects but they are not like my main focus but on everything
+i do for a customer i still do all the writing down of the the projects at least i discuss them
+with the ai i read everything and i know how the infrastructure works all right okay yeah
+more sense yeah like uh you your customers are doing like half a million a day so
+yeah they need to be secure yeah and uh where when do you think you will stop looking at the card
+uh i don't think i will do it in the next two years yeah of course you keep trusting your ai
+more and more and more because it finds so much stuff that to be honest some some projects that
+we have been working on for for years and have been working perfectly it found an issue like
+created five years ago and it never went wrong it never had something but um i've been sharing
+it in some groups and other people had the same issue as well so but it's like the defining the
+leak that has been in linux for 16 years yeah no exactly it's the same thing yeah it's they
+will always find something so you trust on it to fix it but you still want to know what it does
+the problem is like when you catch the ai doing something wrong it will it's really really wrong
+and uh so then it it makes me like question everything that uh you have done and just
+like pushed uh just like that yeah and uh you don't know what the fuck it introduced
+yeah and then the question is what other ai can you ask to check the entire project
+yeah and and there is like some um articles on x that uh turn about like talk about like
+yeah the software factory uh don't really doesn't really work right now because uh again like it's
+spaghetti code and stuff and when you have a bug in production at 3m uh you have no idea how to
+debug it uh without a cloud subscription or something like that so maybe at scale that's
+gonna be a problem yeah yeah yeah and then bigger companies for sure yeah but uh and also okay yeah
+also like um i saw uh levels uh io saying that the revenue of the is in the acer um project are
+all going down because of ai because of ai and because like the value um the value of his
+software is not high enough to uh um to not be vibe coded and also his audience are like tech
+bros so they will vibe code everything yeah like he is giving them free information on how to do it
+exactly but plus like everyone is also uh a tech guys on on x right like his audiences are techies
+so that everyone has a club subscription yeah um uh could i talk about the good and bad one
+i notice our signup conversion are pretty weak this month uh everything is downstream of us
+getting less traffic to the site also like yeah like people are not going to the website anymore
+they just like uh speak with uh creativity uh i find myself using cloud less and less yeah true
+what's the answer no short fix next to explore other channel youtube newsletter etc um and levels
+um i'm seeing a trend here declining reunion traffic with indie hackers on my own project too
+maybe big bc project too but i will not know because they don't share revenue
+to me it's unclear like big ai is cannibalizing everything that used to be apps not by by the way
+just time to changing into that um yeah that's that's a big drop but that's uh the guy from uh
+tailwind nobody is going to the website because now the agent knows how to use the framework
+yeah so it doesn't have visit at all uh made you for tailwind nobody needs to read the
+documentation anymore exactly no no exactly like you just check visually what's the components
+you want in your code base and then you just drop it right um tech take a close but you got some
+other counter examples okay correlation project just gonna keep going these guys tweeting a lot
+yeah but does he also tweet about the functionality in his project
+not really but i think like look like his bio yeah yeah he used his bio as a fucking uh
+yeah driver because honestly if i can just have uh cloud scrape his entire uh x account also the
+products and the mentions of the products i can just make a full documentation of everything he
+asks how he's doing it what he's coding about it what he's telling about it that makes it so easy
+to just copy his products yeah exactly i mean it like we are in the industrialization phase of
+apps right but um so okay uh your application is the report okay so this is a common reply but i
+need to see my girlfriend yeah i uh i see my girlfriend who also stopped using most sass and
+just ask claud and chat gpt whatever she wants and now evan makes her own apps to solve program
+uh highly personalized and a firmware interface we predicted air will generate on the fly to solve
+whatever problem now we have it's happening and it's here yeah and it's the same thing right
+people are looking for mcp's to connect everything but you don't need an mcp you can just give cloud
+your apis exactly just can build everything you want and you don't even know it's mcp you just
+ask claud to figure it out yeah uh so that was the uh answer like uh is your application is developer
+india facing you might have a hard time competing with self-made solution if your customers are
+consumer and smbs most people don't like seeing uh tinkering or making their own solution yeah well
+now you will see who are the people out of their creative they will just go with flow and use the
+new and latest ais to keep on building something that is used and not keep doing the indie stuff
+yeah and it's a new era man like uh internet is changing for real uh
+there is a tweet fuck i should have maybe i did book market back uh nope
+nope nope i didn't fuck
+okay too bad but um yeah that was like one guy saying uh we are still serving
+um our customers are smbs and they don't have like the like for example um
+uh yeah hairstyle salon or stylist or nail lady will not build her own cloud website app stuff
+yeah i think people will because i i have some marketing agencies who are now
+instead of hiring uh designers just using cloud.ai design yeah but they're already marketing uh
+companies yeah but they have no knowledge of design or whatever and it does everything for them
+yeah but i'm talking about like the nail lady that uh doing nails ah yeah even if she just
+asked cloud and asked them people are building their own websites how do i do it and cloud says
+hey here tell me what you want go to design and you will get a website and they can even
+just ask them how to deploy it yeah that will be automated and imagine cloud selling aws hosting
+that will be an insane product with big margins there is sites now on chat gpt that you can host
+uh a website on chat gpt directly yeah that can kill the entire hosting industry
+but like bro you say the multiply like a nails lady doesn't ever use that tool you know it it's
+but if she asks how do i visit it and how do my my customers see the website then cloud knows
+she means deploy yeah yeah yeah how do i get my customers seeing this website yeah yeah that's
+enough yeah and then says oh hey it needs to be online normally you need a hosting party but
+please click here pay me ten bucks it will be live yeah give me the api key stuff there whatever yeah
+um okay maybe last section i think we uh what about um okay no just just back on the last part
+didn't uh cloud because i'm not using the cloud desktop app didn't have the browser included yes
+then it's fixed it will go to a hosting website for you until you pay here yeah and it will just
+log in get the ftp in your account or the api or whatever and it will connect it will upload and
+that's it there is even the ios simulator now inside the app so how cool would it be if we just
+automate a hosting party and the only thing we do is try to get into uh chat gpt and tell
+chat gpt that if it has a customer pay here we will just show instantly and share the ftp so
+the chat gpt sells customers to us then we need to be good at the geo so yeah the high reference
+stuff so then we need gen feed to spam ugc videos about oh yeah most thing yeah solved yeah next
+product is incoming okay let's go i mean feel um you know like the the content creator guy he
+built his own uh um i don't know infrastructure but like hosting leg bed product stuff i don't
+exactly why i did that but uh because it doesn't have servers so behind it is that like what uh
+amazon i think so but still so many people on expose they built something and eventually it
+was a prompt to cloud and they don't know how it works but it works and they say hey look what i've
+built look look matt look look what matt schumer built uh one prompt uh cloud five opus five yeah
+that's insane and he also gave the prompt right yes you get you get the yeah yes yeah so uh first
+person shooter building a brother with 3gs and web gl2 there is no art assets
+uh texture bla bla bla tuning performances before optimization after yeah okay
+honest assessment the goal was too much a modern commodity it does not yeah no shit
+uh okay felt short uh hands block blocks blocky fingers material machine surfaces read as
+procedural noise characters enemy reads as manicure at distance indirect light blah blah blah
+but all of that you can you can fix it with like some um 3d generation from codex or cloud or
+whatever yeah this was a one shot and then it's optimizing yeah uh where is the two where is the
+prompt prompt i want you to build a first person shooter that's three lines yeah working nuts but
+then eventually cloud uh decided everything by himself yeah so does everybody who puts in this
+this prompt get the same result uh yeah i saw some people uh having similar output
+uh zero shot uh gpt yeah awesome uh i'm pretty sure it's match rumor
+uh okay okay
+where is it fuck yes uh my tumor was right i don't game it so i'm almost a boomer and i
+already learned to cut three years ago with ai my son was there one prompt shared my view on ai
+gaming completely my son has been a gamer his entire life he was everything i kept asking
+whatever what do you buy when i saw much from a post one prompt a 20-hour run on ultra jesus
+fucking christ that's expensive at the end of it my son had a playable build specifically for him
+running on a 85 inch tv yep yeah and then seeing like gaming studios working for years on it
+it's lego style yeah lego that's that's cool
+downtown yeah
+bro that's that's sick a 20 number 20 yeah a 20 yeah fair question i asked us to pull the receive
+the run is 24 million token across 85 sub agent and 8 000 tool calls
+oh wait
+he put it online yeah he published it yes it deployed exactly
+like the question have other people play my game yeah oh wait wait okay i'm gonna i'm gonna
+close it because it killed my computer it's probably it's heavy it downloads everything and
+yeah maybe i should not click some links on x there is still a difference between building a
+shooter game that one person plays and building a shooter game that like 50 million people at
+the same time i know exactly like it's like oh yeah i want to rebuild the twitch for live
+streaming yeah you have no idea how video network works right so enjoy but yeah looks like my own
+version is loading on through 3gs bro it looks good yeah like it's just one shot like remember
+what we produce with one shot stuff like the in the arena like that's that's 10 times better
+than the fucking arena we had it was only a few weeks ago yeah i'm still like mental uh yeah also
+this i know that's not the game i sent you but like the space stuff cloth punk jesus
+whoa yeah also the entire gaming industry is changing not just development and coding
+clairvoyance to make quality using matrimor prompt second shot 120 at 4k what the heck
+that's mental
+and probably it has cloud scraping all this data of people discussing what they want better
+and they just load it in for the next next version oh yeah yeah because yeah then i'm
+sure because the data and yeah and everybody is publishing live what they like and what they
+don't like so the only thing they need is scrape it load it in improve it and push it to the next
+office version and people will be blown away oh it's so much better this time well yeah you told
+her what should be better yeah exactly plus like yeah everyone like can push it like open source
+on github blah blah you get the code and you can get the git history see yeah you can even avoid
+like the git history and have the best output at the end like yeah it's not like the wall is wide
+man like it's getting even better yes every 10 days at the time so what are you going to do next
+i'm trying to finish the project the 25 project i'm working on right now yeah uh because yeah like
+we can we can start a new prompt and like one from something but at the end of the day you
+need to transform those tokens into money right yes so yeah but again after this like 10 days
+experience stuff like those um autonomous company like if it's think as an it's it's like sold out
+and playing out as an autonomous company i think there is like shit ton of stuff that could be done
+and even like with the speed of ai you if you don't talk to ai bros there is a world when
+you can have a sustainable business at least for a few months slash years and uh it's enough
+fully output ai stuff yeah because there is a new step with like those uh opus five favorite five
+five point six so it's racial yeah yeah what do you think what's your take i think i would say
+let's go yeah let's go just just keep the pace up keep going keep coding see what works drop the
+other parts and don't try to do too much yourself because the next version will even be better
+yeah i i that's true it's hard to do something that's gonna survive the next model too right
+yeah yeah okay man i think we could wrap it up here yeah yes we can make some amazing shorts
+yes that's i think that's the goal so yeah subscribe to the channel because maybe we're
+not gonna do any more videos anymore it's gonna be shorter and it's gonna be live stream only
+yes and let us know what you think yes thank you so much uh enjoy the rest of your weeks
+Thank you, Mitchell. And see you in the chat. Yes.

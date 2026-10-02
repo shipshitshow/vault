@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,740"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4740
+      },
+      "text": " I wanted to try it, but I said create a documentation and just did MD by default."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,740",
+        "to": "00:00:10,880"
+      },
+      "offsets": {
+        "from": 4740,
+        "to": 10880
+      },
+      "text": " And then I asked for HTML and HTML was just like still the MD, but only like H1"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,880",
+        "to": "00:00:13,440"
+      },
+      "offsets": {
+        "from": 10880,
+        "to": 13440
+      },
+      "text": " tag in front of it instead of one hashtag."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,880",
+        "to": "00:00:16,920"
+      },
+      "offsets": {
+        "from": 13880,
+        "to": 16920
+      },
+      "text": " Oh yeah, because yeah, Mac don't can also read the file."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,920",
+        "to": "00:00:21,360"
+      },
+      "offsets": {
+        "from": 18920,
+        "to": 21360
+      },
+      "text": " So it didn't do what I wanted to do."
+    }
+  ]
+}

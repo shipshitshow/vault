@@ -1,0 +1,4 @@
+There is a difference between a real developer using an AI agent or just
+somebody vibe coding and why it actually takes some time to do a proper setup.
+It's not possible to do it in two minutes and just copy paste everything.
+You need to think about what you're doing.

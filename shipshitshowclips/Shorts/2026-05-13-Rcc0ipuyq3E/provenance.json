@@ -1,0 +1,14 @@
+{
+  "youtube_id": "Rcc0ipuyq3E",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/Rcc0ipuyq3E",
+  "source_sha256": "728645dd541efeaa348782bc4a92938d4e04da1e8007d544101bbfffffbc042a",
+  "audio_sha256": "85ef2d37294813b8683e8f19f9aac70fa6a0f5ed93085dda8b099da77d19b803",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

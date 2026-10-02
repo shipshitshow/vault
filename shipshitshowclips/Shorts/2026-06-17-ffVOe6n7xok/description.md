@@ -1,0 +1,1 @@
+US government blocked Amazon's Mythos model after discovering it was jailbroken. Access denied for everyone, raising questions about government pre-access. #Amazon #Mythos #Jailbreak #TechNews #Cybersecurity

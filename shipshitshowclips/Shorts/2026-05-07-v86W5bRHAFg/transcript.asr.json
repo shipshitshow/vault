@@ -1,0 +1,241 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,800"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4800
+      },
+      "text": " I did a full set up for a new project with AI and it took me like a lot of"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,800",
+        "to": "00:00:08,780"
+      },
+      "offsets": {
+        "from": 4800,
+        "to": 8780
+      },
+      "text": " hours to get everything planned after planning and did this, did this."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,780",
+        "to": "00:00:10,200"
+      },
+      "offsets": {
+        "from": 8780,
+        "to": 10200
+      },
+      "text": " And I said, yeah, I'm not happy."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,200",
+        "to": "00:00:13,440"
+      },
+      "offsets": {
+        "from": 10200,
+        "to": 13440
+      },
+      "text": " I want to do this, this, and this before we proceed to the next step."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,460",
+        "to": "00:00:17,100"
+      },
+      "offsets": {
+        "from": 13460,
+        "to": 17100
+      },
+      "text": " So after I think three or four hours, we were done planning"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,160",
+        "to": "00:00:18,300"
+      },
+      "offsets": {
+        "from": 17160,
+        "to": 18300
+      },
+      "text": " and that's a lot of time."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,340",
+        "to": "00:00:23,500"
+      },
+      "offsets": {
+        "from": 18340,
+        "to": 23500
+      },
+      "text": " So the first thing I did, I asked it to write down a full prompt to"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,500",
+        "to": "00:00:28,300"
+      },
+      "offsets": {
+        "from": 23500,
+        "to": 28300
+      },
+      "text": " explain AI next time, how I want to do the planning exactly in this style."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:28,620",
+        "to": "00:00:31,360"
+      },
+      "offsets": {
+        "from": 28620,
+        "to": 31360
+      },
+      "text": " So now my second project, I just put in the MD file."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:31,360",
+        "to": "00:00:32,260"
+      },
+      "offsets": {
+        "from": 31360,
+        "to": 32260
+      },
+      "text": " I say, read this."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:32,260",
+        "to": "00:00:33,860"
+      },
+      "offsets": {
+        "from": 32260,
+        "to": 33860
+      },
+      "text": " This is how I want to do the planning."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:33,880",
+        "to": "00:00:34,280"
+      },
+      "offsets": {
+        "from": 33880,
+        "to": 34280
+      },
+      "text": " Okay."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:34,280",
+        "to": "00:00:34,980"
+      },
+      "offsets": {
+        "from": 34280,
+        "to": 34980
+      },
+      "text": " Do we start?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:35,300",
+        "to": "00:00:37,180"
+      },
+      "offsets": {
+        "from": 35300,
+        "to": 37180
+      },
+      "text": " And then it just starts interviewing me."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:37,180",
+        "to": "00:00:37,920"
+      },
+      "offsets": {
+        "from": 37180,
+        "to": 37920
+      },
+      "text": " What do we need?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:37,940",
+        "to": "00:00:39,080"
+      },
+      "offsets": {
+        "from": 37940,
+        "to": 39080
+      },
+      "text": " Well, how do we do this?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:39,320",
+        "to": "00:00:40,440"
+      },
+      "offsets": {
+        "from": 39320,
+        "to": 40440
+      },
+      "text": " And what does this set up?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:40,440",
+        "to": "00:00:41,740"
+      },
+      "offsets": {
+        "from": 40440,
+        "to": 41740
+      },
+      "text": " What server are we using?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:41,740",
+        "to": "00:00:42,240"
+      },
+      "offsets": {
+        "from": 41740,
+        "to": 42240
+      },
+      "text": " Et cetera."
+    }
+  ]
+}

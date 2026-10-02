@@ -1,0 +1,197 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:01,520"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 1520
+      },
+      "text": " - If you are prepared for three hours,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:01,520",
+        "to": "00:00:04,040"
+      },
+      "offsets": {
+        "from": 1520,
+        "to": 4040
+      },
+      "text": " how long does it take for Opius to do it?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,040",
+        "to": "00:00:06,080"
+      },
+      "offsets": {
+        "from": 4040,
+        "to": 6080
+      },
+      "text": " - Well, eventually it takes him like three hours,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,080",
+        "to": "00:00:07,040"
+      },
+      "offsets": {
+        "from": 6080,
+        "to": 7040
+      },
+      "text": " but sometimes I ask,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,040",
+        "to": "00:00:09,120"
+      },
+      "offsets": {
+        "from": 7040,
+        "to": 9120
+      },
+      "text": " hey, come with three different solutions."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,120",
+        "to": "00:00:11,240"
+      },
+      "offsets": {
+        "from": 9120,
+        "to": 11240
+      },
+      "text": " And I ask Kodak to do the exact same thing,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,240",
+        "to": "00:00:13,260"
+      },
+      "offsets": {
+        "from": 11240,
+        "to": 13260
+      },
+      "text": " to come with three different solutions"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,260",
+        "to": "00:00:15,920"
+      },
+      "offsets": {
+        "from": 13260,
+        "to": 15920
+      },
+      "text": " and just merge them into one document."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,920",
+        "to": "00:00:17,780"
+      },
+      "offsets": {
+        "from": 15920,
+        "to": 17780
+      },
+      "text": " And then say, what's the difference?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,780",
+        "to": "00:00:20,960"
+      },
+      "offsets": {
+        "from": 17780,
+        "to": 20960
+      },
+      "text": " What can you take from other solutions to improve it?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,960",
+        "to": "00:00:23,000"
+      },
+      "offsets": {
+        "from": 20960,
+        "to": 23000
+      },
+      "text": " And then they think like 10 minutes again."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,000",
+        "to": "00:00:26,600"
+      },
+      "offsets": {
+        "from": 23000,
+        "to": 26600
+      },
+      "text": " So the three hours is including the taking time of the AI."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:26,600",
+        "to": "00:00:29,720"
+      },
+      "offsets": {
+        "from": 26600,
+        "to": 29720
+      },
+      "text": " - Do you ask Claude to give you a solution?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,720",
+        "to": "00:00:33,720"
+      },
+      "offsets": {
+        "from": 29720,
+        "to": 33720
+      },
+      "text": " Do you offer a solution and then Claude is giving you a better one?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:33,720",
+        "to": "00:00:34,220"
+      },
+      "offsets": {
+        "from": 33720,
+        "to": 34220
+      },
+      "text": " It does."
+    }
+  ]
+}

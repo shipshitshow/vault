@@ -1,0 +1,238 @@
+You know what's cheaper than Grok 4.6?
+Paying nothing at all.
+Exactly. Free model on OpenRouter, man.
+Okay, let's go.
+Yeah.
+Get Grok, get OpenAI.
+Yeah.
+We have something better.
+Exactly. All of that is garbage. Put that on the side because it's too expensive.
+I refuse to pay for my AI now.
+Yes. And it's not only for good developer sales, for everybody.
+Yeah.
+Last week, OpenRouter announced 0xalpha was in stealth mode, aka like they launch a model
+and they are going to get your prompt and see if you like it and then launch it a week after.
+So yeah, now that we know that 0xalpha is z.ai 5.3 flash and during a full week, everyone was
+trying to guess based on the input, the output of the model, et cetera, like which model it was.
+It's basically lasted like 15 minutes.
+Everyone was already talking about GLM 5.3 just after the launch.
+And for a week, like 42 trillion tokens in six days, yeah, open code.
+Did you try it or not?
+I didn't try it.
+Yeah.
+It could have been like a billion more.
+I didn't find any crazy, big mistake stuff because even like the benchmark was like,
+in some benchmark, it was on pair with Fable 5.
+And for free.
+And we had that for free for a week, but I had some issues.
+Try testing the model while in open code.
+Sometimes it just like stopped working.
+I was not able to see the results in the station.
+It just like a build, build, build, stop building.
+What's happening?
+I was building, build, build, build and stop again.
+Yeah.
+On the free one, so many people are using it.
+Probably spikes in the usage and then it just goes out of a connection or something.
+Yeah.
+Because of that stealth morph, I decided like to retry open code.
+And even on cursor, you can do that on cursor by changing the API keys.
+So you can bring your open router key to cursor to use the cursor interface to use free models.
+And I haven't like retry open code because it was a CLI and it was like
+working the best with like this stealth model.
+And yeah, now I've discovered even more free models because I like to pay.
+But yeah, if you can get those free models for free, that's even better.
+You can just use free AI now.
+Yeah.
+Well, you need cursor, but you don't need a subscription to change it.
+Or do you put in your own API?
+I don't think so because it's using your...
+Okay.
+So it's using the API and you just get the software.
+So that's it.
+Yes.
+So you have a nice UI to use AI basically.
+What can we build with those little free models?
+I want to try them.
+I want to try them now by building a YouTube transcript.
+So we drop a link, we give a link, we get the transcript and if it will build that correctly,
+then I want to have the clip.
+So it will cut the clip of the best moment that we have doing a live stream.
+Okay.
+So basically at the end of this video, we can drop the URL in and it will create all the clips for us.
+That's what I hope it will build with a free model.
+With a free model.
+And in 30 minutes.
+Yes, exactly.
+Let's go.
+Okay, nice.
+So I have Muse on the left and 0xalpha on the right.
+And I want to use the prompt.
+So we are building a small standalone TypeScript tool called YouTube Distiller.
+Pass the YouTube link and you get back what the video actually said.
+Just a handful of moments worth watching.
+Cut and playable.
+Yeah, read only.
+Do not write code yet.
+It has two faces of one engine.
+It runs the full step below and emits progress even when it goes.
+CLI, server.
+The UI is a simple static HTML5.
+No React, no Bundler, whatever.
+Pipeline.
+YouTube downloads.
+Download the video and the English auto-caption in GZone 3.
+Pass the GZone 3.
+One request to open router.
+Free route with the entire transcript.
+Build in five minutes and to escape as requested.
+Stay.
+Yeah, I see like the time estimation.
+It's pure garbage.
+It's crazy.
+It's the same thing if you put in and you say create a plan for this and now give me
+the estimate in time and in costs.
+I think it still does every estimate and the same time that people do it without AI.
+Yeah, no one percent.
+Because the data set is time estimation based on AI on human Reddit posts, right?
+So yeah.
+YouTube Distiller.
+Pass the YouTube link.
+Brief.
+Three, five ranked moments.
+Cut in playable.
+One model request per video.
+Left to the estimation.
+Download start.
+Okay, let's go.
+Request format is not available.
+Use list format.
+What?
+Fetching video.
+How are you capturing the caption if there is no video?
+I'm gonna drop that.
+I'm gonna drop that.
+Download done.
+Working.
+You.
+Are you doing anything?
+It did find it.
+Is it fake?
+Fetch video.
+Parsing.
+Okay.
+Analyzing transcript.
+One request.
+Okay.
+I'm gonna.
+Cutting five people.
+Wait.
+Okay.
+Yes, it does.
+Here it is.
+A livestream demo of Grog, Grogbot.
+End to end lead gen demo with King.
+Yeah, King was my bot.
+Yeah.
+Okay, wait.
+I'm gonna cut that.
+Took the segment.
+Smart.
+Okay, that's sick.
+Because like, see this, that's effect.
+That's what I use for the, for the transition in the video from one chapter to another, right?
+Walk through the food pipeline.
+Google search from end of end leads.
+Prom generation.
+Email draft.
+Lateral agent.
+Org shots.
+Yeah.
+One minute.
+One minute.
+Bro, that's, that could be clips for Twitter.
+Yeah, but people are trying to do this with Claude.
+And they are working for an hour to copy, paste, put the URL in, ask it.
+You can just better code your own solution.
+That's so much faster.
+And it's working.
+And it's free.
+Yeah.
+This is cool.
+Like, bro, that, that, that costs zero.
+And it gave results.
+Like, some prompt you find a lead that you just need to find 1000.
+I'll do this automatically.
+Then it will example.
+Yeah.
+And I think you can imagine how I need.
+Okay.
+Why is it refreshing all the time?
+Okay.
+What's still working?
+Yeah.
+But every time it creates a video, it refreshes.
+Not fake real bug, no fixed.
+You eat.
+Oh my God.
+That's I love AI bro.
+And again, we don't need an employee to do this for us.
+Make sure you test the different models that are available because you see,
+even if people say that is the best model.
+Yeah.
+Now you have to prove the other one is working.
+Yeah.
+I mean, yeah.
+Like it's crazy.
+I mean, you don't have those gaps with like the frontier model from entropy can have.
+Yeah.
+February five is still the best model though.
+Yeah.
+Also the most expensive.
+Yeah.
+I mean, I will, I think I will try to have those.
+I will just one prompt the same distiller stuff with codex and cloud the amount of entropy.
+So it would be 5.6.
+So, but yeah, it could be interesting to, to try that.
+But yeah.
+Okay.
+Whatever.
+So yeah, like we can even walk with free models now.
+Yes, it works.
+And it showed and it makes good solutions.
+You see, we had like five videos instantly.
+That's nuts.
+Like I didn't expect that to be that fast with not the model I wanted to test first.
+But the secret sauce is tell it we need it in five minutes because we're on live stream
+and it will just do everything in five minutes.
+True.
+Oh yeah.
+Through that.
+Yeah.
+The shortcut is like, bro, you have 30 minutes, 30 seconds because if you don't,
+I'm going to cut your electricity off.
+Yeah, yeah.
+The whole world is going through damnation.
+Just do it in 30 seconds.
+Yeah.
+So yeah, for everyone who was prompting right now, tell your Claude that his bandwidth is
+going to be reduced.
+Yes.
+Yeah.
+Michel, thank you so much for your time.
+Thank you for the demo.
+That was fun.
+And yeah, like next week, someplace.
+Oh yeah, no.
+Yeah.
+Someplace, sometime.
+Same on mine.
+Yeah.
+Cheers, man.
+Thank you.
+Bye.
+Bye.
+Yeah.
+Like, subscribe, share.
+Yeah, yeah.
+- Yeah, whatever.

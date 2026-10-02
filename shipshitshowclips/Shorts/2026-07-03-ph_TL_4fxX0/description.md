@@ -1,0 +1,1 @@
+Unlock your browser with the official Claude Code extension! Automate clicks, test features, and streamline your workflow. Download the official tool and experience seamless integration. #ClaudeAI #BrowserExtension #AICoding #Automation #TechTools

@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:03,820
+ I was writing code and just after three weeks,
+
+2
+00:00:03,820 --> 00:00:05,020
+ it deleted my database.
+
+3
+00:00:05,020 --> 00:00:07,660
+ And it said, yeah, the test failed, the test failed.
+
+4
+00:00:07,660 --> 00:00:11,300
+ So I tried to deploy all the migrations again.
+
+5
+00:00:11,300 --> 00:00:14,640
+ Oh, and by mistake, that reset your entire database.
+
+6
+00:00:14,640 --> 00:00:16,580
+ And I was like, I have it in here
+
+7
+00:00:16,580 --> 00:00:17,940
+ that you're not allowed to do that.
+
+8
+00:00:17,940 --> 00:00:20,180
+ If the test fails, you report to me
+
+9
+00:00:20,180 --> 00:00:21,620
+ and we check what's wrong.
+
+10
+00:00:21,620 --> 00:00:24,280
+ Because if it before was working,
+
+11
+00:00:24,280 --> 00:00:27,320
+ then only the last test is wrong or your last changes.
+
+12
+00:00:27,320 --> 00:00:29,500
+ And still it did, but it's only locally.
+
+13
+00:00:29,500 --> 00:00:32,140
+ So it doesn't matter that much, but it deleted everything.
+

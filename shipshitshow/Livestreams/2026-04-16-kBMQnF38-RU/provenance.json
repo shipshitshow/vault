@@ -1,0 +1,12 @@
+{
+  "youtube_id": "kBMQnF38-RU",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "102b126ea9d3148fa8b47935627dded6d0da21eaa2d9589fedfe910f99d45c29",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-04-15-livestream-you-reject-ai-it-doesn-t-matter.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

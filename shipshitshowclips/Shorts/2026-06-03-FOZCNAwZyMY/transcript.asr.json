@@ -1,0 +1,186 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,860"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2860
+      },
+      "text": " But this is actually what they said that Opus 4.8 would do."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,860",
+        "to": "00:00:06,140"
+      },
+      "offsets": {
+        "from": 2860,
+        "to": 6140
+      },
+      "text": " You give it a prompt and it decides on each sub task."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,140",
+        "to": "00:00:08,180"
+      },
+      "offsets": {
+        "from": 6140,
+        "to": 8180
+      },
+      "text": " - The user added new requirement mid task."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,180",
+        "to": "00:00:10,140"
+      },
+      "offsets": {
+        "from": 8180,
+        "to": 10140
+      },
+      "text": " So it was not even done."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,140",
+        "to": "00:00:12,100"
+      },
+      "offsets": {
+        "from": 10140,
+        "to": 12100
+      },
+      "text": " I'll tell my verification baseline is green"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,100",
+        "to": "00:00:14,900"
+      },
+      "offsets": {
+        "from": 12100,
+        "to": 14900
+      },
+      "text": " then implement all of the new features."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,900",
+        "to": "00:00:17,260"
+      },
+      "offsets": {
+        "from": 14900,
+        "to": 17260
+      },
+      "text": " - Before it would just start coding or whatever you ask."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,260",
+        "to": "00:00:18,700"
+      },
+      "offsets": {
+        "from": 17260,
+        "to": 18700
+      },
+      "text": " And now I said, no, we can start."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,700",
+        "to": "00:00:20,140"
+      },
+      "offsets": {
+        "from": 18700,
+        "to": 20140
+      },
+      "text": " We need to do some checks first,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,140",
+        "to": "00:00:22,220"
+      },
+      "offsets": {
+        "from": 20140,
+        "to": 22220
+      },
+      "text": " make sure that all works and then we can proceed."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:22,220",
+        "to": "00:00:23,340"
+      },
+      "offsets": {
+        "from": 22220,
+        "to": 23340
+      },
+      "text": " - I like that."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,340",
+        "to": "00:00:25,380"
+      },
+      "offsets": {
+        "from": 23340,
+        "to": 25380
+      },
+      "text": " - That makes it look so much better."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,380",
+        "to": "00:00:27,900"
+      },
+      "offsets": {
+        "from": 25380,
+        "to": 27900
+      },
+      "text": " - So that before was like 4.7, but during the task"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:27,900",
+        "to": "00:00:29,940"
+      },
+      "offsets": {
+        "from": 27900,
+        "to": 29940
+      },
+      "text": " it's also able to change the effort."
+    }
+  ]
+}

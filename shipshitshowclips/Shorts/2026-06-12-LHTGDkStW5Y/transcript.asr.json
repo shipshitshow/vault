@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,200"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5200
+      },
+      "text": " Last week we built a game with one prompt, it's Opus 4.8."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,200",
+        "to": "00:00:13,440"
+      },
+      "offsets": {
+        "from": 5200,
+        "to": 13440
+      },
+      "text": " Yesterday, Fable 5 launched and now we are going to build a full AI native gaming studio."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,440",
+        "to": "00:00:14,720"
+      },
+      "offsets": {
+        "from": 13440,
+        "to": 14720
+      },
+      "text": " With one prompt."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,720",
+        "to": "00:00:15,600"
+      },
+      "offsets": {
+        "from": 14720,
+        "to": 15600
+      },
+      "text": " With maybe two."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,600",
+        "to": "00:00:15,920"
+      },
+      "offsets": {
+        "from": 15600,
+        "to": 15920
+      },
+      "text": " Maybe two."
+    }
+  ]
+}

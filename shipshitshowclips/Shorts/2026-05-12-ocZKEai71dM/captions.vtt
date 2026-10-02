@@ -1,0 +1,29 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.260
+ The novel MPL separation attack generated a signed package of 10 stack, a collection
+
+00:00:04.260 --> 00:00:06.300
+ of open source libraries for web development.
+
+00:00:06.300 --> 00:00:11.660
+ The attack combined the GitHub pull request target vulnerability, GitHub action cache
+
+00:00:11.660 --> 00:00:14.280
+ poisoning and runtime memory extraction.
+
+00:00:14.280 --> 00:00:19.100
+ Misconfigured pull request target workflow gave outside code access the repo secrets.
+
+00:00:19.100 --> 00:00:23.600
+ Explored GitHub workflow cache poisoning, which has, as far as I know, been an issue
+
+00:00:23.600 --> 00:00:24.600
+ for a while.
+
+00:00:24.600 --> 00:00:29.380
+ Did GitHub also post somewhere that they are firing all the devs and have everybody in
+
+00:00:29.380 --> 00:00:32.340
+ a company make full requests with AI?
+

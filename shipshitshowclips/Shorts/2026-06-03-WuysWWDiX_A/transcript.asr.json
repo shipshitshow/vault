@@ -1,0 +1,98 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:07,040"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 7040
+      },
+      "text": " Fast mode is available on opus 4.8, same model, roughly 2.5 the speed and 3 times cheaper"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,040",
+        "to": "00:00:08,040"
+      },
+      "offsets": {
+        "from": 7040,
+        "to": 8040
+      },
+      "text": " than before."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,040",
+        "to": "00:00:14,080"
+      },
+      "offsets": {
+        "from": 8040,
+        "to": 14080
+      },
+      "text": " Fast mode is 2.5 the speed, but 3 times more expensive than normal mode."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,080",
+        "to": "00:00:15,080"
+      },
+      "offsets": {
+        "from": 14080,
+        "to": 15080
+      },
+      "text": " What does it do?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,080",
+        "to": "00:00:20,040"
+      },
+      "offsets": {
+        "from": 15080,
+        "to": 20040
+      },
+      "text": " It actually gives you priority in the line when you're waiting for an answer?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,040",
+        "to": "00:00:25,360"
+      },
+      "offsets": {
+        "from": 20040,
+        "to": 25360
+      },
+      "text": " It's the time of computing before you get the answer, it just goes way faster."
+    }
+  ]
+}

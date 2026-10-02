@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,280
+ I've reached the point where I no longer wants to download
+
+2
+00:00:02,280 --> 00:00:04,840
+ anything from anywhere due to the fear of contamination
+
+3
+00:00:04,840 --> 00:00:05,680
+ of everything.
+
+4
+00:00:05,680 --> 00:00:06,500
+ Yeah, it's crazy.
+
+5
+00:00:06,500 --> 00:00:08,560
+ I think that's the point where a lot of developer
+
+6
+00:00:08,560 --> 00:00:09,400
+ are right now.
+
+7
+00:00:09,400 --> 00:00:11,800
+ - And with bugs before you and security issues,
+
+8
+00:00:11,800 --> 00:00:14,860
+ you need to download it first and on execution,
+
+9
+00:00:14,860 --> 00:00:16,620
+ you get the issue so you can scan it.
+
+10
+00:00:16,620 --> 00:00:20,320
+ But this is during the installation, it's a bigger issue.
+

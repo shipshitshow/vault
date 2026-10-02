@@ -1,0 +1,267 @@
+Fiverr 5 is back and we also got a
+little surprise from the little brother
+Sonnet 5. And
+if you read the timeline, it's a good
+model or it's like expensive. So, we're
+going to discuss about that because
+yeah, I'm I'm not sure. Is that really
+the model that everyone was expecting?
+Probably not, but we got it. We're going
+to use it.
+Fiverr 5 will come back soon enough so
+we can burn even more token. How is that
+going to match on our workflow
+automation and workflow that we have set
+up? We are going to see that in that
+video. But okay, so first the little
+brother Sonnet 5. Okay, so same design,
+same logo. Okay, that's cool. Which is
+Okay, that I like.
+The benchmark again for Sonnet 5 against
+4.8.
+That's cool because it's almost the same
+thing and
+from 4.6 to 5, we got from object candy
+like the terminal bench 2.1 from 67 to
+80%. That's a lot. That's insane.
+And yeah, though the benchmark Okay,
+it's a lot whatever computer use cool
+and knowledge work. Yeah, knowledge work
+it's even above 4.8.
+&gt;&gt; Yeah, but just a little little bit.
+Yeah. Nothing too big, but
+&gt;&gt; But the pricing 4.8 is five in
+and
+&gt;&gt; 25 out.
+And Sonnet 5 Okay, so until August 31st
+&gt;&gt; Mhm.
+&gt;&gt; two in and 10 out
+for the same benchmark.
+&gt;&gt; Yeah.
+That's that's a lot cheaper.
+&gt;&gt; Yeah.
+&gt;&gt; And after that, it's going to do
+&gt;&gt; 50%
+&gt;&gt; 50% on top.
+&gt;&gt; Yeah.
+So,
+&gt;&gt; by September 1st, we will have like
+Sonnet 7 if it's going this pace.
+&gt;&gt; Yeah, it could be too.
+But yeah, like
+it's for now. That's That's great. And I
+mean, okay, so that's the price of the
+the model itself, but
+&gt;&gt; What is the difference in price with the
+previous on it?
+Or the 4.6?
+&gt;&gt; Yes.
+&gt;&gt; How much more expensive did they make
+it?
+&gt;&gt; 4.6, so three in and 15 out. What?
+&gt;&gt; Yeah, that's the that's the same price
+for five, so you can just update your
+API to five and pay nothing additional.
+&gt;&gt; Yeah, it's haven't Yeah,
+okay.
+&gt;&gt; Because of the discount they give you.
+&gt;&gt; Yes.
+&gt;&gt; So, if you have an API, update it. Put
+it on five.
+&gt;&gt; We did. But, also uh
+that's the pricing per token, but it
+depends of the how many token the model
+is using to do a task.
+&gt;&gt; Yes.
+&gt;&gt; So, yeah, because Acul is like one in
+and five out, but I know I never use
+Acul. Like it uh for with open clue,
+Acul was just to do the head bit.
+&gt;&gt; Well, I tried it and it gave me such bad
+results that I skipped it after 30
+minutes of testing.
+&gt;&gt; I know exactly. Like nobody's using Acul
+whatsoever, right? But, again, like
+yeah, if you have a big task with Sony
+and it take less token to use, then it
+can be even cheaper than some open
+source model that are way cheaper per
+token, but it's take 45 minutes to do a
+task that it will take 5 minutes to do
+Sony and burn like 10 times more tokens.
+So, yeah, those those benchmark are
+tricky and it needs to be output based.
+But, how do you measure the output
+anyway? Codex, I'm fighting against
+uh once the session is done, open a pull
+request, commit, push, and pull request.
+And Claude is
+today wiped out my work trees.
+I said, "Oh, yeah, clean those work
+trees in that project." And he cleaned
+he went to clean the other project, too.
+And then he said, "Hey, bro, what the
+fuck?"
+&gt;&gt; [laughter]
+&gt;&gt; Yeah, I had some spare time and spare
+tokens, so I did everything.
+&gt;&gt; Exactly.
+&gt;&gt; [laughter]
+&gt;&gt; Yeah. So, it's still tricky, but like
+we're getting really, really powerful
+models. Like, do you have a look at the
+code anymore? Still?
+&gt;&gt; I do at the end. I check it.
+&gt;&gt; Okay.
+&gt;&gt; But, I still do even I don't only use
+Opus for reviewing. I still have Codex
+5.5 finding issues that Codex that Opus
+doesn't find.
+&gt;&gt; Okay.
+&gt;&gt; Yeah, I mean, like both
+models are good working together. Like,
+again, so
+this week I've So, I
+I kept set up those automation in Codex
+and the cloud desktop app.
+So, now I have implementation like
+features implementation taking from
+GitHub every 2 hours. And
+[clears throat] I have a pull request
+review every 6 hours. And then it's
+merged to master. And I'm I'm about to
+put auto deploy to production later this
+week, maybe. And because yeah, okay,
+green up, so it's different. But, uh so
+there is that. And I also have like a
+routine of refactoring and dry the code
+because that we have a lot of slope in
+the app. So, those those routine are
+required. But, uh yeah, it's good. And I
+didn't burn my cloud subscription in 2
+days this time. So, that's a win. Max
+effort Sony works harder than previous
+Anthropic model. It used 40% more output
+token per okay. And 3x the agentic
+stones for knowledge work evaluation.
+Yeah, okay, [snorts] that's not See,
+that's Axel. That's why it's not that
+cheap.
+&gt;&gt; No.
+&gt;&gt; Yeah. I mean, maybe it's because of the
+launch.
+Could find thing those
+what they could find thing post training
+on the Entropic side, but yeah.
+&gt;&gt; Yeah, like
+I mean, if we get more than it is, I
+don't know. Like the workflows from 4.8
+and Fable 5 that are using in neutral
+code mode will be interesting for that
+because I
+I'm going to build my subscription like
+crazy again.
+Yeah. I don't know, man. Cloud 2.5 cost
+more per task than 4.8 before accounting
+for promotional pricing. 2.5 cost 2.29
+per task on the intelligence index. A 2x
+increase compared to 4.6.
+4.6.
+Yeah.
+&gt;&gt; Yeah.
+&gt;&gt; That's a big difference if you compare
+it to the chart where it even gives you
+a discount at this moment.
+&gt;&gt; And 50% more than Cloud Opus 4.8. Yeah,
+okay. It's cheaper than Fable 5
+basically.
+&gt;&gt; Sick.
+&gt;&gt; This is driving a 30% increase on token
+usage. Yes. Okay, so yes, like the
+price per token is cheap cheap or like
+same price, but it use more tokens.
+That's sad. Token efficiency is so bad,
+it end up being more expensive than
+Cloud 4.8 Opus 4.8. If And that's what
+Theo was also talking about when say
+like a OpenAI is focusing on token
+efficiency because it's also compute,
+right? If Anthropic is [&nbsp;__&nbsp;] up with
+those token consumption, no [&nbsp;__&nbsp;] they
+don't have enough compute.
+&gt;&gt; Yeah, well.
+&gt;&gt; But if they fix that, if they are
+efficient and they have the smartest
+model for coding, etc., that's a banger.
+&gt;&gt; The thing is we don't know, right? We
+don't know if they need to optimize it
+and it will be better later. We don't
+know if they just wanted to push and
+couldn't push fast enough, so they agree
+with using more tokens so that they can
+reach the level that they want.
+So, if you want to boost like a few
+points on on on the comparison on the
+benchmark, you can also just let it burn
+more tokens and it will be better.
+&gt;&gt; Yeah.
+Yeah, and I mean like the more token you
+use, the more subscription you burn, so
+let's go.
+&gt;&gt; Yeah. So, the for me the question is to
+you, what are you going to do? Keep
+using Opus 4.8 or are you using Sonnet 5
+by default? Or just say, I use 4.8
+UltraCode and have them both.
+&gt;&gt; So, yeah, I think for now I'm going to
+keep my
+workflow that I have right now because
+so, the PRD is playing yeah,
+by Opus and then it's sent to GitHub.
+Then I have those routines that run on
+the Codex app that picked up those
+tasks, implement them,
+and then I have those reviews with 4.8
+UltraCode, and then I push everything to
+master and I publish. I don't think like
+Sonnet 5 would change anything with that
+because it still works. It's just like
+the split is kind of like cool.
+Actually, yeah, maybe I can optimize it
+or have different routines
+and more actions where the cheapest
+model. And if Sonnet 5 is smaller than
+4.6, then I I will have a better cleaner
+GitHub board.
+&gt;&gt; Yeah.
+&gt;&gt; So, that's what I like.
+I like I like to have clean board.
+&gt;&gt; Yes. Have it empty and everything built.
+&gt;&gt; Yeah. And I don't We start me reviewing
+anything. Yeah. I just in the app on
+production and say, "Oh, yeah, it's
+broken. Close. Fix it."
+&gt;&gt; Yes. When Vincent is offline, make sure
+it works when he comes back. I'm sure
+I'm going to wait for Fable 5 because
+he's going to review everything I've
+built in the past few days. But on my
+API setup for for that's connecting to
+my software,
+I'm going to upgrade to Sonnet 5. Just
+see what it does and see if I see a peak
+or a change in my cost. And if it is
+around the same amount, I don't mind.
+I'm just keeping a Sonnet 5.
+&gt;&gt; Yeah, okay. That makes sense. Mi-
+Mitchell, thank you for your time.
+And
+&gt;&gt; See you next week.
+&gt;&gt; Yes, next week. Subscribe, comments,
+like, share the video because we need
+more
+&gt;&gt; Do everything.
+&gt;&gt; Thank you.
+Bye.
+&gt;&gt; Where's the button? Is the button is
+here? Bye.

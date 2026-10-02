@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:06,560"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 6560
+      },
+      "text": " I have a automation that grab GitHub issue every four hours between 10 PM and"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,560",
+        "to": "00:00:09,120"
+      },
+      "offsets": {
+        "from": 6560,
+        "to": 9120
+      },
+      "text": " 6 AM so I can monitor it in the morning."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,160",
+        "to": "00:00:14,920"
+      },
+      "offsets": {
+        "from": 9160,
+        "to": 14920
+      },
+      "text": " And it also take features to implement that is already on the GitHub"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,920",
+        "to": "00:00:18,160"
+      },
+      "offsets": {
+        "from": 14920,
+        "to": 18160
+      },
+      "text": " board and with a special label on it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,240",
+        "to": "00:00:21,200"
+      },
+      "offsets": {
+        "from": 18240,
+        "to": 21200
+      },
+      "text": " And it's working only when I'm not working myself."
+    }
+  ]
+}

@@ -1,0 +1,3008 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.580
+ (gentle music)
+
+00:00:30.960 --> 00:00:33.060
+ (gentle music)
+
+00:00:33.060 --> 00:00:36.080
+ - And we are back on live.
+
+00:00:36.080 --> 00:00:36.920
+ We are back live. - Yes.
+
+00:00:36.920 --> 00:00:41.480
+ - Yes, for the ship ship Josh of this week.
+
+00:00:41.480 --> 00:00:42.600
+ Love it, let's go.
+
+00:00:42.600 --> 00:00:44.480
+ What's up, Michel, how are you doing?
+
+00:00:44.480 --> 00:00:45.760
+ - I'm doing good.
+
+00:00:45.760 --> 00:00:48.200
+ Back from holiday and it feels like
+
+00:00:48.200 --> 00:00:50.000
+ I didn't go on holiday at all.
+
+00:00:51.440 --> 00:00:55.520
+ - Did you have to manage like 3000 tickets unresolved
+
+00:00:55.520 --> 00:00:59.000
+ because Claude didn't do it properly?
+
+00:00:59.000 --> 00:01:01.880
+ - Yeah, and like 50 branches
+
+00:01:01.880 --> 00:01:04.760
+ where it just pushed everything and then it said,
+
+00:01:04.760 --> 00:01:06.900
+ oh, this one failed, let me create a new branch
+
+00:01:06.900 --> 00:01:09.080
+ and it has like three copies.
+
+00:01:09.080 --> 00:01:11.660
+ - Oh yeah, I got that sometimes too.
+
+00:01:11.660 --> 00:01:14.720
+ Like, yeah, like with Claude, for example,
+
+00:01:14.720 --> 00:01:18.160
+ like I open a chip, you know, like the walkthrough stuff
+
+00:01:18.160 --> 00:01:22.040
+ and I forgot that I clicked on it
+
+00:01:22.040 --> 00:01:24.160
+ and then I asked Claude and say, no, it's not done.
+
+00:01:24.160 --> 00:01:25.160
+ Then he opened the ships.
+
+00:01:25.160 --> 00:01:27.520
+ And so I got some talking on that.
+
+00:01:29.040 --> 00:01:31.840
+ - Yeah, so eventually now I just start with,
+
+00:01:31.840 --> 00:01:34.280
+ hey, check everything that you've built,
+
+00:01:34.280 --> 00:01:36.880
+ test it, merge it and give me a notification
+
+00:01:36.880 --> 00:01:37.720
+ when you're done.
+
+00:01:37.720 --> 00:01:38.640
+ - Yeah, exactly.
+
+00:01:38.640 --> 00:01:42.520
+ I think we need more skills to check what's running
+
+00:01:42.520 --> 00:01:47.320
+ between the 50 terminal open and 25 project running.
+
+00:01:47.320 --> 00:01:50.560
+ - Well, the idea is that I just let it do three or four tasks
+
+00:01:50.560 --> 00:01:53.400
+ I checked it and it continues, but then you go to bed
+
+00:01:53.400 --> 00:01:56.920
+ and you wake up in the morning and it has done like 44 tasks.
+
+00:01:58.040 --> 00:02:01.600
+ - So you still have your agents like running 24/7?
+
+00:02:01.600 --> 00:02:02.960
+ - Yeah, on my Mac mini.
+
+00:02:02.960 --> 00:02:04.760
+ - Oh yeah, nice.
+
+00:02:04.760 --> 00:02:08.640
+ - Yes, but I've added the option that if it is too big
+
+00:02:08.640 --> 00:02:11.640
+ to do at once or it has many points,
+
+00:02:11.640 --> 00:02:13.720
+ just split it into multiple tasks.
+
+00:02:15.720 --> 00:02:18.120
+ - Yeah, which should, yeah.
+
+00:02:18.120 --> 00:02:20.300
+ - And then I said, you have to put an order on it.
+
+00:02:20.300 --> 00:02:23.280
+ And if one to 10 and you can't start on three,
+
+00:02:23.280 --> 00:02:25.600
+ you have to start on one because that was going wrong
+
+00:02:25.600 --> 00:02:27.960
+ in the middle and it said, hey, this is more easier to do.
+
+00:02:27.960 --> 00:02:28.980
+ Let me start with that one.
+
+00:02:28.980 --> 00:02:33.760
+ And then it went, but still that gives issues
+
+00:02:33.760 --> 00:02:35.100
+ when it's thinking by itself.
+
+00:02:35.100 --> 00:02:36.520
+ So you need proper rules.
+
+00:02:37.320 --> 00:02:41.280
+ - Yeah, like the undeterministic aspect
+
+00:02:41.280 --> 00:02:45.480
+ of AI is beating us sometimes.
+
+00:02:45.480 --> 00:02:49.480
+ I never like, you put stuff in cloud.md or agent.md
+
+00:02:49.480 --> 00:02:53.600
+ and still not fucking reading like the global project.
+
+00:02:53.600 --> 00:02:55.440
+ It's annoying.
+
+00:02:55.440 --> 00:02:57.760
+ - Yeah, I think that's like we said
+
+00:02:57.760 --> 00:02:58.600
+ last time, right?
+
+00:02:58.600 --> 00:03:02.440
+ My first round is check if it did read the MD files.
+
+00:03:02.440 --> 00:03:05.760
+ - Yeah, I have a session starts among stuff.
+
+00:03:05.760 --> 00:03:09.600
+ Yeah, I should use it more often because I don't.
+
+00:03:09.600 --> 00:03:12.680
+ But yeah, but then the context getting full
+
+00:03:12.680 --> 00:03:14.980
+ and then you say, okay, compact.
+
+00:03:17.200 --> 00:03:19.540
+ - But then you have my team lead cloud fable
+
+00:03:19.540 --> 00:03:21.200
+ and he always knows the answer.
+
+00:03:21.200 --> 00:03:23.320
+ He always said, oh, he didn't do this.
+
+00:03:23.320 --> 00:03:25.240
+ Let me force it to do it again.
+
+00:03:25.240 --> 00:03:30.240
+ Yeah, let me send it like, no, not the pull request
+
+00:03:30.360 --> 00:03:32.560
+ but the new work tree and then you have 25 work trees
+
+00:03:32.560 --> 00:03:35.120
+ and then you have to do it again, all over again.
+
+00:03:35.120 --> 00:03:38.460
+ But yeah, anyway, what did you build this week, man?
+
+00:03:39.680 --> 00:03:42.400
+ - I think the biggest one was a full
+
+00:03:42.400 --> 00:03:45.900
+ WhatsApp business integration with Meta.
+
+00:03:47.060 --> 00:03:47.900
+ - Oh, cool.
+
+00:03:47.900 --> 00:03:50.580
+ - It was onboarding for WhatsApp business.
+
+00:03:50.580 --> 00:03:51.960
+ So if you have it in your account,
+
+00:03:51.960 --> 00:03:54.600
+ you can either create a new number,
+
+00:03:54.600 --> 00:03:57.640
+ connect your existing number, merge it
+
+00:03:57.640 --> 00:04:00.820
+ between of constantly sync it between your devices.
+
+00:04:00.820 --> 00:04:05.400
+ And yeah, it was a lot more than I thought it would be.
+
+00:04:07.920 --> 00:04:10.800
+ - I had to do that too, like last week
+
+00:04:10.800 --> 00:04:15.800
+ and the Facebook Meta app is pure garbage.
+
+00:04:18.480 --> 00:04:20.960
+ I've created the business organization.
+
+00:04:20.960 --> 00:04:24.160
+ I create the page, I connect the WhatsApp, blah, blah, blah.
+
+00:04:24.160 --> 00:04:26.180
+ I changed the email of my accounts
+
+00:04:26.180 --> 00:04:31.000
+ to have the same organization under the profile.
+
+00:04:31.000 --> 00:04:34.760
+ The business organization lose my ownership
+
+00:04:34.760 --> 00:04:35.600
+ and I don't have it.
+
+00:04:35.600 --> 00:04:37.000
+ So I have a business organization
+
+00:04:37.000 --> 00:04:38.240
+ where I don't have access to it.
+
+00:04:38.240 --> 00:04:39.240
+ I can't even see it.
+
+00:04:39.240 --> 00:04:43.040
+ I can contact support because it's all AI agent
+
+00:04:43.040 --> 00:04:44.280
+ and they don't...
+
+00:04:44.280 --> 00:04:48.320
+ - Yeah, speak to a real human and it says, I am.
+
+00:04:48.320 --> 00:04:53.080
+ - Yeah, and so now I have a business organization
+
+00:04:53.080 --> 00:04:57.320
+ in like completely lost that I need to redo it, like bro.
+
+00:04:57.320 --> 00:04:58.140
+ - Yes.
+
+00:04:58.140 --> 00:04:59.500
+ - And then you try to add an admin
+
+00:04:59.500 --> 00:05:02.560
+ but the admin doesn't have the phone number verified
+
+00:05:03.700 --> 00:05:05.640
+ like a billion dollar company.
+
+00:05:05.640 --> 00:05:09.400
+ And so I'm feeling good about my little pesky bugs now
+
+00:05:09.400 --> 00:05:13.280
+ because if Facebook can't have a proper
+
+00:05:14.500 --> 00:05:17.840
+ ads management platform, yeah, we're good.
+
+00:05:17.840 --> 00:05:21.840
+ - I have always been having issues with everything from Meta.
+
+00:05:21.840 --> 00:05:23.280
+ - Crazy.
+
+00:05:23.280 --> 00:05:26.040
+ - And not even in coding, also just using.
+
+00:05:26.040 --> 00:05:28.600
+ - Yeah, like not working.
+
+00:05:28.600 --> 00:05:31.840
+ - Yeah, and the first thing is finding what you need.
+
+00:05:31.840 --> 00:05:33.000
+ That's the biggest issue.
+
+00:05:33.000 --> 00:05:35.120
+ - Yeah, like everything is everywhere
+
+00:05:35.120 --> 00:05:39.060
+ and you don't need like 90% of the UI and then you open it.
+
+00:05:41.080 --> 00:05:44.880
+ - So I don't know, but I have like a note of deep links
+
+00:05:44.880 --> 00:05:47.320
+ to every page that I need in the beginning
+
+00:05:47.320 --> 00:05:49.760
+ so that I don't have to search the entire menu.
+
+00:05:51.240 --> 00:05:54.200
+ - Yeah, like, so you have a bookmarks, yeah, okay.
+
+00:05:54.200 --> 00:05:55.040
+ - Yeah.
+
+00:05:55.040 --> 00:05:59.720
+ - And basically they have been by coding since 20 years.
+
+00:05:59.720 --> 00:06:02.300
+ - Yeah, but since one of the biggest companies
+
+00:06:02.300 --> 00:06:04.160
+ they did something correct.
+
+00:06:04.160 --> 00:06:06.320
+ - Yeah, but it's not coding.
+
+00:06:06.320 --> 00:06:09.720
+ - No, it is just, oh, we need something else added.
+
+00:06:10.600 --> 00:06:13.200
+ - Exactly, which is basically what we're doing.
+
+00:06:13.200 --> 00:06:16.720
+ - Yeah, but we have good AI, they had like indie devs.
+
+00:06:20.180 --> 00:06:22.680
+ - Anything else, like any multi-billion dollar company
+
+00:06:22.680 --> 00:06:25.420
+ that you have approved it?
+
+00:06:25.420 --> 00:06:28.040
+ - I want it, but it didn't go that hard.
+
+00:06:30.160 --> 00:06:32.440
+ - Wait for February 6th.
+
+00:06:32.440 --> 00:06:34.840
+ - Yeah, well, really looking forward to it,
+
+00:06:34.840 --> 00:06:37.420
+ but I think we just learned today
+
+00:06:37.420 --> 00:06:39.160
+ that you don't put it on high effort
+
+00:06:39.160 --> 00:06:41.040
+ and ask an easy question, right?
+
+00:06:41.040 --> 00:06:42.880
+ - I mean, you tell me, bro,
+
+00:06:42.880 --> 00:06:44.240
+ you are the ones spending tokens
+
+00:06:44.240 --> 00:06:47.320
+ on changing the color of a button and it's still not done.
+
+00:06:47.320 --> 00:06:50.080
+ - I just asked and I thought, if it is that smart
+
+00:06:50.080 --> 00:06:53.160
+ and you put it on X high, doesn't it need to know for,
+
+00:06:53.160 --> 00:06:54.560
+ hey, this is an easy task.
+
+00:06:54.560 --> 00:06:56.080
+ I don't need to do this, this and this.
+
+00:06:56.080 --> 00:06:58.740
+ Just let me change the color.
+
+00:06:58.740 --> 00:07:01.600
+ - Yes, but okay, so I think it's because
+
+00:07:01.600 --> 00:07:03.400
+ when you change like the effort,
+
+00:07:03.400 --> 00:07:08.400
+ it's add thinking between every step
+
+00:07:08.720 --> 00:07:12.560
+ and every tools it's called to reason.
+
+00:07:12.560 --> 00:07:16.320
+ So if you have a simple task, it's better to go down on low
+
+00:07:16.320 --> 00:07:18.520
+ because then it will go straight to the point.
+
+00:07:18.520 --> 00:07:21.120
+ - Yes, well, I found what the issue was
+
+00:07:21.120 --> 00:07:23.640
+ because I wanted to change a button
+
+00:07:23.640 --> 00:07:25.600
+ and there was only one line of code,
+
+00:07:25.600 --> 00:07:29.680
+ just six characters in the CSS file
+
+00:07:29.680 --> 00:07:32.040
+ and eventually it started Chrome.
+
+00:07:32.040 --> 00:07:33.840
+ It looked at it with Chrome.
+
+00:07:33.840 --> 00:07:36.360
+ It made multiple screenshots to determine
+
+00:07:36.360 --> 00:07:37.840
+ what it needs to do.
+
+00:07:37.840 --> 00:07:40.400
+ It measured everything, changed the button
+
+00:07:40.400 --> 00:07:42.860
+ and redid everything, compared it,
+
+00:07:42.860 --> 00:07:45.560
+ wasn't convinced and redid everything
+
+00:07:45.560 --> 00:07:50.160
+ and that just for changing six characters in the CSS file.
+
+00:07:50.160 --> 00:07:53.280
+ - I have the same issue with like the browser,
+
+00:07:53.280 --> 00:07:57.800
+ computer use and the native browser
+
+00:07:57.800 --> 00:08:00.880
+ where codex will open the browser
+
+00:08:00.880 --> 00:08:05.000
+ or take control of my computer to like same thing,
+
+00:08:05.000 --> 00:08:08.280
+ like change the color of something or move a button.
+
+00:08:08.280 --> 00:08:09.240
+ - Yeah. - Or even like
+
+00:08:09.240 --> 00:08:11.960
+ instead of using the CLI, it's using computer use.
+
+00:08:11.960 --> 00:08:14.800
+ So it will connect to my browser,
+
+00:08:14.800 --> 00:08:16.280
+ go to post-hug, for example,
+
+00:08:16.280 --> 00:08:18.240
+ that happened a couple of times.
+
+00:08:18.240 --> 00:08:21.800
+ Go to post-hug, enable the filter flag and stuff.
+
+00:08:21.800 --> 00:08:26.800
+ Everything is accessible via CLI/API.
+
+00:08:27.700 --> 00:08:28.540
+ - Yes.
+
+00:08:30.680 --> 00:08:35.240
+ - And then like, stop using my browser, I'm working.
+
+00:08:35.240 --> 00:08:36.480
+ You are interrupting me.
+
+00:08:38.320 --> 00:08:40.160
+ - Yeah, it's like taking over your PC
+
+00:08:40.160 --> 00:08:41.320
+ when you're doing stuff.
+
+00:08:41.320 --> 00:08:42.800
+ - Yeah, exactly.
+
+00:08:42.800 --> 00:08:46.520
+ And I saw a tweet from Peter from OpenClo
+
+00:08:46.520 --> 00:08:51.520
+ that said, "Yeah, I know it's annoying and I have VMs."
+
+00:08:51.940 --> 00:08:55.320
+ Like he's running like codex into VMs to basically build
+
+00:08:55.320 --> 00:08:57.400
+ because yeah, when you have like the computer use
+
+00:08:57.400 --> 00:09:02.160
+ taking over, that's not the computer anymore.
+
+00:09:02.160 --> 00:09:03.400
+ I'm the captain now.
+
+00:09:06.240 --> 00:09:08.640
+ - Yeah, it just takes over, that's cool.
+
+00:09:08.640 --> 00:09:11.180
+ But are you still using codex?
+
+00:09:11.180 --> 00:09:14.840
+ - So I use, I love Grok.
+
+00:09:14.840 --> 00:09:16.440
+ - Yes.
+
+00:09:16.440 --> 00:09:17.680
+ - Yeah, so right now what I'm doing,
+
+00:09:17.680 --> 00:09:20.160
+ I'm focusing on like QA and one shorting,
+
+00:09:20.160 --> 00:09:25.160
+ like issues which are not on the GitHub board.
+
+00:09:25.760 --> 00:09:27.800
+ So I open a session,
+
+00:09:27.800 --> 00:09:32.320
+ I run the servers and the app in the background.
+
+00:09:32.320 --> 00:09:37.320
+ So like the Grok can monitor the logs.
+
+00:09:37.800 --> 00:09:41.240
+ And I just tell, I take a screenshot and say,
+
+00:09:41.240 --> 00:09:42.120
+ "Yeah, what the fuck is that?
+
+00:09:42.120 --> 00:09:44.000
+ Why this button here?"
+
+00:09:44.000 --> 00:09:47.880
+ Drop it in the terminal or T3 code.
+
+00:09:47.880 --> 00:09:49.480
+ Sometimes I've used T3 code
+
+00:09:49.480 --> 00:09:52.380
+ when I want to use some parallel work trees.
+
+00:09:54.880 --> 00:09:59.100
+ Drop the prompt, drop the image, that, run it.
+
+00:10:00.420 --> 00:10:04.680
+ One or two minutes later, hopefully everything is down.
+
+00:10:04.680 --> 00:10:07.000
+ Then I go back to the page and say, "Yeah, good job, bro."
+
+00:10:07.000 --> 00:10:09.120
+ And then next one.
+
+00:10:09.120 --> 00:10:10.640
+ And also it's batch.
+
+00:10:10.640 --> 00:10:15.640
+ So when you, it's stash, it's yeah, stash, stack, whatever.
+
+00:10:16.760 --> 00:10:21.300
+ The prompt, so I can go to a page, drop the first prompt,
+
+00:10:21.300 --> 00:10:22.500
+ it will execute it.
+
+00:10:22.500 --> 00:10:27.500
+ And then I, but while I do that, I go to the next page,
+
+00:10:27.660 --> 00:10:30.400
+ drop the prompt, same thing, screenshot, blah, blah, blah.
+
+00:10:31.600 --> 00:10:36.600
+ And it will wait for the first one to be executed.
+
+00:10:36.920 --> 00:10:41.200
+ So it doesn't put everything all together and that's dope.
+
+00:10:41.200 --> 00:10:43.720
+ - Yeah, and that was an issue with Opus.
+
+00:10:43.720 --> 00:10:45.420
+ When I put in a second prompt,
+
+00:10:45.420 --> 00:10:47.120
+ before the first one was finished,
+
+00:10:47.120 --> 00:10:49.080
+ it would forget parts of the first one.
+
+00:10:49.080 --> 00:10:54.080
+ - Exactly, but before we had steering with codecs, right?
+
+00:10:55.960 --> 00:10:58.960
+ So you go to the codecs desktop app or whatever,
+
+00:10:58.960 --> 00:11:01.420
+ you drop two prompt and those two prompts
+
+00:11:01.420 --> 00:11:03.760
+ will be steered by each other.
+
+00:11:03.760 --> 00:11:06.300
+ Like the second one, the first one.
+
+00:11:06.300 --> 00:11:09.360
+ But you can also stash them.
+
+00:11:09.360 --> 00:11:12.000
+ And then you have a queue of quick fixes
+
+00:11:12.000 --> 00:11:14.680
+ that will, bluh, bluh, bluh, all done.
+
+00:11:14.680 --> 00:11:17.720
+ - That's cool, yeah, that's lit.
+
+00:11:17.720 --> 00:11:21.480
+ - And so basically what I use,
+
+00:11:22.360 --> 00:11:27.360
+ so Cloud Fable 5 for audits, what I do with like audits,
+
+00:11:29.980 --> 00:11:32.720
+ check the GitHub board, check the issues,
+
+00:11:32.720 --> 00:11:35.700
+ it's like a notch where I check the state of the issues,
+
+00:11:35.700 --> 00:11:38.680
+ compare it against like what we have in the code base.
+
+00:11:39.940 --> 00:11:44.200
+ And if I have something that can be done in parallel,
+
+00:11:44.200 --> 00:11:49.200
+ I will open a work tree directly from Cloud desktop UI,
+
+00:11:51.920 --> 00:11:56.120
+ because I can get the chip, parallel, bluh, bluh, bluh.
+
+00:11:56.120 --> 00:12:00.120
+ And also my cloud is configured to use chat GPT
+
+00:12:00.120 --> 00:12:02.440
+ via the cloud interface.
+
+00:12:02.440 --> 00:12:03.600
+ - Yeah, you have to do that.
+
+00:12:03.600 --> 00:12:06.180
+ - Exactly, I have the subagent on codex.
+
+00:12:06.180 --> 00:12:08.840
+ - Yes, that's cool.
+
+00:12:08.840 --> 00:12:10.520
+ - Yeah, it's lit.
+
+00:12:10.520 --> 00:12:14.040
+ I just need to do that automatically in ship code,
+
+00:12:14.040 --> 00:12:17.840
+ but I love those.
+
+00:12:17.840 --> 00:12:20.600
+ - I think we just switched to grog a week ago, right?
+
+00:12:20.600 --> 00:12:23.420
+ After the previous--
+
+00:12:23.420 --> 00:12:26.000
+ - After Europe allows us to use it.
+
+00:12:26.000 --> 00:12:26.840
+ - Yeah, yeah, yeah.
+
+00:12:26.840 --> 00:12:30.880
+ And I instantly switched to the $300 sub with the discount.
+
+00:12:30.880 --> 00:12:31.880
+ - Me too.
+
+00:12:31.880 --> 00:12:36.880
+ - I can sell one cloud account and take the fucking EV super,
+
+00:12:39.000 --> 00:12:41.960
+ EV let go grog to build stuff.
+
+00:12:41.960 --> 00:12:45.640
+ - Yeah, it just feels like we're going on rocket power.
+
+00:12:45.640 --> 00:12:50.240
+ - Yes, and look like share these tabs,
+
+00:12:51.800 --> 00:12:56.800
+ path grog 4.6 is supposed to come in three days now.
+
+00:12:58.800 --> 00:12:59.640
+ - Ooh, that's nice.
+
+00:12:59.640 --> 00:13:01.240
+ - 4.6, yes.
+
+00:13:01.240 --> 00:13:03.280
+ And grog--
+
+00:13:03.280 --> 00:13:04.520
+ - Yeah, that's three days.
+
+00:13:04.520 --> 00:13:09.320
+ - 4.7, around August 7th,
+
+00:13:09.320 --> 00:13:14.320
+ and 4.8 will be 2.1 a few weeks later.
+
+00:13:18.080 --> 00:13:19.920
+ - 4.7, you mean?
+
+00:13:19.920 --> 00:13:21.680
+ - Yeah, so 4.6 like soon,
+
+00:13:21.680 --> 00:13:26.680
+ and 4.7 at 2.1 trillion parameters will be following soon.
+
+00:13:29.060 --> 00:13:34.060
+ So if they can keep that velocity, that's a banger.
+
+00:13:34.680 --> 00:13:38.800
+ - Well, if they keep this pace up, keep going this fast,
+
+00:13:38.800 --> 00:13:41.400
+ we will have flying computers, coding everything,
+
+00:13:41.400 --> 00:13:42.800
+ just going around you.
+
+00:13:44.800 --> 00:13:48.840
+ This is insane, if you just check where he started
+
+00:13:48.840 --> 00:13:51.640
+ and how far he was behind or how it felt to me
+
+00:13:51.640 --> 00:13:53.940
+ and how far he was behind
+
+00:13:53.940 --> 00:13:57.560
+ and how hard he is going right now, well.
+
+00:13:57.560 --> 00:13:59.280
+ - That's the cursor data.
+
+00:13:59.280 --> 00:14:00.120
+ - Yeah.
+
+00:14:02.120 --> 00:14:07.120
+ - He leapfrog his training models because of that data.
+
+00:14:08.360 --> 00:14:11.540
+ - Well, maybe it was worth the 60 billion, right?
+
+00:14:11.540 --> 00:14:13.880
+ - Yes, 60 billion option that he bought.
+
+00:14:13.880 --> 00:14:18.880
+ But also probably, everyone does that, so anyway.
+
+00:14:20.220 --> 00:14:23.160
+ Probably got a distillation from the other labs,
+
+00:14:23.160 --> 00:14:26.820
+ take all of the models and just like copy paste
+
+00:14:26.820 --> 00:14:28.840
+ and improve, make it better,
+
+00:14:28.840 --> 00:14:32.380
+ and have the compute to process all of those models.
+
+00:14:32.380 --> 00:14:34.560
+ - That's an important one as well.
+
+00:14:34.560 --> 00:14:37.040
+ So if you're not the first one trying to figure everything
+
+00:14:37.040 --> 00:14:39.680
+ out, you just copy paste and improve it.
+
+00:14:39.680 --> 00:14:42.680
+ - And that's why like for the Frontier models labs,
+
+00:14:46.480 --> 00:14:48.760
+ it's better to be second on third
+
+00:14:48.760 --> 00:14:53.760
+ because you can use less capex than the first labs
+
+00:14:54.240 --> 00:14:57.480
+ that are going to drop the next Frontier
+
+00:14:58.520 --> 00:15:00.080
+ because you can distill.
+
+00:15:00.080 --> 00:15:02.360
+ That's what's going on with China right now.
+
+00:15:02.360 --> 00:15:03.200
+ - Yeah.
+
+00:15:03.200 --> 00:15:04.660
+ - Yeah, all of those open source one,
+
+00:15:04.660 --> 00:15:06.640
+ like they wait for February 6th and then,
+
+00:15:06.640 --> 00:15:08.940
+ oh yeah, like 24 hours.
+
+00:15:08.940 --> 00:15:11.280
+ Like the distillation went from three months
+
+00:15:11.280 --> 00:15:14.120
+ to two weeks to 24 hours.
+
+00:15:14.120 --> 00:15:14.960
+ - Yeah.
+
+00:15:16.000 --> 00:15:19.120
+ - So it's, I don't know, it's right,
+
+00:15:19.120 --> 00:15:22.080
+ that was like, Aaron and Sam Aran were right
+
+00:15:22.080 --> 00:15:25.940
+ compared to Daio.
+
+00:15:25.940 --> 00:15:28.760
+ It's all about compute, like compute power.
+
+00:15:30.220 --> 00:15:31.840
+ - Well, he has enough.
+
+00:15:31.840 --> 00:15:35.200
+ - Yeah, I mean, yeah, I mean, dude is going to space, so.
+
+00:15:35.200 --> 00:15:39.800
+ - Yeah, he wants to build a space, so let's go.
+
+00:15:39.800 --> 00:15:41.240
+ I'm just waiting for the moment
+
+00:15:41.240 --> 00:15:44.320
+ that he just connects everything.
+
+00:15:44.320 --> 00:15:47.560
+ So, and he already is doing it, X is connected to Grok,
+
+00:15:47.560 --> 00:15:51.280
+ but if he integrates Starlink and like.
+
+00:15:51.280 --> 00:15:52.160
+ - Yes.
+
+00:15:52.160 --> 00:15:53.840
+ - I don't know whatever he can do.
+
+00:15:53.840 --> 00:15:55.120
+ That will be awesome.
+
+00:15:55.120 --> 00:15:59.460
+ - I hope he's not going to create some content app.
+
+00:16:00.800 --> 00:16:03.760
+ 'Cause I don't want to compete with him.
+
+00:16:03.760 --> 00:16:08.520
+ But did you follow the SpaceX stock price?
+
+00:16:09.760 --> 00:16:12.640
+ - Central European time at 22.30.
+
+00:16:12.640 --> 00:16:16.520
+ Tonight he's going to share his first time of figures.
+
+00:16:17.480 --> 00:16:19.880
+ And I think late in the night,
+
+00:16:19.880 --> 00:16:22.680
+ so our time, 22.30,
+
+00:16:22.680 --> 00:16:26.720
+ a lot of people can sell the first shares that they bought.
+
+00:16:26.720 --> 00:16:28.400
+ They were locked up.
+
+00:16:28.400 --> 00:16:30.660
+ So today is a big day for them.
+
+00:16:30.660 --> 00:16:32.560
+ - Okay, okay, that's interesting.
+
+00:16:32.560 --> 00:16:36.640
+ Okay, yeah, so analyst expecting earnings revenue,
+
+00:16:36.640 --> 00:16:40.920
+ 7 billion earning per share, loss of coefficient, let's go.
+
+00:16:40.920 --> 00:16:42.240
+ - It's an expectation.
+
+00:16:42.240 --> 00:16:43.080
+ - Yeah.
+
+00:16:43.080 --> 00:16:44.680
+ - They don't know yet until tonight.
+
+00:16:44.680 --> 00:16:47.120
+ - Okay, interesting.
+
+00:16:47.120 --> 00:16:50.440
+ - So I'm really looking forward to what the price is.
+
+00:16:50.440 --> 00:16:52.560
+ - Yeah, I will let it slide again
+
+00:16:52.560 --> 00:16:57.080
+ because like SpaceX is supposed to happen to send people,
+
+00:16:57.080 --> 00:17:01.060
+ like to send people or robots to Mars, right?
+
+00:17:02.960 --> 00:17:07.200
+ That's not happening in the next two weeks.
+
+00:17:07.200 --> 00:17:08.920
+ - No, not in the next two weeks.
+
+00:17:08.920 --> 00:17:09.760
+ - Yeah.
+
+00:17:09.760 --> 00:17:10.600
+ - No.
+
+00:17:11.520 --> 00:17:14.160
+ - So yeah, did you bought SpaceX?
+
+00:17:14.160 --> 00:17:15.000
+ - Not yet.
+
+00:17:15.000 --> 00:17:17.200
+ - I'm waiting for, I'm just really looking forward
+
+00:17:17.200 --> 00:17:18.320
+ to see what it does tonight.
+
+00:17:18.320 --> 00:17:21.640
+ If it goes up like 100%, I'm feeling stupid, but.
+
+00:17:21.640 --> 00:17:22.980
+ - It's not a meme coming, bro.
+
+00:17:22.980 --> 00:17:26.680
+ - It's, no, I was actually thinking
+
+00:17:26.680 --> 00:17:28.060
+ it might even go a bit down
+
+00:17:28.060 --> 00:17:30.020
+ because people can sell the shares.
+
+00:17:30.020 --> 00:17:34.280
+ - Yeah, beta 100, that would be fun.
+
+00:17:34.280 --> 00:17:36.080
+ Yeah, 1.8 on the lowest.
+
+00:17:40.000 --> 00:17:42.620
+ I'm not touching like, not touching.
+
+00:17:42.620 --> 00:17:45.640
+ - Yeah, if you do it, you need to keep it for a long time.
+
+00:17:45.640 --> 00:17:46.480
+ - Yeah.
+
+00:17:46.480 --> 00:17:51.400
+ - It's not a crypto coin where you can sell it in four days.
+
+00:17:51.400 --> 00:17:53.320
+ - I mean, how long did it take to Amazon
+
+00:17:53.320 --> 00:17:55.380
+ to come back from the?
+
+00:17:56.880 --> 00:17:58.200
+ - It took them some time.
+
+00:17:58.200 --> 00:18:00.760
+ - Yeah, like decade.
+
+00:18:00.760 --> 00:18:01.600
+ - Yeah.
+
+00:18:01.600 --> 00:18:06.120
+ - Yeah, see, like, you have some time from SpaceX,
+
+00:18:06.120 --> 00:18:09.400
+ you have 10 years for SpaceX to do exactly that.
+
+00:18:09.400 --> 00:18:12.680
+ But if they can pull that up, that will be the biggest
+
+00:18:13.680 --> 00:18:16.080
+ company in the universe.
+
+00:18:16.080 --> 00:18:18.420
+ - Yeah, but still, if you check Amazon,
+
+00:18:18.420 --> 00:18:21.360
+ it went up from a few dollars, like $1 here.
+
+00:18:21.360 --> 00:18:22.600
+ - Yeah, yeah, a couple of cents.
+
+00:18:22.600 --> 00:18:24.280
+ - $2, so that's a big difference.
+
+00:18:24.280 --> 00:18:27.080
+ SpaceX started really high compared to Amazon.
+
+00:18:28.460 --> 00:18:32.160
+ - Yeah, but also, they're probably like,
+
+00:18:32.160 --> 00:18:35.160
+ I don't know if it's the case for Amazon,
+
+00:18:35.160 --> 00:18:38.580
+ but they can also split the price per stock.
+
+00:18:38.580 --> 00:18:41.720
+ - And you can buy fractional shares now everywhere, right?
+
+00:18:41.720 --> 00:18:43.040
+ - Yeah, yeah, that's no problem.
+
+00:18:43.040 --> 00:18:48.040
+ - So, and you can even like buy stocks of SpaceX on crypto.
+
+00:18:50.000 --> 00:18:53.160
+ - I've seen it, yes, but I'm not touching that one.
+
+00:18:53.160 --> 00:18:54.200
+ - Ever known Jupiter?
+
+00:18:55.460 --> 00:18:56.300
+ - I don't know.
+
+00:18:56.300 --> 00:19:00.060
+ I've been watching like the hack in the hardware wallet.
+
+00:19:00.060 --> 00:19:00.900
+ - Yeah.
+
+00:19:00.900 --> 00:19:04.000
+ - And they made just one line of stupid code
+
+00:19:04.000 --> 00:19:07.540
+ in the entire database or the entire code base.
+
+00:19:08.640 --> 00:19:10.880
+ And people being able to steal money
+
+00:19:10.880 --> 00:19:13.400
+ from a gold wallet that's stored in a vault,
+
+00:19:13.400 --> 00:19:15.520
+ that's a really big issue.
+
+00:19:15.520 --> 00:19:17.560
+ - Yeah, so I just watched a video about that
+
+00:19:17.560 --> 00:19:20.080
+ and the guy explained it.
+
+00:19:20.080 --> 00:19:22.760
+ So basically, the code wallet to generate the seed
+
+00:19:24.200 --> 00:19:29.200
+ used a strong algorithm to generate the seeds,
+
+00:19:30.520 --> 00:19:35.440
+ like 120 bytes algorithm, whatever.
+
+00:19:35.440 --> 00:19:39.720
+ So that's, this one is secure, but they had a fallback
+
+00:19:42.120 --> 00:19:43.880
+ in the generation of the keys.
+
+00:19:43.880 --> 00:19:47.920
+ So for example, if the, like it's a waterfall function
+
+00:19:47.920 --> 00:19:52.920
+ where if the first step is failing for whatever reason,
+
+00:19:53.220 --> 00:19:58.220
+ you still generate the seed with a lower probabilistic.
+
+00:20:00.640 --> 00:20:04.600
+ - To stop it going from infinite amounts of failures.
+
+00:20:04.600 --> 00:20:05.440
+ - Yes, exactly.
+
+00:20:05.440 --> 00:20:10.400
+ So, and then like the hacker, like I was able to data mine
+
+00:20:13.040 --> 00:20:18.040
+ to generate those keys with a good computer.
+
+00:20:20.920 --> 00:20:23.680
+ And the hack is still running right now
+
+00:20:23.680 --> 00:20:27.360
+ because it's able to crack the keys generated.
+
+00:20:27.360 --> 00:20:30.560
+ So, and probably it's thanks to AI, by the way.
+
+00:20:30.560 --> 00:20:32.860
+ - Yeah, of course, AI does a lot.
+
+00:20:32.860 --> 00:20:37.860
+ - Yeah, probably like I use a Fable 5XI on it.
+
+00:20:40.800 --> 00:20:42.360
+ And yeah, that was able to do that
+
+00:20:42.360 --> 00:20:47.360
+ because the project was open source, is open source.
+
+00:20:47.480 --> 00:20:51.040
+ And yeah, so basically it's also an open source
+
+00:20:51.040 --> 00:20:54.040
+ security issues, which later is not open source,
+
+00:20:54.040 --> 00:20:55.840
+ cloud source, yeah.
+
+00:20:55.840 --> 00:21:00.520
+ And hi, Arin and Diaz, thanks for joining us today.
+
+00:21:02.680 --> 00:21:03.520
+ - Okay, cool.
+
+00:21:03.520 --> 00:21:05.240
+ Next, next, next, next, what do we have?
+
+00:21:05.240 --> 00:21:06.720
+ What do we have?
+
+00:21:06.720 --> 00:21:08.440
+ Yeah, I like this one.
+
+00:21:09.640 --> 00:21:12.200
+ Tag, can I ask a question?
+
+00:21:12.200 --> 00:21:13.480
+ Yes, you can.
+
+00:21:13.480 --> 00:21:14.880
+ I mean, you can ask the question,
+
+00:21:14.880 --> 00:21:17.400
+ maybe we will not answer it, but you can always ask.
+
+00:21:17.400 --> 00:21:18.400
+ - Feel free to ask.
+
+00:21:20.240 --> 00:21:24.460
+ - And so, yeah, OpenAI improved the cost,
+
+00:21:25.360 --> 00:21:27.480
+ like the pricing, yeah, the cost of the models
+
+00:21:27.480 --> 00:21:32.480
+ and with 5.6 Sol, they were able to improve
+
+00:21:33.280 --> 00:21:38.280
+ the cost efficiency, capability and speed of 5.6 Luna
+
+00:21:41.440 --> 00:21:43.160
+ by 80%.
+
+00:21:43.160 --> 00:21:44.480
+ - Yeah, that's a lot.
+
+00:21:46.720 --> 00:21:50.440
+ - And some people on the timeline were saying like,
+
+00:21:50.440 --> 00:21:55.440
+ now you can use Luna high, fast,
+
+00:21:57.600 --> 00:22:01.160
+ and have the equivalent of like Sol medium or something,
+
+00:22:01.160 --> 00:22:03.040
+ but for half the price.
+
+00:22:03.040 --> 00:22:04.600
+ - Yeah, that's cool.
+
+00:22:04.600 --> 00:22:07.380
+ Well, it just looks like they put the prices really high
+
+00:22:07.380 --> 00:22:10.120
+ on the hype on the release because everybody is going
+
+00:22:10.120 --> 00:22:13.380
+ to test it, use it and they make a lot of money.
+
+00:22:13.380 --> 00:22:15.520
+ And then afterwards, they have to make sure
+
+00:22:15.520 --> 00:22:18.560
+ that it's correct again and to be able to compete
+
+00:22:18.560 --> 00:22:19.660
+ with the other models.
+
+00:22:20.720 --> 00:22:22.120
+ - Yeah.
+
+00:22:22.120 --> 00:22:27.120
+ - But I was checking my API settings for all the projects
+
+00:22:27.260 --> 00:22:30.280
+ that were still running on like what all the models
+
+00:22:30.280 --> 00:22:35.280
+ and I have like a 4.0 active mini and the normal one.
+
+00:22:36.600 --> 00:22:39.800
+ And I was checking and a 4.1 is even 20% cheaper.
+
+00:22:40.960 --> 00:22:41.800
+ - Damn.
+
+00:22:41.800 --> 00:22:44.140
+ - So you need to keep checking your models
+
+00:22:44.140 --> 00:22:46.420
+ because they update the prices and the other ones,
+
+00:22:46.420 --> 00:22:49.420
+ they keep on the higher prices and the new ones not.
+
+00:22:49.420 --> 00:22:52.920
+ So switching to a better model, getting better results
+
+00:22:52.920 --> 00:22:55.480
+ is even cheaper than just letting it go
+
+00:22:55.480 --> 00:22:56.620
+ how it goes right now.
+
+00:22:58.040 --> 00:23:01.940
+ - That was what we saw when they released the benchmark
+
+00:23:01.940 --> 00:23:06.400
+ and where the price is per task and not per token, right?
+
+00:23:06.400 --> 00:23:10.920
+ Because again, you can be cheaper per token output
+
+00:23:10.920 --> 00:23:15.800
+ but if the result is shit, then you still need to re-prompt
+
+00:23:15.800 --> 00:23:18.880
+ or even use, the task will use more tokens.
+
+00:23:18.880 --> 00:23:22.080
+ So even if it's cheaper, the absolute value in dollars
+
+00:23:22.080 --> 00:23:24.160
+ will be higher anyway.
+
+00:23:24.160 --> 00:23:27.360
+ And okay, so a question I'm taking.
+
+00:23:27.360 --> 00:23:29.360
+ So we're gonna do some orientation now.
+
+00:23:30.520 --> 00:23:34.280
+ Business tech in CSE, what is it?
+
+00:23:34.280 --> 00:23:35.760
+ Do you know?
+
+00:23:35.760 --> 00:23:36.600
+ Is that business tech?
+
+00:23:36.600 --> 00:23:38.280
+ B tech, is that business tech?
+
+00:23:40.440 --> 00:23:41.980
+ - I think so, let me check.
+
+00:23:45.100 --> 00:23:47.960
+ - And will I face problem in finding a good job
+
+00:23:47.960 --> 00:23:50.800
+ in the future when I pass out?
+
+00:23:50.800 --> 00:23:51.800
+ - Yeah. - I mean.
+
+00:23:51.800 --> 00:23:54.640
+ - Bachelor of Science in Computer Science and Engineering.
+
+00:23:54.640 --> 00:23:55.820
+ - Oh yeah, okay.
+
+00:23:55.820 --> 00:23:58.520
+ - Computer Science and Engineering, I'm stupid.
+
+00:23:58.520 --> 00:24:00.760
+ And B tech is business tech?
+
+00:24:00.760 --> 00:24:03.200
+ - Yes, Bachelor of Science.
+
+00:24:03.200 --> 00:24:04.620
+ - Yeah, what would you do?
+
+00:24:08.520 --> 00:24:11.880
+ - Well, honestly, everybody doing computer science
+
+00:24:11.880 --> 00:24:16.880
+ right now, I think eventually AI has already caught up.
+
+00:24:16.940 --> 00:24:21.940
+ So honestly, if you are still doing the education
+
+00:24:24.080 --> 00:24:26.600
+ in the way that they were doing it like five years ago,
+
+00:24:26.600 --> 00:24:27.580
+ then you're behind.
+
+00:24:27.580 --> 00:24:32.480
+ You just need some lessons in how to use AI,
+
+00:24:32.480 --> 00:24:34.960
+ how to understand, and I don't know about you,
+
+00:24:34.960 --> 00:24:39.640
+ but I still see an issue, another issue,
+
+00:24:39.640 --> 00:24:42.600
+ but if my customers and other IT companies
+
+00:24:42.600 --> 00:24:46.000
+ that I work for have the same AIs they can use
+
+00:24:46.000 --> 00:24:48.880
+ and the same capabilities, sometimes even better
+
+00:24:48.880 --> 00:24:51.040
+ because they have a higher budget,
+
+00:24:51.040 --> 00:24:55.760
+ they get worse results because they don't know how to ask
+
+00:24:55.760 --> 00:24:57.820
+ and how to prompt properly.
+
+00:24:57.820 --> 00:25:01.200
+ And they don't understand what the AI is doing in tech.
+
+00:25:01.200 --> 00:25:05.240
+ So you need some basics, but coding yourself,
+
+00:25:05.240 --> 00:25:07.640
+ if you're learning how to do that and how to plan,
+
+00:25:07.640 --> 00:25:09.160
+ yeah, that's a waste of time.
+
+00:25:10.020 --> 00:25:12.560
+ - I mean, yeah, again, it's important to know
+
+00:25:12.560 --> 00:25:14.080
+ what you're asking too, right?
+
+00:25:14.080 --> 00:25:19.060
+ Because Evan, I saw a tweet where instead of prompting
+
+00:25:19.060 --> 00:25:23.760
+ a five sentence to describe a UX/UI effect,
+
+00:25:23.760 --> 00:25:25.880
+ if you know the name of the effect,
+
+00:25:25.880 --> 00:25:30.280
+ then you can just like reduce this prompt in three words
+
+00:25:30.280 --> 00:25:33.260
+ and the output will be better, right?
+
+00:25:33.260 --> 00:25:35.040
+ So same thing for the tech stack.
+
+00:25:35.040 --> 00:25:37.260
+ If you know what the fuck you are doing
+
+00:25:37.260 --> 00:25:40.320
+ and you know what to ask in technical term,
+
+00:25:40.320 --> 00:25:42.960
+ then the model will hallucinate less
+
+00:25:42.960 --> 00:25:45.060
+ or like do more research, et cetera.
+
+00:25:45.060 --> 00:25:47.300
+ So the output will be better, right?
+
+00:25:47.300 --> 00:25:48.140
+ - Yeah.
+
+00:25:48.140 --> 00:25:53.140
+ So experts know, have better output than the random guy
+
+00:25:53.360 --> 00:25:57.380
+ saying, okay, create AGI and make the mistake.
+
+00:25:57.380 --> 00:26:02.380
+ Like that's, I mean, can the models be smart enough
+
+00:26:03.440 --> 00:26:07.320
+ to understand Evan, the stupidest prompt?
+
+00:26:07.320 --> 00:26:09.360
+ Time will tell, but yeah.
+
+00:26:10.400 --> 00:26:12.680
+ I mean, also like, I don't know if you're,
+
+00:26:12.680 --> 00:26:16.200
+ where your base like are renamed, are renamed,
+
+00:26:16.200 --> 00:26:18.480
+ but if you are in the US and you're gonna have to spend
+
+00:26:18.480 --> 00:26:23.480
+ like take a fucking 200 grand loan to spend times
+
+00:26:26.700 --> 00:26:29.300
+ in parties and stuff with friends,
+
+00:26:30.360 --> 00:26:33.240
+ and then in five years you're gonna have,
+
+00:26:33.240 --> 00:26:34.600
+ you will not be able to find a job,
+
+00:26:34.600 --> 00:26:36.340
+ then it's gonna be crazy.
+
+00:26:36.340 --> 00:26:38.360
+ I mean, if you can go to Harvard,
+
+00:26:39.340 --> 00:26:41.120
+ enjoy your time at school.
+
+00:26:41.120 --> 00:26:42.840
+ If you are going to community college
+
+00:26:42.840 --> 00:26:45.440
+ or community university or whatever,
+
+00:26:45.440 --> 00:26:47.920
+ just keep it and build business.
+
+00:26:47.920 --> 00:26:50.680
+ - But if I had to hire people right now,
+
+00:26:50.680 --> 00:26:53.000
+ I would still take the people with some experience
+
+00:26:53.000 --> 00:26:56.500
+ because I know that they can also test the AI
+
+00:26:56.500 --> 00:26:58.680
+ and see if it did something correct.
+
+00:26:58.680 --> 00:26:59.520
+ - Yeah.
+
+00:26:59.520 --> 00:27:00.920
+ - And sometimes you go in the loop
+
+00:27:00.920 --> 00:27:03.360
+ and if you then just don't know what you need to ask
+
+00:27:03.360 --> 00:27:06.800
+ and keep asking the same questions, that's bad.
+
+00:27:06.800 --> 00:27:08.120
+ - Okay, now from India.
+
+00:27:08.120 --> 00:27:11.500
+ Yeah, do you know the educational system in India?
+
+00:27:11.500 --> 00:27:13.640
+ - I know they have some really good universities.
+
+00:27:13.640 --> 00:27:15.280
+ - Yeah, yeah, I mean, yeah.
+
+00:27:15.280 --> 00:27:17.860
+ I think the value of school and university
+
+00:27:17.860 --> 00:27:22.000
+ like definitely still good
+
+00:27:22.000 --> 00:27:25.480
+ if you go to the high ends of them.
+
+00:27:25.480 --> 00:27:27.520
+ But like, yeah, if you're gonna pay
+
+00:27:27.520 --> 00:27:30.240
+ like crazy amount of money for an average school,
+
+00:27:31.280 --> 00:27:34.940
+ better drop out in, I mean, I don't know if I can.
+
+00:27:36.200 --> 00:27:38.160
+ - Don't tell them to drop out.
+
+00:27:38.160 --> 00:27:40.720
+ But if you know what to ask
+
+00:27:40.720 --> 00:27:44.560
+ and then you're already set and ready to go,
+
+00:27:44.560 --> 00:27:47.920
+ but just also make sure that even when you're in school,
+
+00:27:47.920 --> 00:27:51.520
+ just keep using the AI and see what's going on
+
+00:27:51.520 --> 00:27:53.120
+ and what they release in new features
+
+00:27:53.120 --> 00:27:55.800
+ because I think a school is always behind.
+
+00:27:55.800 --> 00:27:58.080
+ - Yeah, no, like during my master's degree,
+
+00:27:58.080 --> 00:28:00.200
+ like I was like coding in Java
+
+00:28:01.220 --> 00:28:05.360
+ and like to learn oriented object programming stuff,
+
+00:28:05.360 --> 00:28:10.360
+ but I never fucking use it like outside of the classroom.
+
+00:28:11.180 --> 00:28:14.440
+ Like it was mental.
+
+00:28:14.440 --> 00:28:19.120
+ And like JavaScript or even PHP, yeah, a bit of PHP,
+
+00:28:19.120 --> 00:28:21.000
+ but everything that I use right now,
+
+00:28:21.000 --> 00:28:22.560
+ I learned by myself, right?
+
+00:28:22.560 --> 00:28:27.560
+ But school give you a framework to sync, learn
+
+00:28:27.760 --> 00:28:29.840
+ and hopefully by yourself, right?
+
+00:28:29.840 --> 00:28:32.000
+ - Yeah, you just have to improve that one.
+
+00:28:32.000 --> 00:28:33.760
+ - Yeah, and as long as you are like,
+
+00:28:33.760 --> 00:28:35.520
+ you know, you like what you're doing
+
+00:28:35.520 --> 00:28:37.760
+ and you will never stop learning
+
+00:28:37.760 --> 00:28:40.180
+ on enjoying like what you do
+
+00:28:40.180 --> 00:28:41.680
+ and you will always find a job
+
+00:28:41.680 --> 00:28:42.820
+ or create your own job anyway.
+
+00:28:42.820 --> 00:28:47.820
+ So like, and business tech and computer science,
+
+00:28:48.040 --> 00:28:51.980
+ like which skill is harder to get?
+
+00:28:54.920 --> 00:28:56.320
+ - Is that a question for me?
+
+00:28:57.640 --> 00:28:58.480
+ I don't know.
+
+00:29:00.760 --> 00:29:03.680
+ The more an AI can do, the easier it is.
+
+00:29:03.680 --> 00:29:05.480
+ - Yeah, yeah.
+
+00:29:05.480 --> 00:29:10.480
+ But can you build expertise in business faster
+
+00:29:11.760 --> 00:29:14.440
+ than development?
+
+00:29:17.000 --> 00:29:20.520
+ Would you say it's easier for a dev to catch up in business
+
+00:29:20.520 --> 00:29:23.520
+ or a business sales guys to catch up in tech?
+
+00:29:23.520 --> 00:29:24.680
+ - Yeah, the other way around.
+
+00:29:24.680 --> 00:29:26.640
+ Business sales guys catching up in tech.
+
+00:29:26.640 --> 00:29:27.680
+ - Yeah.
+
+00:29:27.680 --> 00:29:29.840
+ - Because honestly, the business sales guys,
+
+00:29:29.840 --> 00:29:31.160
+ they do so many talks.
+
+00:29:31.160 --> 00:29:34.560
+ They hear so many stuff from people doing difficult talks
+
+00:29:34.560 --> 00:29:39.560
+ and they should just get like,
+
+00:29:40.880 --> 00:29:43.580
+ I was having it here, like something like this,
+
+00:29:44.800 --> 00:29:47.580
+ like the pocket where you can just, you click it
+
+00:29:47.580 --> 00:29:49.960
+ and then record your entire sales conversation,
+
+00:29:49.960 --> 00:29:52.100
+ makes a summary, makes points to go.
+
+00:29:53.760 --> 00:29:56.600
+ If you just record them all and put them into an AI,
+
+00:29:56.600 --> 00:29:58.360
+ have them analyze and explain it to you
+
+00:29:58.360 --> 00:29:59.660
+ at the end of the day.
+
+00:29:59.660 --> 00:30:00.500
+ - Yeah.
+
+00:30:00.500 --> 00:30:03.320
+ - And you're doing like three or four sales calls per day,
+
+00:30:03.320 --> 00:30:06.500
+ that will just put you on to speed
+
+00:30:06.500 --> 00:30:09.240
+ and you will learn so much.
+
+00:30:09.240 --> 00:30:11.700
+ - I mean, if you just like do by,
+
+00:30:11.700 --> 00:30:13.520
+ if you learn by doing something
+
+00:30:13.520 --> 00:30:18.280
+ instead of like spending eight hours per day in a classroom.
+
+00:30:19.220 --> 00:30:20.700
+ - Yeah.
+
+00:30:20.700 --> 00:30:24.040
+ - So, Irene, did we answer your question?
+
+00:30:24.040 --> 00:30:26.080
+ Are you gonna drop out after this live?
+
+00:30:26.080 --> 00:30:26.920
+ Let's go.
+
+00:30:29.060 --> 00:30:31.520
+ What to do to make me more valuable?
+
+00:30:31.520 --> 00:30:33.940
+ Like what skill to develop?
+
+00:30:33.940 --> 00:30:36.720
+ Just be able to learn everywhere, like don't be lazy.
+
+00:30:36.720 --> 00:30:38.200
+ Yeah, don't be lazy.
+
+00:30:38.200 --> 00:30:39.560
+ It's actually a good one.
+
+00:30:39.560 --> 00:30:40.920
+ - Yeah, do what you like.
+
+00:30:40.920 --> 00:30:42.800
+ And even if it is a niche
+
+00:30:42.800 --> 00:30:46.160
+ and there are only a few people doing it, that's no problem.
+
+00:30:46.160 --> 00:30:48.400
+ Just make sure that you're good at it and go.
+
+00:30:49.440 --> 00:30:50.280
+ - Yeah.
+
+00:30:50.280 --> 00:30:54.420
+ Try to be in the top 1% in the world at what you do.
+
+00:30:54.420 --> 00:30:55.760
+ And even if you don't do it,
+
+00:30:55.760 --> 00:30:59.120
+ you will be better than fucking like everyone
+
+00:30:59.120 --> 00:31:02.160
+ who dropped out before you reached the point
+
+00:31:02.160 --> 00:31:03.440
+ where you are right now.
+
+00:31:03.440 --> 00:31:06.280
+ - I think the only thing is that people keep telling
+
+00:31:06.280 --> 00:31:08.920
+ and isn't true is that with AI everything can be done
+
+00:31:08.920 --> 00:31:09.880
+ in a few minutes.
+
+00:31:09.880 --> 00:31:14.780
+ I'm still spending a lot of time using AI coding
+
+00:31:14.780 --> 00:31:15.880
+ and doing everything.
+
+00:31:17.940 --> 00:31:19.640
+ - Yeah, I mean, the critical thinking
+
+00:31:19.640 --> 00:31:23.800
+ and thinking will not go away like anytime soon.
+
+00:31:23.800 --> 00:31:26.400
+ All of the AI labs are preaching that yeah,
+
+00:31:26.400 --> 00:31:28.160
+ coding will be solved in six months
+
+00:31:28.160 --> 00:31:29.580
+ and it was like two years ago.
+
+00:31:29.580 --> 00:31:31.000
+ - Yes.
+
+00:31:31.000 --> 00:31:32.840
+ And then still it makes stupid mistakes.
+
+00:31:32.840 --> 00:31:35.640
+ And if you have two different AIs communicating
+
+00:31:35.640 --> 00:31:38.440
+ about the problem, eventually after five, six rounds,
+
+00:31:38.440 --> 00:31:41.000
+ they can still say, "I don't agree with the other one."
+
+00:31:41.000 --> 00:31:42.760
+ And it just, that's it.
+
+00:31:44.360 --> 00:31:46.200
+ - Oh, exactly.
+
+00:31:46.200 --> 00:31:51.060
+ Last one, will electrical and communication engineering
+
+00:31:51.060 --> 00:31:55.360
+ be superior than CSE in the future?
+
+00:31:55.360 --> 00:31:56.880
+ - Yeah, really hard to tell
+
+00:31:56.880 --> 00:31:59.360
+ because you don't know when it's going.
+
+00:31:59.360 --> 00:32:00.400
+ - We don't know what's gonna happen
+
+00:32:00.400 --> 00:32:01.560
+ in the next six months, right?
+
+00:32:01.560 --> 00:32:06.560
+ Like, so, I mean, it's right now, it's bit like,
+
+00:32:07.120 --> 00:32:11.140
+ we're going so fast and so far from the last two years,
+
+00:32:11.140 --> 00:32:15.440
+ for example, that predicting what AI gonna be able
+
+00:32:15.440 --> 00:32:20.440
+ to produce in the next six, 12 to 18 months, like mental.
+
+00:32:22.280 --> 00:32:24.440
+ Yeah, it'd be like, "Hey bro, like try to apply
+
+00:32:24.440 --> 00:32:27.160
+ with Elon Musk, he needs some smart people
+
+00:32:28.640 --> 00:32:30.160
+ for SpaceX, Tesla and et cetera."
+
+00:32:30.160 --> 00:32:34.960
+ So let's go, just be the world-class guy
+
+00:32:34.960 --> 00:32:36.640
+ in whatever the fuck you want to do.
+
+00:32:36.640 --> 00:32:39.460
+ And do you need school for that?
+
+00:32:40.280 --> 00:32:43.060
+ - No, you need to be able to just learn a lot,
+
+00:32:43.060 --> 00:32:45.560
+ keep asking questions and think for yourself.
+
+00:32:45.560 --> 00:32:50.560
+ - Yeah, did, Arin, Arin, like, did you ask Claude what?
+
+00:32:53.440 --> 00:32:56.440
+ Like those questions, that would be curious.
+
+00:32:56.440 --> 00:33:01.220
+ - Okay, so another topic, open source again.
+
+00:33:02.960 --> 00:33:07.800
+ Gwen's 3.8 has been released like yesterday.
+
+00:33:07.800 --> 00:33:08.760
+ Yes.
+
+00:33:08.760 --> 00:33:10.100
+ - I didn't see it yet.
+
+00:33:10.100 --> 00:33:10.940
+ - Like, bro.
+
+00:33:12.400 --> 00:33:13.240
+ Oh, okay.
+
+00:33:15.440 --> 00:33:17.760
+ Pro benchmark, so, okay, what is it?
+
+00:33:17.760 --> 00:33:19.980
+ Oh, that's probably Fable.
+
+00:33:19.980 --> 00:33:23.840
+ It's basically much like those points, it's,
+
+00:33:25.920 --> 00:33:28.640
+ it's like a, the gap is down.
+
+00:33:31.160 --> 00:33:36.160
+ SWE Pro benchmark, okay, F80, like 69, so that's for obvious.
+
+00:33:37.680 --> 00:33:41.680
+ Terminal bench, 86, instead of you even beating like,
+
+00:33:45.080 --> 00:33:48.680
+ in same level as like, two points behind.
+
+00:33:50.000 --> 00:33:53.540
+ GPT, Pepper bench, I don't know which one is it, but yeah.
+
+00:33:53.540 --> 00:33:56.240
+ - Number is good, did you ever try them?
+
+00:33:56.240 --> 00:33:58.560
+ - Nope, I never did.
+
+00:33:58.560 --> 00:34:00.120
+ - Because like, you know, you never know,
+
+00:34:00.120 --> 00:34:02.800
+ like in a real, what's the, all of those numbers
+
+00:34:02.800 --> 00:34:06.960
+ we end up doing once you ask and prompt something, right?
+
+00:34:06.960 --> 00:34:09.960
+ - Yeah, but spending on every lease,
+
+00:34:09.960 --> 00:34:13.000
+ a few hours of my time on checking if it is true,
+
+00:34:13.000 --> 00:34:16.340
+ what they say, if I just wait three weeks,
+
+00:34:16.340 --> 00:34:18.440
+ there will be another model that's even better.
+
+00:34:18.440 --> 00:34:19.520
+ - Yeah, exactly.
+
+00:34:19.520 --> 00:34:22.100
+ I mean, it took us a minute to test Grok, right?
+
+00:34:22.100 --> 00:34:24.600
+ - Yeah, and to even get it set up properly
+
+00:34:24.600 --> 00:34:26.380
+ and know what it does and what it doesn't
+
+00:34:26.380 --> 00:34:28.980
+ and where you can trust in a way you can't.
+
+00:34:30.920 --> 00:34:35.920
+ - Hardware, so four byte, 1.2, just for the weight.
+
+00:34:36.000 --> 00:34:37.720
+ Multi-mode, mostly, yeah, okay.
+
+00:34:37.720 --> 00:34:40.000
+ Active prompts in disclose, so real token
+
+00:34:40.000 --> 00:34:41.560
+ through in the unknown.
+
+00:34:41.560 --> 00:34:44.500
+ For almost every API, yeah, everyone the API, yeah, okay.
+
+00:34:45.720 --> 00:34:50.720
+ But I also saw in other news that you can,
+
+00:34:52.040 --> 00:34:57.040
+ run a deep seek model on your gaming computer.
+
+00:34:59.560 --> 00:35:00.520
+ - Oh, that's cool.
+
+00:35:00.520 --> 00:35:03.380
+ - Yeah, and one model is on the iPhone.
+
+00:35:04.280 --> 00:35:06.000
+ But yeah, we can talk about that after.
+
+00:35:06.000 --> 00:35:08.960
+ Okay, so how about Qwinn 35?
+
+00:35:11.580 --> 00:35:13.440
+ Been using Qwinn results for four months.
+
+00:35:13.440 --> 00:35:15.200
+ Less quadra, it has got sent.
+
+00:35:15.200 --> 00:35:17.200
+ I can't even go back to cloud and charge GPT.
+
+00:35:17.200 --> 00:35:22.200
+ - Yeah, that's gonna be like, that's a problem for sure.
+
+00:35:23.440 --> 00:35:26.200
+ And did you ever like reach some prompt
+
+00:35:26.200 --> 00:35:30.060
+ where Fable 5 is like routing you back to-
+
+00:35:30.060 --> 00:35:35.000
+ - Yeah, but also just because of how I wrote the prompt.
+
+00:35:35.000 --> 00:35:38.040
+ If you just say, I want to improve my own security,
+
+00:35:38.040 --> 00:35:39.680
+ check this, check this.
+
+00:35:39.680 --> 00:35:42.280
+ Then even on the standard WordPress team,
+
+00:35:42.280 --> 00:35:47.280
+ it just says, I can do it, I need to switch you back to Opus.
+
+00:35:48.880 --> 00:35:52.280
+ But I was just asking to check the headers and everything.
+
+00:35:52.280 --> 00:35:56.920
+ That's not, and then I say, hey, please update the security
+
+00:35:56.920 --> 00:35:58.540
+ and make it the best as possible
+
+00:35:58.540 --> 00:36:02.060
+ so that we have a secure team and then it does it.
+
+00:36:02.060 --> 00:36:04.120
+ So it is just about a few words.
+
+00:36:04.120 --> 00:36:08.520
+ So I don't know if it actually stops
+
+00:36:08.520 --> 00:36:13.040
+ on what it's coding or if it actually stops
+
+00:36:13.040 --> 00:36:14.540
+ on how you asked the question.
+
+00:36:17.080 --> 00:36:18.440
+ I only had it on questions
+
+00:36:18.440 --> 00:36:19.840
+ and sometimes doing it differently,
+
+00:36:19.840 --> 00:36:24.300
+ I got a result and that makes it so much better.
+
+00:36:24.300 --> 00:36:27.880
+ And still telling Fable, hey, I'm a white hat hacker.
+
+00:36:27.880 --> 00:36:30.760
+ They hired me, I need to check this.
+
+00:36:30.760 --> 00:36:34.220
+ Can you just at least explain me how it works in the code
+
+00:36:34.220 --> 00:36:36.540
+ so I can check it myself manually
+
+00:36:36.540 --> 00:36:38.720
+ and it will give you an entire explanation.
+
+00:36:38.720 --> 00:36:40.120
+ - Is that still working because-
+
+00:36:40.120 --> 00:36:40.960
+ - Still working.
+
+00:36:40.960 --> 00:36:41.780
+ - Really?
+
+00:36:41.780 --> 00:36:46.240
+ Because like the fucking hugging face,
+
+00:36:46.240 --> 00:36:50.060
+ they had to use Kimi five points,
+
+00:36:50.060 --> 00:36:53.480
+ like the last release of Kimi,
+
+00:36:53.480 --> 00:36:56.620
+ they were not able to use Fable.
+
+00:36:56.620 --> 00:36:58.520
+ - Yeah, maybe they were going in further,
+
+00:36:58.520 --> 00:37:00.720
+ but on the times that I tried,
+
+00:37:00.720 --> 00:37:02.560
+ what question about customers asked me,
+
+00:37:02.560 --> 00:37:05.280
+ hey, check this login or check this or check this.
+
+00:37:05.280 --> 00:37:08.560
+ I did it this way and it gave me an entire explanation
+
+00:37:08.560 --> 00:37:09.960
+ of what was where.
+
+00:37:09.960 --> 00:37:12.520
+ And then you can just ask questions like,
+
+00:37:12.520 --> 00:37:14.400
+ which part would you improve?
+
+00:37:14.400 --> 00:37:17.960
+ Which part has the least amount of security?
+
+00:37:17.960 --> 00:37:20.560
+ And if you do it like this, it will just answer everything.
+
+00:37:20.560 --> 00:37:22.720
+ - Yeah, okay, fair enough.
+
+00:37:22.720 --> 00:37:25.520
+ We have more like advices, advice.
+
+00:37:25.520 --> 00:37:27.880
+ There is not as advice, I learned that recently.
+
+00:37:30.880 --> 00:37:35.320
+ From Sarah, sub Jim Sarah, take Fable fast,
+
+00:37:35.320 --> 00:37:36.980
+ so spend more time improving your skills
+
+00:37:36.980 --> 00:37:38.440
+ and watching cats fighting on YouTube.
+
+00:37:38.440 --> 00:37:40.560
+ Yeah, or brain rot on TikTok, right?
+
+00:37:40.560 --> 00:37:41.520
+ - Yeah, yeah, yeah.
+
+00:37:41.520 --> 00:37:44.640
+ - And yeah, I've been asking a follow-up question.
+
+00:37:44.640 --> 00:37:46.620
+ So yeah, enjoy the chat people.
+
+00:37:48.240 --> 00:37:51.080
+ - Just spend time and make sure that you own the product
+
+00:37:52.120 --> 00:37:55.440
+ and then use it to maximize your eventual code.
+
+00:37:56.380 --> 00:37:59.000
+ - Just try to build an autonomous company
+
+00:37:59.000 --> 00:38:03.780
+ and then by making it autonomous,
+
+00:38:03.780 --> 00:38:07.020
+ then it's like doesn't require you to drop out yet.
+
+00:38:07.020 --> 00:38:09.680
+ And then yeah, and see what goes.
+
+00:38:09.680 --> 00:38:11.240
+ And if you like it, let's go.
+
+00:38:11.240 --> 00:38:13.380
+ - Yeah, I am pretty sure that's a moment
+
+00:38:13.380 --> 00:38:15.980
+ when you realize all the people on X who are posting,
+
+00:38:15.980 --> 00:38:19.720
+ hey, I built this autonomously, it's making me 10K a day.
+
+00:38:19.720 --> 00:38:21.480
+ They are not making 10K a day.
+
+00:38:21.480 --> 00:38:26.400
+ - Yeah, until they are, unless they are on trust MRO.
+
+00:38:26.400 --> 00:38:29.700
+ - Yeah, yeah, but at least not autonomous.
+
+00:38:29.700 --> 00:38:32.580
+ - Yeah, like do you remember the Portia stuff?
+
+00:38:33.880 --> 00:38:35.480
+ - Yeah, he did good, right?
+
+00:38:35.480 --> 00:38:37.520
+ He even got money in.
+
+00:38:37.520 --> 00:38:40.520
+ - Yeah, they are the run company that you sleep.
+
+00:38:40.520 --> 00:38:42.060
+ Where is he?
+
+00:38:42.060 --> 00:38:43.300
+ Oh, that changed a bit.
+
+00:38:44.920 --> 00:38:47.540
+ So that's run while you sleep, live.
+
+00:38:50.600 --> 00:38:52.640
+ - And he still has the same website.
+
+00:38:52.640 --> 00:38:57.640
+ - Oh, he deleted the revenue shots.
+
+00:38:58.100 --> 00:38:58.940
+ - Yeah.
+
+00:39:01.120 --> 00:39:02.320
+ - Yeah, that's bullshit.
+
+00:39:03.960 --> 00:39:05.220
+ What the fuck is going on?
+
+00:39:06.640 --> 00:39:10.320
+ Because yeah, he raised like multiple millions
+
+00:39:10.320 --> 00:39:13.160
+ from Silicon Valley investors, so.
+
+00:39:13.160 --> 00:39:15.920
+ - Yeah, and he's just still a one man company.
+
+00:39:15.920 --> 00:39:16.760
+ - Yeah.
+
+00:39:20.760 --> 00:39:23.480
+ Yeah, bro, like two views.
+
+00:39:23.480 --> 00:39:26.360
+ Even us, we make like more impression.
+
+00:39:26.360 --> 00:39:29.040
+ - Yeah, well, I make the most impressions
+
+00:39:29.040 --> 00:39:30.760
+ when I do a reply on Elon.
+
+00:39:31.660 --> 00:39:32.500
+ - Yeah, no shit.
+
+00:39:34.300 --> 00:39:39.300
+ Yeah, 30 million at 250 valuation, like bro, like what?
+
+00:39:39.360 --> 00:39:40.200
+ - Yeah.
+
+00:39:40.200 --> 00:39:45.200
+ - That's, it was 20 to, no, 250 million, yeah.
+
+00:39:46.120 --> 00:39:46.960
+ Like what?
+
+00:39:47.960 --> 00:39:49.520
+ - Well, sometimes you don't get it,
+
+00:39:49.520 --> 00:39:52.320
+ but possibly they saw something that we didn't.
+
+00:39:52.320 --> 00:39:55.980
+ - Yeah, the progress is something like really, yeah.
+
+00:39:57.080 --> 00:39:58.720
+ That is something we don't see for sure.
+
+00:39:58.720 --> 00:40:00.280
+ - Yeah, well, there's a nice guy
+
+00:40:00.280 --> 00:40:02.600
+ and they want to go to parties at the same time.
+
+00:40:02.600 --> 00:40:04.280
+ - That's not, it's not a no name.
+
+00:40:04.280 --> 00:40:06.280
+ Like he has some background for sure.
+
+00:40:06.280 --> 00:40:07.120
+ - Yeah.
+
+00:40:08.760 --> 00:40:10.480
+ - We can check him like quickly.
+
+00:40:12.040 --> 00:40:14.000
+ I built four products before Portia or Fair,
+
+00:40:14.000 --> 00:40:17.240
+ then I built one that felt too crazy, too ambitious, okay.
+
+00:40:17.240 --> 00:40:19.840
+ For second, I'm on Mount Fuji, okay.
+
+00:40:19.840 --> 00:40:22.680
+ Serving was this modern scale, it's no joke.
+
+00:40:22.680 --> 00:40:23.520
+ I play market.
+
+00:40:23.520 --> 00:40:27.560
+ One person I have reached 10K paying customers,
+
+00:40:27.560 --> 00:40:30.240
+ generally 10 million in revenue this year.
+
+00:40:30.240 --> 00:40:31.080
+ What?
+
+00:40:32.080 --> 00:40:32.900
+ Okay, whatever.
+
+00:40:33.920 --> 00:40:38.920
+ Back to orientation.
+
+00:40:39.520 --> 00:40:42.240
+ Randomly popped in my feed and you guys really helped me.
+
+00:40:42.240 --> 00:40:43.940
+ Thanks, appreciate you.
+
+00:40:43.940 --> 00:40:44.840
+ - Oh, cool.
+
+00:40:44.840 --> 00:40:46.120
+ - Thanks, thanks to the Argo.
+
+00:40:46.120 --> 00:40:49.320
+ And yeah, if you, so subscribe then like the video
+
+00:40:49.320 --> 00:40:51.160
+ and talk with your friend, like share it with your friend.
+
+00:40:51.160 --> 00:40:52.000
+ Thank you.
+
+00:40:52.960 --> 00:40:57.960
+ And yeah, you're welcome.
+
+00:41:00.440 --> 00:41:02.880
+ And come back in the chat if you need like, yeah.
+
+00:41:02.880 --> 00:41:04.240
+ I don't know if you want to drop out now,
+
+00:41:04.240 --> 00:41:06.840
+ but just keep grinding, man.
+
+00:41:07.720 --> 00:41:10.640
+ I don't know if you want me to go.
+
+00:41:10.640 --> 00:41:12.440
+ Cool, next.
+
+00:41:12.440 --> 00:41:17.080
+ So Quen, Grok, 4.8, we did that path.
+
+00:41:17.080 --> 00:41:20.800
+ Yeah, do we have anything like to mention?
+
+00:41:20.800 --> 00:41:24.880
+ - Yeah, Grok is getting 4.6 in three days.
+
+00:41:24.880 --> 00:41:25.720
+ - No, I know.
+
+00:41:25.720 --> 00:41:26.560
+ I showed you.
+
+00:41:26.560 --> 00:41:28.800
+ (laughing)
+
+00:41:31.680 --> 00:41:32.520
+ Oh yeah.
+
+00:41:33.920 --> 00:41:37.900
+ I mean, OpenAI, have you seen like the blog post
+
+00:41:37.900 --> 00:41:40.640
+ from OpenAI saying Apple like--
+
+00:41:40.640 --> 00:41:43.320
+ - Yeah, so this morning I didn't read it, so.
+
+00:41:43.320 --> 00:41:44.160
+ - Okay.
+
+00:41:44.160 --> 00:41:46.160
+ - I see a lot of people replying.
+
+00:41:46.160 --> 00:41:47.480
+ - I have that too, okay.
+
+00:41:47.480 --> 00:41:51.400
+ Yeah, shit, that's gonna make a shit ton of you, man.
+
+00:41:52.600 --> 00:41:57.600
+ X, so deck, deck, deck,
+
+00:42:01.840 --> 00:42:06.840
+ OpenAI path, okay, deck, deck, deck, where is it?
+
+00:42:09.160 --> 00:42:12.040
+ I read it like, the fuck?
+
+00:42:14.400 --> 00:42:15.240
+ Where is it?
+
+00:42:17.880 --> 00:42:18.740
+ Is it slow?
+
+00:42:19.840 --> 00:42:23.400
+ Okay, yes, okay, okay.
+
+00:42:26.040 --> 00:42:26.880
+ I lost it.
+
+00:42:30.000 --> 00:42:30.840
+ Yes.
+
+00:42:33.840 --> 00:42:35.600
+ So Apple is getting this wrong.
+
+00:42:35.600 --> 00:42:40.600
+ So basically, to summarize quickly, Apple accused OpenAI
+
+00:42:42.160 --> 00:42:46.120
+ of industrial spying.
+
+00:42:46.120 --> 00:42:51.120
+ Like, one of the guys they hired from Apple stole data
+
+00:42:51.760 --> 00:42:56.120
+ and tried to give it to OpenAI.
+
+00:42:56.120 --> 00:42:58.640
+ So it's like industrial espionage.
+
+00:42:58.640 --> 00:43:00.960
+ - Yeah, that was a few weeks ago, right?
+
+00:43:00.960 --> 00:43:04.180
+ - Yes, and look, hello.
+
+00:43:06.480 --> 00:43:11.480
+ Name, okay, because they're fucked up too.
+
+00:43:12.860 --> 00:43:16.440
+ Lawyer, or like the biggest sentence.
+
+00:43:16.440 --> 00:43:19.240
+ They now admit that the outside lawyers emailed
+
+00:43:19.240 --> 00:43:22.920
+ the wrong person after confusing two Asian men.
+
+00:43:22.920 --> 00:43:24.120
+ - Oh, that's bad.
+
+00:43:25.440 --> 00:43:28.600
+ So they gave the information to the wrong person.
+
+00:43:28.600 --> 00:43:33.600
+ - Yeah, and like the whole blog post is about OpenAI
+
+00:43:33.960 --> 00:43:38.440
+ saying that basically, nobody wants the data
+
+00:43:38.440 --> 00:43:41.000
+ that you think we stole from you.
+
+00:43:42.960 --> 00:43:47.960
+ And imagine the cost of lawyers between Apple
+
+00:43:48.480 --> 00:43:50.720
+ and OpenAI and those talkers.
+
+00:43:50.720 --> 00:43:52.200
+ - That's going hard.
+
+00:43:52.200 --> 00:43:55.980
+ - They can't even email the wrong, the correct person.
+
+00:43:55.980 --> 00:43:56.820
+ - Yeah.
+
+00:43:58.080 --> 00:44:01.400
+ - So yeah, like, I don't know if you want to read it now,
+
+00:44:01.400 --> 00:44:04.380
+ but like they drop everything.
+
+00:44:06.040 --> 00:44:07.280
+ - It's just in public.
+
+00:44:08.340 --> 00:44:10.880
+ - Like yeah, laws in public, man.
+
+00:44:10.880 --> 00:44:12.540
+ Yeah, law suit in public.
+
+00:44:13.720 --> 00:44:15.080
+ - That's cool.
+
+00:44:15.080 --> 00:44:16.680
+ - But how do you come back from that?
+
+00:44:16.680 --> 00:44:18.600
+ Like fucking clown, man.
+
+00:44:19.640 --> 00:44:20.960
+ - Well, normally I would say
+
+00:44:20.960 --> 00:44:22.760
+ that's why you're hiring lawyers, right?
+
+00:44:22.760 --> 00:44:24.560
+ - Yeah, right, yeah.
+
+00:44:24.560 --> 00:44:25.760
+ - I guess not.
+
+00:44:25.760 --> 00:44:30.760
+ - Increase your subscription to chat GPT and like check it.
+
+00:44:31.480 --> 00:44:32.600
+ - Yeah.
+
+00:44:32.600 --> 00:44:35.760
+ - Yeah, that would be fun to do the experiment
+
+00:44:35.760 --> 00:44:40.180
+ to see if the AI could detect the fact
+
+00:44:40.180 --> 00:44:44.140
+ that they send an email to the wrong person.
+
+00:44:46.200 --> 00:44:48.580
+ - Well, it should be able to.
+
+00:44:48.580 --> 00:44:51.920
+ - Yeah, I mean, if it's a spinning mistake at some point,
+
+00:44:52.820 --> 00:44:57.820
+ the model should be able to detect it.
+
+00:45:00.600 --> 00:45:01.440
+ - Yeah, see, okay.
+
+00:45:01.440 --> 00:45:04.480
+ So I accused Tang Tan of trying to get
+
+00:45:04.480 --> 00:45:07.120
+ and use the trade secret.
+
+00:45:07.120 --> 00:45:09.120
+ Tang has always been clear with the team
+
+00:45:09.120 --> 00:45:11.520
+ that we do not want it
+
+00:45:11.520 --> 00:45:14.160
+ and must not use any confidential information
+
+00:45:14.160 --> 00:45:15.880
+ from other company.
+
+00:45:15.880 --> 00:45:18.720
+ Tang served Apple for more than 24 years
+
+00:45:18.720 --> 00:45:19.680
+ and was widely known
+
+00:45:19.680 --> 00:45:21.920
+ as one of the most innovative leader in the company.
+
+00:45:21.920 --> 00:45:24.040
+ Why this guy would do that half?
+
+00:45:24.040 --> 00:45:25.520
+ Like nuts.
+
+00:45:25.520 --> 00:45:28.800
+ - No, probably he's just proud of what he builds with Apple.
+
+00:45:28.800 --> 00:45:29.760
+ - Yeah, no, exactly.
+
+00:45:29.760 --> 00:45:31.600
+ - So he's not going to ruin it.
+
+00:45:31.600 --> 00:45:34.480
+ - And he knows that the reputation will fumble
+
+00:45:34.480 --> 00:45:38.520
+ and it will be mega fucked if it does that.
+
+00:45:38.520 --> 00:45:41.680
+ So like, I can't believe,
+
+00:45:41.680 --> 00:45:44.120
+ because again, you can't really hire someone
+
+00:45:44.120 --> 00:45:46.800
+ that stole information from another company
+
+00:45:46.800 --> 00:45:48.440
+ because maybe there is a chance
+
+00:45:48.440 --> 00:45:50.280
+ that he will do that to you too, right?
+
+00:45:50.280 --> 00:45:51.120
+ - Yeah.
+
+00:45:54.000 --> 00:45:56.000
+ And that's it, if it comes out, you can't use it.
+
+00:45:56.000 --> 00:45:57.540
+ You have to pay the other company
+
+00:45:57.540 --> 00:45:58.960
+ or you go bankrupt or whatever.
+
+00:45:58.960 --> 00:46:02.680
+ So if you're a big company, you don't want to do it.
+
+00:46:02.680 --> 00:46:04.280
+ - Yeah, it's crazy.
+
+00:46:04.280 --> 00:46:05.560
+ Yeah, it's like too risky, right?
+
+00:46:05.560 --> 00:46:08.800
+ I mean, there was a case like a few years ago
+
+00:46:08.800 --> 00:46:13.600
+ when two competitors send spies between each other.
+
+00:46:13.600 --> 00:46:16.600
+ They were like an employee from a company, A,
+
+00:46:17.520 --> 00:46:20.520
+ send the guys to get hired to the other company
+
+00:46:20.520 --> 00:46:22.960
+ and they were like spying.
+
+00:46:22.960 --> 00:46:27.320
+ And they caught them up with like some email
+
+00:46:28.640 --> 00:46:30.540
+ invisible character or something.
+
+00:46:31.760 --> 00:46:33.760
+ - Like a white character on a white background.
+
+00:46:33.760 --> 00:46:35.120
+ - Yeah, exactly.
+
+00:46:35.120 --> 00:46:40.120
+ And so they can trace the origin of the leakers that way.
+
+00:46:41.880 --> 00:46:43.840
+ Like some only put like that.
+
+00:46:43.840 --> 00:46:44.680
+ - Yeah.
+
+00:46:44.680 --> 00:46:46.100
+ - Yeah, that's crazy.
+
+00:46:48.400 --> 00:46:51.120
+ Okay, agent, oh yeah, okay.
+
+00:46:51.120 --> 00:46:52.560
+ So there is also some story
+
+00:46:52.560 --> 00:46:55.280
+ about Fable 5 deleting a server, that's fun.
+
+00:46:56.400 --> 00:47:00.080
+ - Yeah, well, you still know AI can make mistakes, right?
+
+00:47:00.080 --> 00:47:04.400
+ And if you use AI on a live production server,
+
+00:47:04.400 --> 00:47:06.400
+ you give it FTP or SSH,
+
+00:47:06.400 --> 00:47:10.400
+ you really need to make proper backup before you do it.
+
+00:47:10.400 --> 00:47:12.000
+ - Sorry, the dog, did you hear the dog?
+
+00:47:12.000 --> 00:47:13.440
+ - Yeah.
+
+00:47:13.440 --> 00:47:15.160
+ - Okay, I'm gonna open the door.
+
+00:47:26.400 --> 00:47:27.240
+ - Okay.
+
+00:47:34.840 --> 00:47:36.400
+ And back.
+
+00:47:36.400 --> 00:47:37.680
+ - And we are so back.
+
+00:47:39.240 --> 00:47:43.160
+ Yeah, so don't let run your agent on production, I guess.
+
+00:47:43.160 --> 00:47:46.280
+ - Well, you can do it for checking and testing,
+
+00:47:46.280 --> 00:47:48.560
+ but make sure that you have a backup
+
+00:47:48.560 --> 00:47:52.040
+ and that you don't give it access to everything.
+
+00:47:52.040 --> 00:47:52.880
+ - That's what the guy said.
+
+00:47:52.880 --> 00:47:57.000
+ I have a offsite backup, so data is data,
+
+00:47:57.000 --> 00:47:58.920
+ so total loss was minimal.
+
+00:47:58.920 --> 00:48:00.200
+ And that's a lesson.
+
+00:48:00.200 --> 00:48:01.920
+ Makes backup for the sensitive data
+
+00:48:01.920 --> 00:48:03.920
+ before giving access to your code base.
+
+00:48:05.960 --> 00:48:08.080
+ - I know some people just with small websites
+
+00:48:08.080 --> 00:48:11.880
+ and not a big code base,
+
+00:48:11.880 --> 00:48:14.560
+ but just small things, WordPress team,
+
+00:48:14.560 --> 00:48:16.840
+ they just log in and they do everything live,
+
+00:48:16.840 --> 00:48:20.780
+ but that's like team changes and that's no problem at all.
+
+00:48:21.860 --> 00:48:23.160
+ - Yeah, I know, I mean like-
+
+00:48:23.160 --> 00:48:25.820
+ - 2.2 million files, that's a lot.
+
+00:48:26.720 --> 00:48:28.320
+ - That's a big code base for sure.
+
+00:48:28.320 --> 00:48:29.560
+ - Yeah.
+
+00:48:29.560 --> 00:48:32.480
+ - But yeah, I mean, like we're not here yet.
+
+00:48:32.480 --> 00:48:35.440
+ Like I don't think AI can take the control
+
+00:48:35.440 --> 00:48:38.600
+ of a hospital just yet, but yeah.
+
+00:48:38.600 --> 00:48:40.440
+ - But even if AI does it properly,
+
+00:48:40.440 --> 00:48:43.120
+ he just needs to check the live server,
+
+00:48:43.120 --> 00:48:45.480
+ have access to a different server or ask it,
+
+00:48:45.480 --> 00:48:48.520
+ create a development or a staging or whatever,
+
+00:48:48.520 --> 00:48:51.120
+ change it there, have you approve and then publish it live.
+
+00:48:51.120 --> 00:48:52.320
+ That's how it should do.
+
+00:48:53.400 --> 00:48:56.840
+ - Okay, so yeah, you have like deterministic gradual.
+
+00:48:56.840 --> 00:49:01.840
+ I have some scripts that track the files,
+
+00:49:02.480 --> 00:49:03.920
+ like for some critical files
+
+00:49:03.920 --> 00:49:06.480
+ or like not delete those file stuff.
+
+00:49:07.720 --> 00:49:10.800
+ And that works pretty great on the CI/CD, so.
+
+00:49:13.060 --> 00:49:14.760
+ I think we're good, man.
+
+00:49:14.760 --> 00:49:16.960
+ - Yeah, we have those things.
+
+00:49:16.960 --> 00:49:21.960
+ - Yeah, so that should be enough shows,
+
+00:49:24.040 --> 00:49:29.040
+ enough shorts from between last week and this week.
+
+00:49:29.120 --> 00:49:32.680
+ So yeah, I think that we can wrap it up here.
+
+00:49:35.800 --> 00:49:37.220
+ Oh, no, wait.
+
+00:49:37.220 --> 00:49:38.180
+ - What did we miss?
+
+00:49:39.400 --> 00:49:40.220
+ - I'm gonna show you
+
+00:49:40.220 --> 00:49:42.200
+ because I wanted to talk to you about that too.
+
+00:49:43.680 --> 00:49:45.280
+ Thank you.
+
+00:49:45.280 --> 00:49:50.280
+ GPT 5.6 context can cross the 272K window,
+
+00:49:51.160 --> 00:49:56.160
+ and then you go into the higher usage.
+
+00:49:56.400 --> 00:49:59.540
+ I think it's more expensive after this window.
+
+00:49:59.540 --> 00:50:01.400
+ So compact your session.
+
+00:50:01.400 --> 00:50:03.840
+ - Yes, don't give them money for free.
+
+00:50:03.840 --> 00:50:05.800
+ - Exactly, and save your token.
+
+00:50:05.800 --> 00:50:07.140
+ - Yes.
+
+00:50:07.140 --> 00:50:10.360
+ - My great idea giving is context window.
+
+00:50:10.360 --> 00:50:12.720
+ But yeah, like that was a bug.
+
+00:50:12.720 --> 00:50:14.540
+ I mean, the pull request is still open.
+
+00:50:14.540 --> 00:50:16.160
+ That's why also open source is nice
+
+00:50:16.160 --> 00:50:19.340
+ because, okay, so when you are in crypto project
+
+00:50:19.340 --> 00:50:22.480
+ and it's open source, hackers can hack,
+
+00:50:22.480 --> 00:50:26.720
+ but people can open an issue/pull request
+
+00:50:26.720 --> 00:50:28.560
+ to fix the issues.
+
+00:50:28.560 --> 00:50:30.000
+ - And you have a lot of tech guys
+
+00:50:30.000 --> 00:50:33.280
+ who just love going through code and finding issues.
+
+00:50:33.280 --> 00:50:37.240
+ - Yeah, or send more agents who use more subscription
+
+00:50:37.240 --> 00:50:41.600
+ than your own little 200 or so.
+
+00:50:41.600 --> 00:50:44.640
+ But sometimes they just do it in the free time for fun.
+
+00:50:44.640 --> 00:50:46.620
+ - Yeah, I mean, did you ever?
+
+00:50:47.640 --> 00:50:49.260
+ - I'm always too busy.
+
+00:50:49.260 --> 00:50:50.420
+ I don't have free time.
+
+00:50:51.480 --> 00:50:52.720
+ - Let's make money first.
+
+00:50:52.720 --> 00:50:54.240
+ - Yeah.
+
+00:50:54.240 --> 00:50:56.200
+ - And that's a good conclusion for the life.
+
+00:50:56.200 --> 00:50:58.820
+ - Exactly, build, build, build, make money,
+
+00:50:58.820 --> 00:51:00.360
+ and then enjoy the life.
+
+00:51:00.360 --> 00:51:03.460
+ - Exactly, so everyone, thank you so much.
+
+00:51:03.460 --> 00:51:07.100
+ Thank you, Sara, and thank you, Arinand, for joining us
+
+00:51:07.100 --> 00:51:08.920
+ and commenting, participating.
+
+00:51:08.920 --> 00:51:11.380
+ That's a pleasure to have you here.
+
+00:51:11.380 --> 00:51:13.680
+ And Michal, thank you so much for your time.
+
+00:51:13.680 --> 00:51:14.900
+ - Thank you too.
+
+00:51:14.900 --> 00:51:17.440
+ - We will see you next week, same time, same place,
+
+00:51:17.440 --> 00:51:21.160
+ and maybe you're gonna see us with some shorts.
+
+00:51:21.160 --> 00:51:22.320
+ - On the timeline.
+
+00:51:22.320 --> 00:51:23.160
+ - Yes.
+

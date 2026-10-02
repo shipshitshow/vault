@@ -1,0 +1,289 @@
+Are you using NPM and do you think you
+are secure? Maybe you're not. There is
+another supply chain attack on NPM
+registries right now and it already
+happened last week and it just burned
+millions of user on using all of those
+packages. What's the solution? Is it all
+because of AI workflows and
+capabilities? Watch this video right now
+and uh subscribe. This morning at 6:00
+a.m. ET, Socket Security, I think I'm
+going to have follow this account and
+put them on notification [laughter]
+because every day it's happening, right?
+Socket is is investigating an active NPM
+supply chain attack compromising
+hundreds of package in the NV ecosystem.
+>> They're investigating then you're you're
+already too late.
+>> ECharts for React, a widely used React
+wrapper for Apache ECharts with roughly
+1 million weekly downloads. Socket
+quickly detected the malicious published
+wave and classified the affected version
+unknown malware. The affected packages
+that include widely used NV package such
+that NVG2, G6, X6. Did you ever use any
+of those? I don't, but I think the
+biggest issue is that most people don't
+know what they use because if you
+install a package, it can include
+additional packages. Yeah. Oh yeah,
+yeah, because yeah, you install package
+and then it's a dependency of someone
+else, so you can't even track it, but
+it's yeah, you have the whole collection
+behind it. When you deploy, you also
+freeze the version. Well, not everybody
+does that. You can freeze the version,
+but if you use package one and that's
+the only one that you include and that
+includes additional other ones, it can
+still install the latest updates of the
+other ones even if you set the version
+to a version. Oh yeah, so the dependency
+is on latest version and you install
+always the same, but the dependency will
+be
+>> They will be the malicious ones and that
+that's the biggest issue, I think,
+because you don't know what the other
+ones are and you don't even care because
+you trust on your NPM package that it's
+correct. Yeah. And then it works. Isn't
+that the biggest issue that people trust
+the the code from other devs and just
+install it without looking, but it's way
+too much to research everything? Yeah,
+exactly. Like, welcome to open-source
+software. Yeah. You push you push
+something publicly, it's used by million
+of other people, and then you get [ __ ]
+because you forget your 2FA on your
+ex-girlfriend phone. People who are just
+doing vibe coding, they just accept
+everything. And the only test they do is
+when I click the button, does it do what
+I want it to do? Yeah, no, exactly. But
+also like, a vibe coder will not have an
+impact of a million-dollar company that
+in revenue is like set up, you know? I
+have seen some vibe coders who just say,
+"Okay, I want to have some software to
+manage my leads and my clients. Let me
+just vibe code it, deploy it on lovable,
+and just load in all my customer data."
+People are vibe coding really important
+[ __ ] and not thinking about security.
+Without Cloud Metos, we get like big
+hacks like this one on the NPM packages.
+I think you can call those the small
+ones if you see what's coming. Everybody
+was laughing about these. But what if if
+Cloud Metos can find it and disguise it
+so that the firewall doesn't find it or
+the security check. So, there is no ping
+to a dev on, "Hey, something weird
+happened here." It just is done as
+separate functions that just control it
+together. Yeah. I mean That makes it
+really hard. And it's the same thing
+like we had the the attacks last week
+where they faked the credential where
+they faked the The cache The cache
+poisoning, right? Yeah, people didn't
+see it. Or they And then they come onto
+a desktop and they try to fake like like
+the security and everything so that your
+device trusts the new update. Yeah, then
+you are already too late. Yeah, and then
+you update to the new the new version,
+but it's already cracked, too.
+>> Yeah, it it uses the certificates that
+the application normally uses as well.
+So, it's all looks legit. It's crazy.
+Yeah, but does this mean that security
+is going to be the next multi-billion
+dollar market for every dev? For sure.
+Security is hard and everyone will have
+access to security skills with a smart
+model. So Yeah, but not everybody uses
+how to know it. You can give everybody
+tools, but they don't know how to build
+the house. But do you need to know
+security issues to use code to prompt an
+attack a domain name that have been vibe
+coded by 6 years old? That is going to
+code before coding. No, no,
+no. Not by vibe coded applications.
+Those should be easy. So, yeah. And then
+you can vibe code like a stripe like up
+and then you code a stripe code. Even
+vibe coders even don't add the
+functionality to to add a security
+against brute force or something. So,
+they don't think about it. They just
+vibe code and say, "I need a new login."
+You don't think about it because you
+don't know about it. So
+>> Yeah, that's the issue. More people
+[snorts] are building stuff. More people
+are vibe coding stuff and the models are
+getting smarter to have to to run
+security pen test and all everything
+that's what we paid like 5 years ago
+some security firm to check the our
+infrastructure for 15 grand, right?
+Everyone can can create a new business
+that will be yeah, you will charge like
+500 bucks a month and you can monitor
+security stuff. Where there is money to
+be made, there is like more people to
+try to do it, right? Yeah. I just think
+security is going to be a bigger and
+bigger part of coding. Behind the scenes
+hardening Firefox with clone meters. If
+we have browser issues directly, that's
+going to be fun, too. I think most of
+the people won't even know that there
+are issues at the moment. Yeah. But
+there probably are.
+A 15 years old bug in the legend element
+triggered by meticulous orchestration of
+HKS across distant parts and parts of
+the browser including weak weaker
+recursions stack depth limit expando
+properties and cycle collection. Like,
+okay, cool. A raw non-crossing an IPC
+boundary can masquerade as a tagged GS
+object pointer. Cool. How do you find
+those bugs? That's why you have metas,
+but that's also if they didn't find the
+bugs for 15 years. If we didn't have AI
+and found a double check up front, then
+everybody switches. Not exactly. Yeah,
+again, like if the whole the big
+providers have access to the model like
+3 months before the public, then the
+race is like it's okay, right? Yeah,
+they will make sure that a lot of bugs
+and issues are solved before it even
+reaches us. Yeah. Oh. And they have to.
+That's the That's their income. I've
+reached the point where I no longer
+wants to download anything from anywhere
+due to the fear of contamination of
+everything. Yeah, it's crazy. That's I
+think that's the point of a lot of where
+a lot of developer are right now. Yeah.
+And with bugs before you and and
+security issues, you need to download it
+first and on execution, you get the
+issue. So, you can scan it, but this is
+during the installation. This is This is
+a bigger issue. Sounds like, you know,
+like in crypto when when you we have
+when we had like some new stuff to try
+on new tools, etc. If it was a download,
+you don't you just don't do it. No. A
+lot of YouTubers are getting attacked
+like that. They download the PDF and
+then they get [ __ ] right?
+>> Yeah, yeah, there was a script in the
+PDF. We are here with devs. Yeah, and
+still it's impossible to check
+everything. Yeah. Yeah, exactly. Yeah,
+how do you install like, for example,
+Ship Codes? Are you going to run like a
+brew install Ship Codes, which is like a
+I ID slash a
+project management tool for AI and then
+I think yeah, it's a thing. Argentic
+orchestrator? Yes. An orchestrator? And
+I'm going to install that on my computer
+and maybe the bundle is corrupted. Well,
+the only thing I can do is I still have
+my Mac mini here that's that's clean. I
+just use it for testing. That's it.
+>> Are you going to test every component in
+a Docker container then?
+>> No, but if that's needed and that's the
+only thing to keep it secure, how many
+choices do you have? Exactly. I hate
+Docker on local because it's taking like
+40 GB for a [ __ ] one container. Yes.
+Then we are going to do local host dev
+in the cloud. Yeah, or just a a big
+server at your own place. Yeah. Yeah.
+And we are going back to hardware. I'm
+really sure that a lot of companies are
+going back to locally hosted servers in
+their own offices with a big firewall in
+front of it. And the only way to get in
+is VPN. Yeah. Yeah, but then you you
+will have like AWS instances and then
+all of you dev will connect to those
+instances. I don't know how that works
+in like a big company like if they have
+There is basically like a your computer
+is just like What was the computer like
+the Google the the the one 100% in the
+cloud? Yeah, the Chromebooks. Yeah, the
+Chromebook. Everything would be a
+Chromebook that's connected to your
+internal server and you code on that and
+all of the agent are running on that
+blah blah blah and you just broke
+because you don't need resources
+anymore. Yeah, but that's the same that
+what they did with the thin clients,
+right? The the smaller PCs and you just
+use Windows to log into an external
+computer and you work in the external
+computer. That's it. A virtual desktop.
+I like that. And [ __ ] maybe I should do
+that for myself. So, when do you expect
+the next one? We have the NPM packages
+today, so tomorrow morning we will have
+the next big one.
+>> Oh, yeah. Yeah. Yeah.
+You can have You can have like the
+socket accounts notification on and they
+will tweet. You will wake up to 50
+tweets. Yeah, they will they will they
+will tweet again. Yeah. Maybe maybe we
+should all like follow and subscribe to
+them for sure because it's not the last
+one. But then the other question, eh?
+Everybody was also talking about Slash
+code going to bed, waking up the next
+morning and your code base was updated
+fully with everything and it was working
+while you're sleeping. Do you even trust
+that with all these hacks? Yeah, man.
+It's It's a strange world, but we're
+still trying to figure it out anyway,
+right? Yes. What do you think? I think
+we just keep on going because we are
+secure so far and we are doing proper
+checks. We have proper setups. We don't
+just push everything. So, it's about
+knowing what you're doing as well and
+not just five coding. Yeah, we probably
+like minorly we are probably like
+injected some security vulnerabilities
+and we we are not aware of it. Yeah.
+Well, they will get fixed eventually.
+Yeah. Inshallah.
+>> Thank you, Michelle. Thank you for your
+comments. I don't know if you're still
+here, but if you're still here, thank
+you for watching and for the watch
+hours. Thank you. And yeah, Michelle,
+enjoy the rest of your day. Thank you.
+Same for you. Everyone else, subscribe,
+comment, help us with the algo the
+algorithm cuz uh we need subscribers.
+So, let's go. Bye.
+Enjoy your day.

@@ -1,0 +1,111 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+You see a lot of people saying if my company went bankrupt and I needed 100k at the end of the month,
+this is what I would do and they come with these incredible ideas where AI can just optimize your
+entire CEO, create pages where it can automatically email, where it can find you leads for new
+websites or whatever. So I thought I named it King and King is going to be a king in lead generation
+and getting me projects so I can make money. Do you want to know about Rockbot? Watch this
+video because it's gonna be gold. So on August 11th, Rockbot launched. It's basically an open
+clue that works. Yeah and the entire cursor team was posting about it saying that it was doing
+everything for them. It is cool and it works. I tested it and it even made me a summary this
+morning but then again I had a meeting and I told that you need to give me an update at 9am on how
+late I need to leave and then it started working at 9am so the update came a bit later and it gave
+me a time and it said yeah you needed to leave five minutes ago. Okay so do you code with it?
+No. From it? No, no I use it as a PA. Do you code with it? No, I try. Basically what I do,
+I set up as a company like all the time when I start those, I try those agents like agentic
+workflow stuff. So I hire a CEO, CTO, marketing officer, blah blah blah and then I see how they
+interact between each other which is like honestly the agent to agent conversation.
+That's a pretty nice feature. It's pretty well executed right? As you can see yeah chief of
+staff for example like chief of staff talk to inbox manager or sales inbound whatever
+and gave them a couple of months and that would be that could be really powerful.
+That's cool to see you did a different setup than I did. So all of those are French name because I
+came. Chief of staff basically that's my main bot and yeah like I basically talk mainly to this one
+and he hire the other agents when there is a new need and stuff. QA engineers which I like a lot
+because it's that's the main feature that I use it's testing and like the app I work on directly
+from production. Yeah so basically the Grok bot has its own VM that it spins up and everything
+it does it does it in the VM. Exactly and you have one computer for your account and all of
+the agents that you have it's a new virtual desktop. Yes each one has a virtual machine.
+Exactly. Well if you get an error in your system or a notification something went wrong you can
+push it to the bot. Yes. And it will check it and it will create a GitHub issue. That's exactly that
+what happened here I'm testing the feed agent and I'm trying to break it so it was really fast to
+break it it just like generate one image a simple red apple on the whiteboard and then first error
+boom let's go but that was automated so now I can deploy production get the QA engineer will be
+notified and try again same request click on retry whatever send a new request see if it breaks
+create monitor the sentry errors fix it right away this is this is huge yeah all of those agents are
+linked and I like I discovered that you can create like folders there do you would you create one
+project or having like one CTO that code in every repo. Well I start a project base because I don't
+want it to do everything a few projects I don't want them to to check and to make sure that they
+do nothing with the emails or whatever yeah always a box so I made a project manager for each project
+and said only stuff related to this project can be handled otherwise nothing. What do you think
+about the UX UI like here because it's raw it's really raw it's really but it's really out of the
+box and when you compare that to grok or every like other interface when you have those two girls
+like you assign a project you assign a folder you assign cloud VM whatever and you have that which
+one is better well it depends what you want of it in the in the ones where you have your folders
+and your guardrails and everything you decide on what you want to do but here you drop a task
+and it just fixes it and it doesn't matter how it does it yeah so you need to trust that's working
+properly and you do the same thing when you have a PA hired just a real person you give it give him
+or her a task and you get a result later and this bot is doing the exact same thing like yeah you
+you learn how to delegate more to the little yeah and then what you can do if you open the
+the Linux virtual machine the VM you can record one of your routines and it will do it the exact
+same way every day as you do it you can teach a task and if you click it here record yourself
+doing a task and curie learns the steps and can run them again on its own holy shit so you just
+need to show it how you do it and i think it it is like excel macros you remember you do in excel
+you click here you click there and the excel macro repeats exactly your steps and does it over and
+over again this is the exact same thing okay so i could even queue the app record it say oh this
+is why click click click and then noise so if you spend some time you can teach it what it needs to
+do and it has routines and everything okay that's nice now we have a demo from you right yeah yeah
+i think we can do some testing with the grog bot yes let's do that i was checking and you see a
+lot of people saying if my company went bankrupt and i needed 100k at the end of the month
+this is what i would do and they come with these incredible ideas where ai can just optimize your
+entire ceo create pages where it can automatically email where it can find your leads for new
+websites or whatever so i thought i named it king and king is going to be a king in lead generation
+and getting me projects as well i can make money so what i want to do i wanted to research the
+internet and here in the inner netherlands around eindhoven found me three of your companies every
+day uh that don't have a proper website or need a new website well we think that we can improve it
+um then we use grog builds to build a website and king is actually going to email those people
+and do the first responses so you're my sales personal assistant for an english youtube live
+stream so you see it already gave it some information i told it that we have 30 minutes
+so i gave you two to three minutes maximum for task well that is just for now but normally you
+need to have it work a little bit longer and i want to find small companies in or around eindhoven
+that have two to eight people no multinationals no chains that need a new website target five if
+it's instant one is enough just for the demo right now and i had grog do some research for companies
+that have money but don't have a website and it said well if you have plumbing electrical uh
+people um those are like engineers who don't know how to build a website they have money because
+they have a high hourly rate but they want to don't want to do anything i wanted it to go to
+google and to actually search read this on camera oh that's cool here in the top right you see it's
+yeah so it actually told me right now what i need to read to you so see you are a meat puppet bro
+yeah yeah i i don't have a choice but uh site on my screen does the insulasty technique in valto over
+so it's insulation technical people one person shop inside logo two links so man that's good okay
+and then it says i found one and you can see here in the vm it actually started google and it went
+searching for something and i can use it as well but yeah this is exactly the customer that i want
+they have a website and we can just try to improve it it's public so build me a prompt that i can go
+ahead and put a new website yeah so build me a prompt that i can put into grog build to create
+a new website for this one yeah yeah whatever that will do yeah so it will create a prompt and
+everybody knows that with prompt i can just put it in it generates a website i did one for another
+one but here it is and then like you connect to resend and then you have the whole pipe to send
+emails and drop down yeah can you send emails as well uh with a proper proposal to the lead that
+you just found i'm going a bit fast through it right now but now it should ask me if it can log
+into my email so and it gives me the option for outlook gmail and yeah whatever i want so it says
+i can now we're not sending the email but this is actually smart because when i did like examples
+before it would just ask me to log in and to just send it in one prompt you find the lead that uh
+you just need to find one thousand and then you have some passive revenue right so what you want
+to do next is can you create a routine from this and schedule it daily so me doing this after five
+or ten emails i am out i need to create a website so it will take just too much time and if you only
+get like one or two customers it's not enough income but if you can have the pod do this
+automatically then it will just keep on creating leads and then customers and you can ask for
+references and it is like a real business that you're building see and now this is the routine
+you can also deactivate it you can test run it and it created the description what it needs to do
+which is basically your prompt and like that's gonna yeah that's my entire example and it just
+does it on weekdays at 8 56 a.m and you will also have a full history so basically this is the bot
+big rock but we just gave one example but whatever you can imagine now why you need a repair or a
+task that's going to keep on repeating even if it's boring as hell just have to bug do it i mean
+and you can do exactly that for every app on earth and you can even like do lead gen for apps that
+have a referral affiliate the discount i think that's a nice demo main yeah and i think we can
+wrap it up on that right like basically last week was a good week we had a fantastic model then we
+have nice tool to play with and to start over like 10 000 new business or at least one where you can
+make websites to or company that's need the better one yeah start a selling machine exactly yeah
+finally yeah thank you mitchell and thank you for your time and your demo like that was great
+and we will see you same place same time and like subscribe follow us on linkedin
+twitter we're gonna be everywhere yes bye

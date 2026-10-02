@@ -1,0 +1,19 @@
+I did a full set up for a new project with AI and it took me like a lot of
+hours to get everything planned after planning and did this, did this.
+And I said, yeah, I'm not happy.
+I want to do this, this, and this before we proceed to the next step.
+So after I think three or four hours, we were done planning
+and that's a lot of time.
+So the first thing I did, I asked it to write down a full prompt to
+explain AI next time, how I want to do the planning exactly in this style.
+So now my second project, I just put in the MD file.
+I say, read this.
+This is how I want to do the planning.
+Okay.
+Do we start?
+And then it just starts interviewing me.
+What do we need?
+Well, how do we do this?
+And what does this set up?
+What server are we using?
+Et cetera.

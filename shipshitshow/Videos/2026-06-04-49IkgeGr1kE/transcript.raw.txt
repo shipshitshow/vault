@@ -1,0 +1,342 @@
+But this is cool. You have actually a
+working game already.
+>> Opus 4.8 dropped last week. We are using
+every day like we are addicted to it and
+it's kind of fun to play with it. Is it
+the best model ever created? We are
+going to check that in this video right
+now. Subscribe like the video and share
+it to your friend because they need to
+watch us. I want to build an FPS arena
+like it's it should be like a first
+person shooter game to demo 4.8. Okay.
+Ajon demo. No, I want to do the FPS
+first. So, I have the prompt ready. So,
+nothing have been set up. It's just
+going to go like end from scratch. Just
+going to take that the FPS arena build
+FPS arena end to end a playable browser
+firsterson shooter arena with React
+TypeScript and VIT whatever whatever and
+3GS 3GS pointer blah blah blah.
+>> Okay. What effort do you have enabled
+right now? [clears throat] And we are
+going to do that with max. So that
+should be ultra mode, right?
+>> Yeah. Well, I I never I always do it in
+terminal. But
+>> yes,
+>> instead of the prompt, if you do
+slasheffort, does it show you the to do
+the selection as well?
+>> No, because the effort is in the to
+right. Yes. So I don't have the the is
+max ultra mode for sure response but
+takes longer. Okay, let me check if I
+should use the the terminal instead of
+and we won't. Okay, so Max was not even
+>> Yeah, Max was rainbow
+>> and boom.
+>> Nice.
+See, and here it says it's XI plus a
+dynamic.
+>> Yes.
+>> Overflow orchestration.
+>> Nice.
+>> Oh, workflow orchestration.
+>> Okay, back. Am I? No, I mean F. Let's go
+back to Dragon Ball Z. Back.
+Okay. So,
+uh FB FPS arena blah blah blah. Okay.
+So, let's see what it goes. Um so, like
+you can do that all the time.
+Dev Dev server live at local host. Let's
+go.
+>> Okay. Share it.
+>> Window FPS arena.
+Okay.
+So, move, fire, left click. Okay. All
+for auto jump, reload. Okay.
+>> Oh,
+but this is cool. You have actually a
+working game already.
+>> Jesus.
+Oh, there was a bug. He walked right
+through the pillar.
+>> Yeah, there is no collision yet.
+>> but maybe we can fix that. Score kills
+enemies.
+>> Yeah, it it counts it all.
+>> That's crazy. That's kind of cool.
+And see there is the lights effect. Oh,
+no. Okay. It's the when the when it
+dies.
+But this is like before people used to
+code on something like Juke Nug or
+whatever like or Quake.
+>> Yeah.
+>> Forever and now you have it in a few
+minutes.
+>> And there is like ammunition too. You
+don't see it but I have the counter of
+ammunition
+like the amos.
+I can reloading.
+That's nuts.
+Okay. 15 second. Okay. What? What? Okay.
+Game over. I died.
+>> Do you also have a scoreboard right now?
+>> Score.
+No.
+>> No.
+>> Pause. There is a pause.
+Health
+and ammunition.
+And I can reload. And it's reloading.
+Mhm. [clears throat] Boom.
+That's kind of sick, man. In [snorts] 18
+minutes, we have something that works.
+That's cool. And now it's just
+optimizing.
+>> Yeah.
+>> Make this better. Make this better. Give
+me an option to swap guns or whatever.
+>> Add a reloading animation.
+Time out. FPS verify. Verify
+point locker error gun. Okay. Okay. Uh
+scene is non blank. A truly blank canva.
+Yellow. Okay. Whatever. The arena render
+beautifully. floor grind and with death
+glowing tire wall blah blah blah. This
+is exactly right. The first screen is
+the game and in game start over with
+control click to play blah blah blah.
+>> So this is actually what they said that
+Opus 4.8 they would do. You give it a
+prompt and it decides on each subtask.
+>> Oh yeah. Oh yeah. Yeah. Like the user
+added new requirement made task. So it's
+it was not even done. My verification
+baseline is green then implement all of
+the new features.
+It doesn't before it would just start
+coding or whatever you ask and now I
+said no no no we can start we need to do
+some checks first make sure that all
+works and then we can proceed.
+>> I like that.
+>> Yeah that that makes it look so much
+better
+and it's even managing. Yeah I I I saw
+that before with like 4.7 but like yeah
+nesting almost done thinking with XI
+effort so it during the task it's also
+able to change the effort.
+>> Yeah. So this now we are happy with Opus
+4.8, right? This is a good result.
+>> I mean that's definitely impressive.
+But should we wait a bit again? I we
+could build mobile games.
+>> Yeah. Yeah. Yeah. This is something you
+could play on mobile.
+>> It's building. It's building everything.
+Checking if there is any errors. Reload
+bar. Reload bar. Banner. That looks like
+Okay. Boss boss bar wraps. [laughter]
+If that works, that's going to be sick.
+>> Oh, you have the laser beam.
+>> I think we had it before.
+>> And you have your And now we can see
+your health bar and your uh
+>> Yes, but because I resized the WL.
+>> Oh, that's cool.
+>> There is animation. Oh, there is.
+>> Yeah, for reloading.
+>> Okay, wait. I want the collisions. Check
+>> here. See, it walks around. that can't
+go through anymore.
+>> Okay. Okay. Okay. We have to
+That's so [ __ ] cool.
+>> Okay. We're almost at the boss.
+>> Yes.
+>> Yeah.
+>> Two left.
+One left.
+>> We We should have bonus and new weapons,
+too. Bro, we are building a a game.
+Oh, it's a bigger one.
+>> Okay, just a bigger one. Yeah,
+>> bro. That's sick.
+>> Now, the question is, does it do more
+damage as well?
+>> Oh, yeah, it does. [laughter]
+>> That's so
+>> Oh, you're out of time.
+>> No. No. Oh, did I? No.
+>> Yeah. Yeah. No. Oh, it reset it because
+you
+>> Okay. Okay. Okay. Okay. Okay. Okay. Bro,
+I want to continue this game. This is
+sick.
+>> This is cool.
+>> Update value. So, the change is live yet
+the boss still render brown. What?
+The pixel is identical to the boss body.
+Okay. Okay. Okay. So, and
+give me upgrades, new weapons that I can
+drop. And I can pick up after I kill mob
+and make the mob fire back.
+Upgrade. Oh,
+French accent.
+Uh, upgrading.
+>> If you did too much friends accent if I
+give it like a French mustache.
+>> Yeah. [laughter]
+>> Give me upgrades.
+nes
+new weapon
+that I can pick up after kill the mob
+and make make the mobs
+fire back
+and add some skills for the boss
+shield
+faster
+movement movement etc. Uh, the boss
+Norander has a clear maning bright red
+giant with glowing eyes, its own
+floating hers. Okay, so we already had
+that.
+>> Yeah, we already had a test harness
+artifact prefilled the magazine. What?
+One check regressed, bro. It's It's
+That's cool because the full testing the
+full pipeline
+and it's been 40 minutes already. [ __ ]
+>> Mhm.
+>> Okay. Time goes fast when you're having
+fun.
+>> Yeah.
+>> Pick up health, ammo, damage, pick up
+produce,
+enemy range, blah blah blah. Boss shield
+duration and rage.
+>> Oh, you you make it bad.
+>> Projectile damage, projectile speed,
+barrage count, bar. What? Barrage
+spread. What's barrage? Toast. Small
+transient toast for pickup. Shotgun.
+Let's go. Okay, we need to test that.
+We're not We're not We're not
+>> That's a finale.
+>> That's exactly. Okay, I'm going to stop
+the other apps because I want my weekly.
+>> Yeah. Yeah. You want to make sure that
+this can be finished.
+>> Yeah. Replace. Okay. That's kind of
+interesting though because
+confirm refuted. So, it refused
+some binding and fixes.
+It's It looks like ship code but
+integrated to the CLA. Replace FPS
+arena. Bam. I'm going to give you
+move. Look. Okay. Switch weapon. Switch
+weapon. Okay. We have the weapon.
+>> Mhm.
+>> One, two, three, four. Okay.
+So,
+okay. I don't have weapons.
+Oh,
+>> shotgun. Okay.
+>> And double damage.
+>> Okay. Where is the rifle? Rifle.
+Shotgun. It's a
+>> Okay. That's cool.
+>> Weapon, but
+Oh, they fired. They fire back.
+>> Yeah. Yeah. Yeah. Oh, and it Oh, you're
+adding health.
+>> Yeah.
+>> You need to get closer for your shotgun.
+>> SMG. SMG SMG SMG SMG2
+Okay, it's changed the colors of the
+>> of the top of your gun.
+>> Yeah. Okay,
+>> that's a cannon.
+>> Cannon. Cannon.
+I need
+Okay. Okay. That's getting That's
+getting crazy.
+I should have had music. [ __ ]
+[laughter]
+I don't like the cannon too. Okay.
+Health buff rifle SMG
+and [clears throat] see like the damage
+is less.
+>> Yeah. Yeah.
+>> But it's faster. No, it's lit, bro.
+Can we do that? Could we have done that
+before? I have never tried it, but I
+know that game studios doing this setup,
+it takes them a few days to do it
+properly.
+>> I think.
+>> Yeah.
+>> Like with 3GS?
+>> No, without AI.
+>> Oh, yeah. No, but I mean like Yeah. It's
+not It's not clear obscure neither,
+right? Like,
+>> okay, let's see how good the end is.
+>> The boss. The boss. The boss.
+>> Not the shotgun. That's too far away.
+>> Yeah. Yeah. Yeah. And it's managed by
+that.
+He has a
+>> Oh, he has the shield
+>> cannon. Cannon is lit.
+[snorts]
+[laughter]
+>> More. My god, that's lit. Okay, but
+Okay, so the shield is if I'm too close.
+>> Yeah, the shield kicks in.
+>> I'm gonna die. I'm gonna die.
+>> Almost. Almost.
+Okay, I can use that. Wait, I got it.
+Yes.
+>> Oh, that was cool.
+>> That's
+amazing. I had fun, bro.
+>> I would say that was a successful test.
+>> Yes, that was lit. 4.8. Yeah, 4.8 is
+lit.
+>> Yes, we like it. So, the question is,
+are you going to create full-time
+Minecraft games?
+>> I don't have time, man. I don't have
+time.
+But it could be a a real option.
+>> Mitch, thank you so much for your time.
+>> Yeah, thank you for using your tokens
+for us.
+>> Yes, my pleasure. I will post this the
+code
+to to the GitHub like the YouTube
+channel repository.
+>> Yeah, push the game as well so people
+can modify it.
+>> We could we could even like add more Oh,
+we could work with it with codeex.
+>> Mhm. and [clears throat] add
+multiplayers and stuff like that. If we
+can use room and then a score scoreboard
+blah blah blah, that would be
+>> that would be sick. Yeah.
+>> Okay. Okay. Okay. Let's talk about it.
+Let's talk about it.
+>> Yes.
+>> Thank you so much for your time,
+everyone. Uh thank you for watching the
+video. Like, subscribe, and we will see
+you next week.
+>> Have a nice evening, a nice day.
+>> Bye. bye.

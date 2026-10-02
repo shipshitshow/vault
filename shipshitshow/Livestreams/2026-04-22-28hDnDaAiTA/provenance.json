@@ -1,0 +1,12 @@
+{
+  "youtube_id": "28hDnDaAiTA",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "a1e9e04bbfffbc38b240f4419741f05843e85cf0f7cd405159a4ba10505810b9",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-04-22-video-openai-chatgpt-images-2-0-is-insanely-good.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

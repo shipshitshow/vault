@@ -1,0 +1,76 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,960"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3960
+      },
+      "text": " First of all, when are we going to see people who post online?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,960",
+        "to": "00:00:09,120"
+      },
+      "offsets": {
+        "from": 3960,
+        "to": 9120
+      },
+      "text": " I'm looking for a husband from outside the US and my benefit is I can give you CloudFable."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,120",
+        "to": "00:00:11,680"
+      },
+      "offsets": {
+        "from": 9120,
+        "to": 11680
+      },
+      "text": " That's good, bro. That's the next Tinder."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,680",
+        "to": "00:00:15,960"
+      },
+      "offsets": {
+        "from": 11680,
+        "to": 15960
+      },
+      "text": " Yeah, you need to pay a lot, but you get CloudFable."
+    }
+  ]
+}

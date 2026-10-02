@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,740"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4740
+      },
+      "text": " The cost of writing code is zero and you can ship fast."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,740",
+        "to": "00:00:09,260"
+      },
+      "offsets": {
+        "from": 4740,
+        "to": 9260
+      },
+      "text": " What's the point of reviewing codes that you can instantly fix anyway?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,260",
+        "to": "00:00:14,240"
+      },
+      "offsets": {
+        "from": 9260,
+        "to": 14240
+      },
+      "text": " The only thing is, there is a difference in reviewing between having a bug and not working"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,240",
+        "to": "00:00:16,600"
+      },
+      "offsets": {
+        "from": 14240,
+        "to": 16600
+      },
+      "text": " and having it working but being insecure."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,600",
+        "to": "00:00:24,360"
+      },
+      "offsets": {
+        "from": 16600,
+        "to": 24360
+      },
+      "text": " Yes, but at some point the models will also be able to write better code than any found engineers."
+    }
+  ]
+}

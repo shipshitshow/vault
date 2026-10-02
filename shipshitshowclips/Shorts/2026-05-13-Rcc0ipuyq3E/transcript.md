@@ -1,0 +1,10 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+Official release workflow later pulled from the cache, backed the malicious file into
+the build, and signed and published 24 malicious package versions.
+Yeah, the attack leveraged GitHub cache poisoning.
+For me, that started, the chain was forged under the identity code.
+In personating anthropic code, the attacker used known durabilities.
+Wait, it was known?

@@ -1,0 +1,98 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,120"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4120
+      },
+      "text": " Official release workflow later pulled from the cache, backed the malicious file into"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,120",
+        "to": "00:00:08,480"
+      },
+      "offsets": {
+        "from": 4120,
+        "to": 8480
+      },
+      "text": " the build, and signed and published 24 malicious package versions."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,480",
+        "to": "00:00:11,680"
+      },
+      "offsets": {
+        "from": 8480,
+        "to": 11680
+      },
+      "text": " Yeah, the attack leveraged GitHub cache poisoning."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,680",
+        "to": "00:00:15,440"
+      },
+      "offsets": {
+        "from": 11680,
+        "to": 15440
+      },
+      "text": " For me, that started, the chain was forged under the identity code."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,440",
+        "to": "00:00:18,760"
+      },
+      "offsets": {
+        "from": 15440,
+        "to": 18760
+      },
+      "text": " In personating anthropic code, the attacker used known durabilities."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,760",
+        "to": "00:00:20,560"
+      },
+      "offsets": {
+        "from": 18760,
+        "to": 20560
+      },
+      "text": " Wait, it was known?"
+    }
+  ]
+}

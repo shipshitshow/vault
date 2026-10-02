@@ -1,0 +1,109 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,660"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3660
+      },
+      "text": " As soon as you set it up and you see, oh, I'm deploying six agents, then it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,660",
+        "to": "00:00:10,600"
+      },
+      "offsets": {
+        "from": 3660,
+        "to": 10600
+      },
+      "text": " deploying 12, then it goes to 48 and before 200 agents, each one taking your"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,600",
+        "to": "00:00:12,600"
+      },
+      "offsets": {
+        "from": 10600,
+        "to": 12600
+      },
+      "text": " money, saying, thank you and running away."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,940",
+        "to": "00:00:13,700"
+      },
+      "offsets": {
+        "from": 12940,
+        "to": 13700
+      },
+      "text": " Yeah, exactly."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,900",
+        "to": "00:00:16,580"
+      },
+      "offsets": {
+        "from": 13900,
+        "to": 16580
+      },
+      "text": " But at least the task is done some more."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,220",
+        "to": "00:00:17,660"
+      },
+      "offsets": {
+        "from": 17220,
+        "to": 17660
+      },
+      "text": " Maybe."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,220",
+        "to": "00:00:18,540"
+      },
+      "offsets": {
+        "from": 18220,
+        "to": 18540
+      },
+      "text": " Yeah."
+    }
+  ]
+}

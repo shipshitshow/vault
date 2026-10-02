@@ -1,0 +1,1209 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,680"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5680
+      },
+      "text": " You see a lot of people saying if my company went bankrupt and I needed 100k at the end of the month,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,680",
+        "to": "00:00:11,280"
+      },
+      "offsets": {
+        "from": 5680,
+        "to": 11280
+      },
+      "text": " this is what I would do and they come with these incredible ideas where AI can just optimize your"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,280",
+        "to": "00:00:17,680"
+      },
+      "offsets": {
+        "from": 11280,
+        "to": 17680
+      },
+      "text": " entire CEO, create pages where it can automatically email, where it can find you leads for new"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,680",
+        "to": "00:00:23,920"
+      },
+      "offsets": {
+        "from": 17680,
+        "to": 23920
+      },
+      "text": " websites or whatever. So I thought I named it King and King is going to be a king in lead generation"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,920",
+        "to": "00:00:28,960"
+      },
+      "offsets": {
+        "from": 23920,
+        "to": 28960
+      },
+      "text": " and getting me projects so I can make money. Do you want to know about Rockbot? Watch this"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:28,960",
+        "to": "00:00:36,080"
+      },
+      "offsets": {
+        "from": 28960,
+        "to": 36080
+      },
+      "text": " video because it's gonna be gold. So on August 11th, Rockbot launched. It's basically an open"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:36,080",
+        "to": "00:00:42,000"
+      },
+      "offsets": {
+        "from": 36080,
+        "to": 42000
+      },
+      "text": " clue that works. Yeah and the entire cursor team was posting about it saying that it was doing"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:42,000",
+        "to": "00:00:46,720"
+      },
+      "offsets": {
+        "from": 42000,
+        "to": 46720
+      },
+      "text": " everything for them. It is cool and it works. I tested it and it even made me a summary this"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:46,720",
+        "to": "00:00:54,080"
+      },
+      "offsets": {
+        "from": 46720,
+        "to": 54080
+      },
+      "text": " morning but then again I had a meeting and I told that you need to give me an update at 9am on how"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:54,080",
+        "to": "00:01:01,040"
+      },
+      "offsets": {
+        "from": 54080,
+        "to": 61040
+      },
+      "text": " late I need to leave and then it started working at 9am so the update came a bit later and it gave"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:01,040",
+        "to": "00:01:05,920"
+      },
+      "offsets": {
+        "from": 61040,
+        "to": 65920
+      },
+      "text": " me a time and it said yeah you needed to leave five minutes ago. Okay so do you code with it?"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:05,920",
+        "to": "00:01:12,160"
+      },
+      "offsets": {
+        "from": 65920,
+        "to": 72160
+      },
+      "text": " No. From it? No, no I use it as a PA. Do you code with it? No, I try. Basically what I do,"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:12,160",
+        "to": "00:01:20,000"
+      },
+      "offsets": {
+        "from": 72160,
+        "to": 80000
+      },
+      "text": " I set up as a company like all the time when I start those, I try those agents like agentic"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:20,000",
+        "to": "00:01:27,680"
+      },
+      "offsets": {
+        "from": 80000,
+        "to": 87680
+      },
+      "text": " workflow stuff. So I hire a CEO, CTO, marketing officer, blah blah blah and then I see how they"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:28,720",
+        "to": "00:01:33,120"
+      },
+      "offsets": {
+        "from": 88720,
+        "to": 93120
+      },
+      "text": " interact between each other which is like honestly the agent to agent conversation."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:33,120",
+        "to": "00:01:39,200"
+      },
+      "offsets": {
+        "from": 93120,
+        "to": 99200
+      },
+      "text": " That's a pretty nice feature. It's pretty well executed right? As you can see yeah chief of"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:39,200",
+        "to": "00:01:44,960"
+      },
+      "offsets": {
+        "from": 99200,
+        "to": 104960
+      },
+      "text": " staff for example like chief of staff talk to inbox manager or sales inbound whatever"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:44,960",
+        "to": "00:01:49,360"
+      },
+      "offsets": {
+        "from": 104960,
+        "to": 109360
+      },
+      "text": " and gave them a couple of months and that would be that could be really powerful."
+    },
+    {
+      "timestamps": {
+        "from": "00:01:49,360",
+        "to": "00:01:55,200"
+      },
+      "offsets": {
+        "from": 109360,
+        "to": 115200
+      },
+      "text": " That's cool to see you did a different setup than I did. So all of those are French name because I"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:55,200",
+        "to": "00:02:03,440"
+      },
+      "offsets": {
+        "from": 115200,
+        "to": 123440
+      },
+      "text": " came. Chief of staff basically that's my main bot and yeah like I basically talk mainly to this one"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:03,440",
+        "to": "00:02:10,560"
+      },
+      "offsets": {
+        "from": 123440,
+        "to": 130560
+      },
+      "text": " and he hire the other agents when there is a new need and stuff. QA engineers which I like a lot"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:10,560",
+        "to": "00:02:18,000"
+      },
+      "offsets": {
+        "from": 130560,
+        "to": 138000
+      },
+      "text": " because it's that's the main feature that I use it's testing and like the app I work on directly"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:18,000",
+        "to": "00:02:24,400"
+      },
+      "offsets": {
+        "from": 138000,
+        "to": 144400
+      },
+      "text": " from production. Yeah so basically the Grok bot has its own VM that it spins up and everything"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:24,400",
+        "to": "00:02:31,680"
+      },
+      "offsets": {
+        "from": 144400,
+        "to": 151680
+      },
+      "text": " it does it does it in the VM. Exactly and you have one computer for your account and all of"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:31,680",
+        "to": "00:02:37,360"
+      },
+      "offsets": {
+        "from": 151680,
+        "to": 157360
+      },
+      "text": " the agents that you have it's a new virtual desktop. Yes each one has a virtual machine."
+    },
+    {
+      "timestamps": {
+        "from": "00:02:37,360",
+        "to": "00:02:43,200"
+      },
+      "offsets": {
+        "from": 157360,
+        "to": 163200
+      },
+      "text": " Exactly. Well if you get an error in your system or a notification something went wrong you can"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:43,200",
+        "to": "00:02:48,480"
+      },
+      "offsets": {
+        "from": 163200,
+        "to": 168480
+      },
+      "text": " push it to the bot. Yes. And it will check it and it will create a GitHub issue. That's exactly that"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:48,480",
+        "to": "00:02:54,480"
+      },
+      "offsets": {
+        "from": 168480,
+        "to": 174480
+      },
+      "text": " what happened here I'm testing the feed agent and I'm trying to break it so it was really fast to"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:54,480",
+        "to": "00:02:59,600"
+      },
+      "offsets": {
+        "from": 174480,
+        "to": 179600
+      },
+      "text": " break it it just like generate one image a simple red apple on the whiteboard and then first error"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:59,600",
+        "to": "00:03:06,480"
+      },
+      "offsets": {
+        "from": 179600,
+        "to": 186480
+      },
+      "text": " boom let's go but that was automated so now I can deploy production get the QA engineer will be"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:06,480",
+        "to": "00:03:12,720"
+      },
+      "offsets": {
+        "from": 186480,
+        "to": 192720
+      },
+      "text": " notified and try again same request click on retry whatever send a new request see if it breaks"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:12,720",
+        "to": "00:03:18,960"
+      },
+      "offsets": {
+        "from": 192720,
+        "to": 198960
+      },
+      "text": " create monitor the sentry errors fix it right away this is this is huge yeah all of those agents are"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:18,960",
+        "to": "00:03:26,480"
+      },
+      "offsets": {
+        "from": 198960,
+        "to": 206480
+      },
+      "text": " linked and I like I discovered that you can create like folders there do you would you create one"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:26,480",
+        "to": "00:03:34,720"
+      },
+      "offsets": {
+        "from": 206480,
+        "to": 214720
+      },
+      "text": " project or having like one CTO that code in every repo. Well I start a project base because I don't"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:34,720",
+        "to": "00:03:41,840"
+      },
+      "offsets": {
+        "from": 214720,
+        "to": 221840
+      },
+      "text": " want it to do everything a few projects I don't want them to to check and to make sure that they"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:41,840",
+        "to": "00:03:47,200"
+      },
+      "offsets": {
+        "from": 221840,
+        "to": 227200
+      },
+      "text": " do nothing with the emails or whatever yeah always a box so I made a project manager for each project"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:47,200",
+        "to": "00:03:52,080"
+      },
+      "offsets": {
+        "from": 227200,
+        "to": 232080
+      },
+      "text": " and said only stuff related to this project can be handled otherwise nothing. What do you think"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:52,080",
+        "to": "00:03:57,280"
+      },
+      "offsets": {
+        "from": 232080,
+        "to": 237280
+      },
+      "text": " about the UX UI like here because it's raw it's really raw it's really but it's really out of the"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:57,280",
+        "to": "00:04:04,400"
+      },
+      "offsets": {
+        "from": 237280,
+        "to": 244400
+      },
+      "text": " box and when you compare that to grok or every like other interface when you have those two girls"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:04,400",
+        "to": "00:04:10,320"
+      },
+      "offsets": {
+        "from": 244400,
+        "to": 250320
+      },
+      "text": " like you assign a project you assign a folder you assign cloud VM whatever and you have that which"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:10,320",
+        "to": "00:04:14,720"
+      },
+      "offsets": {
+        "from": 250320,
+        "to": 254720
+      },
+      "text": " one is better well it depends what you want of it in the in the ones where you have your folders"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:14,720",
+        "to": "00:04:19,680"
+      },
+      "offsets": {
+        "from": 254720,
+        "to": 259680
+      },
+      "text": " and your guardrails and everything you decide on what you want to do but here you drop a task"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:19,680",
+        "to": "00:04:24,720"
+      },
+      "offsets": {
+        "from": 259680,
+        "to": 264720
+      },
+      "text": " and it just fixes it and it doesn't matter how it does it yeah so you need to trust that's working"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:24,720",
+        "to": "00:04:30,000"
+      },
+      "offsets": {
+        "from": 264720,
+        "to": 270000
+      },
+      "text": " properly and you do the same thing when you have a PA hired just a real person you give it give him"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:30,000",
+        "to": "00:04:35,840"
+      },
+      "offsets": {
+        "from": 270000,
+        "to": 275840
+      },
+      "text": " or her a task and you get a result later and this bot is doing the exact same thing like yeah you"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:35,840",
+        "to": "00:04:41,440"
+      },
+      "offsets": {
+        "from": 275840,
+        "to": 281440
+      },
+      "text": " you learn how to delegate more to the little yeah and then what you can do if you open the"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:41,440",
+        "to": "00:04:48,720"
+      },
+      "offsets": {
+        "from": 281440,
+        "to": 288720
+      },
+      "text": " the Linux virtual machine the VM you can record one of your routines and it will do it the exact"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:48,720",
+        "to": "00:04:54,880"
+      },
+      "offsets": {
+        "from": 288720,
+        "to": 294880
+      },
+      "text": " same way every day as you do it you can teach a task and if you click it here record yourself"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:54,880",
+        "to": "00:05:01,200"
+      },
+      "offsets": {
+        "from": 294880,
+        "to": 301200
+      },
+      "text": " doing a task and curie learns the steps and can run them again on its own holy shit so you just"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:01,200",
+        "to": "00:05:08,160"
+      },
+      "offsets": {
+        "from": 301200,
+        "to": 308160
+      },
+      "text": " need to show it how you do it and i think it it is like excel macros you remember you do in excel"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:08,160",
+        "to": "00:05:14,720"
+      },
+      "offsets": {
+        "from": 308160,
+        "to": 314720
+      },
+      "text": " you click here you click there and the excel macro repeats exactly your steps and does it over and"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:14,720",
+        "to": "00:05:20,720"
+      },
+      "offsets": {
+        "from": 314720,
+        "to": 320720
+      },
+      "text": " over again this is the exact same thing okay so i could even queue the app record it say oh this"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:20,720",
+        "to": "00:05:26,560"
+      },
+      "offsets": {
+        "from": 320720,
+        "to": 326560
+      },
+      "text": " is why click click click and then noise so if you spend some time you can teach it what it needs to"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:26,560",
+        "to": "00:05:32,400"
+      },
+      "offsets": {
+        "from": 326560,
+        "to": 332400
+      },
+      "text": " do and it has routines and everything okay that's nice now we have a demo from you right yeah yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:32,400",
+        "to": "00:05:37,440"
+      },
+      "offsets": {
+        "from": 332400,
+        "to": 337440
+      },
+      "text": " i think we can do some testing with the grog bot yes let's do that i was checking and you see a"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:37,440",
+        "to": "00:05:42,880"
+      },
+      "offsets": {
+        "from": 337440,
+        "to": 342880
+      },
+      "text": " lot of people saying if my company went bankrupt and i needed 100k at the end of the month"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:43,520",
+        "to": "00:05:49,120"
+      },
+      "offsets": {
+        "from": 343520,
+        "to": 349120
+      },
+      "text": " this is what i would do and they come with these incredible ideas where ai can just optimize your"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:49,120",
+        "to": "00:05:55,520"
+      },
+      "offsets": {
+        "from": 349120,
+        "to": 355520
+      },
+      "text": " entire ceo create pages where it can automatically email where it can find your leads for new"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:55,520",
+        "to": "00:06:01,760"
+      },
+      "offsets": {
+        "from": 355520,
+        "to": 361760
+      },
+      "text": " websites or whatever so i thought i named it king and king is going to be a king in lead generation"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:01,760",
+        "to": "00:06:07,680"
+      },
+      "offsets": {
+        "from": 361760,
+        "to": 367680
+      },
+      "text": " and getting me projects as well i can make money so what i want to do i wanted to research the"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:07,680",
+        "to": "00:06:13,120"
+      },
+      "offsets": {
+        "from": 367680,
+        "to": 373120
+      },
+      "text": " internet and here in the inner netherlands around eindhoven found me three of your companies every"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:13,120",
+        "to": "00:06:18,960"
+      },
+      "offsets": {
+        "from": 373120,
+        "to": 378960
+      },
+      "text": " day uh that don't have a proper website or need a new website well we think that we can improve it"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:18,960",
+        "to": "00:06:26,640"
+      },
+      "offsets": {
+        "from": 378960,
+        "to": 386640
+      },
+      "text": " um then we use grog builds to build a website and king is actually going to email those people"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:26,640",
+        "to": "00:06:32,480"
+      },
+      "offsets": {
+        "from": 386640,
+        "to": 392480
+      },
+      "text": " and do the first responses so you're my sales personal assistant for an english youtube live"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:32,480",
+        "to": "00:06:37,520"
+      },
+      "offsets": {
+        "from": 392480,
+        "to": 397520
+      },
+      "text": " stream so you see it already gave it some information i told it that we have 30 minutes"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:37,520",
+        "to": "00:06:42,400"
+      },
+      "offsets": {
+        "from": 397520,
+        "to": 402400
+      },
+      "text": " so i gave you two to three minutes maximum for task well that is just for now but normally you"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:42,400",
+        "to": "00:06:48,960"
+      },
+      "offsets": {
+        "from": 402400,
+        "to": 408960
+      },
+      "text": " need to have it work a little bit longer and i want to find small companies in or around eindhoven"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:48,960",
+        "to": "00:06:54,960"
+      },
+      "offsets": {
+        "from": 408960,
+        "to": 414960
+      },
+      "text": " that have two to eight people no multinationals no chains that need a new website target five if"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:54,960",
+        "to": "00:07:01,280"
+      },
+      "offsets": {
+        "from": 414960,
+        "to": 421280
+      },
+      "text": " it's instant one is enough just for the demo right now and i had grog do some research for companies"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:01,280",
+        "to": "00:07:07,280"
+      },
+      "offsets": {
+        "from": 421280,
+        "to": 427280
+      },
+      "text": " that have money but don't have a website and it said well if you have plumbing electrical uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:07,280",
+        "to": "00:07:14,000"
+      },
+      "offsets": {
+        "from": 427280,
+        "to": 434000
+      },
+      "text": " people um those are like engineers who don't know how to build a website they have money because"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:14,000",
+        "to": "00:07:19,120"
+      },
+      "offsets": {
+        "from": 434000,
+        "to": 439120
+      },
+      "text": " they have a high hourly rate but they want to don't want to do anything i wanted it to go to"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:19,120",
+        "to": "00:07:24,160"
+      },
+      "offsets": {
+        "from": 439120,
+        "to": 444160
+      },
+      "text": " google and to actually search read this on camera oh that's cool here in the top right you see it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:25,120",
+        "to": "00:07:31,120"
+      },
+      "offsets": {
+        "from": 445120,
+        "to": 451120
+      },
+      "text": " yeah so it actually told me right now what i need to read to you so see you are a meat puppet bro"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:31,120",
+        "to": "00:07:37,440"
+      },
+      "offsets": {
+        "from": 451120,
+        "to": 457440
+      },
+      "text": " yeah yeah i i don't have a choice but uh site on my screen does the insulasty technique in valto over"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:37,440",
+        "to": "00:07:43,920"
+      },
+      "offsets": {
+        "from": 457440,
+        "to": 463920
+      },
+      "text": " so it's insulation technical people one person shop inside logo two links so man that's good okay"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:43,920",
+        "to": "00:07:50,320"
+      },
+      "offsets": {
+        "from": 463920,
+        "to": 470320
+      },
+      "text": " and then it says i found one and you can see here in the vm it actually started google and it went"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:50,320",
+        "to": "00:07:56,240"
+      },
+      "offsets": {
+        "from": 470320,
+        "to": 476240
+      },
+      "text": " searching for something and i can use it as well but yeah this is exactly the customer that i want"
+    },
+    {
+      "timestamps": {
+        "from": "00:07:56,240",
+        "to": "00:08:02,160"
+      },
+      "offsets": {
+        "from": 476240,
+        "to": 482160
+      },
+      "text": " they have a website and we can just try to improve it it's public so build me a prompt that i can go"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:02,160",
+        "to": "00:08:07,200"
+      },
+      "offsets": {
+        "from": 482160,
+        "to": 487200
+      },
+      "text": " ahead and put a new website yeah so build me a prompt that i can put into grog build to create"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:07,200",
+        "to": "00:08:12,720"
+      },
+      "offsets": {
+        "from": 487200,
+        "to": 492720
+      },
+      "text": " a new website for this one yeah yeah whatever that will do yeah so it will create a prompt and"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:12,720",
+        "to": "00:08:17,840"
+      },
+      "offsets": {
+        "from": 492720,
+        "to": 497840
+      },
+      "text": " everybody knows that with prompt i can just put it in it generates a website i did one for another"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:17,840",
+        "to": "00:08:23,120"
+      },
+      "offsets": {
+        "from": 497840,
+        "to": 503120
+      },
+      "text": " one but here it is and then like you connect to resend and then you have the whole pipe to send"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:23,120",
+        "to": "00:08:31,280"
+      },
+      "offsets": {
+        "from": 503120,
+        "to": 511280
+      },
+      "text": " emails and drop down yeah can you send emails as well uh with a proper proposal to the lead that"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:31,280",
+        "to": "00:08:37,280"
+      },
+      "offsets": {
+        "from": 511280,
+        "to": 517280
+      },
+      "text": " you just found i'm going a bit fast through it right now but now it should ask me if it can log"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:37,280",
+        "to": "00:08:43,840"
+      },
+      "offsets": {
+        "from": 517280,
+        "to": 523840
+      },
+      "text": " into my email so and it gives me the option for outlook gmail and yeah whatever i want so it says"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:43,840",
+        "to": "00:08:50,880"
+      },
+      "offsets": {
+        "from": 523840,
+        "to": 530880
+      },
+      "text": " i can now we're not sending the email but this is actually smart because when i did like examples"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:50,880",
+        "to": "00:08:57,520"
+      },
+      "offsets": {
+        "from": 530880,
+        "to": 537520
+      },
+      "text": " before it would just ask me to log in and to just send it in one prompt you find the lead that uh"
+    },
+    {
+      "timestamps": {
+        "from": "00:08:57,520",
+        "to": "00:09:02,960"
+      },
+      "offsets": {
+        "from": 537520,
+        "to": 542960
+      },
+      "text": " you just need to find one thousand and then you have some passive revenue right so what you want"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:02,960",
+        "to": "00:09:09,200"
+      },
+      "offsets": {
+        "from": 542960,
+        "to": 549200
+      },
+      "text": " to do next is can you create a routine from this and schedule it daily so me doing this after five"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:09,200",
+        "to": "00:09:14,560"
+      },
+      "offsets": {
+        "from": 549200,
+        "to": 554560
+      },
+      "text": " or ten emails i am out i need to create a website so it will take just too much time and if you only"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:14,560",
+        "to": "00:09:18,720"
+      },
+      "offsets": {
+        "from": 554560,
+        "to": 558720
+      },
+      "text": " get like one or two customers it's not enough income but if you can have the pod do this"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:18,720",
+        "to": "00:09:25,040"
+      },
+      "offsets": {
+        "from": 558720,
+        "to": 565040
+      },
+      "text": " automatically then it will just keep on creating leads and then customers and you can ask for"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:25,040",
+        "to": "00:09:31,280"
+      },
+      "offsets": {
+        "from": 565040,
+        "to": 571280
+      },
+      "text": " references and it is like a real business that you're building see and now this is the routine"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:31,280",
+        "to": "00:09:37,440"
+      },
+      "offsets": {
+        "from": 571280,
+        "to": 577440
+      },
+      "text": " you can also deactivate it you can test run it and it created the description what it needs to do"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:37,440",
+        "to": "00:09:42,480"
+      },
+      "offsets": {
+        "from": 577440,
+        "to": 582480
+      },
+      "text": " which is basically your prompt and like that's gonna yeah that's my entire example and it just"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:42,480",
+        "to": "00:09:50,640"
+      },
+      "offsets": {
+        "from": 582480,
+        "to": 590640
+      },
+      "text": " does it on weekdays at 8 56 a.m and you will also have a full history so basically this is the bot"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:50,640",
+        "to": "00:09:57,200"
+      },
+      "offsets": {
+        "from": 590640,
+        "to": 597200
+      },
+      "text": " big rock but we just gave one example but whatever you can imagine now why you need a repair or a"
+    },
+    {
+      "timestamps": {
+        "from": "00:09:57,200",
+        "to": "00:10:02,800"
+      },
+      "offsets": {
+        "from": 597200,
+        "to": 602800
+      },
+      "text": " task that's going to keep on repeating even if it's boring as hell just have to bug do it i mean"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:02,800",
+        "to": "00:10:10,880"
+      },
+      "offsets": {
+        "from": 602800,
+        "to": 610880
+      },
+      "text": " and you can do exactly that for every app on earth and you can even like do lead gen for apps that"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:10,880",
+        "to": "00:10:16,560"
+      },
+      "offsets": {
+        "from": 610880,
+        "to": 616560
+      },
+      "text": " have a referral affiliate the discount i think that's a nice demo main yeah and i think we can"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:16,560",
+        "to": "00:10:22,720"
+      },
+      "offsets": {
+        "from": 616560,
+        "to": 622720
+      },
+      "text": " wrap it up on that right like basically last week was a good week we had a fantastic model then we"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:22,720",
+        "to": "00:10:28,880"
+      },
+      "offsets": {
+        "from": 622720,
+        "to": 628880
+      },
+      "text": " have nice tool to play with and to start over like 10 000 new business or at least one where you can"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:28,880",
+        "to": "00:10:35,840"
+      },
+      "offsets": {
+        "from": 628880,
+        "to": 635840
+      },
+      "text": " make websites to or company that's need the better one yeah start a selling machine exactly yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:35,840",
+        "to": "00:10:41,440"
+      },
+      "offsets": {
+        "from": 635840,
+        "to": 641440
+      },
+      "text": " finally yeah thank you mitchell and thank you for your time and your demo like that was great"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:41,440",
+        "to": "00:10:47,280"
+      },
+      "offsets": {
+        "from": 641440,
+        "to": 647280
+      },
+      "text": " and we will see you same place same time and like subscribe follow us on linkedin"
+    },
+    {
+      "timestamps": {
+        "from": "00:10:47,280",
+        "to": "00:10:50,880"
+      },
+      "offsets": {
+        "from": 647280,
+        "to": 650880
+      },
+      "text": " twitter we're gonna be everywhere yes bye"
+    }
+  ]
+}

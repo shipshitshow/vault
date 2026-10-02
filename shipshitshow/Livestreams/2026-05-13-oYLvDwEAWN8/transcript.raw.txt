@@ -1,0 +1,276 @@
+Are you still planning with MD files?
+Maybe that's not the better output that
+you can have. And what about HTML files?
+That's what TK from Entropic wrote about
+last week. He's planning everything with
+HTMLs because it's prettier than MD
+files. You can actually like draw some
+chart and stuff to have better plans.
+We're going to demo that workflow. So,
+uh if you are intrigued, watch the
+video.
+Yes.
+>> Yeah. Did you ever try it before the
+live stream or like this week?
+>> I wanted to try it but
+>> yeah.
+>> I said create a documentation and just
+did MD by default.
+>> Okay.
+>> And then I asked for HTML and HTML was
+just like still the MD
+>> but only uh like H1 tag in front of it
+instead of one hashtag.
+>> Oh yeah. Yeah. Because Yeah. Macdonald
+with MG file.
+Yeah.
+>> Yeah. So it didn't do what I wanted to
+do. Yeah,
+>> but let's try again together then. HTML
+is the new markdown. I have stopped
+writing markdown file for almost
+everything and switch to use to generate
+HTML for me. This is why Markdown has
+become the dominant file format used by
+agent to communicate with us. It's
+simple port rich text capability and
+it's easy for you to edit that. But as
+agents have become more and more
+powerful, I have felt that Macdon has
+become a restricted former. I found it
+difficult to read a Macdon file or more
+than 100 of lines. You get your you get
+your plan. You get the output of the
+plan. It's a HTML file. We can I guess
+you can compare you can even like have
+different uh output of the plan or
+exactly what you're doing right like
+when you have three version of the onput
+you can visualize whatever you are doing
+directly into the plan that I I can see
+that powerful for example if you want to
+redesign a component you can have three
+different version in a preview HTML
+right the unreasonable effectiveness of
+effectiveness of HTML uh 20
+self-contained HTML files an agent
+produce instead of a wall of Macdown.
+Okay. So, three code approach. Yeah,
+exactly. So, that's I can see why it's
+powerful.
+>> Yeah, you have more more options, more
+possibilities
+>> like that. That makes sense. Like Yeah,
+I have some uh I have some different uh
+different way of coding it and then I'm
+ratedly that that's cool visual. Yeah,
+no task. Yeah, that's cool. Illustration
+illustrational. Okay. So you have empty
+state of
+uh of the plan timeline. Yeah, that's
+cool. Open question. Do we all editing
+or delete and repost? Okay.
+Review annotate p request write up.
+Yeah. Okay. That's cool. Okay. Okay.
+Okay. That's that's pretty cool. Map
+design. Yeah, that's lit front end and
+stuff. That's that's interesting. And
+that's the plan, right? This file is
+supposed to be the plan at the output
+plan that we we will have, right?
+>> Yeah, but this is more like a brand
+book.
+>> Yeah, but that's also a plan. You can
+choose and change like the colors and
+stuff like that. And later in the
+article, you can even like have to go to
+change the plan directly like
+interactively data ingestion. Why use
+cloud cut to HTFI instead of cloud AI or
+cloud design for example? One of the
+biggest reasons is uh all the context
+code can ingest. Oh, so you the size of
+the context because you want to send
+HTMLs. Really? Really?
+>> They earn more money if they do.
+>> Yeah.
+>> Oh, it's an
+>> You're spending more tokens.
+>> Yeah. And I'm really curious if we can
+test for an um asking the AI agent to do
+it in the in MD file and HTML file, make
+it as optimized as possible and then
+give him and ask him which one he
+prefers, which one is most optimized
+>> and what what is the most cheapest to
+process.
+>> We're going to try that right after.
+>> Yes.
+>> Is it less token efficient? While Macdon
+often use fewer token, I found that the
+added expressiveness of HTML and the
+much higher likelihood of me reading it
+means I get overall better output. Okay.
+With the 1 million context with in OPUS
+4.7, the increased token usage is not
+really noticeable. Yeah. Because the
+rest of the the of the model is so
+expensive that if it's you don't see it,
+>> but still this is a stupid answer.
+>> Yeah.
+>> Isn't it less token efficient? Yes or
+no? And then you get a full [ __ ]
+answer, but he doesn't answer it.
+>> Yeah. He says it doesn't matter. That's
+that's the answer.
+>> He answer it. He say, "Yeah, it's more
+expensive."
+>> Yeah.
+>> Uh, when do you do when do you use
+Markdown for now? I've honestly stopped
+using Mark.
+>> All the big IT guys who are really
+smart. So many views with just the
+notification of ask for HTML.
+>> Yeah. So, let's do exactly the same
+[ __ ]
+>> Yes.
+You know what? We are going to uh do an
+app to check if the uh the repository is
+using the tan stack that has been uh
+compromised.
+>> Yes.
+>> And hope it says no.
+>> I want to build a micro app to check the
+vulnerability of opensource uh project
+that have been impacted by the latest
+attack of the tanstack packages. Nice.
+see the accent and stuff. It's perfect.
+>> Almost stands you perfectly.
+>> Yeah.
+Uh all of the uh impacted package are
+listed in that article.
+Uh plan the app and I want the output of
+the plan HTML file HTML artifact for the
+plan. also added an MD so we have both
+so we can compare
+>> and also add the MD file so we can
+compare uh the outputs and I want to
+tell me how how many talk you use to
+generate the plan in MD file and HTML
+and the app uh will also generate HTML
+report okay both plan artifact I created
+4,000 for the plan MD and so yeah almost
+double
+>> yeah 50% expensive
+>> uh HTML version use 63% more output
+token due to the markup still signing.
+Yeah, whatever. Open plan. Okay, cool.
+So,
+>> open it.
+>> Yeah. Wow. So, that's the MD file. Uh,
+that's quite long, but that's that's
+readable. I mean,
+>> yeah, but
+I don't know. The the code editors I
+use, they always have a second screen
+beside it when I open an empty file, so
+I can see code and preview.
+Uh okay. So on cursor it's an extension
+where you can preview the markdown
+preview. Look.
+>> Yeah. And then it's readable.
+>> Yeah. Yeah. Like Yeah. There is nothing
+crazy here, right? Uh to uh
+uh to to review. Anyway, so okay. And
+now I'm going to open the mg uh HTML
+file. Wow. It's the same [ __ ] but
+purple. Yeah, different colors.
+>> Okay, that's cool. Completely.
+>> It's like bootstrap styling over it in
+dark mode.
+>> Read both plan uh files and tell me
+which one will is more consistent for
+you and more useful
+and cheaper to implement. I've read both
+file. They contain identical content.
+The same sh plan in two format.
+>> Mhm. lines 200 for the MD file and
+almost 600 570 for the plain HTML
+estimate token three 3.8 6.2 to so
+signal to nose high pure content low 200
+line of CSS HTML B plate yeah
+uh consistency table block and
+unambiguous
+that's interesting
+uh plan MD is a clear winner for on all
+three criteria h
+recommendation use plan MD Yeah,
+>> it works both, but HTML is just more
+nice to look at and and more expensive
+to use.
+>> Yeah,
+I mean that's all experimentation.
+>> Yeah,
+>> I mean we just wanted the plan, right?
+It's just for as a output plan. So yeah,
+for the general evaluation. Yeah, like
+Okay. Okay. So
+>> if you use it for internal planning,
+they use the MD files. If you want to do
+reporting and and use it for sharing
+with people, you can do the HTML. That's
+what I think.
+>> Yeah, that makes sense. Yeah. Okay. So
+like Yeah, it's it's like almost uh you
+don't use either like uh just one, use
+both basically.
+>> Yeah. Uh I think that's it.
+>> Should we Yeah. Okay, that's it. That
+was See, nice demo. Good job, Tim. So,
+Mitchell, are you going to use HTML?
+Now,
+>> if I want to share something nice for
+you, I'm going to use HTML, but as soon
+as I want it to be optimized and use it
+for planning internally, all all MD
+files.
+>> Yeah.
+>> How about you?
+>> I mean, again, I I I can see a use case
+for components for sure. If I want to
+redesign a component, I will ask to a
+preview in HTML because that doesn't
+like for a couple of percent of token
+more like I would rather iterate on
+content
+uh on on the HTML with HTML files to
+redesign something and I'm using code
+for design and more like all of the rest
+of the execution I use codeex anyway. I
+don't I still don't use CH GPT 5.5 for
+design because it's the taste of the
+model is [ __ ] So I will definitely use
+code and the front end scale to do front
+end stuff and delegate all of the
+implementation the rest of the
+implementation tox.
+>> Perfect. Yeah. Nice. Okay. Awesome. We
+>> that was it.
+>> Yeah. We have a good demo if we have did
+like a 26 minutes introduction.
+>> But that that's that's talents, man.
+That's talent.
+>> Yes.
+>> So, Mitchelle, thank you so much for
+your time and everyone in the chat and
+in the if you are watching the video
+until the end, uh please subscribe,
+like, share it with your friends because
+we need it. Uh we are still
+we missed some subscribers to 1 million
+subscribers. So, it's time to it's time
+to subscribe.
+>> Yeah. Let them come in.
+>> Yeah. Uh and that's it. Bye.
+>> See you next week.

@@ -1,0 +1,3320 @@
+1
+00:00:00,000 --> 00:00:07,000
+[Music]
+
+2
+00:00:07,000 --> 00:00:14,000
+[Music]
+
+3
+00:00:14,000 --> 00:00:21,000
+[Music]
+
+4
+00:00:21,000 --> 00:00:28,000
+[Music]
+
+5
+00:00:28,000 --> 00:00:33,400
+[MUSIC PLAYING]
+
+6
+00:00:33,400 --> 00:00:36,800
+And welcome back, everyone.
+
+7
+00:00:36,800 --> 00:00:37,640
+Hi, Vitor.
+
+8
+00:00:37,640 --> 00:00:38,240
+Been a minute.
+
+9
+00:00:38,240 --> 00:00:39,600
+Yes, hello.
+
+10
+00:00:39,600 --> 00:00:41,440
+Sup, sup, sup, sup, sup.
+
+11
+00:00:41,440 --> 00:00:43,400
+I think everybody was missing us, right?
+
+12
+00:00:43,400 --> 00:00:44,440
+Yes.
+
+13
+00:00:44,440 --> 00:00:46,400
+I mean, we are like--
+
+14
+00:00:46,400 --> 00:00:48,080
+the channel is growing, man.
+
+15
+00:00:48,080 --> 00:00:49,200
+Oh, yeah, it is.
+
+16
+00:00:49,200 --> 00:00:51,240
+So that's good.
+
+17
+00:00:51,240 --> 00:00:55,260
+Just going to check if YouTube is good and have the sound,
+
+18
+00:00:55,260 --> 00:00:58,220
+because with all of the chat before,
+
+19
+00:00:58,220 --> 00:01:00,780
+I don't know if we are correctly set up,
+
+20
+00:01:00,780 --> 00:01:02,020
+but it should be fine.
+
+21
+00:01:05,260 --> 00:01:06,080
+Okay, now--
+
+22
+00:01:06,080 --> 00:01:08,080
+- It didn't start on YouTube yet.
+
+23
+00:01:09,000 --> 00:01:12,380
+- I have it, but I don't have the, I think--
+
+24
+00:01:12,380 --> 00:01:13,380
+- Now it is.
+
+25
+00:01:13,380 --> 00:01:14,740
+- You have it, you have the sound?
+
+26
+00:01:14,740 --> 00:01:16,500
+- Yes, now I have it, perfect.
+
+27
+00:01:16,500 --> 00:01:19,540
+- Okay, cool, so because I didn't have the output.
+
+28
+00:01:19,540 --> 00:01:21,420
+So cool, okay.
+
+29
+00:01:22,560 --> 00:01:27,300
+Nice, how have you been since the last time we chit chat?
+
+30
+00:01:27,300 --> 00:01:32,080
+- Yeah, well, there is so much to do, so many new models.
+
+31
+00:01:32,080 --> 00:01:35,820
+So I've been good, I've been testing, coding,
+
+32
+00:01:35,820 --> 00:01:38,780
+working with AI, doing so much more.
+
+33
+00:01:38,780 --> 00:01:40,120
+And how about you?
+
+34
+00:01:40,120 --> 00:01:44,220
+- I mean, so I take a little holidays off,
+
+35
+00:01:44,220 --> 00:01:47,200
+completely without any internet and stuff like ish,
+
+36
+00:01:47,200 --> 00:01:52,200
+just enough to trigger some prompt and issues and stuff.
+
+37
+00:01:52,320 --> 00:01:56,040
+on the side, but yeah, like, and then we come back
+
+38
+00:01:56,040 --> 00:01:59,560
+and then we have a release model every day.
+
+39
+00:01:59,560 --> 00:02:03,560
+- Yeah, the entire landscape changed, again.
+
+40
+00:02:03,560 --> 00:02:05,880
+- Yeah, and for the best or for the worst,
+
+41
+00:02:05,880 --> 00:02:07,200
+the pain of the model.
+
+42
+00:02:08,840 --> 00:02:11,120
+- Well, you need to work differently
+
+43
+00:02:11,120 --> 00:02:13,560
+every time they release a new model.
+
+44
+00:02:13,560 --> 00:02:17,440
+- True, and that's more true with like Opus,
+
+45
+00:02:17,440 --> 00:02:19,480
+and we're gonna talk about that later on.
+
+46
+00:02:19,480 --> 00:02:23,320
+But first, yeah, let's start by chronological order.
+
+47
+00:02:24,200 --> 00:02:28,360
+Review everything and then like the answer is like,
+
+48
+00:02:28,360 --> 00:02:33,260
+which one is the best of the last week.
+
+49
+00:02:33,260 --> 00:02:36,440
+So yeah, if you want to know which model you should use,
+
+50
+00:02:36,440 --> 00:02:38,520
+stay until the end.
+
+51
+00:02:38,520 --> 00:02:39,600
+- We will tell you.
+
+52
+00:02:39,600 --> 00:02:41,160
+- It's gonna surprise you.
+
+53
+00:02:43,920 --> 00:02:45,480
+Turk, okay, that's you in the chat.
+
+54
+00:02:45,480 --> 00:02:46,320
+Let's go.
+
+55
+00:02:47,200 --> 00:02:48,020
+Let's go.
+
+56
+00:02:48,020 --> 00:02:53,020
+So perf on the 22, perf, perf,
+
+57
+00:02:53,860 --> 00:02:57,680
+I'm gonna share my screen, show intelligence.
+
+58
+00:02:59,220 --> 00:03:04,220
+So the first one who released a new update for the model,
+
+59
+00:03:05,620 --> 00:03:09,940
+it was a GPT-6 Sol and Luna push,
+
+60
+00:03:09,940 --> 00:03:12,500
+so from OpenAI, push the cost efficiency frontier
+
+61
+00:03:12,500 --> 00:03:15,700
+by having the cost relative to 5.6 and Luna,
+
+62
+00:03:16,940 --> 00:03:21,940
+pricing approximately half of GPT 5.6,
+
+63
+00:03:23,620 --> 00:03:28,620
+drop to Sol, drop to 420 to 210 per million
+
+64
+00:03:29,260 --> 00:03:34,260
+output tokens and Luna from 20 cents to 120 to 10, 15.
+
+65
+00:03:36,860 --> 00:03:39,220
+- That's nice, that's very different.
+
+66
+00:03:39,220 --> 00:03:42,420
+- I mean, that's good, but did you get the same output?
+
+67
+00:03:42,420 --> 00:03:45,180
+Did you try to use them and?
+
+68
+00:03:45,180 --> 00:03:48,380
+I just did some random tests and I got some good outputs.
+
+69
+00:03:48,380 --> 00:03:52,480
+I could not complain, but I don't use these two models a lot.
+
+70
+00:03:52,480 --> 00:03:54,420
+- Yeah, something like for my Codex subscription,
+
+71
+00:03:54,420 --> 00:03:56,420
+I do a lot of Astra still.
+
+72
+00:03:56,420 --> 00:03:58,020
+- Yeah, yeah, the same.
+
+73
+00:03:58,020 --> 00:04:03,020
+And I think they reopened the $200 sub again yesterday,
+
+74
+00:04:03,100 --> 00:04:04,380
+right?
+
+75
+00:04:04,380 --> 00:04:06,060
+- You didn't get it before?
+
+76
+00:04:06,060 --> 00:04:08,920
+I think it was for the new user, no?
+
+77
+00:04:08,920 --> 00:04:11,780
+- Yeah, but I don't have it because I downgraded
+
+78
+00:04:11,780 --> 00:04:14,780
+and especially when I wanted to upgrade,
+
+79
+00:04:14,780 --> 00:04:17,060
+I was just like six hours too late.
+
+80
+00:04:19,180 --> 00:04:21,340
+- Yeah, but like when I think I told you, right?
+
+81
+00:04:21,340 --> 00:04:23,380
+Like it was back, no?
+
+82
+00:04:23,380 --> 00:04:25,980
+- You told me and I was like, ah, don't worry.
+
+83
+00:04:25,980 --> 00:04:28,500
+I have a few days and I was too late.
+
+84
+00:04:28,500 --> 00:04:31,260
+- Oh, so I told you, you didn't do it immediately
+
+85
+00:04:31,260 --> 00:04:33,260
+and then they close it again?
+
+86
+00:04:33,260 --> 00:04:35,940
+- No, no, no, just a few weeks ago they closed it.
+
+87
+00:04:35,940 --> 00:04:37,860
+So I still didn't get it.
+
+88
+00:04:37,860 --> 00:04:39,360
+- Yeah, okay, okay.
+
+89
+00:04:39,360 --> 00:04:44,100
+But yeah, like, so tonight at 8 p.m. Europe,
+
+90
+00:04:44,100 --> 00:04:47,420
+like they have the open the Dev day.
+
+91
+00:04:47,420 --> 00:04:50,420
+So I'm expecting a lot of announcements
+
+92
+00:04:50,420 --> 00:04:52,660
+like maybe whatever I saw on the timeline
+
+93
+00:04:52,660 --> 00:04:55,300
+like 20 announcements, et cetera, et cetera.
+
+94
+00:04:55,300 --> 00:04:56,980
+But Arisette.
+
+95
+00:04:56,980 --> 00:04:57,800
+- Who knows?
+
+96
+00:04:57,800 --> 00:05:00,840
+- Yeah, and did you see the Cibo post?
+
+97
+00:05:01,820 --> 00:05:05,140
+- Yeah, about the difference in the new model
+
+98
+00:05:05,140 --> 00:05:06,720
+of having a new subscription.
+
+99
+00:05:06,720 --> 00:05:10,540
+- Yeah, tomorrow we are reopening the Pro 200 sub
+
+100
+00:05:10,540 --> 00:05:12,060
+to new subscribers.
+
+101
+00:05:12,060 --> 00:05:13,260
+That's why I was saying like,
+
+102
+00:05:13,260 --> 00:05:15,180
+maybe you could take it before
+
+103
+00:05:15,180 --> 00:05:17,780
+because it was for the new subscribers.
+
+104
+00:05:17,780 --> 00:05:21,580
+- Ah, well, I think, oh, for new.
+
+105
+00:05:21,580 --> 00:05:24,860
+So maybe I can, okay, I need to try.
+
+106
+00:05:24,860 --> 00:05:27,100
+- Yes, I think you can upgrade.
+
+107
+00:05:27,100 --> 00:05:31,940
+I don't think you can go from GPT-free to 200 sub.
+
+108
+00:05:31,940 --> 00:05:34,220
+I think that's the twist here.
+
+109
+00:05:34,220 --> 00:05:36,340
+But okay, together we're also changing
+
+110
+00:05:36,340 --> 00:05:39,380
+how we calculate the usage for it.
+
+111
+00:05:39,380 --> 00:05:44,560
+If we do the math, you will net out at half a dollar in API
+
+112
+00:05:44,560 --> 00:05:47,740
+spend compared to the old 200 plan.
+
+113
+00:05:47,740 --> 00:05:48,240
+Wait, what?
+
+114
+00:05:48,240 --> 00:05:52,280
+It will net out at half the dollar in API spend.
+
+115
+00:05:52,280 --> 00:05:53,080
+Oh, OK.
+
+116
+00:05:53,080 --> 00:05:54,800
+So you get 50% less.
+
+117
+00:05:54,800 --> 00:05:55,840
+Yeah.
+
+118
+00:05:55,840 --> 00:05:57,640
+Now that said, let me explain what is happening
+
+119
+00:05:57,640 --> 00:05:59,440
+and why you will get more work done.
+
+120
+00:05:59,440 --> 00:06:02,360
+Yeah, OK, so you get the better--
+
+121
+00:06:02,360 --> 00:06:05,040
+we decrease the model and we make them smarter,
+
+122
+00:06:05,040 --> 00:06:06,680
+but you will be able to do less.
+
+123
+00:06:06,680 --> 00:06:08,680
+So that's kind of sad.
+
+124
+00:06:08,680 --> 00:06:12,760
+- Yeah, but on the other end, if you get the same results
+
+125
+00:06:12,760 --> 00:06:16,640
+or even faster, then it doesn't matter that much.
+
+126
+00:06:16,640 --> 00:06:19,360
+- Yeah, but if you have like, if you do like 10,
+
+127
+00:06:19,360 --> 00:06:21,180
+if you implement like 10 new features
+
+128
+00:06:21,180 --> 00:06:23,220
+and then you're done for the day
+
+129
+00:06:23,220 --> 00:06:28,220
+because you have burned your weekly usage in a day,
+
+130
+00:06:28,960 --> 00:06:31,440
+bro, for me, it's telling like,
+
+131
+00:06:31,440 --> 00:06:35,240
+I'm using all of my subscription in 33 hours,
+
+132
+00:06:35,240 --> 00:06:36,760
+like one by one.
+
+133
+00:06:36,760 --> 00:06:37,600
+- Really?
+
+134
+00:06:37,600 --> 00:06:39,960
+- I like, yeah, yeah.
+
+135
+00:06:39,960 --> 00:06:44,400
+And I, okay, it was before 5.5, like Opus for 5.5,
+
+136
+00:06:44,400 --> 00:06:48,920
+but I was using like Fable just to prepare stuff,
+
+137
+00:06:50,320 --> 00:06:52,640
+implementation on Opus and stuff.
+
+138
+00:06:52,640 --> 00:06:55,280
+And after even sometime half a day,
+
+139
+00:06:55,280 --> 00:06:57,040
+I'm already at 50% of the weekly.
+
+140
+00:06:59,080 --> 00:07:01,680
+- I am doing everything, maxing,
+
+141
+00:07:01,680 --> 00:07:03,240
+I'm trying to max out everything,
+
+142
+00:07:03,240 --> 00:07:06,600
+but I never look at my usage because I never run out.
+
+143
+00:07:06,600 --> 00:07:07,640
+- Jesus.
+
+144
+00:07:07,640 --> 00:07:09,360
+- But still you have one big project
+
+145
+00:07:09,360 --> 00:07:11,640
+and I have like 20 smaller projects.
+
+146
+00:07:11,640 --> 00:07:15,360
+So I think that's a big difference on input tokens.
+
+147
+00:07:16,320 --> 00:07:18,280
+- Yeah, that could be, yeah.
+
+148
+00:07:18,280 --> 00:07:21,840
+Maybe even like when I check the skills and stuff,
+
+149
+00:07:23,880 --> 00:07:26,280
+I don't like the analytic doesn't treat on me
+
+150
+00:07:26,280 --> 00:07:29,360
+like crazy amount of tokens usage.
+
+151
+00:07:29,360 --> 00:07:32,120
+So maybe I should audit stuff, but yeah, it could be,
+
+152
+00:07:32,120 --> 00:07:34,320
+it could be because it's like two repositories,
+
+153
+00:07:34,320 --> 00:07:36,360
+like 2 million lines of code that's possible.
+
+154
+00:07:36,360 --> 00:07:38,040
+Yeah, that's big difference with mine.
+
+155
+00:07:40,040 --> 00:07:43,560
+Okay, so yeah, one subscription, blah, blah. And there is also like some talk
+
+156
+00:07:43,560 --> 00:07:49,240
+about 500 subscription for OpenAI. Would you buy it?
+
+157
+00:07:49,240 --> 00:07:52,920
+People were talking about it a lot, but I couldn't find any information about it.
+
+158
+00:07:54,360 --> 00:07:59,160
+Like, so they can ensure, yeah, it's quietly cutting usage limits, so they can launch a 500
+
+159
+00:07:59,160 --> 00:08:01,940
+plain, pricing, scam, built-on, impact, subscription,
+
+160
+00:08:01,940 --> 00:08:04,680
+name it, blah, blah, blah.
+
+161
+00:08:04,680 --> 00:08:06,240
+I didn't see that.
+
+162
+00:08:06,240 --> 00:08:09,200
+Well, I don't have that one yet.
+
+163
+00:08:09,200 --> 00:08:11,840
+But with AI, you don't know what's real.
+
+164
+00:08:11,840 --> 00:08:14,220
+But on the other hand, they are saying it's a scam.
+
+165
+00:08:14,220 --> 00:08:17,960
+But this is what almost every company does.
+
+166
+00:08:17,960 --> 00:08:19,800
+Give away a lot for free in the beginning
+
+167
+00:08:19,800 --> 00:08:23,200
+so that you get users and people want to use your product
+
+168
+00:08:23,200 --> 00:08:29,120
+and eventually just return to a normal fee for token usage.
+
+169
+00:08:29,120 --> 00:08:35,040
+Yeah, yeah, like it's like how you sell drugs, like, like you give it like free drugs, and
+
+170
+00:08:35,040 --> 00:08:36,040
+then they are addicted.
+
+171
+00:08:36,040 --> 00:08:37,040
+So then they're gonna pay.
+
+172
+00:08:37,040 --> 00:08:43,100
+I mean, if we have 500, and then it's unlimited, because some tweet are talking about that
+
+173
+00:08:43,100 --> 00:08:46,160
+to have like some unlimited amounts.
+
+174
+00:08:46,160 --> 00:08:52,040
+That would be cool.
+
+175
+00:08:52,040 --> 00:08:54,840
+Yeah, I don't believe unlimited.
+
+176
+00:08:54,840 --> 00:08:58,600
+I believe it when they say unlimited with a fair use policy.
+
+177
+00:08:58,600 --> 00:09:05,220
+Yeah, no, exactly. That I think that was the tweet. When shippichi released it two things
+
+178
+00:09:05,220 --> 00:09:12,040
+for the run. No point in launching O again and we're about to get the first 500 by Francia.
+
+179
+00:09:12,040 --> 00:09:17,500
+Will you pay 500 for unlimited ops for 55? Yeah, okay, so 55, but whatever. If one lab
+
+180
+00:09:17,500 --> 00:09:22,720
+will do it, they will all do it. Would you spend 500 on codex and Claude?
+
+181
+00:09:22,720 --> 00:09:27,160
+Yeah, depends on what projects I have.
+
+182
+00:09:27,160 --> 00:09:29,440
+Really need to sell more then.
+
+183
+00:09:29,440 --> 00:09:32,560
+Yeah, but I don't think they will do it.
+
+184
+00:09:32,560 --> 00:09:33,560
+Yeah.
+
+185
+00:09:33,560 --> 00:09:34,560
+Oh, yeah.
+
+186
+00:09:34,560 --> 00:09:36,240
+That was it just sounds so weird.
+
+187
+00:09:36,240 --> 00:09:43,040
+Like our restaurant giving you a really high price to eat unlimited food every day.
+
+188
+00:09:43,040 --> 00:09:44,040
+That's so weird.
+
+189
+00:09:44,040 --> 00:09:45,040
+Yeah.
+
+190
+00:09:45,040 --> 00:09:51,360
+I mean, like, it's unleash like so many possibilities to have some unlimited usage of AI anywhere,
+
+191
+00:09:51,360 --> 00:09:52,360
+right?
+
+192
+00:09:52,360 --> 00:09:59,260
+crazy, but also Muse like released, we can't use it because we are in Europe, but that's
+
+193
+00:09:59,260 --> 00:10:07,880
+another problem. But Muse is free. Like the Grokbot from Meta is completely free. I think.
+
+194
+00:10:07,880 --> 00:10:14,800
+Yeah. But if I have a website and I just let all my customers query my tool on my website,
+
+195
+00:10:14,800 --> 00:10:22,200
+I use my file from unlimited plan and charge them $200 each. Then I can make like 10k per
+
+196
+00:10:22,200 --> 00:10:29,240
+month. Exactly. So that doesn't make sense for them. I am missing something else. So that's why
+
+197
+00:10:29,240 --> 00:10:36,680
+I think it's like the unlimited phone subscriptions that you have for calling or that you used to have
+
+198
+00:10:36,680 --> 00:10:42,040
+you can call unlimited but there is a fair use policy. You cannot go further than the average of
+
+199
+00:10:42,040 --> 00:10:49,800
+every unlimited user. Yeah. Yeah, like, yeah, it's nothing is announced anywhere, right? So we will
+
+200
+00:10:49,800 --> 00:10:54,960
+will know in the show. So it's a speculative speculative
+
+201
+00:10:54,960 --> 00:10:59,080
+announcement for sure. But like, okay, so for example, meta bag.
+
+202
+00:11:00,960 --> 00:11:07,360
+Share this tab. Muse was like a small business. New Personal AI
+
+203
+00:11:07,360 --> 00:11:13,840
+agent is one of them. Where is it? The free one? Okay, do you
+
+204
+00:11:13,840 --> 00:11:18,160
+trust use? I would you use it? I didn't try it because we're in
+
+205
+00:11:18,160 --> 00:11:20,640
+- No, no, but if you could, would you use it?
+
+206
+00:11:20,640 --> 00:11:22,800
+Knowing that's by Meta.
+
+207
+00:11:22,800 --> 00:11:24,000
+- Yeah, whatever.
+
+208
+00:11:24,000 --> 00:11:26,080
+If you have unlimited agent stuff
+
+209
+00:11:27,200 --> 00:11:31,000
+and I can save some usage from Grokbot,
+
+210
+00:11:31,000 --> 00:11:32,440
+then I will use that.
+
+211
+00:11:32,440 --> 00:11:36,320
+It's a pyramid, right?
+
+212
+00:11:36,320 --> 00:11:41,160
+Like I will use my coding agents that are expensive as fuck
+
+213
+00:11:41,160 --> 00:11:43,560
+to build some stuff and build businesses.
+
+214
+00:11:43,560 --> 00:11:46,320
+But then I will use Grokbot for some more required,
+
+215
+00:11:46,320 --> 00:11:48,200
+like where growth bot is better.
+
+216
+00:11:48,200 --> 00:11:52,720
+And then Muse will be the AI agent for everyone.
+
+217
+00:11:52,720 --> 00:11:54,440
+So I can use it anyway.
+
+218
+00:11:54,440 --> 00:11:59,320
+Even on the Mac OS update,
+
+219
+00:11:59,320 --> 00:12:04,320
+there is a model on Apple, Apple foundation model.
+
+220
+00:12:04,740 --> 00:12:07,480
+I tried it, it's garbage.
+
+221
+00:12:07,480 --> 00:12:12,480
+Like I asked them the model to audit my Mac
+
+222
+00:12:12,600 --> 00:12:15,080
+and to tell me like which processes
+
+223
+00:12:15,080 --> 00:12:19,640
+I could clean up and clean my trash and stuff
+
+224
+00:12:19,640 --> 00:12:21,440
+and make some space.
+
+225
+00:12:21,440 --> 00:12:22,520
+Oh no, I can't do that.
+
+226
+00:12:22,520 --> 00:12:27,280
+You need to open the windows and check your activities,
+
+227
+00:12:27,280 --> 00:12:28,200
+blah, blah, blah.
+
+228
+00:12:28,200 --> 00:12:32,920
+- Yeah, so it's a chatbot with just normal help.
+
+229
+00:12:32,920 --> 00:12:34,120
+- What the fuck? - That's it.
+
+230
+00:12:34,120 --> 00:12:35,400
+- Like what's the point?
+
+231
+00:12:35,400 --> 00:12:38,660
+But yeah, like so for free, free, free.
+
+232
+00:12:40,240 --> 00:12:41,080
+Thank, yeah.
+
+233
+00:12:41,080 --> 00:12:42,960
+- I thought they were going to work together
+
+234
+00:12:42,960 --> 00:12:44,500
+with one of the other models.
+
+235
+00:12:44,500 --> 00:12:47,340
+Yeah, like they're supposed to, Apple?
+
+236
+00:12:47,340 --> 00:12:48,180
+- Yeah.
+
+237
+00:12:48,180 --> 00:12:51,120
+- Yeah, they're supposed to use Google Gmini models.
+
+238
+00:12:53,380 --> 00:12:55,300
+Yeah, Muse is free for most what people need
+
+239
+00:12:55,300 --> 00:12:57,260
+in line with the vision to put superintendents
+
+240
+00:12:57,260 --> 00:13:00,300
+in the land of as many people as possible.
+
+241
+00:13:01,660 --> 00:13:03,220
+That's cool.
+
+242
+00:13:03,220 --> 00:13:06,740
+Like, yeah, I need to free up time for work, blah, blah, blah.
+
+243
+00:13:06,740 --> 00:13:10,100
+I think that could be the entry,
+
+244
+00:13:10,100 --> 00:13:14,300
+and also it's, yeah, chat GPT competition too,
+
+245
+00:13:14,300 --> 00:13:17,280
+But yeah, and people are already on Instagram,
+
+246
+00:13:17,280 --> 00:13:20,480
+WhatsApp, blah, blah, blah, so they can have another entry
+
+247
+00:13:20,480 --> 00:13:23,760
+to Muse.
+
+248
+00:13:23,760 --> 00:13:26,680
+So yeah, maybe like thread, right?
+
+249
+00:13:26,680 --> 00:13:29,160
+Like when you had an Instagram account,
+
+250
+00:13:29,160 --> 00:13:30,840
+then you have a thread account,
+
+251
+00:13:30,840 --> 00:13:35,040
+then thread has 1 billion user day one,
+
+252
+00:13:35,040 --> 00:13:37,800
+Muse can have the same stuff, but yeah.
+
+253
+00:13:37,800 --> 00:13:39,560
+- And they can integrate it into everything
+
+254
+00:13:39,560 --> 00:13:42,160
+so that everybody uses it but don't know it.
+
+255
+00:13:42,160 --> 00:13:43,000
+- Yeah. - I think Google
+
+256
+00:13:43,000 --> 00:13:43,980
+does it as well.
+
+257
+00:13:43,980 --> 00:13:46,880
+- Yeah, oh yeah, yeah, yeah, yeah, yeah, 1% like the AI
+
+258
+00:13:46,880 --> 00:13:48,760
+on Google is basically Gemini.
+
+259
+00:13:48,760 --> 00:13:49,600
+- Yeah.
+
+260
+00:13:49,600 --> 00:13:52,160
+- Outside of Google tools, never used Gemini whatsoever.
+
+261
+00:13:52,160 --> 00:13:53,920
+- No, but it's one of the bigger AIs
+
+262
+00:13:53,920 --> 00:13:56,480
+because so many people in the world are using it
+
+263
+00:13:56,480 --> 00:13:58,700
+because they are using like the Google tools.
+
+264
+00:13:58,700 --> 00:14:00,880
+- Yeah, but when you look at the benchmark,
+
+265
+00:14:00,880 --> 00:14:02,960
+that is almost like, you know.
+
+266
+00:14:02,960 --> 00:14:04,940
+- On the other hand, that doesn't need to be that good
+
+267
+00:14:04,940 --> 00:14:06,320
+for just normal stuff.
+
+268
+00:14:06,320 --> 00:14:07,660
+- Exactly, yeah.
+
+269
+00:14:07,660 --> 00:14:10,440
+Hey, like we are super poor user of AI.
+
+270
+00:14:10,440 --> 00:14:11,280
+- Yeah.
+
+271
+00:14:11,280 --> 00:14:12,520
+- Yeah.
+
+272
+00:14:12,520 --> 00:14:23,080
+So yeah, that was the that was the open AI lunch on Sol and Luna. And that was not good.
+
+273
+00:14:23,080 --> 00:14:32,520
+Sol, Luna, Puff. That was not really the best feedback on the timeline. Like, I don't know
+
+274
+00:14:32,520 --> 00:14:37,640
+if you see some tweet, but they say like, "Ah, it's us, hi."
+
+275
+00:14:37,640 --> 00:14:39,640
+Doesn't work. It's the end.
+
+276
+00:14:39,640 --> 00:14:52,680
+The GPT story is like 5.6 tera. Luna is like 5.6 asteroid. Yeah, whatever. Benchmark results.
+
+277
+00:14:52,680 --> 00:14:59,600
+Not quite what I was expecting. Low, past. Yeah, whatever. But yeah, like people are
+
+278
+00:14:59,600 --> 00:15:09,400
+screaming about it. So it's whatever. And then, Grog, 7 points. 4.7. Lunch. Thank you.
+
+279
+00:15:09,400 --> 00:15:18,620
+Oh no, it launched before. Okay, whatever. So Grok 4.7 launched and same thing, people
+
+280
+00:15:18,620 --> 00:15:27,840
+were not happy with it. It was basically it was slower than even 4.6. And it was not finishing
+
+281
+00:15:27,840 --> 00:15:30,500
+the task. So
+
+282
+00:15:30,500 --> 00:15:37,400
+I didn't have the last issue. I just I've been using it. And I don't notice any difference
+
+283
+00:15:37,400 --> 00:15:44,440
+between 4.6 and 4.7. Yeah, like sometimes it can be okay, sometimes it can be like the
+
+284
+00:15:44,440 --> 00:15:49,080
+timeline is saying bullshit anyway just to make impression anyway and you don't know
+
+285
+00:15:49,080 --> 00:15:55,040
+what the fuck people are doing with AI compared to your own workflow right so. Yeah the only
+
+286
+00:15:55,040 --> 00:16:00,920
+thing that was funny to see because we were waiting for 4.7 like one or two weeks after
+
+287
+00:16:00,920 --> 00:16:08,200
+Elon said it would be there and Elon was talking about 4.8, 4.9 and even saying that 5.0 is coming
+
+288
+00:16:08,200 --> 00:16:15,720
+and that's one of the best models ever but nobody was talking about 4.7 and then it just was there.
+
+289
+00:16:17,080 --> 00:16:23,160
+Yeah and like he's promising AGI every patch. Yes. It's not coming.
+
+290
+00:16:26,200 --> 00:16:33,640
+2% of my weekly, it's not even much better than 4.6. 4.5 was a good model release, but 4.6
+
+291
+00:16:33,640 --> 00:16:37,800
+and 4.7 were basically useless models. I kind of like agree with that sentence.
+
+292
+00:16:39,480 --> 00:16:41,160
+But 4.5 just was fast.
+
+293
+00:16:41,720 --> 00:16:49,160
+Exactly. But then the developer experience is fucking lit. Because like, again, you do all
+
+294
+00:16:49,160 --> 00:16:57,760
+of your pull request or like PRDs and scheduling and planning with Fable, Astra, whatever,
+
+295
+00:16:57,760 --> 00:17:02,040
+and then you give it to Grok 4.5 and then it just blasts.
+
+296
+00:17:02,040 --> 00:17:08,120
+I don't even mind if it doesn't create that perfect code because I'm not using it to create
+
+297
+00:17:08,120 --> 00:17:09,120
+to think of everything.
+
+298
+00:17:09,120 --> 00:17:10,760
+Yeah, no, no, exactly.
+
+299
+00:17:10,760 --> 00:17:11,760
+Just code.
+
+300
+00:17:11,760 --> 00:17:12,760
+Yeah.
+
+301
+00:17:12,760 --> 00:17:17,520
+Okay, another feedback from Gunchen.
+
+302
+00:17:17,520 --> 00:17:20,320
+The only things reference the printing benchmark,
+
+303
+00:17:20,320 --> 00:17:21,280
+blah, blah, blah.
+
+304
+00:17:21,280 --> 00:17:24,520
+I use Grok for a whole day with my first mate.
+
+305
+00:17:24,520 --> 00:17:26,320
+It'd be a really solid model.
+
+306
+00:17:26,320 --> 00:17:28,560
+It photos system from very, very closely.
+
+307
+00:17:28,560 --> 00:17:29,520
+Yeah.
+
+308
+00:17:29,520 --> 00:17:31,080
+We had that kind of issues too,
+
+309
+00:17:31,080 --> 00:17:36,080
+with like previously with Claude 4.6
+
+310
+00:17:37,480 --> 00:17:38,760
+or something like that in the forward,
+
+311
+00:17:38,760 --> 00:17:41,060
+like the old prompt change,
+
+312
+00:17:41,060 --> 00:17:43,440
+like the prompt, like the way people were prompting
+
+313
+00:17:43,440 --> 00:17:45,480
+and they all, yeah, no, this model doesn't work.
+
+314
+00:17:45,480 --> 00:17:47,480
+You just need to be able to change
+
+315
+00:17:49,660 --> 00:17:51,240
+the way you talk to the model.
+
+316
+00:17:51,240 --> 00:17:53,960
+- Yeah, you need to do that almost every update.
+
+317
+00:17:53,960 --> 00:17:54,800
+- Yeah.
+
+318
+00:17:58,220 --> 00:18:00,580
+Yeah, it's a conservative model.
+
+319
+00:18:00,580 --> 00:18:03,040
+That's why like people are saying it doesn't finish the task
+
+320
+00:18:03,040 --> 00:18:05,840
+because it doesn't go the extra mile.
+
+321
+00:18:05,840 --> 00:18:08,120
+It doesn't like to take action without asking
+
+322
+00:18:08,120 --> 00:18:10,120
+and would explicitly say so.
+
+323
+00:18:10,120 --> 00:18:13,800
+Like sometimes it's nice to have a model
+
+324
+00:18:13,800 --> 00:18:18,800
+that go a bit further and just pushed a little icon,
+
+325
+00:18:19,320 --> 00:18:22,920
+the button of features that you didn't even think about it,
+
+326
+00:18:22,920 --> 00:18:24,360
+but it's here now.
+
+327
+00:18:24,360 --> 00:18:26,040
+- Yeah, but not always.
+
+328
+00:18:26,040 --> 00:18:26,880
+- Yeah.
+
+329
+00:18:26,880 --> 00:18:28,700
+- Sometimes I just need, I need speed.
+
+330
+00:18:28,700 --> 00:18:30,400
+So I want to fix something
+
+331
+00:18:30,400 --> 00:18:32,680
+and then don't go changing everything.
+
+332
+00:18:32,680 --> 00:18:34,440
+- Yeah, I know exactly.
+
+333
+00:18:34,440 --> 00:18:37,000
+It's yeah, but can you imagine like,
+
+334
+00:18:37,000 --> 00:18:39,480
+how do you resolve that kind of problem?
+
+335
+00:18:39,480 --> 00:18:41,880
+Like you want your model to be a bit creative,
+
+336
+00:18:41,880 --> 00:18:46,320
+but not too much so you don't refactor the security guideline.
+
+337
+00:18:46,320 --> 00:18:49,820
+We should just have a bar where you can say between one and 100%
+
+338
+00:18:49,820 --> 00:18:53,220
+and just move it to the left and to the right and then see what the result is.
+
+339
+00:18:53,220 --> 00:18:54,480
+It's called effort.
+
+340
+00:18:54,480 --> 00:18:56,480
+Yeah, yeah, exactly.
+
+341
+00:18:56,480 --> 00:18:58,720
+Yeah, yeah.
+
+342
+00:18:58,720 --> 00:19:04,380
+Maybe you can write like better scoped PRDs
+
+343
+00:19:04,380 --> 00:19:09,580
+and then reduce the effort so there is less thinking, so less creativity.
+
+344
+00:19:09,580 --> 00:19:16,180
+And if the model can think more, it can go into different direction.
+
+345
+00:19:16,180 --> 00:19:20,340
+Yeah, but I still think it forgets the prompt or the guardrails
+
+346
+00:19:20,340 --> 00:19:21,220
+that you set.
+
+347
+00:19:21,220 --> 00:19:21,980
+Yeah.
+
+348
+00:19:21,980 --> 00:19:24,620
+Because you have to remind it every once in a while.
+
+349
+00:19:24,620 --> 00:19:26,860
+And then it says, oh, yeah, you're right.
+
+350
+00:19:26,860 --> 00:19:28,740
+Yeah.
+
+351
+00:19:28,740 --> 00:19:33,260
+On the Claude Desktop app, now you can join multiple projects, right?
+
+352
+00:19:35,820 --> 00:19:40,820
+So I expect that to think about those projects all the time.
+
+353
+00:19:41,420 --> 00:19:46,040
+So I have a vault for like both projects
+
+354
+00:19:46,040 --> 00:19:47,020
+I'm working on right now.
+
+355
+00:19:47,020 --> 00:19:51,200
+And there is the documentation in there.
+
+356
+00:19:51,200 --> 00:19:53,780
+And then it's doing something, it's like,
+
+357
+00:19:53,780 --> 00:19:56,140
+bro, it's in the vault, why you didn't check it?
+
+358
+00:19:56,140 --> 00:19:56,960
+Blah, blah, blah.
+
+359
+00:19:56,960 --> 00:19:58,340
+And so it doesn't check all the time.
+
+360
+00:19:58,340 --> 00:20:01,460
+But it's also like it can't because then you put it
+
+361
+00:20:01,460 --> 00:20:03,160
+to the context every session through it.
+
+362
+00:20:03,160 --> 00:20:04,940
+So it's still tricky.
+
+363
+00:20:04,940 --> 00:20:10,220
+I had the same issue on Grok bot. That's running on 4.7 now as well, right?
+
+364
+00:20:10,220 --> 00:20:10,860
+Yeah.
+
+365
+00:20:10,860 --> 00:20:17,260
+Because I gave it like tasks and then I have my manager that just does managing
+
+366
+00:20:17,260 --> 00:20:22,540
+and it talks to all the bots that have that task. And then after a while, when a bot doesn't do
+
+367
+00:20:22,540 --> 00:20:28,860
+its task, instead of reminding him and checking the prompts on that it should do it, the manager
+
+368
+00:20:28,860 --> 00:20:32,620
+just decides, hey, he isn't doing it. So from now on, I am going to do it.
+
+369
+00:20:33,260 --> 00:20:33,760
+Yeah.
+
+370
+00:20:34,300 --> 00:20:40,060
+So your manager is implementing instead of managing?
+
+371
+00:20:40,700 --> 00:20:44,860
+Yeah, and I even added Dr. Akbar and everything.
+
+372
+00:20:46,300 --> 00:20:54,780
+And I say every task that you create, you have to check it with Akbar
+
+373
+00:20:54,780 --> 00:20:58,540
+and you have to make sure that it's properly set up and you have to get a go before you can
+
+374
+00:20:58,540 --> 00:21:03,900
+implement it. And Dr. Akbar is optimizing each night to see if everything still goes okay.
+
+375
+00:21:04,300 --> 00:21:08,940
+And then just once a week, it decides to just do it different.
+
+376
+00:21:08,940 --> 00:21:09,940
+Damn.
+
+377
+00:21:11,300 --> 00:21:14,140
+Yeah, like, and it's a black box, right?
+
+378
+00:21:14,140 --> 00:21:18,860
+You don't know what the fuck they are changing from one day to another.
+
+379
+00:21:18,860 --> 00:21:28,420
+And Bridge Mind on X is using, he has a benchmark to check the performances between...
+
+380
+00:21:28,420 --> 00:21:29,740
+Bridge Mind.
+
+381
+00:21:30,900 --> 00:21:33,740
+Between the launch day and today, for example.
+
+382
+00:21:33,740 --> 00:21:48,300
+Oh, that's cool. Use branch. I saw it recently. Oh yeah, it's tweeting a lot. Tank, bench,
+
+383
+00:21:48,300 --> 00:21:51,700
+Benchmark.
+
+384
+00:21:51,700 --> 00:21:52,200
+Lunch.
+
+385
+00:21:58,060 --> 00:21:59,020
+We'll see it.
+
+386
+00:21:59,020 --> 00:22:00,020
+Day one.
+
+387
+00:22:00,020 --> 00:22:00,820
+What?
+
+388
+00:22:00,820 --> 00:22:02,100
+I think-- OK.
+
+389
+00:22:02,100 --> 00:22:03,180
+No.
+
+390
+00:22:03,180 --> 00:22:03,940
+That's the usage.
+
+391
+00:22:03,940 --> 00:22:06,220
+OK, fan off.
+
+392
+00:22:06,220 --> 00:22:07,100
+Benchbench.
+
+393
+00:22:07,100 --> 00:22:08,020
+OK.
+
+394
+00:22:08,020 --> 00:22:08,740
+Nerfbench.
+
+395
+00:22:08,740 --> 00:22:10,620
+Yes, that was the tweet that I saw.
+
+396
+00:22:10,620 --> 00:22:12,620
+A lot of people are saying Antropica's already
+
+397
+00:22:12,620 --> 00:22:14,260
+Nerf Claude 5.5.
+
+398
+00:22:14,260 --> 00:22:17,060
+We're launching Nerfbench on Branchbench tomorrow.
+
+399
+00:22:17,060 --> 00:22:19,260
+We have one day result. Tomorrow morning,
+
+400
+00:22:19,260 --> 00:22:22,980
+we show the retest tech.
+
+401
+00:22:22,980 --> 00:22:33,700
+Nerf bench tech.
+
+402
+00:22:33,700 --> 00:22:37,340
+So yeah, the Anthropic nerf, Claude Apuze,
+
+403
+00:22:37,340 --> 00:22:39,100
+the first nerf bench result alive.
+
+404
+00:22:39,100 --> 00:22:43,220
+We retested 5.5 and GPT Astra.
+
+405
+00:22:43,220 --> 00:22:46,060
+Claude Apuze, 99%.
+
+406
+00:22:46,060 --> 00:22:48,100
+and Astra went up 2%.
+
+407
+00:22:48,100 --> 00:22:51,700
+So, okay, it's a new bench, whatever,
+
+408
+00:22:51,700 --> 00:22:54,260
+from a guy who is dancing on YouTube.
+
+409
+00:22:54,260 --> 00:22:55,200
+So yeah, whatever.
+
+410
+00:22:56,980 --> 00:22:59,460
+I mean, he's doing more than that, but yeah, whatever.
+
+411
+00:23:00,380 --> 00:23:04,400
+If that's true, and if this benchmark is legit,
+
+412
+00:23:05,980 --> 00:23:09,140
+that's the proof that they're definitely doing something
+
+413
+00:23:09,140 --> 00:23:12,020
+in the background, and from one day to another,
+
+414
+00:23:12,020 --> 00:23:15,640
+your whole workflow is fucked, because guess what?
+
+415
+00:23:15,640 --> 00:23:17,580
+it's optimized for prompt that they have
+
+416
+00:23:17,580 --> 00:23:18,780
+that they just changed.
+
+417
+00:23:18,780 --> 00:23:20,540
+- Yeah, yeah, exactly.
+
+418
+00:23:20,540 --> 00:23:22,500
+Like they can change the configuration
+
+419
+00:23:22,500 --> 00:23:24,660
+and then it's fucked you up completely.
+
+420
+00:23:24,660 --> 00:23:28,360
+So yeah, it's definitely interesting.
+
+421
+00:23:28,360 --> 00:23:29,860
+- Yeah.
+
+422
+00:23:29,860 --> 00:23:31,940
+- Okay, but anyway, that was for--
+
+423
+00:23:32,840 --> 00:23:34,580
+- Grok, 4.7. - Grok.
+
+424
+00:23:34,580 --> 00:23:39,500
+So basically the whole timeline was in the middle of the--
+
+425
+00:23:39,500 --> 00:23:41,820
+- Yeah, but for just boring development work
+
+426
+00:23:41,820 --> 00:23:45,540
+where I have the entire plan written down,
+
+427
+00:23:45,540 --> 00:23:47,340
+I'm still using Grok.
+
+428
+00:23:47,340 --> 00:23:52,140
+- Yeah, as long as you give me reset for the usage,
+
+429
+00:23:52,140 --> 00:23:52,980
+I'm good.
+
+430
+00:23:52,980 --> 00:23:55,780
+You can release as many models as you want.
+
+431
+00:23:55,780 --> 00:24:00,780
+But the big one, the big, big one was Claude Opus 55,
+
+432
+00:24:03,420 --> 00:24:07,260
+which took the timeline like big time
+
+433
+00:24:07,260 --> 00:24:10,900
+because yeah, 27 million views.
+
+434
+00:24:10,900 --> 00:24:11,740
+- Yeah.
+
+435
+00:24:12,980 --> 00:24:15,380
+They somehow do good on marketing.
+
+436
+00:24:15,380 --> 00:24:20,020
+Yeah, because people are happy, right?
+
+437
+00:24:20,020 --> 00:24:24,460
+5.5, better than Fable 5.1.
+
+438
+00:24:24,460 --> 00:24:26,860
+And basically what's happening, I
+
+439
+00:24:26,860 --> 00:24:29,500
+expect them to have Fable 5.5.
+
+440
+00:24:29,500 --> 00:24:32,860
+And Fable 5.5 or whatever the next version
+
+441
+00:24:32,860 --> 00:24:38,420
+is getting distilled into Opus and from yesterday, Sonnet.
+
+442
+00:24:38,420 --> 00:24:41,820
+And those models are really good.
+
+443
+00:24:41,820 --> 00:24:44,420
+Yeah, because at this moment, why would you even
+
+444
+00:24:44,420 --> 00:24:46,540
+want to use Fable?
+
+445
+00:24:46,540 --> 00:24:51,540
+- 100%, like it's too, and it's too expensive
+
+446
+00:24:51,540 --> 00:24:52,740
+for the output that you have,
+
+447
+00:24:52,740 --> 00:24:54,980
+and you have more or less the same outputs
+
+448
+00:24:54,980 --> 00:24:57,220
+with today Opus.
+
+449
+00:24:58,160 --> 00:25:02,760
+So yeah, like I just closed all of my Fable session.
+
+450
+00:25:02,760 --> 00:25:04,240
+- Yeah, bye bye.
+
+451
+00:25:04,240 --> 00:25:06,740
+- Yeah, and the Jupyter crazy, right?
+
+452
+00:25:06,740 --> 00:25:11,740
+Like identity coding 50% to 66, 10% more,
+
+453
+00:25:11,740 --> 00:25:14,540
+Multi-disciplinary reasoning, okay, two point more.
+
+454
+00:25:14,540 --> 00:25:16,960
+Business workflow, 40%.
+
+455
+00:25:16,960 --> 00:25:18,500
+It's fucking nuts.
+
+456
+00:25:18,500 --> 00:25:23,500
+Computer use, I still prefer like the OpenAI computer use
+
+457
+00:25:23,780 --> 00:25:25,700
+in codecs, I think it's better.
+
+458
+00:25:25,700 --> 00:25:28,780
+Like the Claude one is a bit like annoying.
+
+459
+00:25:30,580 --> 00:25:35,340
+But yeah, knowledge work, 1846.
+
+460
+00:25:35,340 --> 00:25:36,180
+Mental.
+
+461
+00:25:37,900 --> 00:25:38,740
+Cool.
+
+462
+00:25:39,600 --> 00:25:43,240
+And yeah, the pricing is cheaper.
+
+463
+00:25:43,240 --> 00:25:44,280
+So we like that.
+
+464
+00:25:44,280 --> 00:25:48,160
+So we can spend more task.
+
+465
+00:25:48,160 --> 00:25:51,800
+And like for real, like working with Opus
+
+466
+00:25:51,800 --> 00:25:53,600
+feel a bit like not unlimited,
+
+467
+00:25:53,600 --> 00:25:56,420
+but at least we have a usage.
+
+468
+00:25:56,420 --> 00:26:00,000
+I go from 36 hours to 72.
+
+469
+00:26:00,000 --> 00:26:03,520
+- Yeah, well, I never go through my usage, so I'm happy.
+
+470
+00:26:05,040 --> 00:26:06,080
+- And yeah, okay.
+
+471
+00:26:06,080 --> 00:26:11,080
+So way above 5.5, cheaper and perform at the same level
+
+472
+00:26:13,560 --> 00:26:16,560
+than the Astra, so let's go.
+
+473
+00:26:17,900 --> 00:26:20,000
+Tag, and we don't care about that.
+
+474
+00:26:20,000 --> 00:26:22,500
+And then like everyone was doing,
+
+475
+00:26:23,760 --> 00:26:25,820
+Sonnet, I'm gonna keep it for later.
+
+476
+00:26:28,000 --> 00:26:33,000
+Video editing, oh please, 5.5 video.
+
+477
+00:26:33,000 --> 00:26:35,780
+Some video demo, ever like, okay, so okay,
+
+478
+00:26:35,780 --> 00:26:38,260
+That's a five five, but Sonnet.
+
+479
+00:26:38,260 --> 00:26:41,020
+Okay, yeah, this one I like a lot.
+
+480
+00:26:41,020 --> 00:26:43,060
+Ask Opus 5 for a video of data center.
+
+481
+00:26:43,060 --> 00:26:45,100
+The result is beyond what I could imagine.
+
+482
+00:26:46,220 --> 00:26:51,220
+And the thing is, where is my Twitter?
+
+483
+00:26:54,420 --> 00:26:59,420
+Because she replied to a guy saying that Opus, yes.
+
+484
+00:27:00,100 --> 00:27:02,020
+I told Claude to browse the internet
+
+485
+00:27:02,020 --> 00:27:03,980
+and find whatever he wanted to use.
+
+486
+00:27:04,980 --> 00:27:09,620
+So it didn't generate the video, it just went on internet
+
+487
+00:27:09,620 --> 00:27:10,980
+and put them all together.
+
+488
+00:27:12,180 --> 00:27:15,620
+Path and there is something else like that.
+
+489
+00:27:17,760 --> 00:27:19,780
+Okay, so and the video is great.
+
+490
+00:27:20,780 --> 00:27:22,540
+- Was built on technology.
+
+491
+00:27:22,540 --> 00:27:23,380
+- You had the--
+
+492
+00:27:23,380 --> 00:27:25,060
+- It is the glory of human ambition.
+
+493
+00:27:25,060 --> 00:27:26,020
+- You had the sound?
+
+494
+00:27:26,020 --> 00:27:27,260
+- Yeah.
+
+495
+00:27:27,260 --> 00:27:30,360
+- Our civilization was built on technology.
+
+496
+00:27:30,360 --> 00:27:33,940
+It is the glory of human ambition and achievement.
+
+497
+00:27:33,940 --> 00:27:36,220
+And we have invented a new technology.
+
+498
+00:27:36,220 --> 00:27:39,500
+I think the internet is the superset of all meaning.
+
+499
+00:27:39,500 --> 00:27:40,700
+Why do they need an internet?
+
+500
+00:27:40,700 --> 00:27:41,700
+It's nice.
+
+501
+00:27:41,700 --> 00:27:45,140
+You can see that on Netflix.
+
+502
+00:27:45,140 --> 00:27:47,300
+Because it took video from the internet
+
+503
+00:27:47,300 --> 00:27:50,220
+and put them together.
+
+504
+00:27:50,220 --> 00:27:51,700
+Let's go.
+
+505
+00:27:51,700 --> 00:27:53,500
+Yeah, it's getting really smart.
+
+506
+00:27:53,500 --> 00:27:54,940
+Yeah.
+
+507
+00:27:54,940 --> 00:28:00,580
+And even the timing and stuff, everything is lit.
+
+508
+00:28:00,580 --> 00:28:05,580
+So that's down and I think this one was procedural.
+
+509
+00:28:05,580 --> 00:28:08,500
+(computer beeping)
+
+510
+00:28:09,420 --> 00:28:10,260
+Thank you.
+
+511
+00:28:11,180 --> 00:28:13,140
+- By the end, it forgot the beginning.
+
+512
+00:28:13,140 --> 00:28:14,540
+- The theory of AI.
+
+513
+00:28:14,540 --> 00:28:17,100
+- But one small word refused to fade.
+
+514
+00:28:18,020 --> 00:28:21,260
+Then in the summer of 2017,
+
+515
+00:28:21,260 --> 00:28:24,140
+every word saw every other word,
+
+516
+00:28:24,140 --> 00:28:26,540
+not one after another all at once.
+
+517
+00:28:27,380 --> 00:28:28,340
+Eight researchers-
+
+518
+00:28:28,340 --> 00:28:38,020
+sick like you can definitely oh yeah like episode did this in 15 minutes
+
+519
+00:28:38,020 --> 00:28:45,340
+in minutes check out got something to sell courses ebooks apps pockets flow
+
+520
+00:28:45,340 --> 00:28:50,380
+turns it into a store in minutes check out subscriptions upsells taxes payouts
+
+521
+00:28:50,380 --> 00:28:59,420
+It's fucking cool.
+
+522
+00:28:59,420 --> 00:29:00,620
+Yeah.
+
+523
+00:29:00,620 --> 00:29:02,320
+And yeah.
+
+524
+00:29:02,320 --> 00:29:06,220
+Before you would need like a team to just create something like that.
+
+525
+00:29:06,220 --> 00:29:12,820
+In a week, two hours, one prompt, close, quietly build something so called the cradle, give
+
+526
+00:29:12,820 --> 00:29:14,740
+it away for free.
+
+527
+00:29:14,740 --> 00:29:21,020
+Yeah, so that was like the big weekend code to make videos.
+
+528
+00:29:21,020 --> 00:29:28,220
+I gave my opus 55, one of the French theory analysis that got 80 million views and simply
+
+529
+00:29:28,220 --> 00:29:31,100
+asked to turn it into a video.
+
+530
+00:29:31,100 --> 00:29:32,100
+And then yeah.
+
+531
+00:29:32,100 --> 00:29:33,100
+Garbage of our time.
+
+532
+00:29:33,100 --> 00:29:37,820
+The author is dead and the reader reigns.
+
+533
+00:29:37,820 --> 00:29:44,460
+Deleuze taught us to prefer the rhizome to the tree, the nomad to the settler, desire
+
+534
+00:29:44,460 --> 00:29:50,900
+to law becoming to being like you can see it's always the same animation the same style
+
+535
+00:29:50,900 --> 00:29:57,500
+you there is a obvious phone stuff right but others it's the same as websites right everybody
+
+536
+00:29:57,500 --> 00:30:06,340
+who has the website built fully by Claude you just recognize it yeah but it works what nice
+
+537
+00:30:06,340 --> 00:30:13,100
+i don't mind it looks good it does what it needs to do yeah so yeah and otherwise just
+
+538
+00:30:13,100 --> 00:30:16,520
+spent a few hours more doing the details
+
+539
+00:30:16,520 --> 00:30:17,980
+and asking it to change it.
+
+540
+00:30:17,980 --> 00:30:21,540
+- Exactly, like one guy spent 15 minutes on a video.
+
+541
+00:30:21,540 --> 00:30:22,900
+If you want to make it perfect,
+
+542
+00:30:22,900 --> 00:30:24,360
+spend the next three hours
+
+543
+00:30:24,360 --> 00:30:26,980
+and then you will have something even better, right?
+
+544
+00:30:26,980 --> 00:30:29,680
+- Yeah, and it's still pretty fast.
+
+545
+00:30:29,680 --> 00:30:30,520
+- Yeah.
+
+546
+00:30:31,420 --> 00:30:34,020
+The timer is called zero after effect.
+
+547
+00:30:34,020 --> 00:30:36,680
+It's open source, one prompt, ask me, oh, Jesus.
+
+548
+00:30:38,860 --> 00:30:41,440
+(upbeat music)
+
+549
+00:30:43,100 --> 00:30:53,420
+You could see this animation in an Apple design video.
+
+550
+00:30:53,420 --> 00:30:58,820
+And yesterday, because we are always good on timing, Sonnet 5.5.
+
+551
+00:30:58,820 --> 00:31:01,100
+Yes, and you tried it.
+
+552
+00:31:01,100 --> 00:31:04,820
+Yes, the whole day, like the whole morning.
+
+553
+00:31:04,820 --> 00:31:10,800
+I was on my Claude's weekly subscription 24%.
+
+554
+00:31:10,800 --> 00:31:13,620
+I work the whole morning and I'm still running
+
+555
+00:31:13,620 --> 00:31:15,400
+on Fume right now.
+
+556
+00:31:15,400 --> 00:31:19,360
+I have like 1%, but it's still going.
+
+557
+00:31:21,000 --> 00:31:22,460
+- Oh yeah, I didn't try JET.
+
+558
+00:31:22,460 --> 00:31:24,840
+I was still using Opus.
+
+559
+00:31:28,120 --> 00:31:29,840
+- You are Opus, on Opus?
+
+560
+00:31:29,840 --> 00:31:31,700
+- I was still using Opus, yes.
+
+561
+00:31:32,960 --> 00:31:34,120
+- I love Sonnet.
+
+562
+00:31:34,120 --> 00:31:38,360
+Like, and again, like I think I will run an audit
+
+563
+00:31:38,360 --> 00:31:43,360
+of all of the pull requests or stuff like that with Claude.
+
+564
+00:31:43,800 --> 00:31:48,800
+I need to see if it's using more tokens and more usage
+
+565
+00:31:49,000 --> 00:31:53,920
+that to have the very fire as a smarter model than Sonnet.
+
+566
+00:31:53,920 --> 00:31:58,920
+But when you check the freaking benchmark,
+
+567
+00:32:01,040 --> 00:32:05,800
+Sonnet 70%, okay, I drink coding, Sonnet 510.
+
+568
+00:32:06,860 --> 00:32:08,420
+That's so weird.
+
+569
+00:32:08,420 --> 00:32:11,220
+That's such a big leap.
+
+570
+00:32:11,220 --> 00:32:12,380
+- Yeah.
+
+571
+00:32:12,380 --> 00:32:16,820
+Agent coding, 4652 on xi.
+
+572
+00:32:16,820 --> 00:32:21,820
+So they are above GPT sol when they are xi.
+
+573
+00:32:23,120 --> 00:32:25,340
+NC like max.
+
+574
+00:32:25,340 --> 00:32:26,540
+Okay, so max what is--
+
+575
+00:32:26,540 --> 00:32:28,320
+- Max is lower than xi.
+
+576
+00:32:28,320 --> 00:32:30,260
+- Yes, because, okay.
+
+577
+00:32:30,260 --> 00:32:33,260
+So Sonnet calls lower at max effort than xi.
+
+578
+00:32:33,260 --> 00:32:35,820
+Frontier code evaluate whether a code change
+
+579
+00:32:35,820 --> 00:32:38,220
+could be merged with thought human edits.
+
+580
+00:32:38,220 --> 00:32:40,340
+It penalize out of scopes change
+
+581
+00:32:40,340 --> 00:32:44,380
+even if they are high quality or helpful.
+
+582
+00:32:44,380 --> 00:32:48,280
+At mask, max efforts on F5,
+
+583
+00:32:48,280 --> 00:32:52,180
+more often run code review skills.
+
+584
+00:32:52,180 --> 00:32:56,460
+Because an effort allow you to increase
+
+585
+00:32:56,460 --> 00:32:59,540
+the amount of effort slash rounds
+
+586
+00:32:59,540 --> 00:33:01,980
+that you want to put in a task.
+
+587
+00:33:01,980 --> 00:33:04,780
+So if you are low or medium, like I never run low,
+
+588
+00:33:04,780 --> 00:33:09,680
+but like medium or high, then you will have less reasoning.
+
+589
+00:33:09,680 --> 00:33:11,760
+So it will be cheaper,
+
+590
+00:33:11,760 --> 00:33:16,760
+but the output will be less considerate because yeah,
+
+591
+00:33:16,880 --> 00:33:20,320
+doesn't explore all of the possibilities, blah, blah, blah.
+
+592
+00:33:20,320 --> 00:33:21,680
+- Yes. - So that's why.
+
+593
+00:33:21,680 --> 00:33:26,340
+But so yeah, I guess that's the benchmark why it goes,
+
+594
+00:33:28,760 --> 00:33:32,520
+it goes lower because it does more round
+
+595
+00:33:32,520 --> 00:33:45,260
+and the bench doesn't penalize that. But Sonnet Opus 5. So okay, it's a bit below Opus 5,
+
+596
+00:33:45,260 --> 00:33:53,800
+but good enough to be used because yeah, so if you use 5-5, so blue, high, it's basically
+
+597
+00:33:53,800 --> 00:34:01,960
+xi high. No, this one is xi. Looks like the both high Opus 5 have basically the same result.
+
+598
+00:34:01,960 --> 00:34:06,160
+So, and it's cheaper. So basically, that's a better choice.
+
+599
+00:34:06,160 --> 00:34:14,280
+No, no, 1%. Curious to see if it'd be so rapid. Tropic is cooking. Where's the pricing?
+
+600
+00:34:14,280 --> 00:34:19,280
+- Cash cost price price.
+
+601
+00:34:24,020 --> 00:34:29,020
+20 cents cash rates, cash rights 250 instead of five,
+
+602
+00:34:29,920 --> 00:34:33,060
+input token two instead of four
+
+603
+00:34:33,060 --> 00:34:36,500
+and output 10 instead of 20.
+
+604
+00:34:36,500 --> 00:34:38,580
+- Yeah, so that's a big discount.
+
+605
+00:34:38,580 --> 00:34:42,180
+- Yeah, so I think you can run something
+
+606
+00:34:42,180 --> 00:34:46,580
+that is been defined by Opus on a PRD,
+
+607
+00:34:46,580 --> 00:34:50,380
+implement it with Sonnet and have a verifier after that.
+
+608
+00:34:53,700 --> 00:34:55,300
+That would make sense, I think.
+
+609
+00:34:56,180 --> 00:35:00,260
+I mean, that's what I'm going to experiment this week
+
+610
+00:35:00,260 --> 00:35:02,180
+and see how it goes and.
+
+611
+00:35:02,180 --> 00:35:06,020
+- Yeah, I just thought that Opus, if it does sub agents,
+
+612
+00:35:06,020 --> 00:35:08,260
+it would use Sonnet as always.
+
+613
+00:35:08,260 --> 00:35:09,440
+- Yeah, no Opus.
+
+614
+00:35:09,440 --> 00:35:11,260
+So yeah, you have your orchestrator in Opus
+
+615
+00:35:11,260 --> 00:35:14,240
+and then like you can put all of the Sonnet guys,
+
+616
+00:35:14,240 --> 00:35:17,520
+Sonnet agents behind it.
+
+617
+00:35:17,520 --> 00:35:20,320
+Okay, so Sonnet, good.
+
+618
+00:35:20,320 --> 00:35:24,680
+And also like Anthropic, did you read this article
+
+619
+00:35:24,680 --> 00:35:26,980
+or drop it into your agent?
+
+620
+00:35:26,980 --> 00:35:29,960
+Getting the most out of focus five, five include
+
+621
+00:35:29,960 --> 00:35:33,000
+include include code, how to ask.
+
+622
+00:35:33,000 --> 00:35:35,600
+So basically it's guidelines to what's new
+
+623
+00:35:35,600 --> 00:35:38,560
+and what you should do, how you should talk to it.
+
+624
+00:35:38,560 --> 00:35:43,020
+It's really helpful.
+
+625
+00:35:44,440 --> 00:35:47,200
+So say what's done look like and let it run.
+
+626
+00:35:47,200 --> 00:35:49,640
+So you have a stop and you have like a proof
+
+627
+00:35:49,640 --> 00:35:52,720
+of what Opus is going to search for.
+
+628
+00:35:52,720 --> 00:35:54,720
+Like for example, like, yeah, take a screenshot,
+
+629
+00:35:54,720 --> 00:35:56,480
+send me a screenshot of the videos.
+
+630
+00:35:56,480 --> 00:35:58,720
+Let me verify it, blah, blah, blah.
+
+631
+00:35:58,720 --> 00:36:02,520
+A clear stop, it's even better.
+
+632
+00:36:02,520 --> 00:36:04,880
+Basically it's a requirement, right?
+
+633
+00:36:04,880 --> 00:36:06,740
+And you can ask for proof of it.
+
+634
+00:36:08,560 --> 00:36:13,560
+So micro-dependent head point from the whole client
+
+635
+00:36:13,640 --> 00:36:16,240
+to the new one, don't means every endpoint
+
+636
+00:36:16,240 --> 00:36:18,600
+use the new client, the whole client is deleted
+
+637
+00:36:18,600 --> 00:36:19,960
+and the test should passes.
+
+638
+00:36:21,240 --> 00:36:24,780
+Stop and ask me only if there is a test file
+
+639
+00:36:24,780 --> 00:36:26,520
+for a reason you can't explain.
+
+640
+00:36:26,520 --> 00:36:30,720
+Stop telling it to sync hard because it's gonna sync.
+
+641
+00:36:32,360 --> 00:36:33,940
+Add the running task, what to do.
+
+642
+00:36:33,940 --> 00:36:35,440
+If you remember something mid run,
+
+643
+00:36:35,440 --> 00:36:37,880
+you can type a follow up what it works.
+
+644
+00:36:37,880 --> 00:36:40,520
+with Matan or a plus run out longer now.
+
+645
+00:36:40,520 --> 00:36:45,520
+So a restart cost more include also keep
+
+646
+00:36:45,520 --> 00:36:47,200
+the whole end point, I guess.
+
+647
+00:36:47,200 --> 00:36:48,840
+Yeah, tap the message, whatever.
+
+648
+00:36:48,840 --> 00:36:51,200
+For design work, name the style you don't want.
+
+649
+00:36:51,200 --> 00:36:53,880
+Okay, so you can use like negatives,
+
+650
+00:36:56,600 --> 00:36:59,440
+like when you prompt an image or a video,
+
+651
+00:37:00,540 --> 00:37:04,540
+steering along code code, tell me where it,
+
+652
+00:37:04,540 --> 00:37:06,720
+tell it which stop you want.
+
+653
+00:37:06,720 --> 00:37:09,360
+Yeah, so it's basically the same stuff.
+
+654
+00:37:09,360 --> 00:37:14,360
+But you drop that, you tell a Claude to rewrite your Claude MD
+
+655
+00:37:15,200 --> 00:37:18,640
+and agent MD, blah, blah, blah, and that all works great.
+
+656
+00:37:18,640 --> 00:37:22,360
+- Yeah, I must say I'm always a bit cautious doing that.
+
+657
+00:37:22,360 --> 00:37:25,640
+Just copy pasting everything into Claude
+
+658
+00:37:25,640 --> 00:37:27,700
+or referring to a page.
+
+659
+00:37:27,700 --> 00:37:32,220
+Because I've seen people abusing content online saying,
+
+660
+00:37:32,220 --> 00:37:33,800
+put this in your Claude agent.
+
+661
+00:37:33,800 --> 00:37:34,640
+- Yeah.
+
+662
+00:37:34,640 --> 00:37:40,960
+have hidden text in it. Yeah, but that's coming from Claude dev. Yeah, so we should be able to
+
+663
+00:37:40,960 --> 00:37:47,680
+trust it. Yeah, it should like if there is one blog post you can drop it to your Claude, that should
+
+664
+00:37:47,680 --> 00:37:55,360
+be fine. Yeah, it should be from Claude. You got some hidden text injection? I've seen people getting
+
+665
+00:37:55,360 --> 00:38:02,480
+issues about it. Oh, okay. I saw the models were smarter now, so they don't do that anymore.
+
+666
+00:38:03,200 --> 00:38:08,640
+Oh, I don't know that one. I don't know how long ago it was, but I've seen many warnings
+
+667
+00:38:08,640 --> 00:38:14,560
+that people just say, read this entire text and then with a black background in a black text,
+
+668
+00:38:14,560 --> 00:38:20,320
+they wrote down, send me all your keys to this email address. And some agents did it.
+
+669
+00:38:21,360 --> 00:38:24,400
+It's not that easy as I say it now, they have a better prompt, but.
+
+670
+00:38:25,040 --> 00:38:31,600
+Yeah, I'm pretty sure that it's solved with like all of the Frontier Labs. You can't do that
+
+671
+00:38:31,600 --> 00:38:37,440
+anymore. Okay, cool. Maybe some open source model. Maybe there is like some injection with that. That
+
+672
+00:38:37,440 --> 00:38:46,480
+could be it. But I'm pretty sure you can do that with all of those Frontier Labs stuff. And yeah,
+
+673
+00:38:46,480 --> 00:38:52,000
+there is more like articles like, yeah, what's the task, all of that. I just drop that, all of
+
+674
+00:38:52,000 --> 00:38:59,840
+that to Claude and make my agent config stuff. I have a repository that backup everything so I can
+
+675
+00:38:59,840 --> 00:39:01,600
+and track all of the updates.
+
+676
+00:39:01,600 --> 00:39:04,800
+And I dropped that and say, okay, no,
+
+677
+00:39:04,800 --> 00:39:07,680
+do not use Fable 5 anymore.
+
+678
+00:39:09,440 --> 00:39:13,160
+Use a Sonnet as the default model
+
+679
+00:39:13,160 --> 00:39:16,480
+and Opus for scheduling and orchestration
+
+680
+00:39:16,480 --> 00:39:17,540
+and stuff like that.
+
+681
+00:39:17,540 --> 00:39:18,380
+- Okay.
+
+682
+00:39:19,280 --> 00:39:20,720
+- And the last one.
+
+683
+00:39:20,720 --> 00:39:24,760
+Yeah, suspending your effort, effort curves, attack.
+
+684
+00:39:24,760 --> 00:39:26,800
+Yeah, there is all of those articles too.
+
+685
+00:39:28,880 --> 00:39:30,180
+Yeah, that's the time.
+
+686
+00:39:30,180 --> 00:39:35,260
+Okay, so for example, the time to think between for the same prompt.
+
+687
+00:39:35,260 --> 00:39:43,340
+So one minute on low, medium, four minutes, high, 11 minutes, and max one hour.
+
+688
+00:39:43,340 --> 00:39:48,340
+Yeah, but it's not that crazy.
+
+689
+00:39:48,340 --> 00:39:50,560
+I don't like the max one.
+
+690
+00:39:50,560 --> 00:39:54,100
+I was going to say I like one of the first two.
+
+691
+00:39:54,100 --> 00:39:55,100
+Yeah, exactly.
+
+692
+00:39:55,100 --> 00:40:09,580
+medium is looks better. Like the stickiness is cool. Yeah. Max is shit. Yeah. Okay. Low
+
+693
+00:40:09,580 --> 00:40:15,700
+medium tech to tech. Like Oh yeah, no, I think that's the that was the more helpful this
+
+694
+00:40:15,700 --> 00:40:22,300
+one. Yeah. So what was the prompt? My goal was to iterate in the feedback, low effort
+
+695
+00:40:22,300 --> 00:40:27,580
+will be get there much faster but max effort give me something more and more polish right
+
+696
+00:40:27,580 --> 00:40:36,120
+off the bat yeah like that was also a play right for luna that you if you are and i use
+
+697
+00:40:36,120 --> 00:40:45,540
+it for queuing um you run the apps you find a bug you drop it it fix it right away and
+
+698
+00:40:45,540 --> 00:40:51,360
+it worked it worked great with grok 4.52 because it was fast as fuck yes and you can pile up
+
+699
+00:40:51,360 --> 00:40:58,040
+the prompt. You test the app, you throw all of the bugs, it's fixing it for cheap, you
+
+700
+00:40:58,040 --> 00:41:02,340
+check it again. And while you are checking it and like testing something else in the
+
+701
+00:41:02,340 --> 00:41:08,140
+app, it just like, cut, cut, cut. And then you come back to it and then boom. That was
+
+702
+00:41:08,140 --> 00:41:18,320
+sick. But OK, so for example, medium. Yeah, like, is it just because of the color? I don't
+
+703
+00:41:18,320 --> 00:41:24,200
+Yeah, it's a bit more polish, but yeah, it's not crazy.
+
+704
+00:41:24,200 --> 00:41:30,840
+Okay, this one is shit, but like the high one looks good.
+
+705
+00:41:30,840 --> 00:41:35,080
+Okay, that's a mess.
+
+706
+00:41:35,080 --> 00:41:39,040
+But yeah, iteration, right?
+
+707
+00:41:39,040 --> 00:41:41,680
+Like still taking some iteration.
+
+708
+00:41:41,680 --> 00:41:47,160
+But yeah, like all of those documents, they push that after the launch of FiveFive and
+
+709
+00:41:47,160 --> 00:41:52,160
+and boom, updates all of the Claude MDs and agents MDs files
+
+710
+00:41:54,940 --> 00:41:56,140
+for my computers.
+
+711
+00:41:57,040 --> 00:42:00,040
+Tag, tag, so the NERF we did it.
+
+712
+00:42:00,040 --> 00:42:01,480
+So we did it.
+
+713
+00:42:02,600 --> 00:42:04,640
+Rock seven, we talked about it.
+
+714
+00:42:04,640 --> 00:42:05,880
+That's us.
+
+715
+00:42:08,000 --> 00:42:09,480
+Okay, what else?
+
+716
+00:42:09,480 --> 00:42:11,920
+Well, I think, I think that's it.
+
+717
+00:42:14,920 --> 00:42:16,240
+Procedural motion, yes.
+
+718
+00:42:16,240 --> 00:42:19,840
+OK, that's some example.
+
+719
+00:42:19,840 --> 00:42:23,440
+Tag, tag, tag, tag, tag.
+
+720
+00:42:23,440 --> 00:42:23,940
+Shit.
+
+721
+00:42:23,940 --> 00:42:27,120
+OK, now that's a pretty good example.
+
+722
+00:42:27,120 --> 00:42:30,280
+Path, path.
+
+723
+00:42:30,280 --> 00:42:32,400
+Continuing the experiment with the most complex fully
+
+724
+00:42:32,400 --> 00:42:36,440
+procedural world I can get from 3GS zero download assets,
+
+725
+00:42:36,440 --> 00:42:38,880
+sound included.
+
+726
+00:42:38,880 --> 00:42:40,240
+Led by 4.5.
+
+727
+00:42:40,240 --> 00:42:41,240
+That's great.
+
+728
+00:42:46,240 --> 00:42:55,880
+And you can see the water, the reflection and stuff, right?
+
+729
+00:42:55,880 --> 00:42:57,280
+That's nuts.
+
+730
+00:42:57,280 --> 00:42:58,880
+Yeah.
+
+731
+00:42:58,880 --> 00:43:01,800
+Imagine the first MMOs looking like this.
+
+732
+00:43:01,800 --> 00:43:04,800
+That would have been amazing.
+
+733
+00:43:04,800 --> 00:43:07,800
+Yeah, like.
+
+734
+00:43:07,800 --> 00:43:10,680
+Yeah, it's...
+
+735
+00:43:10,680 --> 00:43:14,720
+So you can do so much now with AI, it's insane.
+
+736
+00:43:14,720 --> 00:43:25,560
+Yeah, like again, like the goal is to know what you need and should do, right?
+
+737
+00:43:25,560 --> 00:43:30,120
+Like that's crazy.
+
+738
+00:43:30,120 --> 00:43:34,920
+It's probably using Blender.
+
+739
+00:43:34,920 --> 00:43:40,000
+Yeah, one prompt, Blender only or procedural, render the 10 second shot and record your
+
+740
+00:43:40,000 --> 00:43:42,000
+own build.
+
+741
+00:43:42,000 --> 00:43:53,680
+That's pretty nice. Which one do you prefer? The Opus. Yeah. But like the lines for the
+
+742
+00:43:53,680 --> 00:43:58,520
+fireworks are better right? Yeah, the lines for the fireworks. They look better. And the
+
+743
+00:43:58,520 --> 00:44:04,720
+other one is so dark. Yeah, the lightning was different too, right? That's interesting.
+
+744
+00:44:04,720 --> 00:44:27,400
+the tag and this one editing a video. That's nuts. Like, again, it has a Claude taste in
+
+745
+00:44:27,400 --> 00:44:30,400
+it. But
+
+746
+00:44:30,400 --> 00:44:35,520
+Maybe that's because they train on their own design so much.
+
+747
+00:44:35,520 --> 00:44:36,520
+Yeah.
+
+748
+00:44:36,520 --> 00:44:37,520
+Yeah.
+
+749
+00:44:37,520 --> 00:44:43,060
+And if you made like an awesome product, you want people to recognize it, even if they
+
+750
+00:44:43,060 --> 00:44:44,440
+design their own things.
+
+751
+00:44:44,440 --> 00:44:48,600
+I mean, the taste of Claude is still better than codex, right?
+
+752
+00:44:48,600 --> 00:44:49,600
+Yes.
+
+753
+00:44:49,600 --> 00:44:54,200
+And eventually you can just say these elements replace them by something else and just design
+
+754
+00:44:54,200 --> 00:44:58,580
+your own ones, just small ones together with Claude and replace them all and doesn't look
+
+755
+00:44:58,580 --> 00:44:59,580
+like Claude anymore.
+
+756
+00:44:59,580 --> 00:45:02,460
+Yeah, but you have to put in the extra effort.
+
+757
+00:45:02,460 --> 00:45:09,340
+Yeah, like all of that just like one short prompt to just benchmark the model or whatever,
+
+758
+00:45:09,340 --> 00:45:10,340
+whatever.
+
+759
+00:45:10,340 --> 00:45:15,940
+But yeah, again, if you spend two hours instead of five minutes, then the output is yours,
+
+760
+00:45:15,940 --> 00:45:16,940
+right?
+
+761
+00:45:16,940 --> 00:45:17,940
+Yes.
+
+762
+00:45:17,940 --> 00:45:18,940
+Yeah.
+
+763
+00:45:18,940 --> 00:45:21,820
+So, so far, which one is best one for you?
+
+764
+00:45:21,820 --> 00:45:26,700
+So right now, again, since last night, I'm using Sonnet.
+
+765
+00:45:26,700 --> 00:45:30,380
+I mean, I was using Sonnet until my subscription run out.
+
+766
+00:45:30,380 --> 00:45:35,740
+But yeah, I think I'm gonna, I want to try like until next week.
+
+767
+00:45:35,740 --> 00:45:39,020
+Where I can tell you if it was a mistake or not.
+
+768
+00:45:39,020 --> 00:45:48,940
+But I will build with Sonnet 5.5 and check it maybe at the end of the day or every few hours inside.
+
+769
+00:45:48,940 --> 00:45:52,620
+To like all of the pull requests, I will check them with Opus.
+
+770
+00:45:52,620 --> 00:45:57,620
+because again, I have like 400, like in one project
+
+771
+00:45:58,900 --> 00:46:03,900
+and 100 issues already defined with epics, blah, blah, blah.
+
+772
+00:46:04,860 --> 00:46:08,000
+So I can just shoot all of that,
+
+773
+00:46:09,620 --> 00:46:12,660
+but also need to do GTM now.
+
+774
+00:46:12,660 --> 00:46:16,860
+So yeah, it's gonna be a mix.
+
+775
+00:46:16,860 --> 00:46:19,940
+But again, if you can do more with Sonnet 5.5
+
+776
+00:46:19,940 --> 00:46:22,660
+with like one or two points out of Opus,
+
+777
+00:46:22,660 --> 00:46:24,860
+which is already save you a shit ton of money
+
+778
+00:46:24,860 --> 00:46:25,980
+compared to Fable.
+
+779
+00:46:26,980 --> 00:46:28,500
+- Yeah, that's perfect.
+
+780
+00:46:28,500 --> 00:46:29,900
+- Yeah, exactly.
+
+781
+00:46:29,900 --> 00:46:32,340
+And I'm curious to see what's a opening
+
+782
+00:46:32,340 --> 00:46:34,900
+I will ship to later today, right?
+
+783
+00:46:34,900 --> 00:46:37,780
+- Yeah, I think we will share it on X, right?
+
+784
+00:46:37,780 --> 00:46:40,100
+- Yes, you have to man, thank you.
+
+785
+00:46:40,100 --> 00:46:41,700
+I'm replying a lot now.
+
+786
+00:46:42,580 --> 00:46:44,860
+And I saw some time from time to time,
+
+787
+00:46:44,860 --> 00:46:46,700
+like some replies to it, that's cool.
+
+788
+00:46:47,740 --> 00:46:49,580
+- Yes, so we're active
+
+789
+00:46:49,580 --> 00:46:52,060
+and we are following it and sharing whatever we see
+
+790
+00:46:52,060 --> 00:46:54,980
+that think that could be good for you to know as well.
+
+791
+00:46:54,980 --> 00:46:56,020
+- Yes. Okay. Yeah.
+
+792
+00:46:56,020 --> 00:46:57,940
+So yeah, drop the, drop your handle.
+
+793
+00:46:57,940 --> 00:46:58,900
+Okay. I'm going to do it.
+
+794
+00:46:58,900 --> 00:47:00,420
+- Yeah. Drop them all.
+
+795
+00:47:00,420 --> 00:47:04,140
+- I'm going to drop your little handle on the show
+
+796
+00:47:04,140 --> 00:47:07,260
+and I have captions.
+
+797
+00:47:07,260 --> 00:47:08,980
+Oh, I had them already.
+
+798
+00:47:10,260 --> 00:47:11,620
+Follow Mitchell people.
+
+799
+00:47:11,620 --> 00:47:12,460
+Follow Mitchell.
+
+800
+00:47:14,260 --> 00:47:19,260
+And yeah, because we are going to debrief,
+
+801
+00:47:19,340 --> 00:47:23,020
+open AI announcements once it's live on Twitter.
+
+802
+00:47:23,020 --> 00:47:24,740
+So yeah, just follow us.
+
+803
+00:47:31,160 --> 00:47:33,500
+But yeah, I think we can wrap it up here, right?
+
+804
+00:47:34,700 --> 00:47:36,020
+- Yeah, we can wrap it up.
+
+805
+00:47:36,020 --> 00:47:37,120
+- Nice. - That was it.
+
+806
+00:47:37,120 --> 00:47:37,960
+- What about you?
+
+807
+00:47:37,960 --> 00:47:40,300
+What's your plan for, yeah, okay.
+
+808
+00:47:40,300 --> 00:47:41,540
+- Yeah, what I'm using.
+
+809
+00:47:41,540 --> 00:47:43,780
+- Yes, what I'm using. - I'm still using Opus
+
+810
+00:47:43,780 --> 00:47:45,260
+because I didn't try Sonnet yet,
+
+811
+00:47:45,260 --> 00:47:47,460
+but I'm in the middle of a project
+
+812
+00:47:47,460 --> 00:47:49,020
+so I don't want to switch.
+
+813
+00:47:49,020 --> 00:47:51,340
+I'm always afraid that everything will break
+
+814
+00:47:51,340 --> 00:47:54,060
+and I have to explain everything again.
+
+815
+00:47:55,380 --> 00:47:57,820
+- I'm pretty sure Opus will use Sonnet in the background
+
+816
+00:47:57,820 --> 00:47:59,660
+anyway, you just don't gonna notice it.
+
+817
+00:47:59,660 --> 00:48:03,460
+So yeah, you will use Sonnet if one will not always
+
+818
+00:48:03,460 --> 00:48:04,560
+like sub-agent.
+
+819
+00:48:04,560 --> 00:48:07,900
+- Yeah, just hope that they use the cheaper token usage
+
+820
+00:48:07,900 --> 00:48:10,980
+as well and don't just say, "Hey, you're using Opus."
+
+821
+00:48:12,380 --> 00:48:15,340
+- Sure that, but Michel, thank you so much for your time
+
+822
+00:48:15,340 --> 00:48:19,200
+And that was nice getting back online.
+
+823
+00:48:21,620 --> 00:48:23,820
+Next week, same time, same place?
+
+824
+00:48:23,820 --> 00:48:25,740
+- Yes, same time, same place.
+
+825
+00:48:25,740 --> 00:48:26,580
+- Let's go.
+
+826
+00:48:26,580 --> 00:48:27,400
+Thank you so much, everyone.
+
+827
+00:48:27,400 --> 00:48:29,800
+Thank you for joining us and live subscribe,
+
+828
+00:48:29,800 --> 00:48:32,100
+share the video and we will see you next week.
+
+829
+00:48:32,100 --> 00:48:33,220
+- Yes. - Bye bye.
+
+830
+00:48:33,220 --> 00:48:34,400
+- Bye. - Cheers.
+

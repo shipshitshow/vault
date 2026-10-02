@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,840"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3840
+      },
+      "text": " You can also create a loop that just takes any box that are registered and"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,840",
+        "to": "00:00:08,060"
+      },
+      "offsets": {
+        "from": 3840,
+        "to": 8060
+      },
+      "text": " ask it to only add a solution so that you can approve it upfront."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,240",
+        "to": "00:00:12,060"
+      },
+      "offsets": {
+        "from": 8240,
+        "to": 12060
+      },
+      "text": " I don't have any loop that auto-merge anything because I want to have a"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,060",
+        "to": "00:00:14,900"
+      },
+      "offsets": {
+        "from": 12060,
+        "to": 14900
+      },
+      "text": " clear view of every pull request."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,960",
+        "to": "00:00:17,520"
+      },
+      "offsets": {
+        "from": 14960,
+        "to": 17520
+      },
+      "text": " I don't want to merge anything that I don't know what's going on."
+    }
+  ]
+}

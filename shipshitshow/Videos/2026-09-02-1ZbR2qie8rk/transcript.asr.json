@@ -1,0 +1,824 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:06,000"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 6000
+      },
+      "text": " do you use the potato stack yourself or not yeah i did edit because i started with grogbot"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,000",
+        "to": "00:00:11,840"
+      },
+      "offsets": {
+        "from": 6000,
+        "to": 11840
+      },
+      "text": " and i decided to have it give me notifications on incoming tickets check the ticket and then give"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,840",
+        "to": "00:00:17,680"
+      },
+      "offsets": {
+        "from": 11840,
+        "to": 17680
+      },
+      "text": " me a concept of an email that can be replied and i either choose yes no or i get feedback on the"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,680",
+        "to": "00:00:23,760"
+      },
+      "offsets": {
+        "from": 17680,
+        "to": 23760
+      },
+      "text": " concept so it can improve the email and then reply because the usage goes so fast i don't want to use"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,760",
+        "to": "00:00:29,040"
+      },
+      "offsets": {
+        "from": 23760,
+        "to": 29040
+      },
+      "text": " it for coding yeah i don't want to run out in in four hours and then have to wait a full week"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,040",
+        "to": "00:00:35,600"
+      },
+      "offsets": {
+        "from": 29040,
+        "to": 35600
+      },
+      "text": " yeah but it got a bit out of hand first i had one pot and i told it well i also have people who were"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:35,600",
+        "to": "00:00:41,040"
+      },
+      "offsets": {
+        "from": 35600,
+        "to": 41040
+      },
+      "text": " supposed to send the email to the ticket system emailing me direct so scrape my mailbox forward"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:41,040",
+        "to": "00:00:46,800"
+      },
+      "offsets": {
+        "from": 41040,
+        "to": 46800
+      },
+      "text": " tickets i have a slack a notification on incoming tickets and other bots gives the concept and then"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:46,800",
+        "to": "00:00:53,760"
+      },
+      "offsets": {
+        "from": 46800,
+        "to": 53760
+      },
+      "text": " i tried to add another bot i said hey if it is a wordpress question about updating content on the"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:53,760",
+        "to": "00:00:59,280"
+      },
+      "offsets": {
+        "from": 53760,
+        "to": 59280
+      },
+      "text": " wordpress i have a system with one click login where you get a normal writer account no admin"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:59,280",
+        "to": "00:01:06,560"
+      },
+      "offsets": {
+        "from": 59280,
+        "to": 66560
+      },
+      "text": " account you can update the text please try it and before i knew i had a full flow of tickets coming"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:06,560",
+        "to": "00:01:12,960"
+      },
+      "offsets": {
+        "from": 66560,
+        "to": 72960
+      },
+      "text": " in where people were asking me to change text on their website and the bot did it it gave me the"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:12,960",
+        "to": "00:01:18,400"
+      },
+      "offsets": {
+        "from": 72960,
+        "to": 78400
+      },
+      "text": " solution to add another bot for quality checks it checked it they communicated and then it told me"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:18,400",
+        "to": "00:01:23,200"
+      },
+      "offsets": {
+        "from": 78400,
+        "to": 83200
+      },
+      "text": " check this link here it's online i check it i approve and email goes back and it even wrote"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:23,200",
+        "to": "00:01:30,160"
+      },
+      "offsets": {
+        "from": 83200,
+        "to": 90160
+      },
+      "text": " down hours where we can build a customer so that's like a full employee and then my usage was going"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:30,160",
+        "to": "00:01:37,760"
+      },
+      "offsets": {
+        "from": 90160,
+        "to": 97760
+      },
+      "text": " like skyrocketing within a few hours and that's where i used the eggbot from lawren from potato"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:37,760",
+        "to": "00:01:44,480"
+      },
+      "offsets": {
+        "from": 97760,
+        "to": 104480
+      },
+      "text": " and it's a yeah you have like 8k tokens for each and a prompt that you're using and it is scaled"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:44,480",
+        "to": "00:01:51,040"
+      },
+      "offsets": {
+        "from": 104480,
+        "to": 111040
+      },
+      "text": " down to 500 instead of 8k and i've been testing now for three days and it is really tight it works"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:51,040",
+        "to": "00:01:57,280"
+      },
+      "offsets": {
+        "from": 111040,
+        "to": 117280
+      },
+      "text": " perfectly i have no issues so she's saving me a lot of tokens if you tell i'd now put it on a"
+    },
+    {
+      "timestamps": {
+        "from": "00:01:57,280",
+        "to": "00:02:04,240"
+      },
+      "offsets": {
+        "from": 117280,
+        "to": 124240
+      },
+      "text": " repeat i gave the the eggbot repetitive task to monday night check all my bots check the entire"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:04,240",
+        "to": "00:02:12,240"
+      },
+      "offsets": {
+        "from": 124240,
+        "to": 132240
+      },
+      "text": " flow check all the routines and optimize everything and the eggbot is even taking routines from certain"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:12,240",
+        "to": "00:02:17,280"
+      },
+      "offsets": {
+        "from": 132240,
+        "to": 137280
+      },
+      "text": " bots away and saying hey this needs to be a separate bot because if it has only one task it"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:17,280",
+        "to": "00:02:22,880"
+      },
+      "offsets": {
+        "from": 137280,
+        "to": 142880
+      },
+      "text": " focuses on that task and it has less tokens than when you are doing three tasks at the same time"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:22,880",
+        "to": "00:02:27,920"
+      },
+      "offsets": {
+        "from": 142880,
+        "to": 147920
+      },
+      "text": " yeah so do you still have like the chief of staff and you talk to only him and then he dispatch"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:27,920",
+        "to": "00:02:33,760"
+      },
+      "offsets": {
+        "from": 147920,
+        "to": 153760
+      },
+      "text": " stuff yeah yeah yeah i just have one point of communication no we we have waybooks right it"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:33,760",
+        "to": "00:02:40,560"
+      },
+      "offsets": {
+        "from": 153760,
+        "to": 160560
+      },
+      "text": " should not even be a chron drops it should be an event yeah crypto daily should be my crypto"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:40,560",
+        "to": "00:02:45,360"
+      },
+      "offsets": {
+        "from": 160560,
+        "to": 165360
+      },
+      "text": " channel but maybe i'm gonna nuke this one because i can save some token do you have the eggbot in"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:45,360",
+        "to": "00:02:50,960"
+      },
+      "offsets": {
+        "from": 165360,
+        "to": 170960
+      },
+      "text": " it yes here yeah just tell it to to check everything and optimize it and give you a"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:50,960",
+        "to": "00:02:56,720"
+      },
+      "offsets": {
+        "from": 170960,
+        "to": 176720
+      },
+      "text": " proposal on what will be better and ask it how many tokens you can save i can't because"
+    },
+    {
+      "timestamps": {
+        "from": "00:02:56,720",
+        "to": "00:03:03,280"
+      },
+      "offsets": {
+        "from": 176720,
+        "to": 183280
+      },
+      "text": " i don't have usage oh yay of course i have some issue with i don't know if you have that see like"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:03,280",
+        "to": "00:03:10,320"
+      },
+      "offsets": {
+        "from": 183280,
+        "to": 190320
+      },
+      "text": " i have a message etc etc and i i need to ask the status about the task sometimes it doesn't give me"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:10,320",
+        "to": "00:03:15,440"
+      },
+      "offsets": {
+        "from": 190320,
+        "to": 195440
+      },
+      "text": " the response to it it's kind of yeah sometimes it's like it's skipping some things yeah checking"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:15,440",
+        "to": "00:03:20,400"
+      },
+      "offsets": {
+        "from": 195440,
+        "to": 200400
+      },
+      "text": " all of the status about all tasks running both formulas report blah blah blah so he's asking"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:20,400",
+        "to": "00:03:25,760"
+      },
+      "offsets": {
+        "from": 200400,
+        "to": 205760
+      },
+      "text": " the whole team like what to do if i have like 20 both then i'm burning token like crazy right"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:25,760",
+        "to": "00:03:33,760"
+      },
+      "offsets": {
+        "from": 205760,
+        "to": 213760
+      },
+      "text": " yeah mastering that you can you could even like have one job pair grok but super grok account stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:33,760",
+        "to": "00:03:40,880"
+      },
+      "offsets": {
+        "from": 213760,
+        "to": 220880
+      },
+      "text": " yeah but it works like the same normal dev team if you just have everybody talking to everybody"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:40,880",
+        "to": "00:03:45,920"
+      },
+      "offsets": {
+        "from": 220880,
+        "to": 225920
+      },
+      "text": " at the end of the day they only work two hours and if you fully optimize it and are really strict on"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:45,920",
+        "to": "00:03:51,360"
+      },
+      "offsets": {
+        "from": 225920,
+        "to": 231360
+      },
+      "text": " your communication and optimize everything then you have a perfect dev team who works like seven"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:51,360",
+        "to": "00:03:55,520"
+      },
+      "offsets": {
+        "from": 231360,
+        "to": 235520
+      },
+      "text": " and a half of the eight hours so that's what you want to do here as well personally i should change"
+    },
+    {
+      "timestamps": {
+        "from": "00:03:55,520",
+        "to": "00:04:03,440"
+      },
+      "offsets": {
+        "from": 235520,
+        "to": 243440
+      },
+      "text": " it to not code and just open prs and then i have the other agents codex cloud grok yeah build stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:03,440",
+        "to": "00:04:10,320"
+      },
+      "offsets": {
+        "from": 243440,
+        "to": 250320
+      },
+      "text": " from those prs yeah they work on ship yet codes and that's exactly so only management verification"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:10,320",
+        "to": "00:04:14,560"
+      },
+      "offsets": {
+        "from": 250320,
+        "to": 254560
+      },
+      "text": " is all you need yes the most critical skills to have in your toolbox is a high quality"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:14,560",
+        "to": "00:04:19,200"
+      },
+      "offsets": {
+        "from": 254560,
+        "to": 259200
+      },
+      "text": " verification skill yeah like something like something for cicd right like you want to"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:19,200",
+        "to": "00:04:26,000"
+      },
+      "offsets": {
+        "from": 259200,
+        "to": 266000
+      },
+      "text": " disrupt the disloped skills of the p stack is really good i haven't tried it you should yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:26,000",
+        "to": "00:04:30,720"
+      },
+      "offsets": {
+        "from": 266000,
+        "to": 270720
+      },
+      "text": " but okay i don't know if you should because you have also like legacy project stuff that you"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:30,720",
+        "to": "00:04:36,480"
+      },
+      "offsets": {
+        "from": 270720,
+        "to": 276480
+      },
+      "text": " should not refactor too much oh no no that will break everything i don't know if a disloped stuff"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:36,480",
+        "to": "00:04:43,040"
+      },
+      "offsets": {
+        "from": 276480,
+        "to": 283040
+      },
+      "text": " will refactor the whole code base for you and you will have a 24-hour session and you don't know why"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:43,040",
+        "to": "00:04:47,440"
+      },
+      "offsets": {
+        "from": 283040,
+        "to": 287440
+      },
+      "text": " because you disloped it let's be the verification skill together a create verification skill yeah"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:47,440",
+        "to": "00:04:51,680"
+      },
+      "offsets": {
+        "from": 287440,
+        "to": 291680
+      },
+      "text": " that's why in my grok bot it mentioned create verification skill because yeah i dropped the"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:51,680",
+        "to": "00:04:57,440"
+      },
+      "offsets": {
+        "from": 291680,
+        "to": 297440
+      },
+      "text": " articles so create verification skill dr heck bot that's what we both installed i think we need the"
+    },
+    {
+      "timestamps": {
+        "from": "00:04:57,440",
+        "to": "00:05:04,320"
+      },
+      "offsets": {
+        "from": 297440,
+        "to": 304320
+      },
+      "text": " own v stack stack bro yeah but yeah there are so many options right now but on the other hand"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:04,320",
+        "to": "00:05:10,000"
+      },
+      "offsets": {
+        "from": 304320,
+        "to": 310000
+      },
+      "text": " i am waiting for this to be integrated into cursor i mean that that's it like you can create your"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:10,000",
+        "to": "00:05:15,760"
+      },
+      "offsets": {
+        "from": 310000,
+        "to": 315760
+      },
+      "text": " skill and then it's they're not going to standardize p stack to all of the things i mean"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:16,480",
+        "to": "00:05:21,120"
+      },
+      "offsets": {
+        "from": 316480,
+        "to": 321120
+      },
+      "text": " maybe they do it like in the back end you know yeah yeah but that's that's what i mean so they"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:21,120",
+        "to": "00:05:25,760"
+      },
+      "offsets": {
+        "from": 321120,
+        "to": 325760
+      },
+      "text": " integrate something like this because if so many people are using it and their internal teams are"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:25,760",
+        "to": "00:05:31,120"
+      },
+      "offsets": {
+        "from": 325760,
+        "to": 331120
+      },
+      "text": " doing it as well then why not make it a part of yeah cursor and just have it for everybody"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:31,120",
+        "to": "00:05:37,760"
+      },
+      "offsets": {
+        "from": 331120,
+        "to": 337760
+      },
+      "text": " available without adding additional integrations and plugins yeah yeah i mean but for them it's"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:37,760",
+        "to": "00:05:44,720"
+      },
+      "offsets": {
+        "from": 337760,
+        "to": 344720
+      },
+      "text": " make even more sense to keep as plug-inable friendly stuff then everyone is turning them"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:44,720",
+        "to": "00:05:51,440"
+      },
+      "offsets": {
+        "from": 344720,
+        "to": 351440
+      },
+      "text": " into their own use case right like everyone building their name stack because an ios developer"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:51,440",
+        "to": "00:05:57,280"
+      },
+      "offsets": {
+        "from": 351440,
+        "to": 357280
+      },
+      "text": " will not have the same needs than no that's a react to right so yes and also i like a lot of"
+    },
+    {
+      "timestamps": {
+        "from": "00:05:57,280",
+        "to": "00:06:03,120"
+      },
+      "offsets": {
+        "from": 357280,
+        "to": 363120
+      },
+      "text": " developers wants to have control of their own stack and slash way of coding and stuff like that"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:03,120",
+        "to": "00:06:08,320"
+      },
+      "offsets": {
+        "from": 363120,
+        "to": 368320
+      },
+      "text": " right no junk in it so she has a skill to maintain it yeah that makes sense i have a skill to clean"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:08,320",
+        "to": "00:06:14,560"
+      },
+      "offsets": {
+        "from": 368320,
+        "to": 374560
+      },
+      "text": " up work trees and branches after i deploy right so why not i have p stack the tag bot yes and the"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:14,560",
+        "to": "00:06:22,000"
+      },
+      "offsets": {
+        "from": 374560,
+        "to": 382000
+      },
+      "text": " bot is using p stack into our own setup right my bot that helps to create high quality bot your"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:22,000",
+        "to": "00:06:27,040"
+      },
+      "offsets": {
+        "from": 382000,
+        "to": 387040
+      },
+      "text": " roster ships with space tag yes okay okay so what did we learn or what did we expect from grogbot to"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:27,040",
+        "to": "00:06:31,520"
+      },
+      "offsets": {
+        "from": 387040,
+        "to": 391520
+      },
+      "text": " come next grogbot is awesome but you have to optimize it otherwise you go out of tokens in"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:31,520",
+        "to": "00:06:37,520"
+      },
+      "offsets": {
+        "from": 391520,
+        "to": 397520
+      },
+      "text": " the day and you can't use it so we use her solution for adding eggbot and we just say"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:37,520",
+        "to": "00:06:42,880"
+      },
+      "offsets": {
+        "from": 397520,
+        "to": 402880
+      },
+      "text": " optimize everything and it's fixed yeah yeah you ask to optimize and then it's done and it did"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:42,880",
+        "to": "00:06:47,120"
+      },
+      "offsets": {
+        "from": 402880,
+        "to": 407120
+      },
+      "text": " yeah i need to do it okay i need to wait a couple of hours but after that should be fine"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:47,120",
+        "to": "00:06:52,000"
+      },
+      "offsets": {
+        "from": 407120,
+        "to": 412000
+      },
+      "text": " yes thank you everyone thank you for commenting and thank you arinad for joining us during the"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:52,000",
+        "to": "00:06:57,600"
+      },
+      "offsets": {
+        "from": 412000,
+        "to": 417600
+      },
+      "text": " live subscribe left the video like the video share it and i will see you next time next week next"
+    },
+    {
+      "timestamps": {
+        "from": "00:06:57,600",
+        "to": "00:06:59,760"
+      },
+      "offsets": {
+        "from": 417600,
+        "to": 419760
+      },
+      "text": " time same place bye-bye"
+    }
+  ]
+}

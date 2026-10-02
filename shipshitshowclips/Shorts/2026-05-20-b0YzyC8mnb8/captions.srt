@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:04,640
+ that's an infrastructure player you need socket.dev applications now more than ever
+
+2
+00:00:04,640 --> 00:00:10,400
+ i guess because you will have agent that will attack but you will have defenders agent too
+
+3
+00:00:10,400 --> 00:00:14,240
+ it will be an ai war
+

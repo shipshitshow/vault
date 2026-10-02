@@ -1,0 +1,5 @@
+The cost of writing code is zero and you can ship fast.
+What's the point of reviewing codes that you can instantly fix anyway?
+The only thing is, there is a difference in reviewing between having a bug and not working
+and having it working but being insecure.
+Yes, but at some point the models will also be able to write better code than any found engineers.

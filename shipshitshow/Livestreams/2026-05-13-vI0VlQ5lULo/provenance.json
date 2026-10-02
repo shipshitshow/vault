@@ -1,0 +1,12 @@
+{
+  "youtube_id": "vI0VlQ5lULo",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "baf16e07e47bd6f71eefde2e77a5c63d11d21e4930ccd0fde3527949558511dc",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-13-livestream-stop-planning-with-markdown-html-is-better.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

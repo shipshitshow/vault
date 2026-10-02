@@ -1,0 +1,12 @@
+{
+  "youtube_id": "bc6WbJJNWPU",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "c3ef5148da4f6b2704b08fc8a7e04f27d912f8a0a60aed8d09e0e121d7707ca8",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-01-video-cursor-wins-is-composer-2-5-the-new-king.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

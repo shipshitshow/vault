@@ -1,0 +1,1072 @@
+and And we are back on the ship ship
+show. Let's go. Let's go. Let's go.
+>> Welcome. Welcome.
+[laughter]
+>> How you doing?
+>> How is it here? It's hot here. We
+finally have the summer in Netherlands.
+>> True. Oh, yeah. I mean, yeah, it's hot
+since winter, so
+>> Yeah. I'm not living on the beach, so
+a tropical island.
+>> Yeah. I mean, oh, like a tax seven
+island. [laughter]
+>> Well, that's what we need, right?
+Because we're going to build.
+>> We need money first.
+>> Oh, yeah. But AI is going to give us
+money.
+>> Yeah.
+>> That's what everybody does.
+>> I high I basic comrate.
+>> Yeah.
+>> Uh Yeah. Until then, we still need to
+stream.
+>> Yeah. So, here we are again.
+>> Here we are again. one more week and
+yeah, it's like uh 16 episode. That's
+good. Like uh the the crowd is in is
+crazy, but that's okay. That's okay. We
+manage.
+>> Yeah. So, if you're here and have
+questions, let us know
+>> and subscribe and come back next week.
+Thank you.
+>> Yes.
+>> But yeah, let's uh talk about curs. The
+ID that nobody use, but at least we can
+use the model now. So, there's that.
+That's there's the story behind Yeah.
+Koso is interesting for sure. No,
+because I was was white.
+>> So, please tell me because I don't know.
+>> Okay. Okay. So, I'm going to do an
+introduction and then uh let's go
+>> then let's go.
+>> Okay.
+>> Are you still using cursor? Yes. Uh or
+not? Maybe not because cloud code is now
+more used by every Y at YC and every
+developer in the world. So if you don't
+maybe you don't know there is like
+composer 2.5 that is probably the best
+model out there right now. So if you
+don't use cursor that's probably a
+mistake isn't it Mitchell?
+>> Yeah I made the biggest mistake then.
+>> Yeah but we're gonna talk about that
+right now and see if it's true or not.
+But composer 2.5 it's cheap way cheaper
+than um OPUS. It's way faster than Opus
+and Codex all together. And uh it's B
+but it's also but and it's based on the
+Chinese open source model. So that's
+also interesting.
+>> Well, yeah, the naming got me wrong
+>> because I'm using composer
+for the last few years and it it wasn't
+AI. [snorts]
+>> But now they have the same name as
+composer for installing all the
+dependencies.
+>> Ah yeah, for PHP, right? That composer.
+Yeah, it's the npm of uh PHP.
+>> Yes.
+>> Do you get hacked every week?
+>> Nope. [snorts]
+I I even didn't get hacked at the last
+one.
+>> Damn. Good job.
+>> That's That's good.
+>> Yeah, good job.
+>> Clients, if you are safe, [laughter]
+>> you are safe. We don't update that many
+times because we check everything up
+front.
+>> Nice.
+Really good practice now.
+>> Yeah. But that was just a small
+flashback to last week.
+>> Yeah. And yeah, by the way, if you
+haven't watched the video, if you
+haven't watched the live stream or if
+you didn't see any short, please do. Uh,
+we need watch time. So, enjoy the
+security live stream on the YouTube
+channel.
+>> If you want your code to be secure,
+please watch it.
+>> Yeah. Oh, switch from JavaScript to PHP.
+>> Yeah. Yeah. Well, not at this time, but
+>> Oh,
+>> I think we have a second composer now.
+And apparently that's for cursor.
+>> Yes. Yes, sir. So, cursor. Bam. Demo
+share screen.
+[snorts]
+Let's go bigger. Blah blah blah blah
+blah. Wow. Uh, introducing composer 2.5.
+That was that was that was that was on
+the 18.
+Where did I lost? Oh, no. Yeah. 18 18.
+There's the date in the middle of it of
+the title.
+>> Yeah. So, yeah. less than 10 8 days ago.
+Uh cursor launch composer 2.5 uh is now
+available at incursor and only available
+in cursor. You can't target it on open
+router. It's a sub substant substantial
+it's a substantial improvement in
+intelligence in behavior over composer
+2. It's it is better at sustain work uh
+on a long running task. Follows complex
+instruction more reiable
+follows complex instruction more real
+[laughter]
+follows better.
+>> Yeah. Yeah.
+>> More pleasant to collaborate with I I
+don't care about that. Like I don't
+>> listen
+>> and be smart.
+>> Yeah, exactly. Like just do what the
+[ __ ] I want and fix my bug.
+>> Yes.
+>> Like Okay. Yeah. Whatever. Um we Okay.
+So yeah, which is interesting. Terminal
+Bench 2. 2.0 which is like the CLI um
+benchmark.
+>> Mhm.
+>> Opus 4.7 69 and Composer 69.3. And Opus
+is at4.
+>> That's nice.
+>> GPT 5.582
+and Composer 261. So yeah. Oh, GPT5 82.
+Oh
+>> yeah. Yeah. I like GPT 5.5.
+>> Damn.
+>> So well I think that's why they compare
+with Opus.
+>> Yes. [laughter]
+>> Not with codeex.
+>> Um so bench multiling multilingual uh
+79.8
+8 Opus 80
+GPT5 77 see
+>> yeah and 73 so yeah 6 point more for
+than composer 2 and a cursor bench
+internal I guess internal uh benchmark
+63 64 64 60.8 8 64.3 for CEX 52. Yeah,
+that's good. 10 point uh we improve
+composer by scaling training generating
+more complex um error
+>> real life
+>> rec no recursive learning [laughter]
+>> right
+I mean I think
+>> re real life reduce level oh
+reinforcement learning yeah not
+recursive reinforcement learning my bad
+uh in addition to training composer 2.5
+on more difficult task improve beveral
+aspect of the model like communications
+communication style and effort
+calibration like me but like I need to
+use composer 2.5 uh oh GM noise thank
+you for that uh these dimension are not
+well captured by existing benchmark but
+we find that they're made more for real
+real world userfulness
+yeah so of course they they have created
+their own benchmark and they are like
+top right
+>> yeah well I I think that's always
+stupid.
+>> Yeah,
+>> because if you create your own
+benchmark, you're not going to lose on
+it, right?
+>> Exactly. So that that's why like we have
+other benchmark from uh where is it?
+Where do I have it? Uh I have another
+one
+from uh where is the article?
+Where is it?
+Yes. artificial analysis coding tech
+share this one that that's gonna be
+that's gonna be something else like the
+the jump is not the same like okay so
+that's a composer too but uh it's a good
+jump but still behind clude code and GPT
+but uh way cheaper so that's interesting
+uh shista bum uh composer uh 85% of the
+compute of composer 2.5 Five comes from
+additional training and reinforcement
+learning uh composer training and
+reinforcement. That's basically every
+action that it's going through cursor
+[clears throat]
+>> they are putting in on top of the uh
+model. So basically what they do is
+fine-tune
+um Kimmy 2.5 and make it better with all
+of the developer data they have from the
+ID. And that's why Ellen Musk bought or
+uh put an option on cursor because all
+of that data can be used on gro.
+>> Yeah, they have people paying them to
+get a subscription to help them train
+their own model.
+>> Wait, they have other people paying them
+to train their Yes.
+>> Yeah, that's smart, right?
+>> I mean, that's good.
+>> I have a product. We can make it better.
+Please pay me to do it. [laughter]
+>> Yeah. Basically like together with
+basics we have trained a significant
+larger model from scratch using 10x more
+total compute. Yeah. Colorus 2 millions
+H
+with corus to minion H100 equivalent and
+our combined data of training technique.
+We expect this to be a major leap in
+model capability which is also exposed
+um on Elon Musk account. Mhm.
+>> Alon
+I don't need to search a lot on
+uh Grog foundation model V9 medium 1.5
+trillion parameter has finished training
+a looks good a lot of cursor data was
+added in supplementary training and
+there is more to come so
+that that's this one could be really
+interesting to see how it goes after
+that but I I think they could leap frog
+a lot but still like it will take time
+for them to catch up with glow and opus
+I think.
+>> Yeah that's true but if he keeps putting
+in the money and the effort they can
+scale fast
+>> especially if they have colossus because
+then they have the energy and then you
+can increase the
+yeah all of the parameters and all of
+the like training of the model. Mhm.
+>> Just curious what's what's in the cursor
+data. This means the upcoming rock model
+will be much better at coding. Much
+better. Yeah. Imagine he replied, "No,
+no, it's not going to be that good."
+[laughter]
+>> He just wouldn't reply. That's bad.
+>> Uh, okay. Yeah. Back to composer because
+all of that it's kind of linked all
+together. That's interesting. Uh,
+training 2.5 contains several new
+improvement to our training stack. this
+changes target post model intelligence
+and usability
+uh yeah textual feedback
+we care about that I don't think so
+textual feedback insert target and int
+to learn correction
+pass
+okay
+and m okay okay okay I'm not going to
+read that we need we need watch type
+>> so yeah Try composite 2.5.
+>> But this is cheap.
+>> See that? Yes.
+>> Like the the the the 50 cents and $25
+that's cheap.
+>> Yeah. Like uh
+>> other models are at least a 10x ones.
+>> Seven.
+Uh pricing API 5 million. Yeah. Five
+bucks.
+>> Yeah. That's a 10x.
+>> Uh one cash right cash output token 25.
+Yeah. Then the only question is in the
+other overview. Why would you use Opus
+4.1 at triple pricing?
+>> Yeah, because we have a subscription.
+>> Yeah.
+>> I mean that that's and I guess like you
+can get it for in the 25 bucks, right?
+Pricing. Yeah. 20.
+Yeah. [ __ ] That's another 200. Access
+to frontier model MCP cloud agent
+work boat on usage base. Yeah, that's
+crazy. Like that's another 40 bucks a
+month.
+>> So that's annoying. Uh price access to
+new feature. Okay, cool. Uh where's the
+team enterprise? Yeah,
+I mean, yeah, but I mean it could be
+I know you have access Yeah, you have
+access to all of the frontier models. So
+even if you take like the subscription
+in cursor, you can have access to all
+the models.
+>> Mhm.
+>> You just Yeah.
+But yeah. Uh so yeah, what's the current
+usage of cursor right now? Like
+>> mine?
+>> Yeah, [laughter]
+>> it's zero. Yeah,
+>> I I skipped it because um I was finally
+used to the layout and I'm doing almost
+all of my work in terminal.
+>> Yeah.
+>> In the CLI and then they came with the
+agent uh layout and I just had to start
+over and I really like working in the
+CLI. So also switching the models it's
+so much easier in CLI. So I just kept
+using the CLI and I dumped cursor.
+>> H yeah. I I think like when everyone
+switched to cloud code it was when they
+launch
+4.5 even better even before. No.
+>> Yeah. Before but
+>> yeah even before but um and everyone
+went to the CLI back to the CLI.
+>> Yes
+>> that's that that was crazy. That was
+>> and that it works perfectly. Yeah, I I
+watch like yeah theo video and he said
+that yeah like cursor went to so all of
+the startup at YC use cursor like 90% of
+the company were were using cursor
+>> and in the next batch went to 70% clo
+code
+>> yeah and they can say they have all the
+models in it but
+>> still
+>> yeah and then there there is like the uh
+curs our glass stuff. I think it's
+another ID and it's more like a back to
+T3 codes UI.
+Uh I'm curious about their product line.
+What do they have now? Because Yeah, I'm
+just using Yeah, see that? Oh, yeah.
+Okay. So, they reorganized that to be
+even more like just aentic. No more
+editor. See, they're not they're not
+even showing the code anymore.
+>> Yeah. That's why people are using the
+CLI because nobody is watching the code
+produced by the agent except in the pull
+request.
+>> Yeah, I want to see what it does during
+the changes as well.
+>> Yeah,
+>> because sometimes it still does really
+weird stuff,
+>> bro. Like I I I told you before the
+show, but like I got completely [ __ ]
+this weekend like crazy. So quickly uh I
+had the so I I migrated like the project
+from [ __ ] to postgrql
+>> and clude put a okay what
+[laughter]
+>> it
+so I was doing the migration from [ __ ]
+to postgresq
+>> mh
+>> then at some point I I didn't take uh I
+didn't uh I I don't know why but clothes
+stash the some card on the side and I
+didn't notice it
+and then two three days after that. So
+but yeah basically Sunday um
+I found those stash code and and I asked
+what the [ __ ] is that? What happened
+with that? Uh do we mig should we put
+back all of that code in the current
+work?
+and CL told me yes because there's some
+valuable stuff blah blah blah
+>> I migrated I worked again on some agent
+on the side in parallel and then more
+commits blah blah blah five more commits
+on top of it and then I go to test the
+app and then nothing work everything is
+broken I say what's going on it was not
+like that before like this features was
+done like three days ago why not here I
+say oh yeah blah blah blah Um
+what did you do with the stash branch? I
+said oh yeah it was the migration from
+three days ago that so I had a mix of
+the migration that's been done from
+[ __ ] to posgrsql plus some task that I
+wanted to do next. So I could not roll
+back without losing those commits. So I
+I started to fix everything
+and then 10 commit later like I was
+going nowhere and I had regression after
+regression and I didn't want to lose
+what I've done because I would have have
+to track what I've lost. So I just
+continue and it took me like 20 hours to
+just fix this dash migration without
+losing anything. Not crazy. And this is
+a moment you can't tell cloud code fix
+it because it will just keep on looping
+and keep making mistakes
+>> completely lost. So one by one like
+commit after commit or page after page I
+say okay uh this one was not like that
+yesterday fix it.
+>> Yeah
+>> pro it's probably in this commit and
+then close. Oh yes exactly we we deleted
+25 files. Yeah.
+>> Yes. [laughter] So yeah, but like I
+should have paid attention better. But
+uh that's why more ID and terminal looks
+like that because nobody's watching the
+cut except you because you produce
+quality software.
+>> Yeah. But also small parts, just small
+branches, small changes and not like hey
+here is a full list of changes I need to
+everything at once.
+>> Yeah. I know. Exactly. Uh, like I I
+think with AI and orchestration that's
+even more true than ever. Like you
+really need to build uh a skateboard and
+then a bike and then a car and then a
+[ __ ] rocket. And I have used to just
+build like too much [ __ ] and have like a
+crazy scope every comet. I need to stop
+that because that's exactly what
+happened with uh with CL. And also I
+didn't work with walk trees. Everything
+was on the same branch because it was
+supposed to be a small update
+>> and uh then close started to create a
+branch. So the state of the code was
+[ __ ] and so all of the agent like the
+five six agent I had running at the same
+time got completely lost and then they
+were rewriting each other.
+>> Yeah. Yeah. I know it. It's that's it's
+bad because it's so hard to then figure
+out where to start, what to fix because
+once you find an issue and you think you
+fixed it, you broke something different.
+>> Like I I spent like the 20 20 20 hours
+fixing that and no sleep.
+>> Yeah,
+>> that was a problem. But uh
+>> fun times with cloud code.
+>> Yes. And no, I need to try composer 2.5.
+>> But are you using cursor as well next to
+your CLI? So I'm just using cursor to
+check the state of my pull request and
+my branches and to see if there is any
+work trees that I'm not aware of it
+because I need to visualize that them
+but uh yeah like looks like everything
+is cursor I don't know
+>> I don't yeah I don't use but I use all
+the software maybe I should go back to
+cursor like I'm using like T3 codes but
+like in the last few days it was not
+working properly neither so I went back
+to code like from Entropic and Codex for
+for Codex
+>> Mhm.
+>> OpenAI. I went to the OG's OG's apps. Uh
+and it's kind of cool like it's it's way
+nicer than a terminal for me. But um
+yeah, there is always some features that
+are missing that you can only find in an
+open source project because then
+everyone is adding the same features
+like for example open a pull request
+from CL code. You like I don't know
+where the [ __ ] button is. Well, I you
+say you're doing it in cursor, but I'm
+doing all my uh branch uh checks to see
+what's ready to commit to see the
+changes. I'm doing that in still in the
+jet brain software.
+>> Oh yeah,
+>> I used to work before AI came.
+>> Yeah. Yeah. You already open Jetbrain to
+see what's up. Yeah.
+>> Yeah. But all the coding is done in the
+CLI.
+>> Yeah.
+And what about like your pull request?
+Do you send like every any AI to review
+the code or you do review everything?
+>> I still uh use a second screen. So it's
+either codeex builded cloud code checks
+it or the other way around.
+>> Yeah. Okay. Do you review every line
+that's produced by AI or not?
+>> Um I look over it
+>> and to see if I can say I just scan it
+and see if I see some really weird
+stuff.
+>> Uh but I'm not checking every detail.
+>> Yeah. Okay. Makes sense. I mean, aentic
+coding, right?
+>> Yeah. But if you work with functions
+that you create and you just include it,
+that's no problem. But if you change the
+function, then you need to check it.
+>> Yeah. Yeah. Yeah. Like that's that's the
+state I'm in right now. Like I'm
+refactoring like I'm cleaning some
+codebase and trying to make it like all
+work together. And that's not a funny
+state to be with like five agents
+running. But again, as soon as you have
+a stable codebase, then it's basically
+like how you should build an open source
+project, you know, with like 1,000
+contributor.
+>> Mhm.
+>> And you have like the contributing MD is
+telling you to five five files maximum
+or the pull request will never be merged
+and that's it.
+>> Yeah, exactly. And that's what you need
+to do here as well.
+>> Yeah. Like for real. And uh because
+basically your team is like five agents
+on the same work tree/branch whatever
+project. So yeah it makes sense makes
+sense. You just need like some yeah
+better organization from my side and
+after this [ __ ] up uh going to do
+that. Uh yeah. Okay. So from artificial
+analysis which is like a benchmark uh
+like a better benchmark like a third
+party benchmark for for for this uh
+composer 2.5 which is not
+cursor bench.
+>> Mhm.
+>> Um the last model in the composer line
+uh scored 62 on our coding agent index a
+40 point gain over composer 2. Let's put
+it third place of all tested agents
+behind only clopus max. Oh okay 4.7 max
+in cl code 66. Oh okay there is a gap um
+and GPT 5. XI reasoning in codec 65.
+Okay.
+The cost 4
+uh four bucks and 10 cent and 482 per
+tax respectively. 10x the cost of
+composer 2.5 fast. Yeah, like
+at 40 cent 44 cent and 60x the cost of
+composer 2.5 standard 0.7.
+>> So then my question is do cloud code and
+codex have so high margins or
+are they really making it so much
+better? Uh, I mean you can
+like the margin doesn't you can I mean
+>> yeah if you if it's 60 times more
+expensive to use
+>> the other ones that's a lot
+>> um
+but maybe no like the okay no the the
+point is the margin maybe like the
+margin of composer 2.5 is [ __ ]
+>> you don't know that
+>> you don't know therefore the question
+Yeah, it needs to be somewhere.
+>> Um. Oh, yeah. Because Okay. So, what you
+say like if it if if they don't have
+margin, then they could increase the
+price and not go that down. Yeah. Okay.
+Or maybe it's to get like way more usage
+out of the because they they can capture
+the market if they want to be like uh
+60x uh cheaper than Opus.
+>> Yeah. Yeah. And what they need is to
+make sure that they get so much more
+people using it to get better feedback.
+>> Yeah. And I mean with a cheaper the
+cheap model like that then you can run
+run faster. Yeah. That's interesting.
+Uh cheap so cheaper than every other
+agent scoring above 60 at the index.
+Uh s cost quality parto frontier. Okay.
+Medium effort per cost 1.24. 24 2.21 per
+task high effort viant lens three
+four point above at 4.10 and 482
+uh major gain versus composer 2. Okay,
+but I I'm not sure like how many people
+are were using composer 2 like
+>> I don't even know if people know what
+composer 2 was because if they use
+cursor you you you get the software and
+you choose cloud code or codex. Yeah,
+>> even on my timeline I don't see that
+many people talking about composer.
+>> Check that right now.
+Composer
+2.5
+latest
+uh crash coming. Okay.
+Okay. Composite F. Oh, that's uh
+uh I know why. Uh it's it's the model I
+I'm using uh right now. Uh same as 4.7
+and uh 50 uh 5.5
+but cheapest. Yeah, faster but cheapest.
+Uh cursor with the speed and quality of
+composer 2.5 might be current aex of
+coding with agent. Yeah, that's
+interesting. What do you think of of
+composer 2.5? So far
+the architecture need to improve our
+file and photo structure with a project.
+Okay. I have used 17
+uh 725 million composer 2.5 token almost
+all via pi. Okay. And my pure size
+extension especially great at
+collaborative agent. Interesting.
+Amazing at aentic code. Yeah. Okay.
+That's cool. That could be a good
+vertical for for um for composer and
+cursor if they have yeah aentic coding
+mean like you have multiple agent at the
+same time that working in a project
+could be cool uh hest and let it close
+more effective alternative open
+really good some forget simple things
+like important statement
+capable
+It's better than collect for UI
+instruction and use of skill but still
+behind OP.
+Yeah. I mean like the guy from Yo
+with 50
+is he from No, he's not. Uh
+100k views. So that's
+>> that's not a lot.
+>> Yeah, that's not nothing but that's not
+crazy.
+Is it is it trending?
+Oh, that's us.
+>> Oh, we are trending.
+>> We're trending, bro. Ah, it's us. Let's
+go. [laughter]
+>> Uh, first task is pretty good for
+composer 2.5.
+Uh, that that's
+cool. Oh, you don't see the price.
+>> No, I don't see the Oh, yeah. That's
+That's a big That's a 20x. Yeah,
+that's good. And score 64 64 63 like for
+what we do, I don't think we will see
+that difference in term of reasoning.
+>> No. And even if you just let it run
+triple, it's still so much cheaper and
+doing it triple times or having three
+agents doing the same thing, comparing
+them, merging it, that gives you a
+better quality and so much cheaper.
+>> Yeah. But c can you put that with MS
+running away?
+Okay, I'm using this day MS agent plus
+grog.
+I drop clone max. Okay.
+Uh
+can you
+because if you can only use it I don't I
+don't think you can use it on open
+router right
+>> they said not they said it was only on
+cursor
+>> composer
+yeah
+so
+yeah I mean you I know Todd can uh you
+can connect to a cursor via the IP
+I think from one up to I don't know
+exactly how it works but you can connect
+to it but you use the the yeah you use
+the cursor
+CLI and maybe even like the cursor SDK
+to connect to the composer too I don't
+know
+>> yeah but then the question also is
+because it was Kimmy right that they
+were using Yes.
+>> If if they made actual changes to Kimmy
+or if they just use that one and put
+additional information on top with each
+quest.
+>> I think that's the error state, right?
+What they do?
+>> Yeah.
+>> So they take it and then they they Yeah.
+Ah they make a better airs
+a
+>> real life updates and uh and that's it.
+>> Yeah. So that's also why it's not on the
+on the on the
+>> components list.
+>> Uh among the far fest coding agent
+composer 2.5 faster run an average wall
+time of 16.7
+minutes per task. The third fastest
+agent and behind OPUS 4.7 and GPT5
+medium. Okay.
+GPT5.5 is not that crazy fast. No.
+>> Uh, it is not, but still AI is so much
+faster than we ever had, so who cares?
+>> And fast mode enable better
+responsiveness at 6x pricing. That's
+cool.
+>> Like, uh, 5.5 low fast is amazing. I
+love it.
+>> But it's bye-bye my subscription. But,
+uh, yeah, good.
+>> I don't use it. Yeah,
+>> because I I'm just working with three
+CLI, three different projects. So, I can
+wait on the first one because I'm
+already working in the second and third.
+>> Yeah, makes sense. Uh, artificial
+analysis encoding agent index. So, yeah,
+that's the that's what we saw. So, yeah,
+they leaprog that. It's cool. Opus 4.7.
+Ah, yeah. Okay. So
+that's the that's the where they called
+it and CLI Opus 4.7 card. Okay. Oh yeah.
+Medium. Okay. Okay. Okay. Uh artificial
+analysis coding index versus cost per
+task 4.5 codex.
+Okay. Oh, they are the same. Okay. Cost
+per task. Yeah. I mean Yeah. That's
+good. That's really, really good.
+You can even use that for on a 20 bucks
+subscription. If you can't pay 200 bucks
+a month and then you have a crazy good
+model.
+>> Yeah. Yeah. Yeah. And for not for every
+task need like a big model. A lot of
+tasks are so simple to do.
+>> And if it's fast, you just run it
+multiple times. And that's why also it's
+good aentic, right? Because uh yeah,
+then you can run more in parallel. still
+go with like the 200 subscription, but
+then you uh Okay, that's interesting.
+>> Yeah. And you just give each agent a
+different task.
+>> Yeah.
+>> Like one needs to double check
+everything
+>> and needs to question everything and the
+other one is for security and just have
+them merge all the code and and
+improvements that they can do.
+>> That's that's
+>> are you? Yeah. If you have something
+like uh like for example you have a new
+project you can run cursor agent
+uh composer on on all of the GitHub task
+and stuff you start bootstrapping and
+then you pull everything you test
+everything and then
+>> yeah you can you can have like some good
+asynchronous work job
+on that
+>> that can be a cheap good project a good
+setup
+>> that's cool uh score by benchmark okay
+so that looks legit. I mean, would that
+make you redownload Kyos?
+>> Nope. [laughter]
+>> Well, the only thing is every week we
+have something new. So,
+>> I want to see a big improvement in in
+the output and now it's still behind GPT
+5.5.
+>> I am coding fast. I'm coding properly. I
+don't have issues.
+>> So, why should I swap? because I'm still
+working way within my own budget.
+>> Yeah. And that's going to be interesting
+like because okay, one day we're going
+to reach like a 99 uh percent in every
+[ __ ] benchmark whatsoever and getting
+like the the 10 more like
+0.1 point on whatever benchmark coding
+whatever will not matter at all. So
+everyone will have their own model. So
+maybe they will we will stop swapping or
+use both or whatever uh once we it will
+be like maxed out.
+>> Yeah. Then it's it's more about what is
+the easiest to use and the most stable
+product.
+>> Exactly.
+Yeah. And that's why I think like for
+example like AMS
+got um
+got like open CL got lost a lot of user
+get MS got a lot more and like have the
+same uh growth similar to growth because
+um it was way more stable and less than
+a mess than open itself. So yeah, maybe
+we can see the same kind of movement for
+the models too.
+>> Yeah, I think so. I think that's going
+to matter a lot.
+>> Yeah,
+>> because if we go up a lot more in in in
+points so that we go towards the 99,
+I think the last points are only for
+people who do the really complex work.
+>> Yeah, we're gonna find vaccine against
+cancer with like composer five. Yeah,
+but people making WordPress templates
+and and forms, they don't need it.
+>> Yeah, true. I was thinking about that
+like we do like get back to Shopify
+e-commerce like uh drop shipping stuff
+on Shopify.
+>> Mhm.
+>> And especially with like a Shopify CLI
+with the model that we have now compared
+to what we had like one year ago when we
+started to look at it. Yeah, that
+improved the entire game.
+>> I mean, I'm probably not going to be the
+the only one doing that and everyone on
+Earth is doing the same [ __ ] [ __ ]
+but uh like the game is probably way
+more interesting right now.
+>> Yes.
+>> Uh so yeah, model detail uh uh reporting
+cursor reporting 85% of total compute
+for his own additional training open
+weight compos. Yeah. Yeah. Okay. So
+continue training on moonshot AI open
+weight Kimid 2.5 as with composer 2 with
+cursor reporting 85% of total compute
+from its own additional training and
+reinforcement learning they are the only
+one with this data that's why they got
+bought by alen for 1060 billion
+>> they tracked everything and I think
+that's that's that's AI apps right now
+like you need to track every action
+every workflow because that's where the
+data is and the more points you have.
+That's where the value is and uh
+>> it's all about data.
+>> Yes. And more than ever.
+>> And it's same thing for content and like
+Yeah. coding and stuff. Yeah. It's nuts.
+Uh pricing 50 per 2.5. Yeah. Okay. And
+stream 15. That's crazy for the fast
+variant the default in cursor. Okay.
+Available exclusive available
+exclusively in cursor both cursor ID and
+cursor CLI external is not available.
+>> Yeah. You need to have the cursor rep.
+>> Yeah. Cursor CLI too. Yeah. Okay. So if
+you have the cursor CLI then you can in
+that way it works like the T3 code front
+end is using cursor CLI to use cursor
+models uh in another interface.
+>> Yeah but then it should also be possible
+to set up an API call to your own Mac
+mini and use the cursor CLI to get cheap
+API.
+>> Yeah, exactly. Oh,
+>> just host it yourself.
+>> Yeah,
+nice.
+Uh, learn more. Why not give me 2.5?
+Okay. Reddit. Some feedback on Reddit.
+Uh, composer 2.5 is my new default. It's
+fast, accurate, and actually cheap.
+Train myself to use GPT 5.5 for anything
+that was not trivial.
+Yeah.
+Oops. Too much doom.
+Doom.
+Nope. Still too much doom.
+Okay, good.
+uh try component mostly because I was
+scared and I didn't want to build bad
+credit another fix this lint error loop
+and it's good like it's annoying good I
+know how fast it is stuff land stuff
+lands in the right file doesn't reward
+half of the module for no reason pick up
+weird pattern without me pasting three
+example every time it's not sitting
+there and doing agent slop as much
+uh it's fast which sound dumb until you
+have been starting at the spinner
+between 10 20 for on a refactor hi
+and yeah chip I know it's that's boring
+to post but uh when you are in C all day
+and ups 5.5 habits get expensive fast
+yeah
+>> uh debating to switch to codex because I
+use 5.5 most of the time but not the
+cook with 2.5 con me to stay okay me too
+cooked yeah it's all major influencer
+uh
+>> I think the only way to say it this to
+see if people are still using it in
+another week.
+>> True.
+I mean, it's been six days already.
+>> Yeah. Yeah.
+>> What about now?
+Very good version. No need for API since
+it launched. That's no need for API call
+since it launched. That's great. Takes
+lower case. Whatever. Whatever.
+Very class fast mode, but 15 output is
+not exactly ship. Yeah, but you're in
+fast mode, bro. Uh tag. I'm starting to
+think discuss about marketing. Okay.
+Okay. What about So we have been through
+that composer benchmark pricing. We know
+about that.
+Cool. Cool. Cool. Alen uh Alen, we have
+already been on it. Pricing on. That's
+done. That's done. Open router. We know
+it's on an open routter.
+And I think that's it. It has been 42
+minutes. Okay.
+Uh, tech. So, yeah. Do you like cheap
+and fast model?
+>> It's looking good to be honest.
+>> Yeah.
+>> And if they really get those numbers in
+the benchmark, then it it's good to try.
+>> Yeah. But do you know if they uh
+do you know if they have like the
+API cost for example for codex and
+entropic inside cursor or do we have
+subscription pricing?
+>> I don't know
+>> because if it's API cost then if you use
+opus 4.7 you're not going to use
+composer 2.5 for long. No, but yeah, I'm
+not using the cursor, but in my CLI, I'm
+doing everything within my subscription.
+>> Yeah.
+>> So, I wouldn't even know why I want to
+pay API cost.
+>> Yeah. Oh, exactly. Okay. Yeah. for like
+aentic but I mean like the it's coming
+next months where like when they um when
+entropic forbid uh to uh use
+subscription in any other third part uh
+parties front end
+>> yeah except for CLI
+>> no if it uh it has to be in the CLI for
+on your computer but like for example in
+ship code I can't use
+The
+>> Yeah. It's like every third party
+service they treat as a API call.
+>> Yes. Exactly.
+>> Yeah.
+>> Which is No. No. Not that.
+>> No. That means people are not going to
+use it because if you can do it for free
+on Codex.
+>> Exactly.
+>> And even if it's cheap, you don't know
+how much it's going to cost. It's always
+a surprise.
+>> Yeah. It's No, it's it's nuts. Like the
+cost are not like Okay. So on my
+subscription
+uh
+30. Okay. So no on this computer
+last 30. Okay. So not okay. So it's not
+in this computer but yeah I think I show
+you right. It's on my dev computer. I
+was like 5k a month for both codeex and
+entropic. I sp like Yeah. Yeah. 10k and
+I paid 400
+>> for both together for what I consume in
+token.
+>> Yeah. So then it is actually a really
+good pricing that we have in the
+subscription price.
+>> Yeah. And today and like
+uh the tok the token are not moving the
+usage is not moving.
+>> Oh I didn't try it. I didn't track it.
+>> Okay. Yeah. installed the Codex bar but
+like a subscription or in pace right now
+in pace which is good
+>> that's perfect for us right
+>> yeah oh yeah
+uh yeah do I have any other stuff no I
+think we talk about the benchmark and
+stuff yeah so basically cheap and fast
+uh western
+uh I think that's it
+okay I mean we Can I conclude already
+with uh Yeah, we're not going to use it,
+but thank you.
+>> Yeah. Well, were you like at least
+thinking about using it?
+>> I mean, yeah, I was even thinking like
+maybe I can get the 20 bucks
+subscription so I can use cursor when I
+completely out of uh open AI or code.
+>> But like for this week, I think I'm
+good. So plus especially but with the
+codeex resetting like the subscription
+every now and then.
+>> Mhm.
+>> It's happening every week almost or
+every two three days. So
+>> yeah if you use it at least only for uh
+checking the code that was created by
+codeex you can take out the opus throw
+it away take the cheaper one and have
+that used.
+>> Yeah. Yeah. And try try compos.
+>> That will save you some money. But I'm
+not I have a working setup. I'm happy
+with the pricing and they didn't
+convince me yet to swap.
+>> Yeah, I mean
+I I will try for you 20 bucks and then I
+will tell you. Oh, whoa.
+>> Use it. Use it.
+>> And hi Michael. Michael. Hi.
+Hi. Yeah. Michael. Hi. Hi. Hi. Hi guy.
+But uh Yeah. Okay. So, I think that's
+it.
+>> Yeah. That that was a good one.
+>> Yeah. Thank you, Ker. Uh if you want to
+sponsor us because we said that your
+model are great, please send us a check.
+We take crypto. [laughter]
+But uh okay, thank you. And Michael, if
+you want to subscribe to the channel and
+come back next week, that would be sick.
+And the video of the recap of this mod
+of this uh live stream will be posted in
+the next few days. Uh, Mitchell, thank
+you so much for your time and
+>> thank you too.
+>> We will see you around. Bye. Bye.

@@ -1,0 +1,12 @@
+{
+  "youtube_id": "vZZRx4g6tcs",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "3ad5a2429ad0451ab4a2493df862ba3ebc83ca4b7563e0315b2276749da0e2a1",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-06-24-livestream-wtf-is-loop-engineering.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

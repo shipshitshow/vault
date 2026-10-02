@@ -1,62 +1,97 @@
-# Shorts
+# Archive index
 
-Count: 29
+[Production handbook](../../production/index.md)
 
-## 2026-04-08
+The catalog includes historical inventory and verified episode links. Visibility and ASR review state are recorded per entry.
 
-- [[2026-04-08/a/overview|A · Anthropic Unveils Mythos AI #shorts]] · [[2026-04-08/a/transcript|Transcript]]
-- [[2026-04-08/b/overview|B · Anthropic's Nightmare Week: Leaks & Bans #shorts]] · [[2026-04-08/b/transcript|Transcript]]
-- [[2026-04-08/c/overview|C · Claude Mythos: Too Powerful to Withhold? #shorts]] · [[2026-04-08/c/transcript|Transcript]]
-
-## 2026-04-01
-
-- [[2026-04-01/a/overview|A · Paperclip: AI for Zero-Human Companies #shorts]] · [[2026-04-01/a/transcript|Transcript]]
-- [[2026-04-01/b/overview|B · Paperclip: Autonomous Business Orchestration #shorts]] · [[2026-04-01/b/transcript|Transcript]]
-- [[2026-04-01/c/overview|C · Paperclip: Open-Source Orchestration #shorts]] · [[2026-04-01/c/transcript|Transcript]]
-
-## 2026-03-25
-
-- [[2026-03-25/a/overview|A · AI Agents Chatting and Self-Organizing #shorts]] · [[2026-03-25/a/transcript|Transcript]]
-- [[2026-03-25/b/overview|B · AI Pair Programming Powerhouse #shorts]] · [[2026-03-25/b/transcript|Transcript]]
-- [[2026-03-25/c/overview|C · Claude Code Channels vs OpenClaw #shorts]] · [[2026-03-25/c/transcript|Transcript]]
-
-## 2026-03-18
-
-- [[2026-03-18/a/overview|A · AI Costs: Usage vs. Subscription #shorts]] · [[2026-03-18/a/transcript|Transcript]]
-- [[2026-03-18/b/overview|B · AI Founders' Existential AI Question #shorts]] · [[2026-03-18/b/transcript|Transcript]]
-- [[2026-03-18/c/overview|C · Fake GitHub PRs With AI? #shorts]] · [[2026-03-18/c/transcript|Transcript]]
-- [[2026-03-18/d/overview|D · OpenClaw Summarizes YouTube Videos #shorts]] · [[2026-03-18/d/transcript|Transcript]]
-
-## 2026-03-12
-
-- [[2026-03-12/a/overview|A · Codex 5.4 Solves Zendesk Ticket System Issues #shorts]] · [[2026-03-12/a/transcript|Transcript]]
-- [[2026-03-12/b/overview|B · GPT 5.4 vs Opus 4.6: The Verdict #shorts]] · [[2026-03-12/b/transcript|Transcript]]
-- [[2026-03-12/c/overview|C · OpenClaw & GPT 5.4: The Ultimate Combo #shorts]] · [[2026-03-12/c/transcript|Transcript]]
-
-## 2026-03-04
-
-- [[2026-03-04/a/overview|A · Automate. Scale AI, 10X Output #shorts]] · [[2026-03-04/a/transcript|Transcript]]
-- [[2026-03-04/b/overview|B · Don't Get Replaced By AI #shorts]] · [[2026-03-04/b/transcript|Transcript]]
-- [[2026-03-04/c/overview|C · Jack just fired 4,000 people. AI changed everything. #shorts]] · [[2026-03-04/c/transcript|Transcript]]
-- [[2026-03-04/d/overview|D · Software Engineering Is Dead? #shorts]] · [[2026-03-04/d/transcript|Transcript]]
-
-## 2026-02-25
-
-- [[2026-02-25/a/overview|A · AI Automates Bug Fixing Pipeline #shorts]] · [[2026-02-25/a/transcript|Transcript]]
-- [[2026-02-25/b/overview|B · Discord Swarm Agents Demo #shorts]] · [[2026-02-25/b/transcript|Transcript]]
-- [[2026-02-25/c/overview|C · Openclaw Agent Swarm: Automating Bug Fixes #shorts]] · [[2026-02-25/c/transcript|Transcript]]
-
-## 2026-02-13
-
-- [[2026-02-13/a/overview|A · Building takes a year? No. MVP in a week. Test. Iterate.]] · [[2026-02-13/a/transcript|Transcript]]
-- [[2026-02-13/b/overview|B · Replace Your Dashboard with an MCP server]] · [[2026-02-13/b/transcript|Transcript]]
-
-## 2026-02-12
-
-- [[2026-02-12/a/overview|A · AI Codes Better? Sometimes It Just Improves #shorts]] · [[2026-02-12/a/transcript|Transcript]]
-- [[2026-02-12/b/overview|B · I Built My Own Zendesk in 3 Days! #shorts]] · [[2026-02-12/b/transcript|Transcript]]
-
-## 2026-02-04
-
-- [[2026-02-04/a/overview|A · Moltbook Data Breach Exposes Secret APIs #shorts]] · [[2026-02-04/a/transcript|Transcript]]
-- [[2026-02-04/b/overview|B · OpenClaw Controls My Computer?! (AGI is Here!)]] · [[2026-02-04/b/transcript|Transcript]]
+- [AI Configured My Server in Minutes #shorts](2026-07-08-6SJIPl6Pccs/overview.md) — 2026-07-08
+- [Code Review Obsolete? AI Writes Perfect Code #shorts](2026-07-08-IT6EcYwWMXc/overview.md) — 2026-07-08
+- [Open Source AI Will Catch Up In 18 Months #shorts](2026-07-08-LAybWTMH_Pw/overview.md) — 2026-07-08
+- [Fable: Your Technical Co-Founder #shorts](2026-07-08-XkPuKFYwTJk/overview.md) — 2026-07-08
+- [Fable 5 is gone: What are the alternatives? #shorts](2026-07-08-dmVmI49msS4/overview.md) — 2026-07-08
+- [Build Software in Days, Not Years #shorts](2026-07-08-mX9yX-W9QF0/overview.md) — 2026-07-08
+- [AI Tool Writes Code Documentation #shorts](2026-07-03-NS4L89gnvO0/overview.md) — 2026-07-03
+- [Claude Code Extension: Browser Automation #shorts](2026-07-03-ph_TL_4fxX0/overview.md) — 2026-07-03
+- [Automating Your Coding Workflow with Claude / Codex #shorts](2026-07-02-069jQ4HELi0/overview.md) — 2026-07-02
+- [Automated Agents Drain Your Funds #shorts](2026-07-02-ZkXO2n7pL10/overview.md) — 2026-07-02
+- [Code Optimization: Skips Unnecessary Functions #shorts](2026-07-02-zSdtYx7NwCs/overview.md) — 2026-07-02
+- [Automate AI Checks with Local Cron #shorts](2026-06-25-Quyk439obxM/overview.md) — 2026-06-25
+- [Control Over Code Merges #shorts](2026-06-25-WL2weCGHPdg/overview.md) — 2026-06-25
+- [Automate GitHub Issue Monitoring #shorts](2026-06-24-5VSiexTohak/overview.md) — 2026-06-24
+- [AI Can Code, But Will It Be Crappy? #shorts](2026-06-24-FhYgZWv7_H8/overview.md) — 2026-06-24
+- [DIY Ticket System Beats Zendesk #shorts](2026-06-24-zzgG_hSBphE/overview.md) — 2026-06-24
+- [From Bugs to Backlog: Full Project Analysis #shorts](2026-06-17-HKdtfOadYsA/overview.md) — 2026-06-17
+- [Finding a Husband Online? #shorts](2026-06-17-S1O9Kij1baE/overview.md) — 2026-06-17
+- [Amazon's Mythos Jailbreak Revealed #shorts](2026-06-17-ffVOe6n7xok/overview.md) — 2026-06-17
+- [OpenClaw & Hermes: Paid Plan, Free Execution #shorts](2026-06-17-u6DDFK09600/overview.md) — 2026-06-17
+- [AI Brainstorming: 3 Hours or 10 Minutes? #shorts](2026-06-17-xKOu2TRWaHs/overview.md) — 2026-06-17
+- [AI Security: Does Your Code Pass the Hack Test? #shorts](2026-06-12-1kAQcxetUQo/overview.md) — 2026-06-12
+- [Claude Fable 5: AI Gaming Studio Launch #shorts](2026-06-12-E4Ycv5MkL2s/overview.md) — 2026-06-12
+- [Claude Fable 5 Launches AI Gaming Studio #shorts](2026-06-12-LHTGDkStW5Y/overview.md) — 2026-06-12
+- [Claude Fable 5: AI Gaming Studio Launch #shorts](2026-06-12-Z1XDzL7HEhk/overview.md) — 2026-06-12
+- [Building AI Native Gaming Studios #shorts](2026-06-12-_OGYPRogIkw/overview.md) — 2026-06-12
+- [Claude Fable 5 Launch & AI Gaming Studio #shorts](2026-06-12-kvtQwsAOibs/overview.md) — 2026-06-12
+- [Claude Fable 5 Launch: AI Native Gaming Studio #shorts](2026-06-12-zOK5RwFq1zM/overview.md) — 2026-06-12
+- [Opus 4.8: Smarter AI Task Management #shorts](2026-06-03-FOZCNAwZyMY/overview.md) — 2026-06-03
+- [Opus 4.8 Testing: Collision Bugs #shorts](2026-06-03-JkVr0zl5xxs/overview.md) — 2026-06-03
+- [Opus 4.8: Testing Planning Capabilities #shorts](2026-06-03-O5cSbn2CHT8/overview.md) — 2026-06-03
+- [Opus 4.8 vs 4.9: The Honesty Test #shorts](2026-06-03-StGpcMmyEfI/overview.md) — 2026-06-03
+- [Opus 4.8 Fast Mode Explained #shorts](2026-06-03-WuysWWDiX_A/overview.md) — 2026-06-03
+- [Cursor Composer 2.5: Cheap & Fast #shorts](2026-05-30-BCZGgnl_BxU/overview.md) — 2026-05-30
+- [Cursor Composer 2.5: The Model You're Missing #shorts](2026-05-30-ehW7WGPb_tk/overview.md) — 2026-05-30
+- [Cursor Composer 2.5: The New AI Model #shorts](2026-05-29-hqBL0ZA4LDw/overview.md) — 2026-05-29
+- [Cursor Composer 2.5: New Model Magic #shorts](2026-05-29-zOlq-xxs6rQ/overview.md) — 2026-05-29
+- [Malicious Code Hidden in Software Packages? #shorts](2026-05-20-080b3orLQug/overview.md) — 2026-05-20
+- [Fear of Downloading: A Developer's Dilemma #shorts](2026-05-20-AayKYzNNkl0/overview.md) — 2026-05-20
+- [Crypto Scammers Use PDFs #shorts](2026-05-20-Y2bOBy6tXrE/overview.md) — 2026-05-20
+- [AI War: Attackers vs Defenders #shorts](2026-05-20-b0YzyC8mnb8/overview.md) — 2026-05-20
+- [Trusting NPM Packages Blindly? #shorts](2026-05-20-ceOIFfz6zcU/overview.md) — 2026-05-20
+- [Malicious Code Infiltrates Official Release #shorts](2026-05-13-Rcc0ipuyq3E/overview.md) — 2026-05-13
+- [MD to HTML: The Unexpected Result #shorts](2026-05-13-X5JfYCLIYC8/overview.md) — 2026-05-13
+- [GitHub Cache Poisoned Attack #shorts](2026-05-13-XUJRXGVn-z8/overview.md) — 2026-05-13
+- [Design Exploration Made Easy #shorts](2026-05-13-nhfWTbeqLR8/overview.md) — 2026-05-13
+- [Supply Chain Attack Steals CI Credentials #shorts](2026-05-12-cNAv_6C415g/overview.md) — 2026-05-12
+- [NPM Supply Chain Attack Explained #shorts](2026-05-12-ocZKEai71dM/overview.md) — 2026-05-12
+- [Test It Yourself: AI vs. Human Speed #shorts](2026-05-07-BaMjLYIRRcY/overview.md) — 2026-05-07
+- [AI Project Planning: From Hours to Minutes #shorts](2026-05-07-v86W5bRHAFg/overview.md) — 2026-05-07
+- [AI Coding vs. Real Development Setup #shorts](2026-05-07-wQcUPsm9PVM/overview.md) — 2026-05-07
+- [Coding with AI on Production Server? #shorts](2026-05-06-NGwebivCfeg/overview.md) — 2026-05-06
+- [Database Deleted by Test Failure #shorts](2026-05-06-dAHUYCAucLs/overview.md) — 2026-05-06
+- [AI Software in One Day? #shorts](2026-05-06-jEobDeO6fPk/overview.md) — 2026-05-06
+- [AI Approaches to Problem Solving #shorts](2026-05-01-XZoN9F6nr3g/overview.md) — 2026-05-01
+- [GPT 5.5 Understands Faster #shorts](2026-05-01-jyhcakhr2jQ/overview.md) — 2026-05-01
+- [Claude AI Crashes Businesses #shorts](2026-05-01-pgWuEkCrgIc/overview.md) — 2026-05-01
+- [Prompting Perfection: Ask Better, Get Better #shorts](2026-05-01-qsja0My36VE/overview.md) — 2026-05-01
+- [OpenAI vs Anthropic: The AI Quality Debate #shorts](2026-05-01-tgfn-ojFTqo/overview.md) — 2026-05-01
+- [Elon Musk's Bold Space Data Centers #shorts](2026-04-16-HO9iUtzjPlE/overview.md) — 2026-04-16
+- [AI Art vs. Artists: The Great Debate #shorts](2026-04-16-RkTUXO0B-Xw/overview.md) — 2026-04-16
+- [AI Quality Surges Dramatically #shorts](2026-04-16-v7haFmQED98/overview.md) — 2026-04-16
+- [GPT 5.4 vs Opus 4.6: The Verdict #shorts](2026-03-12/b/overview.md) — date unresolved
+- [Paperclip: Autonomous Business Orchestration #shorts](2026-04-01/b/overview.md) — date unresolved
+- [OpenClaw Controls My Computer?! (AGI is Here!)](2026-02-04/b/overview.md) — date unresolved
+- [AI Codes Better? Sometimes It Just Improves #shorts](2026-02-12/a/overview.md) — date unresolved
+- [Discord Swarm Agents Demo #shorts](2026-02-25/b/overview.md) — date unresolved
+- [AI Agents Chatting and Self-Organizing #shorts](2026-03-25/a/overview.md) — date unresolved
+- [Claude Mythos: Too Powerful to Withhold? #shorts](2026-04-08/c/overview.md) — date unresolved
+- [Claude Code Channels vs OpenClaw #shorts](2026-03-25/c/overview.md) — date unresolved
+- [OpenClaw & GPT 5.4: The Ultimate Combo #shorts](2026-03-12/c/overview.md) — date unresolved
+- [Codex 5.4 Solves Zendesk Ticket System Issues #shorts](2026-03-12/a/overview.md) — date unresolved
+- [Don't Get Replaced By AI #shorts](2026-03-04/b/overview.md) — date unresolved
+- [Replace Your Dashboard with an MCP server](2026-02-13/b/overview.md) — date unresolved
+- [Anthropic Unveils Mythos AI #shorts](2026-04-08/a/overview.md) — date unresolved
+- [Anthropic's Nightmare Week: Leaks & Bans #shorts](2026-04-08/b/overview.md) — date unresolved
+- [AI Founders' Existential AI Question #shorts](2026-03-18/b/overview.md) — date unresolved
+- [AI Automates Bug Fixing Pipeline #shorts](2026-02-25/a/overview.md) — date unresolved
+- [Automate. Scale AI, 10X Output #shorts](2026-03-04/a/overview.md) — date unresolved
+- [Paperclip: AI for Zero-Human Companies #shorts](2026-04-01/a/overview.md) — date unresolved
+- [Software Engineering Is Dead? #shorts](2026-03-04/d/overview.md) — date unresolved
+- [Jack just fired 4,000 people. AI changed everything. #shorts](2026-03-04/c/overview.md) — date unresolved
+- [Openclaw Agent Swarm: Automating Bug Fixes #shorts](2026-02-25/c/overview.md) — date unresolved
+- [Fake GitHub PRs With AI? #shorts](2026-03-18/c/overview.md) — date unresolved
+- [AI Pair Programming Powerhouse #shorts](2026-03-25/b/overview.md) — date unresolved
+- [AI Costs: Usage vs. Subscription #shorts](2026-03-18/a/overview.md) — date unresolved
+- [OpenClaw Summarizes YouTube Videos #shorts](2026-03-18/d/overview.md) — date unresolved
+- [Moltbook Data Breach Exposes Secret APIs #shorts](2026-02-04/a/overview.md) — date unresolved
+- [Paperclip: Open-Source Orchestration #shorts](2026-04-01/c/overview.md) — date unresolved
+- [Building takes a year? No. MVP in a week. Test. Iterate.](2026-02-13/a/overview.md) — date unresolved
+- [I Built My Own Zendesk in 3 Days! #shorts](2026-02-12/b/overview.md) — date unresolved

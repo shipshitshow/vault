@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,000"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5000
+      },
+      "text": " - Finally, the pricing, $10 in and 50 outs from meters five."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,640",
+        "to": "00:00:09,600"
+      },
+      "offsets": {
+        "from": 5640,
+        "to": 9600
+      },
+      "text": " Opus, it was 525 and on Sunday, it's 315."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,600",
+        "to": "00:00:11,440"
+      },
+      "offsets": {
+        "from": 9600,
+        "to": 11440
+      },
+      "text": " - And they doubled the cost for meters, right?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,440",
+        "to": "00:00:13,920"
+      },
+      "offsets": {
+        "from": 11440,
+        "to": 13920
+      },
+      "text": " - Like twice Opus for meters."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,920",
+        "to": "00:00:15,240"
+      },
+      "offsets": {
+        "from": 13920,
+        "to": 15240
+      },
+      "text": " - It's 10 to 50."
+    }
+  ]
+}

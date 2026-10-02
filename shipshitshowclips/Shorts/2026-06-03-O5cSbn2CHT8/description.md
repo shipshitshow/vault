@@ -1,0 +1,1 @@
+Is the plan readable? We tested Opus 4.8's planning capabilities. Turns out, reading the whole MD file made it perfect. Easy to understand, no Caveman needed. #Opus4.8 #Planning #SoftwareTesting #MDFile

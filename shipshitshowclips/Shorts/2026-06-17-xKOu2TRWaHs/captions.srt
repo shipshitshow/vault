@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:01,520
+ - If you are prepared for three hours,
+
+2
+00:00:01,520 --> 00:00:04,040
+ how long does it take for Opius to do it?
+
+3
+00:00:04,040 --> 00:00:06,080
+ - Well, eventually it takes him like three hours,
+
+4
+00:00:06,080 --> 00:00:07,040
+ but sometimes I ask,
+
+5
+00:00:07,040 --> 00:00:09,120
+ hey, come with three different solutions.
+
+6
+00:00:09,120 --> 00:00:11,240
+ And I ask Kodak to do the exact same thing,
+
+7
+00:00:11,240 --> 00:00:13,260
+ to come with three different solutions
+
+8
+00:00:13,260 --> 00:00:15,920
+ and just merge them into one document.
+
+9
+00:00:15,920 --> 00:00:17,780
+ And then say, what's the difference?
+
+10
+00:00:17,780 --> 00:00:20,960
+ What can you take from other solutions to improve it?
+
+11
+00:00:20,960 --> 00:00:23,000
+ And then they think like 10 minutes again.
+
+12
+00:00:23,000 --> 00:00:26,600
+ So the three hours is including the taking time of the AI.
+
+13
+00:00:26,600 --> 00:00:29,720
+ - Do you ask Claude to give you a solution?
+
+14
+00:00:29,720 --> 00:00:33,720
+ Do you offer a solution and then Claude is giving you a better one?
+
+15
+00:00:33,720 --> 00:00:34,220
+ It does.
+

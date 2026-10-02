@@ -1,0 +1,218 @@
+If you hate AI, this video is for you.
+Because the bad news is it will take
+parts of your job. While half of the
+internet is still arguing about whether
+AI should even be allowed to exist, the
+people using it every day already know
+this is the most powerful piece of
+technology in our lifetime. We are using
+it every day and most of the people
+screaming about it or not. Most anti-AII
+opinions are still coming from people
+reacting to slop, theft, anxiety, and
+culture war aesthetics without ever
+spending serious time inside cloud
+codecs or modern agent workflows. They
+are not wrong about the garbage. They
+are wrong about the trajectory. The
+point of view is emotional first,
+aesthetic first, moral first. It is not
+utilitarian, and it's not grounded in
+what these tools now do in the hands of
+the people who actually use them like
+us. And you can riot against it if you
+want and it is still going to happen and
+we are going to show you why.
+&gt;&gt; What did you do this week with like all
+of the prompts
+&gt;&gt; I'm doing a lot with it. I think I don't
+know if my customers are watching and I
+tell them but I didn't touch any code at
+all this year. If it's a PP Laravel
+project, if it's building WordPress, if
+it's Python,
+&gt;&gt; yeah,
+&gt;&gt; everything I put in and I have some some
+flows that check each other like Codex
+Cloud, but yeah, the code is still
+better than what I would do before. And
+it's so much faster. Even the the most
+easiest thing like a WordPress website,
+people would install so many plugins,
+buy them for like $50 a year, and you
+have a whole list. And now customers
+come to me because the website is slow
+and cloud just rebuilds all the plugins
+to custom plugins within an hour and it
+optimizes the website. So for example
+like do you think like security
+engineers will like scream against
+methos because it's too powerful and
+they don't have anything to do
+&gt;&gt; Oh yeah I think for two reasons because
+the first reason is they are losing
+their jobs and the second reason is they
+know how fast it can go because they
+know how security works and once you
+bypass a small thing they understand how
+easy it is to leak a full database of
+data.
+&gt;&gt; Yeah. So they are the ones saying that
+when MTOS is leaked into the wrong hands
+of people abusing it, using it for bad
+behavior, for hacking and everything.
+&gt;&gt; Yeah.
+Well, who's going to stop them?
+&gt;&gt; Yeah. Well, who's going to stop them?
+&gt;&gt; Who's going to stop? Anyone?
+&gt;&gt; Yeah.
+Mitos was a bit like that was
+&gt;&gt; Yeah. Mitos was a bit like that was
+honestly during our live stream when I
+saw like the benchmark and stuff, I was
+okay, that's that's the ponder box. The
+guy who said, "Yeah, okay. I found a bug
+in a 30 years old code is like OpenBSD
+server and I can be admin on every
+[&nbsp;__&nbsp;] OpenBSD ever on Earth, bro.
+&gt;&gt; Yeah, but it's not even in your code.
+Just the the operating system that's
+running on a VPS or whatever, everything
+can be hacked. And then even if your app
+is fully secure, you still have a
+problem.
+&gt;&gt; You're never fully secure anyway, right?
+And and then you we will have MTOS 1.5
+and MTOS 2.0.
+&gt;&gt; Yeah. And what are you going to tell
+your customer every time? Oh no, it's
+AI. I can do anything about it.
+&gt;&gt; I mean like the solution of AI attacks
+or AI defenders. AI prompting is not
+art. Like do you understand the
+backlash?
+&gt;&gt; Yeah. They say they trained on my data
+on my on my art and now it's using my
+techniques to create new art for other
+people.
+&gt;&gt; Yeah. Fantasy artist Greg Rutoski image
+was scrapped the most out of the any
+artist across all generative AI site.
+Rutoski was not happy and made vocal
+opposition of AI generated art. As a
+result, his art was removed from
+training data set of the diffusion 2.0.
+However, Gen AI user developed tools
+like Laura to bypass the new stable
+diffusion restriction. The net is is now
+filled with AI rtosk ripoff and kind of
+like what we saw with the studio Gibli
+with JGBT, right?
+&gt;&gt; Yes. you put limitation in a closed
+model, then you will have open-source
+models that will do exactly the same
+[&nbsp;__&nbsp;] thing. So, it's that's it. It's
+open. And I mean, yeah, that looks like
+an illustration that you can prompt on
+Nano2 like in 5 seconds.
+&gt;&gt; I would just say you're an artist. Be
+creative and turn it around and make
+money on it. tell people that's based on
+your art and they can can even get an
+original one.
+&gt;&gt; Exactly.
+&gt;&gt; Eventually AI will steal it and not even
+steal it, it will just copy it, create
+something. But even if it does it by
+itself and it goes through the same
+steps as you have done, it will come to
+the same result. That's possible. So
+don't complain. Just go and earn money
+with AI because of so many opportunities
+that you get. Be creative and use AI to
+go even further.
+&gt;&gt; Yeah. And I like Yeah. People can sell
+like humanmade art anyway. You will have
+you will have like 1 million piece of AI
+art and then you will have one painting
+where you spend 20,000 hours on it
+&gt;&gt; and people will pay for it. There's no
+because they want the personal stuff.
+&gt;&gt; People are saying, "Yeah, we need a
+label. We need to force people tagging
+if it's AI generated."
+&gt;&gt; Yeah.
+&gt;&gt; When 70% of the content on internet is
+AI generated. Like what the [&nbsp;__&nbsp;] are you
+talking about? Yeah. And they are not
+going to do it.
+&gt;&gt; I mean on YouTube like if the video is
+AI generated you need to tag it and on
+on Instagram too like if the like the
+some of the AI influencer I have on
+Instagram I need to say that the image
+is AI generated and then I get like some
+DM from fan view
+influencers that say oh yeah you want to
+create an account here. Okay.
+&gt;&gt; Yeah it's an upsell.
+&gt;&gt; Yeah. A girl on Instagram with like big
+boobs and like bikinis will make more
+views than ugly real girl.
+&gt;&gt; Yeah. And I don't think people mind that
+it's AI. They just keep on scrolling.
+&gt;&gt; I mean when you when you see the the the
+impression of those like AI generated
+models. No, people don't give a [&nbsp;__&nbsp;]
+about
+&gt;&gt; all of the view that we get right now is
+because YouTube algo recommended to the
+viewers, right? So we produce the
+content, it get recommended to people.
+We could AI generated everything and
+YouTube could recommen recommend like
+content not even human generated or
+generate a video to get the viewers to
+watch a video about a search or you can
+search something on YouTube and the
+video that you want to watch is
+generated on the fly.
+&gt;&gt; Yeah, that's cool.
+&gt;&gt; Yeah,
+&gt;&gt; but that's like giving everybody a
+unique video. Yeah, but like for examp
+like like for example if I want to watch
+a cooking video on YouTube like I say
+which recipe can I do with my fridge?
+Like the the stuff I have in my fridge.
+You take a picture of your fridge, you
+go on YouTube, bam video of like cooking
+something recipe blah blah blah in like
+it's so exciting. AI is like 100% too
+big to fail. It's not because you will
+have like riot in France or whatever
+like 15,000
+people like rioting. Yeah, know we don't
+want self-driving cars or we don't want
+AI generated images on internet. We're
+going to make billion of them. So,
+&gt;&gt; you better get used to it.
+&gt;&gt; Yeah. Yeah. Get used to it before like
+your kids are scrolling TikTok with AI
+generated content.
+&gt;&gt; Yeah. Well, maybe it's a generation
+issue.
+&gt;&gt; Oh, yeah.
+&gt;&gt; In 30 years, no, we are the last people
+knowing how everything works without AI.
+&gt;&gt; Yeah. Oh, like when kids are like
+getting brain rotated on Tik Tok by like
+the banana fruit stuff generated like
+yeah in in yeah in 10 years nobody will
+care about like if it's AI because
+everything will be generated anyways.
+&gt;&gt; Yes.
+&gt;&gt; But yeah you can riot you can hate AI
+but you're gonna lose. I subscribe to
+the channel.
+&gt;&gt; Thank you. Bye and stream. Peace.

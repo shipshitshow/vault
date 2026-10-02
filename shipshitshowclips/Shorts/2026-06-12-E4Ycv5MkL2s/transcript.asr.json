@@ -1,0 +1,131 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:01,300"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 1300
+      },
+      "text": " I tried it yesterday."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:01,360",
+        "to": "00:00:05,940"
+      },
+      "offsets": {
+        "from": 1360,
+        "to": 5940
+      },
+      "text": " I first said, okay, please double check my login and make sure it's not hackable."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,000",
+        "to": "00:00:10,460"
+      },
+      "offsets": {
+        "from": 6000,
+        "to": 10460
+      },
+      "text": " And it, it said in yellow letters in my terminal window, I switched"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,460",
+        "to": "00:00:12,180"
+      },
+      "offsets": {
+        "from": 10460,
+        "to": 12180
+      },
+      "text": " to Opus because of security."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:12,380",
+        "to": "00:00:17,040"
+      },
+      "offsets": {
+        "from": 12380,
+        "to": 17040
+      },
+      "text": " So it looks like when you make the prompt too much on trying to find"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,060",
+        "to": "00:00:20,160"
+      },
+      "offsets": {
+        "from": 17060,
+        "to": 20160
+      },
+      "text": " options to hack that it switches to Opus and it doesn't give you the"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,160",
+        "to": "00:00:23,900"
+      },
+      "offsets": {
+        "from": 20160,
+        "to": 23900
+      },
+      "text": " full potential of Fable, but afterwards I said, Hey, this is my code."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,900",
+        "to": "00:00:25,360"
+      },
+      "offsets": {
+        "from": 23900,
+        "to": 25360
+      },
+      "text": " Please do a security check."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,540",
+        "to": "00:00:27,320"
+      },
+      "offsets": {
+        "from": 25540,
+        "to": 27320
+      },
+      "text": " And it just proceeded and did everything."
+    }
+  ]
+}

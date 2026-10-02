@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:03,240
+ It deleted Zendesk and I did my own ticket system.
+
+2
+00:00:03,480 --> 00:00:08,500
+ So I have my local Mac Mini that copies my database because I don't want
+
+3
+00:00:08,500 --> 00:00:11,560
+ it active in the actual database.
+
+4
+00:00:11,600 --> 00:00:15,620
+ So it does a pull request, updates the database once per hour, and I can just
+
+5
+00:00:15,620 --> 00:00:20,920
+ say, see ticket five, number five, and read it, and it looks up the tickets
+
+6
+00:00:20,920 --> 00:00:24,480
+ in my database and it knows the exact conversation and the issue and it knows
+
+7
+00:00:24,480 --> 00:00:25,000
+ what to do.
+

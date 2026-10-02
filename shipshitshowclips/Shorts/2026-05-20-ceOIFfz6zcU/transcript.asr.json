@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:04,400"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 4400
+      },
+      "text": " the biggest issue I think because you don't know what the other ones are and you don't even care"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:04,400",
+        "to": "00:00:09,760"
+      },
+      "offsets": {
+        "from": 4400,
+        "to": 9760
+      },
+      "text": " because you trust on your npm package that it's correct isn't that the biggest issue that people"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,760",
+        "to": "00:00:15,680"
+      },
+      "offsets": {
+        "from": 9760,
+        "to": 15680
+      },
+      "text": " trust the code from other devs and just install it without looking but it's way too much to research"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,680",
+        "to": "00:00:20,320"
+      },
+      "offsets": {
+        "from": 15680,
+        "to": 20320
+      },
+      "text": " everything you push something publicly it's used by a million of other people and then you get"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,320",
+        "to": "00:00:32,000"
+      },
+      "offsets": {
+        "from": 20320,
+        "to": 32000
+      },
+      "text": " fucked because you forget you to fa on your ex-girlfriend's phone yes"
+    }
+  ]
+}

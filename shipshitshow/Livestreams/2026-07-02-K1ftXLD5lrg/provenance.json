@@ -1,0 +1,12 @@
+{
+  "youtube_id": "K1ftXLD5lrg",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "98df96ac8bc9dfe13243a44be4c1a9b2c2a116ef1110447d2924a822eec992b3",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-07-02-livestream-claude-fable-5-is-back-sonnet-5-is-really-expensive.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,800
+ 5.5 is really smart.
+
+2
+00:00:01,820 --> 00:00:06,360
+ I get faster to the results that I want and I have to correct it less times.
+
+3
+00:00:06,420 --> 00:00:06,780
+ Yeah.
+
+4
+00:00:06,780 --> 00:00:10,680
+ But even if it's double in tokens, I don't mind because it understands
+
+5
+00:00:10,680 --> 00:00:14,760
+ exactly what I want in like one or two questions instead of six.
+

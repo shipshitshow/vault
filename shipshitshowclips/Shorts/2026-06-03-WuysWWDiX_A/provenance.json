@@ -1,0 +1,14 @@
+{
+  "youtube_id": "WuysWWDiX_A",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/WuysWWDiX_A",
+  "source_sha256": "f0431cded8c8b932b190ee4f0466b74feb4bfecd5de787e5cac844f6a05fac0c",
+  "audio_sha256": "4f6e1aabc89632b2ce38ebb34554667e9270088c55e378ab98118cfe49572980",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

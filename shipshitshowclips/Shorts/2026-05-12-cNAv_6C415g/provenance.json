@@ -1,0 +1,14 @@
+{
+  "youtube_id": "cNAv_6C415g",
+  "channel_id": "UCYX8Z9u0cP4T7Dpnm0EcT5Q",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/shorts/cNAv_6C415g",
+  "source_sha256": "4242ff22cd6a93befc355ced32cfadecbc818a2d209652a49f88cfa908885c3a",
+  "audio_sha256": "ff5c8f6aa1202cf846679d7b17381c1a5a93c4e77ddc87dff15dd5cda5031382",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

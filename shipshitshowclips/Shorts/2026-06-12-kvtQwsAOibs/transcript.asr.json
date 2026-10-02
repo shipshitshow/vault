@@ -1,0 +1,153 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:05,300"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 5300
+      },
+      "text": " It was a late night because I had to use all my tokens on Fable."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,300",
+        "to": "00:00:14,500"
+      },
+      "offsets": {
+        "from": 5300,
+        "to": 14500
+      },
+      "text": " You should have like a routine or slash automations to bounce tokens before release day."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,500",
+        "to": "00:00:17,680"
+      },
+      "offsets": {
+        "from": 14500,
+        "to": 17680
+      },
+      "text": " And I already was lucky."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,680",
+        "to": "00:00:21,700"
+      },
+      "offsets": {
+        "from": 17680,
+        "to": 21700
+      },
+      "text": " I was almost at 90% usage yesterday evening."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,700",
+        "to": "00:00:25,880"
+      },
+      "offsets": {
+        "from": 21700,
+        "to": 25880
+      },
+      "text": " And that's the moment when they told me we have resetted all the counters."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,880",
+        "to": "00:00:28,280"
+      },
+      "offsets": {
+        "from": 25880,
+        "to": 28280
+      },
+      "text": " So I was like, yes!"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:28,280",
+        "to": "00:00:30,220"
+      },
+      "offsets": {
+        "from": 28280,
+        "to": 30220
+      },
+      "text": " Because Fable is expensive."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:30,220",
+        "to": "00:00:33,960"
+      },
+      "offsets": {
+        "from": 30220,
+        "to": 33960
+      },
+      "text": " Yes, double expensive compared to Opus."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:33,960",
+        "to": "00:00:35,680"
+      },
+      "offsets": {
+        "from": 33960,
+        "to": 35680
+      },
+      "text": " Yes, sir."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:35,680",
+        "to": "00:00:43,160"
+      },
+      "offsets": {
+        "from": 35680,
+        "to": 43160
+      },
+      "text": " But is it double as good?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:43,160",
+        "to": "00:00:44,080"
+      },
+      "offsets": {
+        "from": 43160,
+        "to": 44080
+      },
+      "text": " The benchmark says so."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "youtube_id": "VEzRyG-jZys",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "8323729335fa6f7d34ca2c3d6f5fafa89a3964b43d6acfc8675d512061abcca7",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-01-video-gpt-5-5-vs-claude-opus-4-7-use-both.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

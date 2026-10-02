@@ -1,0 +1,14 @@
+{
+  "youtube_id": "mz5xo-QX1VM",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "local-whisper.cpp",
+  "model": "medium.en",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "source_url": "https://www.youtube.com/watch?v=mz5xo-QX1VM",
+  "source_sha256": "4a348ddfcffa7d3098d9953133281cdbbc973d7edda34934f6a65d448d82e117",
+  "audio_sha256": "737718476445d238a1b521ead0aa33cf404a84c0d93a5ae07cb2a35455183d29",
+  "visibility_note": "Observed in public channel tab on audit date"
+}

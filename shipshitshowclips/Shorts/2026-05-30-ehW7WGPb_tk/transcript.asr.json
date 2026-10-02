@@ -1,0 +1,87 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:01,600"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 1600
+      },
+      "text": " Are you still using cursor?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:01,600",
+        "to": "00:00:07,840"
+      },
+      "offsets": {
+        "from": 1600,
+        "to": 7840
+      },
+      "text": " Maybe not because Cloud Code is more used by everyone at Icy and every developer in the world."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,840",
+        "to": "00:00:11,600"
+      },
+      "offsets": {
+        "from": 7840,
+        "to": 11600
+      },
+      "text": " So if you don't, maybe you don't know there is like Composer 2.5."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,600",
+        "to": "00:00:15,120"
+      },
+      "offsets": {
+        "from": 11600,
+        "to": 15120
+      },
+      "text": " That is probably the best model out there right now."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,120",
+        "to": "00:00:18,080"
+      },
+      "offsets": {
+        "from": 15120,
+        "to": 18080
+      },
+      "text": " So if you don't use cursor, that's probably a mistake, isn't it, Mitchell?"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Transcript
+
+Local Whisper automatic English transcription (model recorded in provenance), imported 2026-10-02. No speaker identities inferred. ASR names, numbers and wording are unreviewed. This uses the published asset's own clock.
+
+- Do you ever ask the question,
+what could I have prompted differently
+and how could I have differently asked the question
+to get a better result?
+- Not really, I just like fix that shit.
+- Yeah, okay.
+- Do you?
+- Yeah, I do.
+Because sometimes you just get the first output
+and it's really bad.
+And then you're like working for 30 minutes
+to get a result that you want.
+And that's the moment when I ask,
+okay, what could I have asked you in the initial prompt
+to get this result directly
+and please give me a few steps?
+And I write those down and when creating the next prompt,
+I just put those steps in.

@@ -1,0 +1,12 @@
+{
+  "youtube_id": "QoQjddWCnKA",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "132625b752cb8e1e355a11af64bee7e1fedbd9d1cbb6719096e45cfb37ba9ba8",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-27-livestream-composer-2-5-cursor-is-a-frontier-lab-now.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

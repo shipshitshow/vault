@@ -1,0 +1,1 @@
+Introducing Claude Fable 5! Pricing unveiled: Mythos at $10, Opus at $5.25, Sonnet at $3.15. Doubled costs for Mythos mean big changes for building AI-native gaming. #ClaudeFable #AIGaming #GameDevelopment #StudioLaunch

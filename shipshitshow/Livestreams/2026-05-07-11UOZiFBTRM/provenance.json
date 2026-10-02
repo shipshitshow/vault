@@ -1,0 +1,12 @@
+{
+  "youtube_id": "11UOZiFBTRM",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-10-02",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "f847055bd841a02b63571701955ac2dbaa5ac96c75e176e75399363694ed9053",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-05-07-livestream-github-is-dead-we-re-rebuilding-it-with-codex-gpt-5-5.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Not observed in current public tabs; visibility unresolved"
+}

@@ -1,0 +1,164 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,840"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2840
+      },
+      "text": " You either need good boundaries, like we just said,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,840",
+        "to": "00:00:05,360"
+      },
+      "offsets": {
+        "from": 2840,
+        "to": 5360
+      },
+      "text": " or a very good preparation."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:05,360",
+        "to": "00:00:07,640"
+      },
+      "offsets": {
+        "from": 5360,
+        "to": 7640
+      },
+      "text": " People would think that the loops are just something"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,640",
+        "to": "00:00:10,200"
+      },
+      "offsets": {
+        "from": 7640,
+        "to": 10200
+      },
+      "text": " that you add and it creates the perfect system."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,200",
+        "to": "00:00:11,280"
+      },
+      "offsets": {
+        "from": 10200,
+        "to": 11280
+      },
+      "text": " I don't believe that's true."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,280",
+        "to": "00:00:14,680"
+      },
+      "offsets": {
+        "from": 11280,
+        "to": 14680
+      },
+      "text": " - Since the age of AI development,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,680",
+        "to": "00:00:17,960"
+      },
+      "offsets": {
+        "from": 14680,
+        "to": 17960
+      },
+      "text": " you need to be really good at product management."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,960",
+        "to": "00:00:21,320"
+      },
+      "offsets": {
+        "from": 17960,
+        "to": 21320
+      },
+      "text": " You need to really have good user story"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,320",
+        "to": "00:00:25,280"
+      },
+      "offsets": {
+        "from": 21320,
+        "to": 25280
+      },
+      "text": " and be clear with the architecture that you have in mind"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,280",
+        "to": "00:00:27,140"
+      },
+      "offsets": {
+        "from": 25280,
+        "to": 27140
+      },
+      "text": " and to know where you're going,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:27,140",
+        "to": "00:00:29,160"
+      },
+      "offsets": {
+        "from": 27140,
+        "to": 29160
+      },
+      "text": " because yes, like the AI can code,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:29,160",
+        "to": "00:00:31,360"
+      },
+      "offsets": {
+        "from": 29160,
+        "to": 31360
+      },
+      "text": " but the AI will call it crappy shit."
+    }
+  ]
+}

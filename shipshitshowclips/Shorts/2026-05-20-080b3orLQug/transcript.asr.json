@@ -1,0 +1,98 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:02,720"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 2720
+      },
+      "text": " I think the biggest issue is that most people don't know what they use,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:02,720",
+        "to": "00:00:06,320"
+      },
+      "offsets": {
+        "from": 2720,
+        "to": 6320
+      },
+      "text": " because if you install a package, it can include additional packages."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,320",
+        "to": "00:00:11,200"
+      },
+      "offsets": {
+        "from": 6320,
+        "to": 11200
+      },
+      "text": " You install a package and then it's a dependency of someone else, so you can't even track it."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,200",
+        "to": "00:00:15,520"
+      },
+      "offsets": {
+        "from": 11200,
+        "to": 15520
+      },
+      "text": " Even if you then just redeploy your project because you did a small update"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,080",
+        "to": "00:00:20,240"
+      },
+      "offsets": {
+        "from": 16080,
+        "to": 20240
+      },
+      "text": " on something that doesn't impact anything, it reinstalls all the packages"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:20,240",
+        "to": "00:00:22,640"
+      },
+      "offsets": {
+        "from": 20240,
+        "to": 22640
+      },
+      "text": " and it installs all the malicious code."
+    }
+  ]
+}

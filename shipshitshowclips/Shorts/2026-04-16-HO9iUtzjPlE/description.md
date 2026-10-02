@@ -1,0 +1,1 @@
+Elon Musk plans to build data centers in space for Mars missions, even manufacturing chips there. He claims they'll generate double the US's energy output. #ElonMusk #SpaceX #Mars #Nvidia #TechInnovation

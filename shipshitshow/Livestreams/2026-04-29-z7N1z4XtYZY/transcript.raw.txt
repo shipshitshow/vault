@@ -1,0 +1,1401 @@
+And we are live. Welcome on the ship
+ship European time edition. Yes, it's a
+much better time. Yes, that's going to
+be easier to manage for sure and I can
+edit the video right away after. Yes,
+and we didn't need to drink like three
+cups of coffee to just stay awake. That
+true true that.
+How's the week, man? Oh yeah, okay. So,
+before I forget the introduction, I like
+the protocol first. Okay.
+The the week is good.
+We have new models. Yes. Yes, we are
+Yes, we Yes, we are.
+&gt;&gt; [laughter]
+&gt;&gt; That's That yeah, that's good. It's It's
+always like good good good exciting when
+you don't know if your whole pipeline is
+going to crash or not.
+It's just like, oh yeah, let's upgrade
+and then poof, usage is gone and then,
+oh [&nbsp;__&nbsp;] I can't do I can't code
+anymore.
+Yes, so the first thing we do
+just have it retest everything that's
+already working to see the quality.
+Yeah.
+So, yeah, okay. So, I will do the
+introduction and then the
+we're going to we're going to go with
+that. Yes.
+It's like Okay, okay.
+Last week Anthropic and
+OpenAI, yeah, that's a big company,
+shipped their own
+frontier models
+Office 4.7 and Codex 5.5.
+The whole timeline is telling you that
+the most model that the best model is
+the one they're going to use.
+We're going to do that, too.
+But we're going to compare that and
+we're going to even go deeper. So, yeah,
+if you want to know how to use those
+models,
+stay watch this video, subscribe to the
+channel, and yeah, that's it.
+Enjoy.
+Bye.
+&gt;&gt; I had a different text.
+&gt;&gt; Yeah, me too. I
+Yeah, because I'm Yeah, forget it. Okay.
+We'll chat there. Hey, let me I can't
+share. Okay, bye.
+Add block list. Thank you for coming.
+&gt;&gt; Yeah, bye-bye.
+So, yeah, um how was your first
+impression of first yeah, 4.7 and 5.5,
+Mitchell? 4.7 was like all tokens spent
+in 10 minutes and the first
+&gt;&gt; on 5.5 was all tokens spent in 20
+minutes. Yeah, that
+which But they made an update.
+Yes, and since then it works.
+Yeah, and
+even on 4.6 it's still better.
+Yeah, that's that's what I think so.
+Like I prefer 4.6. Like right now I'm on
+Today I I was using just to explore
+Office 4.7 for everything XI.
+The usage I had some reserve because
+like my yeah, the like over the weekend.
+So, until I have the reserve like I'm
+going to reach the green light the green
+line on
+Codex uh
+I will
+I will slow down after that, but until
+now it's good.
+I still use it as a orchestrator most
+between like Codex and
+cloud, but yeah, maybe going to change
+based on your feedback, right?
+Yeah, well,
+&gt;&gt; I don't know. So, you are using it for
+orchestration of the entire product and
+you are having 5.5 doing the coding.
+Yes, basically, yes.
+I still plan with Office and I I I do I
+run the Codex adversarial review Mhm.
+and execute with
+5.5. And I saw a thread that we're going
+to
+view together after, but
+yeah, you can use 5.5 mini
+and it use less token than
+yeah, medium and stuff, but even like
+less than 5.3
+XI, I think.
+Oh, that's cool.
+&gt;&gt; There was a thread about that. Yeah, I
+didn't share it because I saw it like
+during the lunch break, but
+we're going to review that together
+because that could be an interesting way
+of using the models. Yeah, but what do
+you prefer having the best model doing
+the coding or the orchestration?
+So,
+yeah.
+So, what I what now what I'm doing is
+like I plan the features. So, now I'm
+using Ship Cod more Ship Cod is going to
+be my ID soon enough.
+Do we have a preview? Yeah. No.
+I [laughter]
+wanted to show Ship Cod
+that, but yeah, you will have the
+private review first and then you can
+tell me and then we can show it on
+stream.
+But
+yeah, so I have the GitHub issues
+on the GitHub project.
+Then it's like the PRD style specs, blah
+blah blah.
+The plan is based on my personal limits
+of like which account has the yeah, like
+basically the most
+capacity to plan and stuff.
+And if I'm not limited anymore, but
+yeah, usually it's
+so Office 4.6
+adversarial review Codex
+and then
+yeah,
+I think the default is
+Office 4.6 like on effort medium
+and then it code and then the reviewer
+is Codex.
+Because I have the agent that review the
+task if it's completely done following
+the plan.
+Yes, so you have a loop in it. Yes.
+So, and right now the loops are failing
+all the time when they should not. When
+I have a positive output, it failed, so
+that's why you don't have it yet.
+But yeah, it will be fixed in it.
+Yeah,
+but yeah, I I don't know. I I get used
+to Office. So, it's still planning, it's
+still orchestrating, it's still
+doing that. So, yeah, did you change?
+Because you
+I I copy your workflow basically, so
+Yeah, I swapped. Yeah.
+I'm having
+Yeah, I don't know. I'm just keep
+swapping because it feels like every
+week they have a different way of
+working and a different output. Yeah. I
+I don't even know
+which one to trust properly to just set
+as as the default to continue coding all
+the time. Yeah, 100% like from one week
+to another it's like the whole harness
+for on their side on the
+like Anthropic servers and
+OpenAI servers stuff change.
+And it [&nbsp;__&nbsp;] up everything. It's kind
+of like annoying.
+Yeah, and also the the amount of tokens
+you can burn. I was using Codex 5.5 on
+my business account, but the business
+account is is smaller. You have less
+amount of tokens. So, I swapped to the
+pro account
+and before I was out in like 20 minutes,
+my five five-hour limit was reached.
+And now I'm at
+98% after 4 hours of work.
+Yeah, that's
+And they said it's only a 10x
+difference.
+So, I don't get it.
+Oh, from enterprise to pro? Yeah. Yeah,
+from the business version to pro. They
+said if you want to code more, you have
+to take pro subscription, but then
+it's it's separate from your business
+subscription, so I took two.
+Okay.
+And right now I can just keep on going
+with coding. I don't even know. I can
+take a look right now. If I just say
+start it. See, I've been coding already
+for 6 hours today and I still have 95%
+left for my five-hour window. On the
+five hours, okay. You done like what,
+one or two percent on the weekly limit?
+Wait, no, it got reset, too.
+Oh, that's it. That's
+Yeah, it got reset today. Like one
+OpenAI guy said,
+I don't know
+if I should do it, but I want to reset
+because we have 5 million users, so How
+do we even know what to use?
+&gt;&gt; I mean, we get more reset on Codex CLI,
+though, so Yeah, I don't mind because
+I'm still at 99% for the entire week.
+Yeah, like maybe I I have the tweet, but
+um
+Like you you know, he said, oh yeah, I
+just used 3%.
+Wait.
+&gt;&gt; Yeah, yeah, please reset. Exactly.
+Well, if this is happening, I don't mind
+paying $100 per month. It's cheap. Yeah.
+It's uh
+Oh, yeah, okay. So,
+I've
+I'm going to display the
+uh your replies.
+It's
+Yes.
+I legitimately believe XI might have a
+crazy comeback. Oh, okay. That's That's
+That's a do it.
+Um okay, where is the reset stuff?
+Yeah, please cover this.
+Oh, yeah. See,
+just yeah.
+Don't just reset Codex rate limit for
+fun, it costs money. Don't
+fun, it costs money.
+But the vibes are good. I have reset
+Codex rate limit for all paid plans to
+celebrate a good week and allow everyone
+to build more with ChatGPT 5.5.
+So, is it like a marketing stunt or does
+every dev have this button on his desk
+or maybe he can just press? I I don't
+know. Like Okay, so who is this guy? I
+think he's
+Yeah, Codex. Okay, thank you. Yeah, it
+doesn't say what his function is, right?
+Notifications.
+Uh never talk about governing
+Okay. We will ship again this week.
+Codex escape velocity and we will keep
+improving rapidly. Yeah.
+Like I I don't know. I mean, it's good
+marketing for sure, right? Because when
+you have Anthropic like throttling
+everyone
+um and and introducing like peak hours
+limits
+and then you have OpenAI guys just
+resetting the limits because it's it's
+what it's Tuesday.
+I mean, the choice is like
+a no-brainer.
+Yeah, but
+yesterday I read on X that people were
+showing a screenshot of
+Cloud Code showing on the website that
+they are going to take out the Opus
+models out of the Pro subscription that
+you have to pay additional fees just to
+get it.
+I want to say it's AB testing, but
+I don't think getting this information
+on your
+on your timeline is good.
+Yeah. Ah, for Anthropic that they will
+take off Pro?
+Yeah. From the 20 bucks
+account, right? No, no, no, on the Pro
+accounts like the $90 accounts.
+Why?
+I don't know.
+Let me see if I can find it.
+They can't. That's their like flagship
+model.
+Yeah, as soon as they take it out, I'm
+not paying additional. I'd rather just
+pay more at Codex and just have a 20X.
+Yeah. Oh, exactly. Yeah, end of growth
+Anthropic we're going to cloud removal
+from Pro.
+Oh, yeah, no, you're right. Small test
+on 2% of the new Pro consumer sign-up.
+Existing sign-up Max Pro are not
+affected. Yeah, yeah, that was not this
+one. That was even in another one.
+Um
+Yeah, but Okay, so I have the Max 20.
+Okay, so they will not touch. No, from
+Claude
+third. Yeah, let me show you the post.
+Yes. Yeah, because so you could you
+could pay for the Pro and you have
+Claude, but
+uh
+Yeah, I'm I'm already on the Max 20, so
+And what is it?
+Didn't include Claude card. Cowork
+didn't exist then. And a journal around
+for a while were not a thing. Max was
+designed for even chat usage. That's it.
+Since then, we brought in Claude card
+into Max and it took off after Opus 4.4
+uh 4.
+Uh Cowork landed long running and
+sequential and everyday workflow. The
+way people actually use Claude
+subscription has changed fundamentally.
+Engagement per subscribers is way up. We
+made small adjustment along the way.
+Weekly caps, title limits as at peak.
+But usage has changed a lot and our
+current plans were not built for this.
+I mean
+I think they have a huge compute issue.
+Yeah. Because I gave you another DM with
+a URL to an X post.
+But then you also see people are below
+are posting that it is old info from
+January. Yeah. Oh, okay.
+Oh, like like
+Uh we're soon no longer be able to use
+Opus model in Claude card. Okay, okay.
+The product article shows outdated.
+Yeah, okay. Yeah, when I was reading it
+yesterday, I couldn't find the info, but
+also
+it's like as soon as somebody posts
+something like this, every big account
+is retweeting.
+Yeah, I mean, like this one made like
+half a million, so I mean, it's it's
+it's engagement for a game, right? Like
+they will spread this [&nbsp;__&nbsp;] even if
+like
+uh it's not true, but they're going to
+make half a million views out of it.
+But on the other hand, we just switched.
+The only thing is we don't know what
+we're going to get the next week. I I
+will I will keep and uh Claude card and
+Codex both
+for a long time, I think. Yeah. And I'm
+still hoping for XAI a just default CLI
+integration.
+doing.
+I mean, I mean, Meta do you Gemini 3.1?
+Yeah. No. Have you ever tried getting a
+subscription in Gemini?
+I know Claude Code just try finding your
+invoices on ChatGPT. Yeah. That's like
+Oh, yeah.
+&gt;&gt; I have like Yeah, like to I have because
+I can't think, right? So you need to
+download the invoice. Yeah. Bro. And
+they say they they email it to you, but
+they don't. No. And I wrote down my
+email several times, but still I don't
+But even trying to get a Gemini account
+that's even worse. Yeah. Yeah, like a
+Google console stuff. Like you have
+Google console, Google workplace. Well,
+Yeah, and if you normally don't use
+Google
+then you just have to search everywhere
+and hope you have the correct one and
+then try getting a different model, you
+have to restart your entire search. Uh
+you know why like Google is like so [&nbsp;__&nbsp;]
+at like harmonizing their product line?
+Yeah, but why? It's because like they
+have teams competing with each other
+inside the organization.
+So like one team will build something
+and because they want the man and like
+even now the the compute to push
+something, they will just ship ship ship
+without coordinating about like uh
+the whole infra like the whole
+infrastructure and the whole
+organization to have something like
+integrated well.
+But then they just say customers will
+find it because if they want it, they
+will start searching.
+Yeah, well, that's the main reason I'm
+not using Gemini. I know, exactly.
+And Yeah. I think the model is [&nbsp;__&nbsp;]
+too.
+Yeah, I don't know because I didn't try
+it. Yeah.
+But I've seen the other people who were
+talking on X that Claude Code ruined
+their entire business or that they got
+blocked by Claude Code.
+So they had to swap back to Gemini with
+like 60 or 70 devs.
+So at least I hope that Gemini can do
+the same quality because otherwise
+you're [&nbsp;__&nbsp;] if you need to switch.
+Yeah. I mean, yeah, for the image that
+good, but for the rest
+I mean, I I you don't need to try
+everything neither, right? Like Claude
+Code and Opus are doing the that GPT GPT
+5.5 will and Codex
+No.
+GPT 5.5 plus Opus 4.7 or 4.6
+You have a good stack. Yeah, it should
+be the just the basic and you can just
+let them check each other, so it should
+be no problem.
+&gt;&gt; Yeah, I know what you're saying.
+But yeah, okay. So uh Okay. Uh what
+about Yeah, let's check the timeline to
+see what they talk about.
+like the first feedback of
+those models. Because because we can.
+Mhm.
+Uh so this guy, who is he?
+Is the best way to build software with
+agents superconductor. Yes, so it's
+basically like a personal benchmark.
+Uh 5.5 high and even like 5.4 where like
+in the top of like average cost per
+quality of score like based on their
+benchmark. And 4.7 Yeah, it's like far
+away.
+It's expensive and it doesn't have good
+quality, so what the [&nbsp;__&nbsp;] bro? But when
+did he do the check? Did he post that as
+well?
+Uh 24, so 4 days ago. So yeah, last
+week.
+It could have changed already.
+&gt;&gt; Yeah.
+I think
+like the main point for what I saw from
+like other reviewer and feedback and
+even like the proper documentation like
+the
+the way it's built is to be even more
+agentic.
+Yeah, you have even less and less inputs
+to um
+It thinks more by itself. Exactly. And
+5.5 it required ever better
+prompting, I think. I know. Yeah, no, I
+think it's 4.7 that required like better
+prompting because it's more agentic, so
+it
+Like basically we use our shitty prompt
+for 4.6 to 4.7 and then the quality is
+[&nbsp;__&nbsp;] because it almost doesn't work the
+same way. Yeah, and then it thinks I
+will do it for you. It starts burning
+tokens, going searches and you will get
+something completely different than you
+asked. 20% more expensive than
+if you can use it to do it properly by
+having ChatGPT or by Codex 5.5 writing
+the prompt in details, then it should be
+fine. Exactly. No, no, yeah, yeah, okay.
+And that's
+Yeah, that's the article I wanted to
+share with you because that's exactly
+that. Like
+if you use Okay, so this one is about
+5.5,
+but if you use 5.5 on low, you can have
+better results
+than previous models on high and it's
+because it will be
+faster and can can do more rounds, then
+you can also have more iteration.
+So yeah, I'm going to drop that.
+chat
+And if we don't have
+a lot of people in the chat, but
+uh to you both. Yeah.
+Thanks.
+But if you need to do
+different prompting just to use the
+Exactly. model
+in the optimal way, then do the
+benchmarks even make sense? Because you
+the benchmark is the same prompt for
+every model. Yeah. I am yeah. But I mean
+yeah, you still want to push some um
+output on your ways to code for like uh
+not GPT but like Opus 5 for example.
+Mhm. You can prepare people to even if
+you lose the benchmark first.
+But you prepare for the next uh
+family like the next
+the next the next generation.
+Then could be worth it, right? But then
+yeah, like then ChatGPT 5.5 drops and
+then you're losing like 20% of your user
+base because they switch to a better
+model more adapted to their current
+workflow. It's it's a tricky war. Yeah,
+yeah. Because if you do the prompt
+different, you can get a much better
+result. But they don't use it, so they
+say it's bad and we're not using it.
+Yeah. And exactly. And everyone will
+switch and then uh
+And then we do the next one. Do you ever
+ask a question what could I have
+prompted differently and how could I
+have differently asked the question to
+get a better result?
+Uh
+not really. I just like fix that [&nbsp;__&nbsp;]
+&gt;&gt; Yeah, okay. Yeah, do you? Yeah, yeah, I
+do.
+I ask it what could I because sometimes
+you just get the first output and it's
+really bad. Yeah. And then you're like
+working for 30 minutes to get the result
+that you want. And that's the moment
+when I ask, "Okay, what could I have
+asked you in the initial prompt to get
+this result directly? And please give me
+a few steps."
+And I write those down. And when
+creating the next prompt, I just put
+those steps in.
+Okay. So and do you create a skill to
+ask better like a prompt engineer skill
+stuff or Yeah, I just don't you I don't
+install the skills. I just have them,
+but you can write them for you for
+yourself, right?
+&gt;&gt; Yeah, yeah, and I choose which ones to
+just include. Yeah.
+I mean the skill can be triggered
+automatically when you prompt something.
+And if you have a prompt skills, then
+the skills should check your prompt and
+even like re re rewrite the prompt that
+the your shitty prompt that you have to
+have a prompt that match
+the model that you have you are using.
+Yeah, yeah, exactly.
+So yeah.
+That's [laughter]
+tricky with AI because bro, like we're
+using the same tools. We have different
+output.
+Yeah, yeah, but we have different ways
+of working. Yeah, I mean yeah. I yeah.
+Yeah. And it's just minor changes, but
+you see what the minor changes do in big
+output. Butterfly effect. Like you you
+change like you even you prompt like
+something a different sentence than from
+one word to another and then
+Yes. You have a hurricane on the other
+side of the world.
+Have you tried like
+GPT 5.5 design skills? No, not yet.
+Like I
+I don't I like uh I I have to have my
+Claude subscription to edit my front
+end. Yeah, well, I'm still arguing with
+the front end uh
+agents and skills because every time
+when I say make this SEO optimized, I
+want the best conversion possible. Make
+sure that's UX and UI optimized.
+I get a result. I see it and I'm like,
+"Well, I don't know, but if I don't get
+it and I'm the one who who coded it,
+then
+You can't just write everything down. It
+has to be
+better. And
+did you use like a Claude design?
+No, it's all that's the next one. Yeah.
+I'm going to test it.
+Bro, there's like five five projects a
+day that launched and then did you test
+it? No. I tested the last week product
+already. Like what the [&nbsp;__&nbsp;] Yeah, and
+they're already out.
+Outdated. Yeah.
+But I also like they relaunch the
+project. Like everyone forgot about the
+project. They relaunch it.
+Like for example like [laughter] Google
+page.
+It's something that launched like 1 year
+ago because I had it in my bookmarked.
+And then they reannounce it. Oh yeah,
+Stitch V2. And they say, "Bro, like
+okay, now it's fine." And so they yeah,
+they increase the and they make the
+announcement like nobody are
+nobody else are using it or like know
+about the project. They just relaunch
+it. Yeah, you're at V2 and then you can
+make the cost double.
+&gt;&gt; And then you just relaunch it.
+Like Google relaunch a new project. Oh,
+but we added like a year ago. The [&nbsp;__&nbsp;]
+Well, if it works, why not?
+Uh okay. So this one about ChatGPT.
+Okay, so
+ChatGPT is definitely the most
+interesting and more different model
+from OpenAI that we've seen in a long
+time.
+It should be GPT-6. Yeah, okay,
+whatever.
+Let's go to the point cost. Is it worth
+it? So we know it's about two times more
+expensive than GPT-4 per token.
+But it use 40% fewer token versus 4.5.
+That's why even like you can't even like
+trust or
+base your own feedback on the cost per
+token if the the model is is slashing by
+twice the number of token you're going
+to use in the next version.
+Yeah. Yeah.
+What does that mean? Okay, okay. In
+artificial artificial
+intelligence artificial intelligence
+index test, the model used 5.5.4
+XI 120 million token, 5.3 XI 77,
+and 5.5 XI 75. Yeah?
+Yeah, but here they also measure just
+the tokens for one prompt, right? Uh I
+&gt;&gt; Or just for one project.
+I I don't know. Like in the it's the
+artificial intelligence index test,
+okay? Yeah, well, the the thing is 5.5
+is really smart. Yeah.
+I I get faster to the results that I
+want and I have to correct it less
+times. Yeah. Even if it's double in
+tokens, I don't mind because it
+understands exactly what I want in like
+one or two questions instead of six.
+Yeah. Yeah, but I see like 5.5 is way
+more efficient than 5.4. So
+They yeah, like there's no point of
+staying on 5.5.
+uh yeah, on Anthropic it's another game.
+How does this scale across thinking
+level? We can actually be more precise
+here. Okay,
+5.5 XI high, medium, and low 75 million,
+45, 22, and 7.
+So you are 10% on low compared to XI.
+And what's this guy is explaining like
+Okay, this guy.
+uh the change picker
+extremely efficient. Yeah, 5.5 low is
+just not efficient. It's extremely
+efficient.
+So you can save yeah, token
+com yeah, compared to the next. Yeah.
+Getting is actually yes.
+For 5.3 Codex we do not have
+public token usage, so we're
+extrapolating a little bit of
+usage if
+5.3 Codex scale the same way, blah blah
+blah.
+Um okay. So artificial intelligence
+index before incorporate 10 evaluation
+GDPR. Okay, okay. So it's an aggregate
+of multiple indexes.
+Um GDP val, bench telecom, terminal
+bench, blah blah blah.
+Uh cool. And 5.5 XI.
+Okay, there is not a
+big
+difference between XI and
+Anthropic. It's a big difference for
+them. They charge you more. Yeah.
+but no, there is less token use, so the
+price per token should be even it's a
+more expensive per token, you saved on
+the Yeah, you saved on the amount of
+tokens.
+&gt;&gt; Yes.
+So we good.
+It's basically the same the same thing,
+right?
+Uh which means okay, 5.5 is more
+intelligent than 5.3 5.3 Codex XI and
+use fewer token.
+5.5 low is weaker but extremely
+efficient. So even for us, you can
+plan with Anthropic and use 5.5 low
+to execute the plan that you have with
+from Anthropic. Yeah, but yeah, from
+Codex. But I would still say you can
+also just use XI for planning and use
+the low for coding. And then use XI
+again for checking.
+Is that what you do inside the CLI?
+Because now you can plan
+you can set the effort on planning and
+executing, right? Well, before with now
+in Codex, I didn't set it up, but before
+with Opus when I you was using 4.6,
+Yeah. I would use the most smartest
+model the highest model on planning.
+And I say you are not allowed to code.
+You need to spawn agents that code. And
+I would use Sonnet to do all the coding.
+Okay, yeah. Oh yeah, yeah, yeah. So
+okay. So you plan and like the when you
+execute the plan, the sub agent are
+triggered and they use Sonnet. Yeah,
+yeah, and they report back to the main
+agent that's using the Opus the the high
+model. Yeah. And he checks the code that
+he gets.
+But I'm still using Codex as well, but
+he is just checking the plan that was
+made by Opus. Mhm.
+Yeah, then yeah, okay. So then Ship Code
+is useful when you use both and not just
+one. Yeah, exactly. Yeah.
+Love it. Because
+I see that even if I say to Opus I want
+to have three different approaches to
+tackle this problem,
+and all three are still similar. It's
+just like it's stuck in the in a certain
+way of thinking. But then I use open of
+I use Codex and I say I need two
+additional
+ways to tackle this problem and I get
+totally different approaches and I merge
+them both into one by saying to Opus,
+"Hey, check the other two that were
+created by Codex."
+And then it says, "Oh, that's a great
+idea. I can merge it into my ideas."
+Okay, I don't have parallelism.
+Okay, I need to
+add that.
+Let me let me put my into the list.
+&gt;&gt; Cross-reference problem approaches by
+different models.
+And that works really good.
+It could
+uh create two plans from Codex
+plus
+Opus.
+Yeah. And 2 weeks ago
+I even I I had to merge all the ideas
+into one
+plan of how to approach and how to build
+it and I made the final question to both
+of them to Opus and to Codex.
+And my final plan question was
+which of the models need to do the
+coding and which of the models needs to
+do the checking.
+And both of them agreed.
+Both of them said Opus needs to do the
+coding and Codex needs to do the checks
+and
+and the feedback.
+That's crazy.
+And I would imagine that Codex would
+say, "No, I'm better at coding." And
+Opus the same way, but both of them
+said, "You need to let Opus do the
+coding."
+&gt;&gt; [clears throat]
+&gt;&gt; Okay. So, I said, "Okay, if you want it,
+do it and let me know when it's ready."
+Is your workflow like always the same
+because like right now what you do is
+like copy-paste from one CLI to another,
+Yeah, but I also have a Python script
+locally that triggers it. Mhm. And I
+just puts it in the other one, so that
+works as well.
+Um and I just let them do the entire
+talk in one one document. Mhm. So, I can
+read back all the conversation that he
+had. Damn.
+But every time I do it
+in the next week I get different
+results. So, my initial start is just a
+script like skill that starts up the
+entire conversation.
+And the further we get, the more manual
+input I'm giving because it goes
+differently all the time.
+Yeah, that sucks. But wait, did you use
+that did you use this workflow like
+recently or it was like something you
+did 6 months ago? No, I've been doing
+this like like for two or three months
+already every week on different
+projects. And you get different results
+all the time. Yes. Yeah, that's the
+non-deterministic
+So, that's why I think it's impossible
+to fully automate the entire flow
+because you will miss after an update
+you won't miss opportunities.
+Well, that means like you you have to
+force it you have to force the flow.
+Like you don't ask the agent, "Oh yeah,
+which one should cut?" It's like you you
+set up you you opinionated
+the workflow and you lock it in like you
+put the guardrail. So, you lose that
+that maybe the evaluation of the model
+or you have one more model that
+evaluating always and it only doing
+that. Yeah, or you have to make it so
+flexible that you have them always
+forced
+asking the questions and depending on
+the result that you get, you choose a
+different path. Yeah.
+Yeah, you can have a whole llama
+connection
+Mistral you had to you had you use a
+Mistral in the loop.
+Do you use which agent you The only
+thing I'm thinking about right now that
+I never tried
+is whatever I ask if they can make an
+estimate of the amount of tokens that
+they are going to burn building it and
+then check how many tokens I have left
+in for the next 5 hours
+and use that as well to choose which
+model is going to build it.
+That's pretty cool. So, we can always
+keep on going so that we never have to
+stop.
+Yeah, and then we never release a
+a product because uh
+Yeah, because we are doing so many
+things and we have so many ideas.
+On you are always one prompt away from
+you like
+yeah what you write.
+That going to that going to take you
+like one month to ship anyway because it
+was way harder than just one prompt.
+Yeah, yeah, yeah.
+&gt;&gt; But then when it's done
+Yeah. we get a new GPT update.
+Uh okay, so GPT
+um excite another interesting point. GPT
+excite mini cost 1,000 the same test
+while low is only 500. At the same time
+the artificial blah blah
+uh artificial intelligence core
+uh for 5.5 low is 51. Wait, okay.
+Just uh
+benchmark. So,
+should you use GPT 5
+.5 low for everything? No, of course not
+because that would be too easy.
+Uh however, just like 5.3 connect the by
+thinking model was high. Uh
+I mean, all of that like what's the the
+point of using low if your limits are
+not even hitting anymore?
+Yeah, because sometimes it just thinks
+too difficult. Yeah.
+And what's a diffi- difficult task? Like
+changing the color button like like the
+No, but that's
+instead of just changing the the the
+color in the CSS, it just rewrites the
+entire button.
+&gt;&gt; Yeah, true. Yeah. Yeah, oh yeah, so if
+you don't have the thinking in instead
+of using your component you have defined
+like 6 months ago, it's going to use the
+HTML tag and blue.
+Yeah. But is there a way to just
+automatically switch the model like low,
+medium, high
+depending on the question that I ask?
+Is it Is it doing efficiently? I don't
+know. Is it possible to have it analyze
+my question, make an
+an estimate on what model it needs to do
+and then switch the model and perform?
+I don't know. I think it changed the F
+like and
+I'm not sure, but I think Anthropic has
+a auto mode on F4, no?
+Yeah, but I don't trust the auto mode. I
+think So, then then that's what you were
+thinking like you need to build your own
+auto
+like the F4 router.
+Yeah, instead of trusting the Anthropic
+that's going to charge you at the end of
+the month anyway, right? So, yeah.
+Um simple coding smart features low low
+low routine development complex system
+design. Yeah, okay. Okay, thank you.
+Architecture decisions trade-off. Okay.
+Okay, cool. Large code base analysis
+extremely hard case.
+Very hard decision. Okay, so what's a
+hard problem? It's a hard problem. Thank
+you.
+Yeah, but you do that in the planning.
+Yeah, also Planning is a hard problem
+and you write it down and then
+everything is easy because it has an
+explanation.
+&gt;&gt; Yeah. But I mean the the spawning sub
+agents on like on cloud that's
+that's good. I think it's yeah. And you
+can define that in your settings too,
+right? Like uh
+The agents only bum. That's it.
+Uh okay, it makes sense. Blah blah blah.
+hey, can you still use 5.3 connect? I'm
+not going to use 5.3 connect.
+No, why should you? Exactly. Um still a
+solid option especially if you don't
+like a 5.4. In my opinion, this series
+should be removed and okay. But yeah, if
+if a 5.5 low is good enough to do some
+dev, that's definitely interesting.
+Yeah, but I would only switch to low
+if I run out of tokens on medium.
+Yeah. Yeah, or or you can again playing
+with Anthropic and then execute on Codex
+and then you have infinite
+supply of
+tokens with
+your subscription. Yeah, yeah, a $100 or
+$200 subscription is enough for the
+entire month. Yeah.
+That's cool. Let's go.
+So, I never switch to the API. I'm not
+paying additional fees. No. I No. Like
+I used you know extra usage like for
+like last week because I was like yeah I
+was out of and then I wanted to try
+to do some stuff with Claude.
+I have some front-end task.
+Bro, one plan three bucks.
+Yeah. Just the plan.
+&gt;&gt; And it was like 11 minutes. Mhm. Three
+three dollars.
+The what? That's like $20 per hour.
+Yeah. I not not not
+&gt;&gt; So, that's the moment that when we first
+said, "Hey, it's cheaper than a a dev in
+a in a cheaper country." But right now
+&gt;&gt; it's not anymore. Yeah, and it's then
+the dev is in my country. Yeah, yeah.
+Um okay, so I have more tweets about all
+of those little stuff. Uh touch.
+Uh what was it? Put this into Claude and
+the measure your usage in a week. My bet
+you will save more than 50% token. Okay,
+cool. I yeah because yeah I have a lot
+of uh
+uh plugin and
+and uh yeah prompt to save even more
+tokens so we can like excite yeah excite
+everything and then
+I'm the best project in the world. I
+just burn tokens on everything.
+But still like a spawn sub agent with a
+net context paralyzing different work
+offload bugs mechanical task. That's
+basically what you're doing.
+Yeah. Yeah, yeah, yeah. For sure.
+Uh pick the cheapest model that can do
+the subtask well and a cool but
+mechanical judgment Sony's cop research.
+Code exploration and Opus subtask needed
+real planning. So, yeah, with one prompt
+you can definitely
+I mean, you're good. You could use age.
+Good job. Yeah, and sometimes you have
+to test. Yeah, and yeah, the
+Claude disable one million contacts.
+This this feature is useless, bro.
+&gt;&gt; Why?
+I disable it. And something for auto
+compact at 80% I do that too and I have
+better result too, I think. I just clear
+it every time. Yeah, but it yeah, but in
+the in the long conversation in the long
+thread you compact, you don't wait for
+the 100% for auto compact.
+&gt;&gt; You do it at
+Oh, and he's back.
+Oh.
+Can you hear me? Yeah, yeah, we can hear
+you. You went out for a few seconds. No.
+But do you trust the auto compact?
+It sounds like I don't trust the AI at
+all, but I don't know what it's
+compacting, so I rather have it write
+down where we are right now with a
+summary and then just clear everything
+and have it read the summary. Yeah, but
+sometimes it have to compact in the task
+that he's doing too, right?
+I I don't let it compact. I just clear
+it. Yeah, but like
+like the AI is coding Mhm. and it's in
+the middle of it
+and then it's compacting inside. Oh,
+yeah. I think you have better bigger
+tasks. Yeah. I think that's the issue.
+My bad.
+I never have it compacting during during
+coding. Okay, yeah, maybe I need to
+redefine my my space. Because that makes
+me nervous. I don't know what it's doing
+and it's in the middle of a task. I
+don't know what it's going to forget.
+Yeah, that's true. True.
+Yeah, that's that's that's true.
+Root cause okay, so between March and
+April some user on max burn a weekly
+quota in one or two days.
+Not some user, like everyone.
+Yeah. Anthropic chips free bug fixes and
+reset our subscription limit blah blah
+blah. Yeah, that's the postmortem here.
+Nice working like that. Cash misses
+context bloat, wrong model or effort,
+wrong input format. That's crazy, bro.
+Cash misses. Okay, so lock your tools
+model at session start. Okay, can't see
+anything.
+Oop-ah. Yeah, you need hawk eyes to see
+this. Like
+Okay, I think
+So, lock your tools model at session
+start adding a MCP. I don't have any MCP
+running except a context seven. I I
+Two years ago MCP were like burning
+context. I don't know if they are better
+now. I don't have any.
+I don't know. The only thing I know is
+that my customers that do use a MCP they
+are out of tokens so fast. But they just
+they also because it's so easy to ask
+information
+they use it for everything.
+I can't have like a
+a reset on my weekly subscription on
+Monday because I have like five MCP
+asking like ask question to
+what I'm going to do in the for the rest
+of the days, right?
+Yeah. Watch the numbers I see 90% of
+five minutes before OTT or okay.
+So, that was the issue. Context bloat,
+Claude keeps re-reading the files. Let's
+go.
+System prompt clear compact. Yeah, so
+compact sub agent and rewind. Yeah?
+Did you ever use rewind?
+Nope.
+Neither. Disable one million
+one million context and 80% 200 K
+context is plenty. Do that. Just tell
+Claude to spawn them everyone in a clean
+window. So, that's what you do, right?
+With the you with your plan? Yes. Load
+lean move rules to skills to
+custom
+&gt;&gt; custom
+custom tools. What the [&nbsp;__&nbsp;]
+Reference.md
+file progressive disclosure disable
+units MCP. Yeah, whatever.
+Keep the search reference search don't
+ask Claude to grab. Oh.
+I don't use it.
+Compact at 50% or after every task.
+Rewind after a battle. No, try be keep a
+failure in context here for new task.
+No, try be keeps the failure in context.
+I never
+&gt;&gt; [snorts]
+&gt;&gt; Oh, interesting.
+Okay, maybe maybe we should about
+rewind.
+Free quality Opus 4.70 for this excite.
+[&nbsp;__&nbsp;] off. [&nbsp;__&nbsp;] off.
+It'll be there rest to max for demanding
+work.
+Yeah, but like if you do that uh
+Yeah, I did it in my settings. Yeah.
+Because it was burning so many tokens.
+&gt;&gt; Spell out when to use Opus Sony and
+Echo. Okay, swap Anthropic Basil or
+open router. What?
+Oh, I never did that one.
+Swap Anthropic for open router for the
+Yeah, but then you what that doesn't
+Then you don't make use the cloud
+models.
+Yeah, but I guess that's not for the
+subscription, that's for the API call.
+Yeah, okay. A wrong input format agent
+browser instead of Chrome MCP.
+Full PDF in the report take load to our
+PDF text. Okay. Review graph. Yes, I use
+those model.
+I don't know if they works, but I think
+they do and I don't know if you use them
+now, but I like them.
+Oh, yes, that was the postmortem. Over
+the past months of or few reported some
+of you
+well, your timeline was full.
+Claude code quality had slipped. We
+investigated and published a postmortem
+on the three issue we found.
+Yeah, so that's basically what we
+Can you make your screen a little bit
+smaller so we can read it? Oh, yeah.
+Like that. Yes.
+Thanks. Yeah, agent SDK honest was also
+impacted co-work. Yeah.
+Making changes to the time of earlier
+including more internal dog fooding.
+With config that exactly match those of
+our user.
+That's because like Anthropic has config
+dedicated for them. Mhm. And they just
+give us the leftovers. Yeah.
+And uh
+Codex is doing it differently. That devs
+are using the same stuff as we are
+using. Yeah.
+Yeah. I think that's why they didn't
+notice the same issues that we do.
+Yeah, I know 100%. And I do you think
+like the
+product quality from OpenAI is better
+than Anthropic? It's more stable. Yeah,
+it feel it feels better like more
+finished and even more polished like the
+UI even the front end looks a bit
+better, right? Even if Claude Claude is
+better than Codex to [&nbsp;__&nbsp;] do the UI,
+but that product is all vibe coded by
+Claude and it's kind of like eh.
+Yeah, that that's how it feels like vibe
+coded and we want to be the first one,
+just push it. Yeah, exactly.
+Yeah, yeah.
+Yeah, exactly. If nobody complains, then
+it's perfect.
+&gt;&gt; Yeah, it's not broken. If if you don't
+complain, you either don't have user
+enough or you
+Exactly.
+Don't not have not have any enough
+usage. Oh, it's good. It's good to go.
+Yes, so that was the pricing, but it's
+basically the same except
+Okay, so GPT-5
+output 30
+5.5 input five
+and output 30 bucks.
+4.4 base input five and output token 25.
+So, it's basically the same cost.
+But okay, there's the
+the cash.
+Is there any key for free subscription?
+For for what? For
+You can use open router.
+Yeah, open router free?
+I
+Are you asking us to provide you
+a free key?
+&gt;&gt; It's it's a way to try it. Yeah.
+But no, we are paying for our
+subscriptions and we don't pay what you
+see here for every API call. We use a
+subscription, but if you want to do it
+free you either need like a big Mac mini
+or any other device with a lot of RAM.
+So, if you want to spend five to 10 K
+for a lot of RAM so you can run a free
+model be my guest. Which doesn't work?
+Which doesn't work properly and you need
+to do so much setup. So,
+open router is is the only way to go if
+you want to do it free. Like open
+router.
+Like
+Oop-la.
+Even like here Anthropic. Yes, Claude
+Echo.
+Okay, Anthropic.
+What?
+What? Opus
+Opus latest.
+Okay, and I want the pricing.
+I think they add like just two
+2% on top of the Yeah, that's not too
+much. Yeah. Yeah, I see cash right 56.5
+cash read 50 output price 25 what
+They don't what? They don't
+probably like the pricing model here but
+you don't see the the tax.
+Cash right 6.5 okay.
+So that's fine. Yeah, so it's basically
+more or less the same. Did you ever use
+like GPT 5.5 Pro?
+No. Output 180
+I cannot use it with my new subscription
+because I switched.
+But I didn't do it yet because it was
+working perfectly on chat GPT
+on Codex 5.5. Yeah.
+Yeah, I don't know what
+I've no problem either. So yeah, it
+works well.
+And okay, so some models like modules I
+wanted to
+talk about before we wrap it up.
+So I send you the link directly.
+I'm going to read this it's
+Yeah, I've done that before.
+Wait, coming. Uh
+Uh coming.
+What the heck?
+Resize.
+So
+Wait, better.
+Thank
+Yeah. Uh ATK
+it filters and it I think it cache those
+commands all of those commands.
+it it cache it on locally so then
+Yeah, it helps the LLM to
+just have the output of it
+directly in cash so it doesn't do it
+again. And it's kind
+it's straightforward you just install it
+like globally and then I didn't need to
+do anything it just like all of the
+commands are going to ATK
+after so yeah, I recommend this one.
+Um Caveman
+if you want code code to just talk to
+you like straight to the point.
+That'll be good. Give me code. Exactly.
+&gt;&gt; Uh and also it's kind of smart because
+when the error is too complicated and
+you need to more explanation it disable
+Caveman
+explain to you clearly Mhm. and then you
+can go back to Caveman mode.
+Oh, that's cool. Yeah, it's it's it's
+really good.
+Uh so there is that and yeah, code
+review graph it's another
+uh plugin
+yeah, plugin that helps you cash
+everything and I use it it will I think
+it works great.
+Um so yeah, that's the three one that I
+use to reduce my token usage. So yeah,
+also I can really
+uh tell if like the cost is less than
+last week because of that or because of
+chat GPT usage but at least I have still
+have my
+my weekly limit.
+Uh for the last
+two days so I'm good.
+Okay, cool. Yeah.
+But yeah, other than that
+I think oh yeah, open router models
+all the all the small models like going
+to be a ranks ranking.
+Yeah, but who uses all those models?
+Kimmy 2.6 it's like it's a good one
+compared to the
+um the others and yeah, like if you use
+it for the open router that I can see
+Like if you hit your limit on Claude you
+can use Kimmy 2.6. Yeah, yeah, that's
+true.
+Uh deep seek Gemini flash okay.
+Uh Grok yeah, good luck with that and
+office 4.6
+oh 4.6 okay.
+Yeah, 1.1 token but yeah, it's kind of
+crazy because okay, it's the token usage
+but if you are efficient enough
+uh then you use less tokens so yeah.
+Yeah, it's about optimizing your own
+workflow. Exactly.
+Uh okay, so there is that that that's we
+talk about that we talk about that.
+We saw that too.
+Uh GPT 5.5 is 34% cheaper than office
+uh 4.7 right? What? I thought it was
+I think this is this shows that it
+depends on how do you use it what
+prompts do you give it
+etc. etc. etc. and that all gives you a
+different result each time. It's it's
+not.
+And then people put it in a chart and
+they just post it and everybody's happy.
+Yeah, 100k views let's go.
+Yeah. Yeah, and yeah, what cash cash
+drive free oh yeah, because I think
+yeah, also take that so when you loop
+and then yeah, okay and anthropic charge
+for cash right in addition to cash read
+open AI only charge for cash read so
+then if you have more if you go to the
+cash more often
+uh then it's completely different. And
+then I saw one guys saying that if you
+cash the sessions
+then it's going to be like crazier.
+Uh yeah, I see like 5.5 is still very
+slow and keeps making silly mistakes.
+You don't have that experience.
+No, I don't and I'm on medium. Yeah.
+Yeah, it's
+Uh others comparing exciting yeah, okay,
+whatever uh will be curious so much on
+the on effects thinking budget has Yeah,
+it's it's so hard to compare all of
+those. But also he says it makes it
+silly mistakes. How good is his input?
+Yeah, exactly. Yeah, they're like the
+bug can be between the chair and the
+computer right? Yeah, he can say I have
+a bug it doesn't work and enter and
+that's it. Yeah, I mean front end if
+it's a front end task I will not still
+not giving it to Codex anyway so
+okay, I think
+we are Yeah, we still need conclusion
+right? Which model is better?
+uh yeah, you want to conclude? I want to
+conclude.
+Go for it. It doesn't matter which model
+you use you just have to give the proper
+input. Yeah, I use both. Use both having
+correct each other. Yeah.
+Like through orchestration.
+And if you don't know how to do it ask
+us. Yeah. We are your debugging. I like
+those videos like after 1 hour
+conclusion is
+Ask us we know what to do and otherwise
+we will make sure that we find out. 500
+500 dollars an hour ask us thank you.
+Yeah, you get both of us.
+&gt;&gt; Yeah, but yeah, okay, so I think that's
+it. We can wrap it up right?
+Mitchell thank you so much for your time
+and yeah, those European hours are late.
+It was much better.
+&gt;&gt; So let's go. Thank you so much. We will
+see you all next week. Subscribe to the
+channel. Uh like share with your dev
+friends and non-dev friends because we
+need people on the channel so chop chop.
+And yeah, see you next week. Bye and a
+video later this week. Bye.
+Bye-bye.

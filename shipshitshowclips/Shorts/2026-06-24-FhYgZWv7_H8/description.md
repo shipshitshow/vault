@@ -1,0 +1,1 @@
+AI can code, but is it good code? Product management and clear architecture are crucial for effective AI development. Don't settle for crappy AI. #AICoding #ProductManagement #AIdevelopment #SoftwareArchitecture

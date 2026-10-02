@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.800
+ If I have a crunchable webhook in it, it needs to check every minute if there
+
+00:00:03.800 --> 00:00:08.520
+ is an update, but I know because I'm running it locally, I just have a
+
+00:00:08.520 --> 00:00:11.440
+ biten script that initiates a task.
+
+00:00:11.480 --> 00:00:15.760
+ So the biten script is the cron job in scraping it and it will cost me zero tokens.
+
+00:00:16.240 --> 00:00:18.080
+ I only trigger the AI when I need to.
+

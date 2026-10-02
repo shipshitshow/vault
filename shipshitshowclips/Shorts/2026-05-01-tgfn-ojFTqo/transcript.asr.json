@@ -1,0 +1,142 @@
+{
+  "systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,300"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3300
+      },
+      "text": " - Do you think like the product quality"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,300",
+        "to": "00:00:06,100"
+      },
+      "offsets": {
+        "from": 3300,
+        "to": 6100
+      },
+      "text": " from OpenAI is better than Entropic?"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:06,100",
+        "to": "00:00:07,160"
+      },
+      "offsets": {
+        "from": 6100,
+        "to": 7160
+      },
+      "text": " - It's more stable."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,160",
+        "to": "00:00:09,940"
+      },
+      "offsets": {
+        "from": 7160,
+        "to": 9940
+      },
+      "text": " - Yeah, it feels better, like more finished"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,940",
+        "to": "00:00:11,060"
+      },
+      "offsets": {
+        "from": 9940,
+        "to": 11060
+      },
+      "text": " and even more polished."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:11,060",
+        "to": "00:00:13,300"
+      },
+      "offsets": {
+        "from": 11060,
+        "to": 13300
+      },
+      "text": " Even the front end looks a bit better."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,300",
+        "to": "00:00:17,140"
+      },
+      "offsets": {
+        "from": 13300,
+        "to": 17140
+      },
+      "text": " Cloth is better than Codex to fucking do the UI,"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,140",
+        "to": "00:00:19,700"
+      },
+      "offsets": {
+        "from": 17140,
+        "to": 19700
+      },
+      "text": " but that product is all vibe coded by Cloth"
+    },
+    {
+      "timestamps": {
+        "from": "00:00:19,700",
+        "to": "00:00:21,500"
+      },
+      "offsets": {
+        "from": 19700,
+        "to": 21500
+      },
+      "text": " and it's kind of like, eh."
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,500",
+        "to": "00:00:23,500"
+      },
+      "offsets": {
+        "from": 21500,
+        "to": 23500
+      },
+      "text": " - Yeah, that's what it feels like."
+    }
+  ]
+}

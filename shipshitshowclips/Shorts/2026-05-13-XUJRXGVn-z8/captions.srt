@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:05,360
+ attacker open a normal looking pull request on the tan stack repo github automatically runs ci on
+
+2
+00:00:05,360 --> 00:00:12,400
+ the pier code inside the ps stole the workflow github action cache write token during the test
+
+3
+00:00:12,400 --> 00:00:18,880
+ run the attacker used that token to plant poison file in the share build cache the pier could be
+
+4
+00:00:18,880 --> 00:00:25,760
+ closed afterwards the poison cache stays wait did they even merge it holy shit it poisoned github
+
+5
+00:00:25,760 --> 00:00:26,600
+ - Cash.
+
