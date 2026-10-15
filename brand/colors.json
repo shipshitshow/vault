@@ -1,20 +1,25 @@
 {
-  "updated_on": "2026-10-02",
-  "direction": "photographic indie rock and roll",
+  "updated_on": "2026-10-15",
+  "direction": "readable SH*W identity; black and white foundation with restrained red",
   "colors": {
     "red": {
-      "hex": "#ff2d20",
-      "source": "existing app theme",
-      "status": "existing reference"
+      "hex": "#E83B3B",
+      "source": "red/black logo and October 15 system briefs",
+      "status": "working token; exact final color not approved"
     },
     "black": {
-      "hex": "#111111",
-      "status": "proposed production reference"
+      "hex": "#0D0D0D",
+      "status": "working token"
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "status": "working token"
     },
     "warm_ivory": {
-      "hex": "#f4efe6",
-      "status": "proposed production reference"
+      "hex": "#F4EFE6",
+      "status": "legacy reference; not current default"
     }
   },
-  "note": "Black/ivory values are design reference choices; final asset review can adjust them. Existing approved direction determines the system, not an old thumbnail palette."
+  "legacy_app_red": "#FF2D20",
+  "note": "Use tokens.json and identity.md together. Generated JPGs are not exact color swatches. Existing app themes and approved motion projects are unchanged; documentation does not authorize recoloring them."
 }

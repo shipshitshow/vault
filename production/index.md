@@ -1,6 +1,6 @@
 # Production handbook
 
-Current direction approved October 2, 2026: builders choosing AI models/workflows; natural source-led discussion; recorded/local demo fallback; Studio media separate from public GitHub text and examples.
+Production foundation: natural source-led discussion by two founders using AI in their businesses; recorded/local demo fallback; Studio media separate from public GitHub text and examples. The [maintained brand kit](../brand/README.md) records October 15 identity updates and distinguishes working artwork from final production exports.
 
 - [Show preparation](show-preparation.md)
 - [Editing folders and handoff](editing-workflow.md)

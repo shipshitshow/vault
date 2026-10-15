@@ -10,13 +10,13 @@ Create exactly three thumbnail hypotheses. For a thumbnail-only test, hold title
 
 ## Channel identity
 
-Exact name: **Ship Sh!t Show**. Latest direction: photographic indie rock'n'roll, red/black/warm ivory, grain and gig-poster energy, real hosts at computers, build/check/ship/improve and happy users. Use original host references and preserve likeness. Current user corrections override a default palette/layout. Avoid reviving rejected illustrated/cube concepts.
+Read the maintained [brand kit](../brand/README.md), [identity](../brand/identity.md), [application rules](../brand/applications.md) and [asset inventory](../brand/inventory.json) before making artwork. Full name: **Ship Sh!t Show**. Compact mark: **`SH*W`**, four characters on one horizontal line. Current direction uses broad readable lettering, black/white foundations, restrained red, approved host photography and small repeated signatures. Earlier `SH!P`/`SH!T`, compressed or stacked marks and oversized sponsor panels are superseded explorations. Private original photos stay private; generated boards are design references, not real episode footage or final upload assets.
 
 PFP and banner have different jobs: tiny circular recognition versus responsive channel promise. Export separate masters and final assets; inspect circular and mobile/desktop/TV crops. Recheck [YouTube specifications](https://support.google.com/youtube/answer/10456525?hl=en) before export.
 
 ## Restream
 
-Plan discussion, screen-demo, partner and closing scenes. Use native layout/name controls. Generate only required backgrounds, transparent overlays, logos or motion assets. Leave captions/nameplates clear; keep product content readable. Test the actual Studio windows rather than guessing their positions.
+Follow [editing and broadcast rules](../brand/editing.md) for discussion, screen-demo, partner and closing scenes. Use native layout/name controls. Generate only required backgrounds, transparent overlays, logos or motion assets. Keep signatures/labels modest and product content readable; test the actual Studio/OBS canvas rather than guessing its coordinates. A JPG or flattened reference board is not a transparent camera overlay. Existing approved stingers and their colors remain unchanged unless a separate edit is requested.
 
 Video uploaded as a graphic does not play audio. An audible bump needs the appropriate clip/media source. Recheck dimensions, file limits and plan eligibility in [Restream graphics guidance](https://support.restream.io/en/articles/8540835-add-graphics-to-your-stream-in-studio). Existing `_labs` previews are drafts, not the completed broadcast package.
 

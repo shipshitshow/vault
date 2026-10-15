@@ -1,9 +1,44 @@
 {
-  "updated_on": "2026-10-02",
-  "assets": [],
+  "updated_on": "2026-10-15",
+  "version": "2026-10-15",
+  "assets": [
+    {
+      "id": "shw-red-black",
+      "file": "assets/shw-red-black.jpg",
+      "role": "logo-avatar",
+      "status": "working-export",
+      "created_on": "2026-10-15",
+      "format": "jpeg",
+      "width": 1254,
+      "height": 1254,
+      "has_alpha": false,
+      "bytes": 148635,
+      "sha256": "751eaced8994dfdc7d1b3e4564cf1f8a2dc989d3531bdaf41f6a64ae34bba917",
+      "provenance": {
+        "tool": "built-in ImageGen",
+        "model": "not exposed",
+        "seed": "not exposed",
+        "brief": "generation.md",
+        "references": "Selected monochrome SH*W lettering, edited to requested red/black borderless square."
+      },
+      "usage": "working-logo-reference",
+      "production_ready": false,
+      "review": {
+        "technical_file_metadata": "inspected",
+        "destination_crop_and_legibility": "pending",
+        "final_asset_approval": "pending",
+        "published_to_channel": false
+      },
+      "notes": "Standalone red/black JPG requested by the owner; not a vector or transparent master."
+    }
+  ],
   "pending": [
-    "reviewed show PFP and banner exports",
-    "reviewed Restream backgrounds/overlays/intro",
-    "explicit permission before publishing host reference photos"
-  ]
+    "final approval of application designs and exact tokens",
+    "outlined vector and separate transparent unboxed marks",
+    "individual PFP/banner/cover/thumbnail exports and responsive crops",
+    "native broadcast overlays and actual Studio/OBS alignment",
+    "caption/motion native projects and playback review",
+    "explicit permission before publishing original private host photographs"
+  ],
+  "publication_scope": "Guides and standalone logo only. Face-containing concept boards and original host photographs remain private and are not distributed in this kit."
 }
