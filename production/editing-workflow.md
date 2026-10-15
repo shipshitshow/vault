@@ -24,6 +24,8 @@ tesseract/
 
 This follows the existing September 29 project. Preserve working media references; folder improvements do not require moving old recordings. Date keys refer to recording, not publication. Add a slug for same-date collisions. Keep the project's own supported schema; store source livestream ID and published recap/Short IDs when known.
 
+For thumbnails, captions, overlays, slates and motion, start with the [canonical brand kit](../brand/README.md) and [editing rules](../brand/editing.md). Record its revision/commit, the selected logo hash, actual fonts and approved overrides in the project's supported manifest or handoff notes. Copy required authorized assets from the [inventory](../brand/inventory.json); presentation boards are references, not production footage or final overlays.
+
 `outputs` holds current work; `versions` preserves milestones; `final` is an identified reviewed version. A finished render is not sufficient approval. Record technical metadata, source-meaning comparison, playback, listening and sync checks independently. Preserve replacement history and external mastering recipes so the final remains reproducible from its native project and sources.
 
 Make checkpoints for meaningful changes: first assembly, reviewed cut, audio/captions and approved export. Do not automatically delete historical versions. September 29 currently has 62 packaged native archives and uses about 37 GB; choose retention after identifying authoritative deliverables.
