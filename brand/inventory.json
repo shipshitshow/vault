@@ -1,12 +1,111 @@
 {
-  "updated_on": "2026-10-15",
-  "version": "2026-10-15",
+  "updated_on": "2026-10-16",
+  "version": "2026-10-16",
   "assets": [
+    {
+      "id": "asterisk-black",
+      "file": "assets/asterisk-black.svg",
+      "role": "standalone-mark",
+      "status": "approved-export",
+      "format": "svg",
+      "viewBox": [
+        0,
+        0,
+        96,
+        96
+      ],
+      "bytes": 291,
+      "sha256": "1aa7f5ad1d85a09620d69cd8b0b69cb0ad8788863899fc91918f37887794ca3b",
+      "created_on": "2026-10-16",
+      "provenance": {
+        "tool": "native vector geometry",
+        "source": "owner-approved six-arm asterisk"
+      },
+      "approval": "Owner-approved identity and standalone exports, 16 October 2026; channel upload status is separate."
+    },
+    {
+      "id": "asterisk-white",
+      "file": "assets/asterisk-white.svg",
+      "role": "standalone-mark",
+      "status": "approved-export",
+      "format": "svg",
+      "viewBox": [
+        0,
+        0,
+        96,
+        96
+      ],
+      "bytes": 291,
+      "sha256": "5b2f685dc68b9627cee84fcd46fb5e9336a0ac86eeb8eda65fa077565827b4cd",
+      "created_on": "2026-10-16",
+      "provenance": {
+        "tool": "native vector geometry",
+        "source": "owner-approved six-arm asterisk"
+      },
+      "approval": "Owner-approved identity and standalone exports, 16 October 2026; channel upload status is separate."
+    },
+    {
+      "id": "asterisk-red",
+      "file": "assets/asterisk-red.svg",
+      "role": "standalone-mark",
+      "status": "approved-export",
+      "format": "svg",
+      "viewBox": [
+        0,
+        0,
+        96,
+        96
+      ],
+      "bytes": 291,
+      "sha256": "5e0db98abe9913763df5bd9fe2ec3a7d41197239ebb536a1aa4793cedb859cf8",
+      "created_on": "2026-10-16",
+      "provenance": {
+        "tool": "native vector geometry",
+        "source": "owner-approved six-arm asterisk"
+      },
+      "approval": "Owner-approved identity and standalone exports, 16 October 2026; channel upload status is separate."
+    },
+    {
+      "id": "avatar-main",
+      "file": "assets/avatar-main.svg",
+      "role": "channel-avatar",
+      "status": "approved-export",
+      "format": "svg",
+      "width": 2048,
+      "height": 2048,
+      "channel_upload_verified": false,
+      "bytes": 445,
+      "sha256": "69029e09bec90725e647bd92e1fe2516d4167f3cbf35fdcd157d5ab37fc7e9f9",
+      "created_on": "2026-10-16",
+      "provenance": {
+        "tool": "native vector geometry",
+        "source": "owner-approved six-arm asterisk"
+      },
+      "approval": "Owner-approved identity and standalone exports, 16 October 2026; channel upload status is separate."
+    },
+    {
+      "id": "avatar-clips",
+      "file": "assets/avatar-clips.svg",
+      "role": "channel-avatar",
+      "status": "approved-export",
+      "format": "svg",
+      "width": 2048,
+      "height": 2048,
+      "channel_upload_verified": false,
+      "bytes": 445,
+      "sha256": "a955f67f886fc3478ac2a02bf016684d79ef67985b1d4905915782b67a20413d",
+      "created_on": "2026-10-16",
+      "provenance": {
+        "tool": "native vector geometry",
+        "source": "owner-approved six-arm asterisk"
+      },
+      "approval": "Owner-approved identity and standalone exports, 16 October 2026; channel upload status is separate."
+    },
     {
       "id": "shw-red-black",
       "file": "assets/shw-red-black.jpg",
-      "role": "logo-avatar",
-      "status": "working-export",
+      "role": "superseded-lettering-exploration",
+      "status": "archived-reference",
       "created_on": "2026-10-15",
       "format": "jpeg",
       "width": 1254,
@@ -21,7 +120,7 @@
         "brief": "generation.md",
         "references": "Selected monochrome SH*W lettering, edited to requested red/black borderless square."
       },
-      "usage": "working-logo-reference",
+      "usage": "provenance-only",
       "production_ready": false,
       "review": {
         "technical_file_metadata": "inspected",
@@ -33,12 +132,9 @@
     }
   ],
   "pending": [
-    "final approval of application designs and exact tokens",
-    "outlined vector and separate transparent unboxed marks",
-    "individual PFP/banner/cover/thumbnail exports and responsive crops",
-    "native broadcast overlays and actual Studio/OBS alignment",
-    "caption/motion native projects and playback review",
-    "explicit permission before publishing original private host photographs"
+    "native broadcast layouts and actual camera/caption integration",
+    "caption/motion templates and playback review",
+    "channel-account rollout verification for any unverified upload"
   ],
-  "publication_scope": "Guides and standalone logo only. Face-containing concept boards and original host photographs remain private and are not distributed in this kit."
+  "publication_scope": "Public kit includes guides and standalone marks. Publish only separately approved finished web/channel assets; source portraits and private working boards are excluded."
 }

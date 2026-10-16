@@ -1,51 +1,28 @@
 # Identity
 
-## Naming and positioning
+## Name and mark
 
-| Role | Exact text | Rule |
-| --- | --- | --- |
-| Show name | Ship Sh!t Show | Exclamation replaces i in Sh!t; no punctuation after Show |
-| Compact logo | `SH*W` | Asterisk replaces O in SHOW; all four glyphs on one line |
-| Internal shorthand | SSS | Useful in prose/filenames, not a new public logo |
-| Hosts | Vincent and Mitchell | Actual identities and approved source portraits |
-| Public show | show.shipshit.dev | Website, not part of the compact mark |
+| Role | Approved identity |
+| --- | --- |
+| Show | Ship Sh!t Show |
+| Baseline | Think AI — no colon or trailing punctuation |
+| Compact mark | Standalone six-arm asterisk |
+| Show website | show.shipshit.dev |
+| Commercial website | shipshit.dev |
+| Hosts | Vincent left, Mitchell right |
 
-Two founders discuss how they actually use AI to run their businesses. Use firsthand experience, useful evidence and honest disagreement. Never invent results, endorsements, quotes, reactions or promises that the recording cannot support.
+The mark consists of three identical 20×88 rectangular bars at x38/y4 in a 96×96 viewport, rotated 0°, 60° and 120° about 48/48. Use the supplied vector masters or the shared application component, never a font glyph. Keep the name horizontal where space permits. Former lettering experiments are archived provenance, not current instructions.
 
-Use the full name in discovery artwork. Keep **Ship Sh!t** together when a multi-line lockup is necessary; Show may sit below. Prefer one line when space permits.
+## Palette and typography
 
-## Compact mark
+[tokens.json](tokens.json) is the machine-readable source. Charcoal #0D0D0D and white #FFFFFF are shared foundations. Show identity/actions use red #E83B3B with charcoal text; the business uses white actions and marks with charcoal text. Official third-party logos keep their own colors. Semantic warning, success and chart-series colors retain their meaning.
 
-[The working raster](assets/shw-red-black.jpg) supplies the selected broad letter shapes, substantial six-arm asterisk, punctuation spacing and single-line arrangement. Its requested treatment is black lettering on an edge-to-edge red square without an outline. Exact raster colors are not guaranteed to equal a token.
-
-Unboxed white-on-dark and black-on-light marks are proposed variants in private concepts. Their standalone transparent exports and a vector master remain pending. Do not substitute the old bordered white tile or earlier exclamation-mark logos.
-
-For editable masters, start with at least one asterisk-stem width of clear space and preserve aspect ratio. Establish the minimum size by checking the actual export at avatar, thumbnail and video sizes. A sample icon on a board is not a legibility receipt.
-
-## Palette and type
-
-[colors.json](colors.json) describes status/lineage; [tokens.json](tokens.json) supplies working composition values.
-
-| Token | Working value | Use |
-| --- | --- | --- |
-| Ink | `#0D0D0D` | Dark surfaces and dark display text |
-| White | `#FFFFFF` | Light surfaces and high-contrast text |
-| Accent red | `#E83B3B` | Requested red-logo direction; small emphasis, label or CTA |
-
-These values are working tokens, not final color approval or exact sampled values in generated JPGs. Former app red `#FF2D20` and warm ivory `#F4EFE6` are legacy references; do not recolor existing projects implicitly. Vincent rejected overwhelming bright-red coverage and dull brick/terracotta studies. Judge the actual application.
-
-Use one red emphasis per headline/label where helpful. Check actual contrast and size, particularly small white-on-red and red-on-black text. Never communicate meaningful status by color alone.
-
-**Working type:** Space Grotesk, already used in the show app, with broad bold display and regular/medium support. IBM Plex Mono is a proposed secondary family for small technical metadata, subject to an available licensed font file and a real-size check. Use at most two families.
-
-The raster logo is not a claim that typing `SH*W` in a font reproduces the exact master. Preserve its selected geometry when making a vector master. Avoid ultra-condensed lettering, stretched height, crowded punctuation, heavy tracking in headlines and tiny paragraphs. Final edit typography stays editable.
+Use broad bold **Space Grotesk** for branded web display/body text. Utility interfaces may use a system fallback, with monospace for technical content. Limit a composition to two families. Do not squeeze type, vertically stretch letters, or revive earlier stacked/compressed marks. Focus and text contrast must remain visible in dark mode.
 
 ## Photography
 
-Use approved photographs or actual recording frames. Preserve identity, proportions and truthful expression. Face-containing concept boards remain private and are not authoritative new host-reference photos.
+People are in natural color against a monochrome/charcoal background. Preserve the approved face, eye color, body proportions, expression and eye-level gaze. Vincent’s eyes are light green/hazel; Mitchell’s are blue. Use approved original references when fresh generation is explicitly requested; do not iterate from degraded rejected renders. Likeness approval remains a human judgment.
 
-Editorial stills may use a coherent black-and-white grade. Keep eyes clear and crops intentional. Live/edit footage stays in natural color by default; any grade is an editable effect. Do not invent a stronger reaction for a thumbnail.
+Keep heads and outer shoulders intact. Integrate studio backgrounds with native aspect ratios and background-matched edge fades; do not enlarge a channel-banner crop. Character sheets, originals, recordings and face-containing concept boards remain private. Separately approved finished deliverables may be published only to their authorized destinations.
 
-Rockets, coding braces, illustrated cubes and technology-explosion collages are not default identity elements. A source-grounded illustration can support an episode without becoming the show logo.
-
-The [Silicon Carne study](references.md) informs hierarchy and consistency. Its logo, slash symbol, textures, portraits and motion are not reusable show assets; no performance gain is established by this reference.
+Two founders discuss firsthand AI work in their businesses. Do not invent results, endorsements, quotations or unsupported episode promises. The Silicon Carne study informs consistency and hierarchy; its assets are not reusable show assets.

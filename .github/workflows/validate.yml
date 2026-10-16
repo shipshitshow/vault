@@ -13,3 +13,4 @@ jobs:
         with:
           persist-credentials: false
       - run: python3 _admin/scripts/validate_archive.py
+      - run: python3 _admin/scripts/validate_brand.py
