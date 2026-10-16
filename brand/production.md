@@ -17,7 +17,7 @@ Sources: [YouTube branding](https://support.google.com/youtube/answer/10456525?h
 
 Read [inventory.json](inventory.json). `working-export` supplies a usable composition reference, without implying all destination checks passed. `draft-reference` is for design discussion, not release, logo extraction or live footage. Reserve `approved-export` for an actual release with approval/check receipts; no board has this status.
 
-The red/black logo is a standalone JPG with actual dimensions recorded in the inventory. No vector master or transparent unboxed variants are included yet.
+Current standalone SVG masters and main/clips avatar SVGs are included, with geometry and hashes in the inventory. The earlier lettering JPG is archived provenance. Finished approved website/social exports are served by their owning application; original portraits and character sheets are excluded from the public kit.
 
 For every new export record:
 
@@ -34,6 +34,6 @@ Do not infer PASS from generation/render success, or invent a model ID, seed or 
 
 1. Update this kit, tokens and inventory first.
 2. Update public skills' canonical `profiles/shipshitshow.md`, then run its existing `scripts/sync-profiles.py`.
-3. Refresh producer adapters using `scripts/sync-content-skills.py --source <skills-checkout>` and its lockfile.
+3. Generate the show web-token snapshot/theme from this kit with `scripts/sync-brand.py --source <vault-checkout>`, then run its `--check` mode in CI. Refresh producer adapters using `scripts/sync-content-skills.py --source <skills-checkout>` and its lockfile.
 4. Copy only authorized required assets into the edit; record hashes and kit revision. Keep private originals/native media outside public repositories.
-5. Run affected checks on the permitted verification host and retain current-head CI. Documentation merge does not update live channel art or deploy a website.
+5. Run `_admin/scripts/validate_brand.py` for kit geometry, inventory and active-guide drift. Run affected checks on the permitted verification host and retain current-head CI. Documentation merge does not update live channel art or deploy a website.

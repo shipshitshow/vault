@@ -1,43 +1,33 @@
 # Artwork and web applications
 
-Read [identity](identity.md) and select files by [inventory status](inventory.json). Use the recipes below to create separate editable masters and exports per destination. Private concept boards are not distributed.
+Read [identity](identity.md), [tokens](tokens.json) and [inventory](inventory.json). Keep current recipes distinct from historical briefs.
 
 ## Channel artwork
 
-**Avatar:** compact single-line `SH*W`. Start from the red/black working JPG, then inspect its real circular crop. Keep host portraits, sponsors and channel promises out of this mark.
+**Main avatar:** black six-arm asterisk on red. **Clips avatar:** white asterisk on charcoal. A square source must survive the destination’s actual circular crop. No faces, lettering or border around the standalone avatar mark.
 
-**Podcast cover:** full **Ship Sh!t Show** title and a clear host photograph. Simple background, one typographic hierarchy, compact mark as a secondary signature. No company logos, URLs, episode numbers or supporting paragraphs on the persistent show cover. Review at small size.
+**Banner:** approved hosts, Vincent left and Mitchell right, natural color on charcoal. Baseline is **Think AI**, optionally preceded by the standalone asterisk. No colon or oversized central logo block. Keep both full shoulders in the master and verify the actual desktop/mobile/TV crops.
 
-**YouTube banner:** full name, host photography and one concise promise, such as “How founders actually use AI.” Keep critical text/faces within tested responsive crops. Create a destination-sized master and check its actual responsive crops.
+**Personal PFPs:** matching three-quarter framing, natural color, charcoal background and consistent lighting/camera height. No asterisk on the person or backdrop. Preserve identity and natural proportions.
+
+**Podcast cover:** full name, approved host imagery and a simple readable hierarchy. Check the small destination crop. Do not imply an unapproved sponsor relationship.
 
 ## Thumbnails and social
 
-Start from the actual episode/transcript or final edit. Title and artwork must promise the same useful answer. “AI at work” and “Build or buy?” are illustrative layout copy, not published metadata or proven winners.
+Use the actual episode or final edit for claims. The video title and art must promise the same truthful answer. Natural-color hosts can carry the hook; an official topic logo or source-grounded subject provides context. Keep the background predominantly monochrome. Do not invent vendor logos or replace requested generated artwork with static SVG portraits.
 
-1. Define one viewer question and its source evidence.
-2. Choose a relevant actual host/guest face, product proof or truthful visual metaphor.
-3. Use a short headline if useful; two to five words is a starting constraint, not a mandatory format.
-4. Keep a small `SH*W` signature in a consistent upper-right position, clear of eyes and UI. A white unboxed mark may be quieter than a red plaque.
-5. Emphasize one phrase at most. Remove incidental metadata, sponsor logos and URLs.
-6. Check at phone/feed size: spelling, mark character, likeness, source claim and readability.
+The exact six-arm signature always has the **same size and bottom-right position**. At 1280×720 its viewport is x1136/y576, 96×96; right/bottom insets are 48px. Scale coordinates uniformly for 16:9 exports. White on dark (black on light) identifies edited videos; red identifies livestreams. No box, additional dot or waves. On web cards use proportional placement. If an image already contains the signature, do not add a duplicate.
 
-Use [the thumbnail skill](https://github.com/shipshitshow/skills/tree/master/thumbnail-prompt-variations) for the three-hypothesis test contract. Keep title fixed for thumbnail-only tests. These recipes are not test evidence.
+Text is episode-specific, not mandatory. Large readable brief text may support a concept; avoid clutter, paragraphs and false outcomes. Keep exact production logos/type/signatures editable. Inspect the export at feed size for likeness, cropping, text, contrast and official logo accuracy. Three requested thumbnail variations are hypotheses, not proven winners.
 
-**Shorts:** actual selected footage, editable short caption groups and a compact signature. Keep faces and destination controls clear; inspect the real UI/crop rather than assuming a universal safe area. Time captions from the final edit.
+**Website OG cards:** 1200×630 exports. The approved business card is monochrome “Your idea. We ship it.” The selected show card is host-led “Think AI” with the red bottom-right asterisk and **no top-left show wordmark**. Use stable versioned image URLs in both Open Graph and Twitter metadata. Preserve author/episode-specific metadata where provided.
 
-**Social:** reuse the typography, photographic treatment and signature. Quotes require checked source wording. Naming the hosts does not imply a quotation.
+**Shorts:** real selected footage, short editable captions and destination-safe placement. Keep brand art distinct from factual source footage. Check the actual platform UI and crop.
 
 ## Web and partners
 
-The show website uses its full name, clear watch action, host photography and actual episode data. Red is a small signature/CTA/emphasis, not a mandatory page background.
+Both sites start in dark mode. The show uses red primary actions; the commercial identity is monochrome. They share typography, the asterisk and photographic treatment while keeping distinct wordmarks and purpose. Public, auth, producer, secondary pages, favicons and topic/social cards consume the same applicable tokens. Do not fix one homepage while leaving a parallel local palette elsewhere.
 
-Each app may have its own **`/shipshitshow` page about the show**, retaining the app's header/identity. This is not a central sponsor directory. Suggested order:
+Use semantic web tokens for brand color, text, surfaces, borders and action contrast. Prefer existing shared components. A status/category/vendor color is not automatically a brand violation. Photos use their native aspect ratio with integrated edges, full heads/shoulders and a stacked mobile composition.
 
-1. App identity and “Found us on the show?” introduction.
-2. Full show name, hosts and truthful app/show connection.
-3. Primary watch/subscribe link and one app-specific action.
-4. An offer only when its terms and relationship are confirmed.
-
-Discussed domains: `genfeed.ai`, `shipshit.dev`, `mantella.nl` (verified during the study). Confirm destination and approved marks before release. URLs keep their actual spelling, without substituting `!` or `*`. Do not label an owned app as a paid sponsor unless accurate.
-
-Vincent will coordinate Mitchell's site update. This guide does not authorize outreach, offers or account changes. This page recipe does not represent an implemented or deployed website.
+An app’s **`/shipshitshow` page** introduces its actual connection to the show while retaining its own header. Use a truthful introduction, watch action and useful app-specific resource/action. Do not invent an offer or call an owned app a paid sponsor. Company names and URLs do not replace approved official logo files. Vincent coordinates external site updates; this guide authorizes no outreach or account changes.
