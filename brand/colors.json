@@ -17,13 +17,23 @@
       "primary": "#E83B3B",
       "primary_text": "#0D0D0D",
       "surface": "#0D0D0D",
-      "text": "#FFFFFF"
+      "text": "#FFFFFF",
+      "typography": {
+        "heading": "Space Grotesk",
+        "body": "Space Grotesk",
+        "code": "monospace"
+      }
     },
     "business": {
       "primary": "#FFFFFF",
       "primary_text": "#0D0D0D",
       "surface": "#0D0D0D",
-      "text": "#FFFFFF"
+      "text": "#FFFFFF",
+      "typography": {
+        "heading": "Inter Tight",
+        "body": "Inter",
+        "code": "JetBrains Mono"
+      }
     }
   },
   "note": "Show actions/identity use red; commercial identity uses monochrome. Official vendor colors and semantic status/chart colors retain their meaning. Historical palette values are provenance, never current defaults."

@@ -17,7 +17,7 @@ The mark consists of three identical 20×88 rectangular bars at x38/y4 in a 96×
 
 [tokens.json](tokens.json) is the machine-readable source. Charcoal #0D0D0D and white #FFFFFF are shared foundations. Show identity/actions use red #E83B3B with charcoal text; the business uses white actions and marks with charcoal text. Official third-party logos keep their own colors. Semantic warning, success and chart-series colors retain their meaning.
 
-Use broad bold **Space Grotesk** for branded web display/body text. Utility interfaces may use a system fallback, with monospace for technical content. Limit a composition to two families. Do not squeeze type, vertically stretch letters, or revive earlier stacked/compressed marks. Focus and text contrast must remain visible in dark mode.
+The show uses broad bold **Space Grotesk** for web display/body text. The approved business site deliberately retains **Inter Tight** headings, **Inter** body text and **JetBrains Mono** for code, as recorded under its brand role in the tokens. Related brands do not require identical font files. Utility interfaces may use a system fallback, with monospace for technical content. Limit a composition to two families. Do not squeeze type, vertically stretch letters, or revive earlier stacked/compressed marks. Focus and text contrast must remain visible in dark mode.
 
 ## Photography
 
