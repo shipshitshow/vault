@@ -1,67 +1,7 @@
-# Ship Sh!t Show YouTube - AI Agent Context
+# Ship Sh!t Show vault context
 
-**Channel:** https://www.youtube.com/@ShipShitDev
+This is the public episode archive and canonical brand kit. Main channel: https://www.youtube.com/@ShipShitShow. Read the root README for current archive layout and workflows; historical filesystem/schema notes are not authoritative.
 
-This directory provides context for AI assistants working with this repository.
+For design, start at `brand/README.md`, then the relevant identity/application/editing guide and `brand/tokens.json`. The standalone six-arm asterisk and Think AI baseline replace the old lettering experiments. Synchronize the canonical public skills profile and show web tokens after a brand change. Do not maintain another palette in agent memory.
 
-## Repository Purpose
-
-Open-source content repository for the Ship Sh!t Show YouTube channel, including:
-- Episode metadata and transcripts
-- CLI tool for content management
-- Thumbnail generation via GenFeed.ai
-
-## Key Paths
-
-| Path | Description |
-|------|-------------|
-| `content/episodes/` | Episode folders (YYYY-MM-DD-slug format) |
-| `content/episodes/*/index.md` | Episode metadata + summary |
-| `content/episodes/*/transcript.md` | Full episode transcript |
-| `content/episodes/*/notes.md` | Show notes |
-| `prompts/thumbnail.default.md` | Default thumbnail prompt |
-| `packages/cli/` | CLI tool source |
-
-## Episode Metadata Schema
-
-```typescript
-interface Episode {
-  id: string;           // Format: sss-XXX
-  title: string;
-  date: string;         // YYYY-MM-DD
-  type: 'stream' | 'short' | 'podcast';
-  duration: string;     // HH:MM:SS or MM:SS
-  youtube_id: string;
-  topics: string[];
-  guests: string[];
-  chapters: { time: string; title: string }[];
-  thumbnail?: string;
-}
-```
-
-## Common Tasks
-
-### Find episodes by topic
-```bash
-grep -r "topics:.*claude" content/episodes/*/index.md
-```
-
-### Get episode metadata
-Read `content/episodes/YYYY-MM-DD-slug/index.md` and parse YAML frontmatter.
-
-### Generate thumbnail
-```bash
-sss thumbnail <episode-slug>
-```
-
-### Fetch transcript
-```bash
-sss transcript <youtube-id> --episode <episode-slug>
-```
-
-## GenFeed.ai Integration
-
-Thumbnail generation uses GenFeed.ai API:
-- Endpoint: `POST https://api.genfeed.ai/v1/images`
-- Auth: Bearer token via `GENFEED_API_KEY` env var
-- Models: flux-pro, imagen-4-ultra, klingai-2.5
+Run archive and brand validation on the permitted verification host or CI. Preserve unrelated Obsidian/editor settings and untracked production media. Original portraits, character grids, face-containing working boards and native media stay private. The public kit distributes guides and standalone marks; separately approved finished deliverables are published only to their authorized destinations.

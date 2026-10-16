@@ -21,7 +21,10 @@ mark = tokens['thumbnail']['signature']
 width, height = tokens['thumbnail']['reference_canvas']
 if (mark['x'] + mark['width'] + mark['inset_right'], mark['y'] + mark['height'] + mark['inset_bottom']) != (width, height):
     errors.append('Thumbnail signature coordinates and insets disagree.')
-if json.loads((root / 'colors.json').read_text())['colors'] != tokens['colors']:
+palette = json.loads((root / 'colors.json').read_text())
+if palette['brands'] != tokens['brands']:
+    errors.append('Color summary and canonical brand roles differ.')
+if palette['colors'] != tokens['colors']:
     errors.append('colors.json and tokens.json differ.')
 for asset in json.loads((root / 'inventory.json').read_text())['assets']:
     path = root / asset['file']
