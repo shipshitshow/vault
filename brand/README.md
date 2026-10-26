@@ -9,7 +9,7 @@ Maintained identity, tokens and production rules. Updated **16 October 2026** fr
 - Both websites use dark charcoal foundations and broad, compact typography. The show uses Space Grotesk; the business retains its approved Inter Tight/Inter type roles.
 - The show uses red #E83B3B. The commercial shipshit.dev identity uses black, white and charcoal.
 - Main-channel avatar: black asterisk on red. Clips: white asterisk on charcoal.
-- Thumbnails use natural-color hosts/topic subjects, monochrome backgrounds and official topic logos in their own colors. White/black signature for video; red for live, fixed bottom right.
+- Thumbnails lead with the topic and show no host faces (the hosts are not yet recognized). Use source-grounded topic subjects and official topic logos in their own colors on monochrome backgrounds. White/black signature for edited video; red for live, fixed bottom right.
 - Photography, headlines and graphic marks share one composition. Preserve likeness and full shoulders; use native image proportions with soft background integration.
 
 ## Source and maintenance

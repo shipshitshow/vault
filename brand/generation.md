@@ -10,7 +10,7 @@ Website portrait: natural-color Vincent left and Mitchell right, charcoal crewne
 
 Default show social card: selected host-led 1200×630 “Think AI” composition, white headline, red bottom-right asterisk, no top-left wordmark. Default commercial card: monochrome “Your idea. We ship it.”, broad bold type and large asterisk. Preserve separately approved selections rather than silently redesigning them during implementation.
 
-Thumbnail: source-grounded topic, authorized hosts and official topic logos, predominantly monochrome backdrop with natural-color subjects. Signature follows the fixed token geometry/position. Avoid generic model logos, fabricated product proof and unsupported claims.
+Thumbnail: topic first with no host faces; source-grounded topic subject and official topic logos, predominantly monochrome backdrop. Signature follows the fixed token geometry/position. Avoid generic model logos, fabricated product proof and unsupported claims.
 
 ## Archived explorations — not current instructions
 
