@@ -14,7 +14,7 @@ Read [identity](identity.md), [tokens](tokens.json) and [inventory](inventory.js
 
 ## Thumbnails and social
 
-Use the actual episode or final edit for claims. The video title and art must promise the same truthful answer. Natural-color hosts can carry the hook; an official topic logo or source-grounded subject provides context. Keep the background predominantly monochrome. Do not invent vendor logos or replace requested generated artwork with static SVG portraits.
+Use the actual episode or final edit for claims. The video title and art must promise the same truthful answer. **Topic first, no host faces** (decided 26 October 2026: viewers do not yet know the hosts, so a face carries no information). The hook is the topic: an official topic logo or source-grounded subject, with optional large brief text naming the business use or the head-to-head. Prefer operator/business-use and head-to-head framings; pure model-news framing is the weakest. That ranking comes from view counts of the channel inventory, without CTR or retention, so treat it as a hypothesis. Keep the background predominantly monochrome. Hosts stay in website, banner, avatar and podcast-cover work, not thumbnails, until the owner reverses this. Do not invent vendor logos or replace requested generated artwork with static SVG portraits.
 
 The exact six-arm signature always has the **same size and bottom-right position**. At 1280×720 its viewport is x1136/y576, 96×96; right/bottom insets are 48px. Scale coordinates uniformly for 16:9 exports. White on dark (black on light) identifies edited videos; red identifies livestreams. No box, additional dot or waves. On web cards use proportional placement. If an image already contains the signature, do not add a duplicate.
 
