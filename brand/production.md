@@ -17,6 +17,8 @@ Sources: [YouTube branding](https://support.google.com/youtube/answer/10456525?h
 
 Read [inventory.json](inventory.json). `working-export` supplies a usable composition reference, without implying all destination checks passed. `draft-reference` is for design discussion, not release, logo extraction or live footage. Reserve `approved-export` for an actual release with approval/check receipts; no board has this status.
 
+Use the [red master](assets/asterisk-red.svg) or [white master](assets/asterisk-white.svg) for thumbnails, overlays and reusable transparent PNG exports. Placement comes from the [format-specific safe-zone contract](thumbnail-safe-zones.md); keep export backgrounds transparent and scale the vector uniformly.
+
 Current standalone SVG masters and main/clips avatar SVGs are included, with geometry and hashes in the inventory. The earlier lettering JPG is archived provenance. Finished approved website/social exports are served by their owning application; original portraits and character sheets are excluded from the public kit.
 
 For every new export record:
