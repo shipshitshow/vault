@@ -4,7 +4,7 @@ Read [identity](identity.md), [tokens](tokens.json) and [inventory](inventory.js
 
 ## Channel artwork
 
-**Main avatar:** black six-arm asterisk on red. **Clips avatar:** white asterisk on charcoal. A square source must survive the destination’s actual circular crop. No faces, lettering or border around the standalone avatar mark.
+**Main avatar:** red six-arm asterisk on charcoal. **Clips avatar:** white asterisk on charcoal. A square source must survive the destination’s actual circular crop. No faces, lettering or border around the standalone avatar mark.
 
 **Banner:** approved hosts, Vincent left and Mitchell right, natural color on charcoal. Baseline is **Think AI**, optionally preceded by the standalone asterisk. No colon or oversized central logo block. Keep both full shoulders in the master and verify the actual desktop/mobile/TV crops.
 

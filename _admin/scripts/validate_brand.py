@@ -9,6 +9,10 @@ import xml.etree.ElementTree as ET
 root = Path(__file__).resolve().parents[2] / 'brand'
 tokens = json.loads((root / 'tokens.json').read_text())
 errors = []
+if tokens['identity']['show_name'] != 'Ship Sh*t Show':
+    errors.append('The display name must be Ship Sh*t Show, with an asterisk.')
+if tokens['identity']['avatar_main'] != 'red asterisk on charcoal':
+    errors.append('The main/show avatar must be red on charcoal.')
 if tokens['identity']['compact_mark'] != 'six-arm-asterisk':
     errors.append('The active compact mark must be the six-arm asterisk.')
 if tokens['identity']['baseline'] != 'Think AI':
@@ -46,6 +50,12 @@ for asset in json.loads((root / 'inventory.json').read_text())['assets']:
     data = path.read_bytes()
     if hashlib.sha256(data).hexdigest() != asset['sha256'] or len(data) != asset['bytes']:
         errors.append(f'Inventory hash/size drift: {path.name}')
+    if asset['id'] == 'avatar-main':
+        svg = ET.fromstring(data)
+        background = svg.find('{http://www.w3.org/2000/svg}rect')
+        inner = svg.find('{http://www.w3.org/2000/svg}svg')
+        if background.attrib.get('fill') != tokens['colors']['ink'] or inner.attrib.get('fill') != tokens['colors']['accent_red']:
+            errors.append('Main avatar export must be red on charcoal.')
     if asset['role'] == 'standalone-mark':
         svg = ET.fromstring(data)
         bars = svg.findall('.//{http://www.w3.org/2000/svg}rect')
@@ -56,7 +66,7 @@ for asset in json.loads((root / 'inventory.json').read_text())['assets']:
             errors.append(f'Incorrect mark geometry: {path.name}')
 for name in ('README.md', 'identity.md', 'applications.md', 'editing.md', 'production.md', 'thumbnail-safe-zones.md'):
     text = (root / name).read_text()
-    for obsolete in ('SH*W', 'x1136/y576', 'fixed bottom right', 'canonical bottom-right token', '#FF2D20', '#ff2d20', 'white app-specific'):
+    for obsolete in ('SH*W', 'Ship Sh!t Show', 'black asterisk on red', 'x1136/y576', 'fixed bottom right', 'canonical bottom-right token', '#FF2D20', '#ff2d20', 'white app-specific'):
         if obsolete in text:
             errors.append(f'{name}: obsolete active brand rule {obsolete}')
 if errors:

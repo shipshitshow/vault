@@ -1,14 +1,14 @@
-# Ship Sh!t Show brand kit
+# Ship Sh*t Show brand kit
 
 Maintained identity, tokens and production rules. Updated **3 November 2026** for top-right thumbnail signatures and format-specific safe margins. Newer explicit owner instructions take precedence.
 
-**Ship Sh!t Show** is the full name. **Think AI** is the baseline, without punctuation. The compact mark is the standalone **six-arm asterisk**. Use [identity](identity.md), [applications](applications.md), [editing](editing.md), [production](production.md), [tokens](tokens.json) and the [inventory](inventory.json) together.
+**Ship Sh*t Show** is the full name. **Think AI** is the baseline, without punctuation. The compact mark is the standalone **six-arm asterisk**. Use [identity](identity.md), [applications](applications.md), [editing](editing.md), [production](production.md), [tokens](tokens.json) and the [inventory](inventory.json) together.
 
 ![Current red asterisk](assets/asterisk-red.svg)
 
 - Both websites use dark charcoal foundations and broad, compact typography. The show uses Space Grotesk; the business retains its approved Inter Tight/Inter type roles.
 - The show uses red #E83B3B. The commercial shipshit.dev identity uses black, white and charcoal.
-- Main-channel avatar: black asterisk on red. Clips: white asterisk on charcoal.
+- Main-channel avatar: red asterisk on charcoal. Clips: white asterisk on charcoal.
 - Thumbnails lead with the topic and show no host faces (the hosts are not yet recognized). Use source-grounded topic subjects and official topic logos in their own colors on monochrome backgrounds. White/black signature for edited video; red for live, always top-right inside the [thumbnail safe margins](thumbnail-safe-zones.md).
 - Photography, headlines and graphic marks share one composition. Preserve likeness and full shoulders; use native image proportions with soft background integration.
 

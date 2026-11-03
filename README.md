@@ -1,4 +1,4 @@
-# Ship Sh!t Show Vault
+# Ship Sh*t Show Vault
 
 Public episode transcripts, notes and resources for [the main show](https://www.youtube.com/@shipshitshow) and [the clips channel](https://www.youtube.com/@ShipShitShowClips). Open this repository as an Obsidian vault or browse its Markdown on GitHub.
 

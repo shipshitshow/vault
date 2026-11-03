@@ -4,12 +4,14 @@
 
 | Role | Approved identity |
 | --- | --- |
-| Show | Ship Sh!t Show |
+| Show | Ship Sh*t Show |
 | Baseline | Think AI — no colon or trailing punctuation |
 | Compact mark | Standalone six-arm asterisk |
 | Show website | show.shipshit.dev |
 | Commercial website | shipshit.dev |
 | Hosts | Vincent left, Mitchell right |
+
+The display name is **Ship Sh*t Show**, with an asterisk in the word; spell it identically in headings, metadata and public copy. Main/show PFP: red mark on charcoal. Clips PFP and commercial shipshit.dev avatar: white mark on charcoal. Livestream signatures use the transparent red master; edited videos use the transparent white master on dark artwork.
 
 The mark consists of three identical 20×88 rectangular bars at x38/y4 in a 96×96 viewport, rotated 0°, 60° and 120° about 48/48. Use the supplied vector masters or the shared application component, never a font glyph. Keep the name horizontal where space permits. Former lettering experiments are archived provenance, not current instructions.
 
