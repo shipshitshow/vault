@@ -4,13 +4,13 @@ Use the actual source board for an upcoming live, the full transcript for a comp
 
 ## Metadata and tests
 
-Provide distinct title candidates and a focused tag list (`youtube_tags` in vault). Description: human opener, practical takeaway, accurate chapters, primary/source/example links and channel footer. Chapters use the asset's own clock. Tags mainly help spelling/ambiguity; keyword stuffing is not a growth strategy.
+Preserve an approved title or provide distinct candidates when requested, with a focused tag list (`youtube_tags` in vault). Follow the [canonical channel profile](https://github.com/shipshitshow/skills/blob/master/profiles/shipshitshow.md) for description voice and format-specific link placement; livestream source lists belong in the talking-points board. Chapters use the asset's own clock. Tags mainly help spelling/ambiguity; keyword stuffing is not a growth strategy.
 
 Create exactly three thumbnail hypotheses. For a thumbnail-only test, hold title fixed. For combined tests, label title/thumbnail pairs. A completed eligible livestream archive can be tested; scheduled lives and Shorts cannot. YouTube's test evaluates watch time and may be inconclusive. Do not call a prompt a proven winner. [Current test guidance](https://support.google.com/youtube/answer/16391400?hl=en)
 
 ## Channel identity
 
-Read the maintained [brand kit](../brand/README.md), [identity](../brand/identity.md), [application rules](../brand/applications.md) and [asset inventory](../brand/inventory.json) before making artwork. Full name: **Ship Sh!t Show**. Compact mark: **`SH*W`**, four characters on one horizontal line. Current direction uses broad readable lettering, black/white foundations, restrained red, approved host photography and small repeated signatures. Earlier `SH!P`/`SH!T`, compressed or stacked marks and oversized sponsor panels are superseded explorations. Private original photos stay private; generated boards are design references, not real episode footage or final upload assets.
+Read the maintained [brand kit](../brand/README.md), [identity](../brand/identity.md), [application rules](../brand/applications.md) and [asset inventory](../brand/inventory.json) before making artwork. Full name: **Ship Sh*t Show**. Compact mark: the exact standalone six-arm asterisk. Main/show PFP: red on charcoal; clips and commercial shipshit.dev avatar: white on charcoal. Livestream signature: transparent red; edited-video signature: transparent white on dark artwork. Thumbnail signatures always use the top-right, format-specific safe margins. Earlier lettering and host-led thumbnail explorations are historical. Private originals stay private; use approved references for website/banner work and source-grounded subjects for thumbnails. Generated boards are design references, not real footage or final upload assets.
 
 PFP and banner have different jobs: tiny circular recognition versus responsive channel promise. Export separate masters and final assets; inspect circular and mobile/desktop/TV crops. Recheck [YouTube specifications](https://support.google.com/youtube/answer/10456525?hl=en) before export.
 

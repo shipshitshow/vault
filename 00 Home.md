@@ -1,4 +1,4 @@
-# Ship Sh!t Show Vault
+# Ship Sh*t Show Vault
 
 This vault is the single source of truth for the channel.
 

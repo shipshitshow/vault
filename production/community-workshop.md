@@ -53,7 +53,7 @@ Pilot success criteria are proposed: at least five paid seats, at least 80% of a
 
 > Turn one recording into a video you are ready to publish.
 >
-> In a small, hands-on Ship Shit Show workshop, we will build an editing and packaging workflow with GPT or Claude and Tesseract. Bring a short recording. Leave with an edited clip, YouTube packaging, three thumbnail directions and folders you can reuse.
+> In a small, hands-on Ship Sh*t Show workshop, we will build an editing and packaging workflow with GPT or Claude and Tesseract. Bring a short recording. Leave with an edited clip, YouTube packaging, three thumbnail directions and folders you can reuse.
 >
 > The first pilot is proposed at €79 with up to 12 participants. Dates and registration will be announced after the workflow rehearsal. Existing tool access is required and separate from the ticket.
 

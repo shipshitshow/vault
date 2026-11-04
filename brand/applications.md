@@ -4,7 +4,7 @@ Read [identity](identity.md), [tokens](tokens.json) and [inventory](inventory.js
 
 ## Channel artwork
 
-**Main avatar:** black six-arm asterisk on red. **Clips avatar:** white asterisk on charcoal. A square source must survive the destination’s actual circular crop. No faces, lettering or border around the standalone avatar mark.
+**Main avatar:** red six-arm asterisk on charcoal. **Clips avatar:** white asterisk on charcoal. A square source must survive the destination’s actual circular crop. No faces, lettering or border around the standalone avatar mark.
 
 **Banner:** approved hosts, Vincent left and Mitchell right, natural color on charcoal. Baseline is **Think AI**, optionally preceded by the standalone asterisk. No colon or oversized central logo block. Keep both full shoulders in the master and verify the actual desktop/mobile/TV crops.
 
@@ -16,7 +16,9 @@ Read [identity](identity.md), [tokens](tokens.json) and [inventory](inventory.js
 
 Use the actual episode or final edit for claims. The video title and art must promise the same truthful answer. **Topic first, no host faces** (decided 26 October 2026: viewers do not yet know the hosts, so a face carries no information). The hook is the topic: an official topic logo or source-grounded subject, with optional large brief text naming the business use or the head-to-head. Prefer operator/business-use and head-to-head framings; pure model-news framing is the weakest. That ranking comes from view counts of the channel inventory, without CTR or retention, so treat it as a hypothesis. Keep the background predominantly monochrome. Hosts stay in website, banner, avatar and podcast-cover work, not thumbnails, until the owner reverses this. Do not invent vendor logos or replace requested generated artwork with static SVG portraits.
 
-The exact six-arm signature always has the **same size and bottom-right position**. At 1280×720 its viewport is x1136/y576, 96×96; right/bottom insets are 48px. Scale coordinates uniformly for 16:9 exports. White on dark (black on light) identifies edited videos; red identifies livestreams. No box, additional dot or waves. On web cards use proportional placement. If an image already contains the signature, do not add a duplicate.
+The exact six-arm thumbnail signature is always **top-right**, inside the format-specific safe margins. At 1280×720 its viewport is x1120/y64, 96×96, with equal 64px top/right insets. For a 1080×1920 Short use x768/y320, 96×96: 320px top and 216px right. Scale all coordinates uniformly with the canvas. Use the [thumbnail safe-zone contract](thumbnail-safe-zones.md), including crop and UI checks. White on dark (black on light) identifies edited videos; red identifies livestreams. No box, additional dot or waves. On website thumbnail presentations use the same proportional top-right placement. Existing approved default OG artwork retains its separately documented layout. If an image already contains the signature, do not add a duplicate.
+
+Use the supplied red/white SVG master as an editable production layer. A subtle material finish, scene-matched edge light or restrained texture may connect the mark to the artwork; preserve its exact upright silhouette, proportions, base color, safe margins and small-size contrast. Keep it subordinate to the subject. Reserve its space while generating the scene, then composite the actual master; verify a generated preview against that master before final export.
 
 Text is episode-specific, not mandatory. Large readable brief text may support a concept; avoid clutter, paragraphs and false outcomes. Keep exact production logos/type/signatures editable. Inspect the export at feed size for likeness, cropping, text, contrast and official logo accuracy. Three requested thumbnail variations are hypotheses, not proven winners.
 

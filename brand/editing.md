@@ -4,9 +4,9 @@ Use [identity](identity.md), [tokens](tokens.json) and [inventory](inventory.jso
 
 ## Screen hierarchy and scenes
 
-Faces, dialogue and readable demos take priority. Use the exact standalone six-arm asterisk, modest names and one small topic label. Edited-video signatures are white/black for contrast; live signatures are red. Use the canonical bottom-right token placement for thumbnail/slate exports; verify broadcast camera/caption/UI placement in the actual scene. No extra dot, waves or boxed mark.
+Faces, dialogue and readable demos take priority. Use the exact standalone six-arm asterisk, modest names and one small topic label. Edited-video signatures are white/black for contrast; live signatures are red. Use the canonical top-right token placement and [format-specific safe margins](thumbnail-safe-zones.md) for thumbnail/slate exports; verify broadcast camera/caption/UI placement in the actual scene. No extra dot, waves or boxed mark.
 
-At 1920×1080, start with 48 px outer clearance, the proportionally scaled 144×144 signature viewport at x1704/y864 for a 1920×1080 thumbnail/slate and a narrow partner strip only when required. These are house starting values, not platform guarantees. Check the actual camera/caption/UI and screen readability; do not copy coordinates from a board.
+At 1920×1080, use the proportionally scaled 144×144 signature viewport at x1680/y96 for a 1920×1080 thumbnail/slate, with equal 96px top/right clearance and a narrow partner strip only when required. These are house starting values, not platform guarantees. Check the actual camera/caption/UI and screen readability; do not copy coordinates from a board.
 
 | Scene | Composition | Check |
 | --- | --- | --- |

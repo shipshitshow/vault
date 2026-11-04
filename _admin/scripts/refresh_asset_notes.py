@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Refresh transcript and thumbnail note wrappers for the Ship Sh!t Show vault.
+Refresh transcript and thumbnail note wrappers for the Ship Sh*t Show vault.
 
 - Rewrites `transcript.md` notes into a more readable format with parent links.
 - Creates/updates `thumbnail.md` wrapper notes so thumbnails backlink to overview.

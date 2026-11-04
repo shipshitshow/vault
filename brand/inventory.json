@@ -1,6 +1,6 @@
 {
-  "updated_on": "2026-10-16",
-  "version": "2026-10-16",
+  "updated_on": "2026-11-03",
+  "version": "2026-11-03",
   "assets": [
     {
       "id": "asterisk-black",
@@ -75,13 +75,13 @@
       "height": 2048,
       "channel_upload_verified": false,
       "bytes": 445,
-      "sha256": "69029e09bec90725e647bd92e1fe2516d4167f3cbf35fdcd157d5ab37fc7e9f9",
-      "created_on": "2026-10-16",
+      "sha256": "fda62dfef1c6d52e0e412ce458f26a6d5dfd214e458ed14768f4f019108e37f2",
+      "created_on": "2026-11-03",
       "provenance": {
         "tool": "native vector geometry",
-        "source": "owner-approved six-arm asterisk"
+        "source": "Approved six-arm asterisk; owner-requested red-on-charcoal reversal, 3 November 2026."
       },
-      "approval": "Owner-approved identity and standalone exports, 16 October 2026; channel upload status is separate."
+      "approval": "Owner requested red asterisk on black/charcoal, 3 November 2026. Account upload remains unverified."
     },
     {
       "id": "avatar-clips",

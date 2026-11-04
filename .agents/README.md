@@ -1,4 +1,4 @@
-# Ship Sh!t Show vault context
+# Ship Sh*t Show vault context
 
 This is the public episode archive and canonical brand kit. Main channel: https://www.youtube.com/@ShipShitShow. Read the root README for current archive layout and workflows; historical filesystem/schema notes are not authoritative.
 
