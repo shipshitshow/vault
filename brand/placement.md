@@ -6,9 +6,9 @@ This is the single lookup for where the six-arm asterisk goes, how big it is, an
 
 | Use | File | Colour |
 | --- | --- | --- |
-| Edited video, Shorts, clips | [assets/asterisk-white.svg](assets/asterisk-white.svg) | #FFFFFF on dark artwork |
+| Edited video, Short and clip thumbnails | [assets/asterisk-white.svg](assets/asterisk-white.svg) | #FFFFFF on dark artwork |
 | Edited video on light artwork | [assets/asterisk-black.svg](assets/asterisk-black.svg) | #0D0D0D |
-| Livestream (thumbnail, scene, slate) | [assets/asterisk-red.svg](assets/asterisk-red.svg) | #E83B3B |
+| Livestream (thumbnail, scene, slate); locked Short video | [assets/asterisk-red.svg](assets/asterisk-red.svg) | #E83B3B |
 
 Same three masters everywhere (96×96 viewBox, hashes in [inventory.json](inventory.json)). Never redraw, recolour by eye, or use a font glyph. Scale the SVG uniformly; do not stretch, rotate or nudge it.
 
