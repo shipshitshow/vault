@@ -43,12 +43,13 @@ scale = land['reference_canvas'][0] / width
 if any(land_mark[key] != mark[key] * scale for key in ('x', 'y', 'width', 'height', 'inset_right', 'inset_top')):
     errors.append('The 1920x1080 landscape template must be the 1280x720 template scaled uniformly.')
 layout = shorts['video_layout']
-if layout['bottom_clear_from_y'] < short_height - 400:
-    errors.append('Short video layout must leave the bottom ~350px clear.')
-if not (short_mark['y'] + short_mark['height'] <= layout['title']['y'] and layout['title']['y'] + layout['title']['height'] <= layout['frame']['y'] and layout['frame']['y'] + layout['frame']['height'] <= layout['captions']['y'] and layout['captions']['y'] + layout['captions']['height'] <= layout['bottom_clear_from_y']):
-    errors.append('Short video zones must stack asterisk, title, frame, captions, clear area without overlap.')
-if layout['frame']['width'] != short_width or abs(layout['frame']['height'] * 16 - layout['frame']['width'] * 9) > 16:
-    errors.append('Short video frame must be the full-width 16:9 frame.')
+vmark = layout['signature']
+if (vmark['x'] + vmark['width'] / 2, vmark['y'] + vmark['height'] / 2) != tuple(vmark['centre']) or (vmark['x'] + vmark['width'] + vmark['inset_right'], vmark['y']) != (layout['reference_canvas'][0], vmark['inset_top']):
+    errors.append('Short video signature centre and insets disagree.')
+if vmark['width'] != vmark['height'] or vmark['inset_right'] < 50 or vmark['inset_top'] < 50:
+    errors.append('Short video signature must be square with at least 50px clearance.')
+if layout['captions']['bottom_clear_from_y'] < layout['reference_canvas'][1] - 400 or layout['captions']['centre_y'] >= layout['captions']['bottom_clear_from_y']:
+    errors.append('Short video captions must leave the bottom ~350px clear.')
 palette = json.loads((root / 'colors.json').read_text())
 if palette['brands'] != tokens['brands']:
     errors.append('Color summary and canonical brand roles differ.')

@@ -1,6 +1,6 @@
 # Asterisk and frame placement — one table for every format
 
-This is the single lookup for where the six-arm asterisk goes, how big it is, and how a Short is laid out. It adds no new rule: the numbers come from [tokens.json](tokens.json) (`thumbnail.signature`, `thumbnail.landscape_1080`, `thumbnail.shorts`), and [thumbnail-safe-zones.md](thumbnail-safe-zones.md) explains why. If this page and the tokens ever disagree, the tokens win and `_admin/scripts/validate_brand.py` fails.
+This is the single lookup for where the six-arm asterisk goes, how big it is, and how a Short video is laid out. It adds no new rule: the numbers come from [tokens.json](tokens.json) (`thumbnail.signature`, `thumbnail.landscape_1080`, `thumbnail.shorts`), and [thumbnail-safe-zones.md](thumbnail-safe-zones.md) explains why. If this page and the tokens ever disagree, the tokens win and `_admin/scripts/validate_brand.py` fails.
 
 ## The asset
 
@@ -21,31 +21,31 @@ Size and clearances are measured on the **whole 96×96 viewport**, transparent p
 | 16:9 thumbnail, video, live scene, slate — 1280×720 | 96 | 1120 / 64 | 64 / 64 | 7.5% |
 | 16:9 — 1920×1080 | 144 | 1680 / 96 | 96 / 96 | 7.5% |
 | 16:9 — 3840×2160 | 288 | 3360 / 192 | 192 / 192 | 7.5% |
-| 9:16 Short video or thumbnail — 1080×1920 | 96 | 768 / 320 | 320 / 216 | 8.9% |
+| 9:16 Short thumbnail — 1080×1920 | 96 | 768 / 320 | 320 / 216 | 8.9% |
 | 9:16 — 2160×3840 | 192 | 1536 / 640 | 640 / 432 | 8.9% |
 
 Clearances are 5% of frame width on the left/right edge in 16:9, and 16.7% of frame height from the top in 9:16. The 1920×1080 row is exactly 1.5× the 1280×720 row; any other 16:9 size scales the same way.
 
 Not covered by this table: the default 1200×630 website OG card keeps its separately documented red bottom-right asterisk. An image that already has the star baked in gets no second one.
 
-## 9:16 Short video layout
+## 9:16 Short video (locked by the owner, 5 Nov 2026)
 
-Status: **proposed starting values.** The placement of the asterisk is the approved Shorts template above; the other zones follow the 29 Oct rules (title above the video, captions below on a dark backing, nothing in the bottom ~350 px) and need Vincent's OK on one example render before a batch is cut.
+The edited Short itself has its own locked template, set by Vincent after the 261103 Shorts and recorded in the show repo's `docs/show-prep/edit-style.md`. It differs from the Shorts *thumbnail* row above, so check which surface you are making.
 
-| Zone (1080×1920) | Box (x, y, w, h) | Rule |
-| --- | --- | --- |
-| Asterisk | 768, 320, 96, 96 | White master, top-right, as above |
-| Title | 48, 440, 984, 200 | Above the video, white, Space Grotesk bold, two lines at most; starts below the asterisk |
-| Video frame | 0, 660, 1080, 608 | The full sharp 16:9 frame, centred, full width |
-| Captions | 48, 1288, 984, 282 | White on a dark backing; no coloured karaoke words |
-| Bottom clear | y ≥ 1570 | Nothing, for the Shorts UI |
-| Background | full canvas | Same clip scaled to fill, centred on the faces, heavily blurred and darkened; no black bars |
+| Element (1080×1920) | Locked value |
+| --- | --- |
+| Asterisk | [Red master](assets/asterisk-red.svg), unmodified, 120×120 viewport centred at x940 / y290 (x880, y230; clearance 230 top, 80 right). Never moved or resized per Short |
+| Frame | The speaker fills the whole 9:16 frame (static cam crop, no blur, tile or bars). No title text |
+| Captions | White, bold uppercase, spoken word in #E83B3B, centred at about y1480, at most ~920 px wide |
+| Bottom clear | Nothing below y≈1570 |
+
+If the asterisk hides the subject, move the crop, not the mark.
 
 ## 16:9 video
 
 Edited video, livestream scenes and slates use the 16:9 rows. Captions and lower thirds stay left of and below the mark so it is never covered; verify against the actual camera and caption positions. Names and the topic label are small.
 
-- **Colour follows the video the image belongs to, not the source it was cut from.** A recap, Short or any other edited video, and its thumbnail, is white on dark (black on light), even when the footage came from a livestream. Only a thumbnail, scene or slate of an actual livestream is red.
+- **Colour follows the video the image belongs to, not the source it was cut from.** A recap or other edited video, and its thumbnail, is white on dark (black on light), even when the footage came from a livestream. Only a thumbnail, scene or slate of an actual livestream is red. The one exception is the locked Short video template above, which uses the red master.
 - **Screen shares: product UI wins.** There is no persistent corner watermark on edited video. The mark appears on thumbnails, slates and host scenes. If a scene template carries it over a screen share, use the same corner only when it covers no readable product text or UI; otherwise leave it out of that scene rather than moving it. (Proposed; confirm with Vincent.)
 
 ## Who must follow this
