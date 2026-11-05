@@ -2,7 +2,7 @@
 
 Maintained identity, tokens and production rules. Updated **3 November 2026** for top-right thumbnail signatures and format-specific safe margins. Newer explicit owner instructions take precedence.
 
-**Ship Sh*t Show** is the full name. **Think AI** is the baseline, without punctuation. The compact mark is the standalone **six-arm asterisk**. Use [identity](identity.md), [applications](applications.md), [editing](editing.md), [production](production.md), [tokens](tokens.json) and the [inventory](inventory.json) together.
+**Ship Sh*t Show** is the full name. **Think AI** is the baseline, without punctuation. The compact mark is the standalone **six-arm asterisk**. Start with [placement](placement.md), the one-table lookup for asterisk position, size and the Short layout. Use [identity](identity.md), [applications](applications.md), [editing](editing.md), [production](production.md), [tokens](tokens.json) and the [inventory](inventory.json) together.
 
 ![Current red asterisk](assets/asterisk-red.svg)
 

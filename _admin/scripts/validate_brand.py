@@ -37,6 +37,19 @@ if not short_mark['inset_top'] > short_mark['inset_right'] >= 50:
     errors.append('Shorts need greater top than right clearance, both at least 50px.')
 if not (safe['x'] <= short_mark['x'] and safe['y'] <= short_mark['y'] and short_mark['x'] + short_mark['width'] <= safe['x'] + safe['width'] <= short_width and short_mark['y'] + short_mark['height'] <= safe['y'] + safe['height'] <= short_height):
     errors.append('Shorts signature must fit inside the reference ad safe area.')
+land = tokens['thumbnail']['landscape_1080']
+land_mark = land['signature']
+scale = land['reference_canvas'][0] / width
+if any(land_mark[key] != mark[key] * scale for key in ('x', 'y', 'width', 'height', 'inset_right', 'inset_top')):
+    errors.append('The 1920x1080 landscape template must be the 1280x720 template scaled uniformly.')
+layout = shorts['video_layout']
+vmark = layout['signature']
+if (vmark['x'] + vmark['width'] / 2, vmark['y'] + vmark['height'] / 2) != tuple(vmark['centre']) or (vmark['x'] + vmark['width'] + vmark['inset_right'], vmark['y']) != (layout['reference_canvas'][0], vmark['inset_top']):
+    errors.append('Short video signature centre and insets disagree.')
+if vmark['width'] != vmark['height'] or vmark['inset_right'] < 50 or vmark['inset_top'] < 50:
+    errors.append('Short video signature must be square with at least 50px clearance.')
+if layout['captions']['bottom_clear_from_y'] < layout['reference_canvas'][1] - 400 or layout['captions']['centre_y'] >= layout['captions']['bottom_clear_from_y']:
+    errors.append('Short video captions must leave the bottom ~350px clear.')
 palette = json.loads((root / 'colors.json').read_text())
 if palette['brands'] != tokens['brands']:
     errors.append('Color summary and canonical brand roles differ.')
@@ -64,7 +77,7 @@ for asset in json.loads((root / 'inventory.json').read_text())['assets']:
             errors.append(f'Incorrect mark viewport/bars: {path.name}')
         elif any((bar.attrib.get('x'), bar.attrib.get('y'), bar.attrib.get('width'), bar.attrib.get('height'), bar.attrib.get('transform', '')) != ('38', '4', '20', '88', rotation) for bar, rotation in zip(bars, rotations)):
             errors.append(f'Incorrect mark geometry: {path.name}')
-for name in ('README.md', 'identity.md', 'applications.md', 'editing.md', 'production.md', 'thumbnail-safe-zones.md'):
+for name in ('README.md', 'identity.md', 'applications.md', 'editing.md', 'production.md', 'thumbnail-safe-zones.md', 'placement.md'):
     text = (root / name).read_text()
     for obsolete in ('SH*W', 'Ship Sh!t Show', 'black asterisk on red', 'x1136/y576', 'fixed bottom right', 'canonical bottom-right token', '#FF2D20', '#ff2d20', 'white app-specific'):
         if obsolete in text:
