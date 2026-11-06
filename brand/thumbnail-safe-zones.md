@@ -11,12 +11,12 @@ Always place the exact upright six-arm asterisk in the **top-right of the format
 | Video/live, 1280×720 | 96×96 | 1120 / 64 | 64 / 64 |
 | Video/live, 1920×1080 | 144×144 | 1680 / 96 | 96 / 96 |
 | Video/live, 3840×2160 | 288×288 | 3360 / 192 | 192 / 192 |
-| Short, 1080×1920 | 96×96 | 768 / 320 | 320 / 216 |
-| Short, 2160×3840 | 192×192 | 1536 / 640 | 640 / 432 |
+| Short cover, 1080×1920 (red, same as the Short video) | 120×120 | 880 / 230 | 230 / 80 |
+| Short cover, 2160×3840 | 240×240 | 1760 / 460 | 460 / 160 |
 
 Clearance is measured from the **whole SVG viewport**, including its transparent padding. Do not stretch, rotate or shift the mark to suit a scene. Reserve its area before composing the image. Keep the bottom-right free of essential detail for duration/UI overlays.
 
-Use the [red SVG](assets/asterisk-red.svg) for livestreams and the [white SVG](assets/asterisk-white.svg) on dark edited-video artwork; the existing black master supplies contrast on light artwork. Keep the silhouette and base color intact. Scene-matched edge lighting, a thin material finish or restrained texture may integrate it, while the subject stays dominant. Composite the actual master as an editable layer for final exports, rather than relying on a generated approximation. Review at 160px and 320px wide.
+Use the [red SVG](assets/asterisk-red.svg) for livestreams and Short covers, and the [white SVG](assets/asterisk-white.svg) on dark edited-video artwork; the existing black master supplies contrast on light artwork. Keep the silhouette and base color intact. Scene-matched edge lighting, a thin material finish or restrained texture may integrate it, while the subject stays dominant. Composite the actual master as an editable layer for final exports, rather than relying on a generated approximation. Review at 160px and 320px wide.
 
 ## YouTube guidance versus house templates
 

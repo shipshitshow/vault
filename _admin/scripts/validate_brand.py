@@ -35,8 +35,6 @@ if (short_mark['x'] + short_mark['width'] + short_mark['inset_right'], short_mar
     errors.append('Shorts top-right coordinates and insets disagree.')
 if not short_mark['inset_top'] > short_mark['inset_right'] >= 50:
     errors.append('Shorts need greater top than right clearance, both at least 50px.')
-if not (safe['x'] <= short_mark['x'] and safe['y'] <= short_mark['y'] and short_mark['x'] + short_mark['width'] <= safe['x'] + safe['width'] <= short_width and short_mark['y'] + short_mark['height'] <= safe['y'] + safe['height'] <= short_height):
-    errors.append('Shorts signature must fit inside the reference ad safe area.')
 land = tokens['thumbnail']['landscape_1080']
 land_mark = land['signature']
 scale = land['reference_canvas'][0] / width
@@ -46,6 +44,8 @@ layout = shorts['video_layout']
 vmark = layout['signature']
 if (vmark['x'] + vmark['width'] / 2, vmark['y'] + vmark['height'] / 2) != tuple(vmark['centre']) or (vmark['x'] + vmark['width'] + vmark['inset_right'], vmark['y']) != (layout['reference_canvas'][0], vmark['inset_top']):
     errors.append('Short video signature centre and insets disagree.')
+if any(short_mark[key] != vmark[key] for key in ('x', 'y', 'width', 'height', 'inset_right', 'inset_top', 'color')):
+    errors.append('The Shorts cover signature must match the locked Short video signature (owner decision 2026-11-05).')
 if vmark['width'] != vmark['height'] or vmark['inset_right'] < 50 or vmark['inset_top'] < 50:
     errors.append('Short video signature must be square with at least 50px clearance.')
 if layout['captions']['bottom_clear_from_y'] < layout['reference_canvas'][1] - 400 or layout['captions']['centre_y'] >= layout['captions']['bottom_clear_from_y']:
