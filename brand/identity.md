@@ -23,7 +23,7 @@ The show uses broad bold **Space Grotesk** for web display/body text. The approv
 
 ## Photography
 
-People are in natural color against a monochrome/charcoal background. Preserve the approved face, eye color, body proportions, expression and eye-level gaze. Vincent’s eyes are light green/hazel; Mitchell’s are blue. Use approved original references when fresh generation is explicitly requested; do not iterate from degraded rejected renders. Likeness approval remains a human judgment.
+People are in natural color against a monochrome/charcoal background. Preserve the approved face, eye color, body proportions, expression and eye-level gaze. Vincent’s eyes are light green/hazel; Mitchell’s are brown/hazel (corrected by the owner on 6 November 2026; earlier text said blue). Use approved original references when fresh generation is explicitly requested; do not iterate from degraded rejected renders. Likeness approval remains a human judgment.
 
 Keep heads and outer shoulders intact. Integrate studio backgrounds with native aspect ratios and background-matched edge fades; do not enlarge a channel-banner crop. Character sheets, originals, recordings and face-containing concept boards remain private. Separately approved finished deliverables may be published only to their authorized destinations.
 
