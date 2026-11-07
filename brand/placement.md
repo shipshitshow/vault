@@ -21,16 +21,18 @@ Size and clearances are measured on the **whole 96×96 viewport**, transparent p
 | 16:9 thumbnail, video, live scene, slate — 1280×720 | 96 | 1120 / 64 | 64 / 64 | 7.5% |
 | 16:9 — 1920×1080 | 144 | 1680 / 96 | 96 / 96 | 7.5% |
 | 16:9 — 3840×2160 | 288 | 3360 / 192 | 192 / 192 | 7.5% |
-| 9:16 Short cover and Short video — 1080×1920 | 120 | 880 / 230 (centre 940 / 290) | 230 / 80 | 11.1% |
-| 9:16 — 2160×3840 | 240 | 1760 / 460 | 460 / 160 | 11.1% |
+| 9:16 Short cover — 1080×1920 | 120 | 880 / 345 (centre 940 / 405) | 345 / 80 | 11.1% |
+| 9:16 Short video — 1080×1920 | 120 | 880 / 230 (centre 940 / 290) | 230 / 80 | 11.1% |
+| 9:16 Short cover — 2160×3840 | 240 | 1760 / 690 | 690 / 160 | 11.1% |
+| 9:16 Short video — 2160×3840 | 240 | 1760 / 460 | 460 / 160 | 11.1% |
 
-Clearances are 5% of frame width on the left/right edge in 16:9. In 9:16 the Short cover and the Short video share one mark, the red master at 120 px (owner decision, 5 Nov 2026), so a Short looks the same as its cover. The 1920×1080 row is exactly 1.5× the 1280×720 row; any other 16:9 size scales the same way.
+Clearances are 5% of frame width on the left/right edge in 16:9. In 9:16 the Short cover and the Short video use the same red master at 120 px (owner decision, 5 Nov 2026). Since 7 Nov 2026 the cover mark sits lower, at y345 (centre y405), because the Shorts grid and other surfaces crop the top of the cover and the mark at y230 was partly cut off; the Short video mark stays at y230 (owner decision, 7 Nov 2026). The 1920×1080 row is exactly 1.5× the 1280×720 row; any other 16:9 size scales the same way.
 
 Not covered by this table: the default 1200×630 website OG card keeps its separately documented red bottom-right asterisk. An image that already has the star baked in gets no second one.
 
 ## 9:16 Short video (locked by the owner, 5 Nov 2026)
 
-The edited Short itself has its own locked template, set by Vincent after the 261103 Shorts and recorded in the show repo's `docs/show-prep/edit-style.md`. Since 5 Nov 2026 the Short cover uses the same mark (the 9:16 row above).
+The edited Short itself has its own locked template, set by Vincent after the 261103 Shorts and recorded in the show repo's `docs/show-prep/edit-style.md`. Since 5 Nov 2026 the Short cover uses the same red mark, placed lower at y345 since 7 Nov 2026 (the 9:16 cover row above).
 
 | Element (1080×1920) | Locked value |
 | --- | --- |
