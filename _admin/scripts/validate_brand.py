@@ -44,8 +44,10 @@ layout = shorts['video_layout']
 vmark = layout['signature']
 if (vmark['x'] + vmark['width'] / 2, vmark['y'] + vmark['height'] / 2) != tuple(vmark['centre']) or (vmark['x'] + vmark['width'] + vmark['inset_right'], vmark['y']) != (layout['reference_canvas'][0], vmark['inset_top']):
     errors.append('Short video signature centre and insets disagree.')
-if any(short_mark[key] != vmark[key] for key in ('x', 'y', 'width', 'height', 'inset_right', 'inset_top', 'color')):
-    errors.append('The Shorts cover signature must match the locked Short video signature (owner decision 2026-11-05).')
+if any(short_mark[key] != vmark[key] for key in ('x', 'width', 'height', 'inset_right', 'color')):
+    errors.append('The Shorts cover signature must use the same x, size, right clearance and colour as the Short video signature (owner decision 2026-11-05).')
+if (short_mark['y'], short_mark['inset_top']) != (345, 345) or short_mark['y'] <= vmark['y']:
+    errors.append('The Shorts cover signature sits lower than the Short video mark, at y345 (owner decision 2026-11-07).')
 if vmark['width'] != vmark['height'] or vmark['inset_right'] < 50 or vmark['inset_top'] < 50:
     errors.append('Short video signature must be square with at least 50px clearance.')
 if layout['captions']['bottom_clear_from_y'] < layout['reference_canvas'][1] - 400 or layout['captions']['centre_y'] >= layout['captions']['bottom_clear_from_y']:
