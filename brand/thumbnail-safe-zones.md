@@ -11,8 +11,8 @@ Always place the exact upright six-arm asterisk in the **top-right of the format
 | Video/live, 1280×720 | 96×96 | 1120 / 64 | 64 / 64 |
 | Video/live, 1920×1080 | 144×144 | 1680 / 96 | 96 / 96 |
 | Video/live, 3840×2160 | 288×288 | 3360 / 192 | 192 / 192 |
-| Short cover, 1080×1920 (red, same as the Short video) | 120×120 | 880 / 230 | 230 / 80 |
-| Short cover, 2160×3840 | 240×240 | 1760 / 460 | 460 / 160 |
+| Short cover, 1080×1920 (red; lower than the Short video mark because the Shorts grid crops the top) | 120×120 | 880 / 345 | 345 / 80 |
+| Short cover, 2160×3840 | 240×240 | 1760 / 690 | 690 / 160 |
 
 Clearance is measured from the **whole SVG viewport**, including its transparent padding. Do not stretch, rotate or shift the mark to suit a scene. Reserve its area before composing the image. Keep the bottom-right free of essential detail for duration/UI overlays.
 
