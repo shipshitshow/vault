@@ -1,0 +1,18 @@
+Most people say, "Yeah, am I hacked?"
+Okay, we checked everything. There is no
+uh weird uh PHP file or any other file
+in the server. But hackers don't just
+instantly put everything on it. The only
+thing they do is create a backd dooror,
+store additional credentials, read your
+password, and try to break in. And once
+they know that they can go in, they
+store it. And they take like two weeks,
+three weeks, four weeks and that's when
+they go and test everything, see where
+your backups are running. And once they
+have everything, that's the moment when
+they take over. So they are sure that
+you are not able to just restore a
+backup because then it's no longer
+hacked.

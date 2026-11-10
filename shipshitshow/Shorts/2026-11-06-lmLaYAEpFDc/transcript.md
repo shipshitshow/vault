@@ -1,0 +1,15 @@
+# Transcript
+
+Imported normalized YouTube captions; ASR wording is unreviewed. Timestamps, when present, use this asset's clock.
+
+I think that most people that come into
+the company now don't even know what it
+is.
+>> They just know don't touch it, don't
+take the power off. It is still working.
+>> Um, and if those servers are connected
+to the internet, they are not getting
+like security patches or anything
+anymore. They are all end of life. I
+still think that they are just hoping
+nothing goes wrong.

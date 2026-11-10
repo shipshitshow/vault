@@ -1,0 +1,12 @@
+{
+  "youtube_id": "timLg3kKS4s",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "fb3a4ffdf4fd930dfa32de9558fc0a3c892995e7bfaf6463cb802b6f08651974",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-11-05-video-timLg3kKS4s.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

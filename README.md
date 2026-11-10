@@ -6,16 +6,18 @@ Public episode transcripts, notes and resources for [the main show](https://www.
 
 - [Production handbook](production/index.md): source-led shows, editing folders, packaging and public handoff.
 - [Upload catalog](catalog.json) and [coverage ledger](_admin/data/youtube-coverage.csv).
-- [Main-channel livestreams](shipshitshow/Livestreams/_Index.md), [edited videos](shipshitshow/Videos/_Index.md) and [Shorts](shipshitshowclips/Shorts/_Index.md).
+- [Main-channel livestreams](shipshitshow/Livestreams/_Index.md), [edited videos](shipshitshow/Videos/_Index.md), [main-channel Shorts](shipshitshow/Shorts/_Index.md) and [clips-channel Shorts](shipshitshowclips/Shorts/_Index.md).
 - [Brand kit](brand/README.md): current direction, colors and asset inventory.
 - [Viewer production skills](https://github.com/shipshitshow/skills) and [episode examples](https://github.com/shipshitshow/examples).
 - [Obsidian home](00%20Home.md), [content map](01%20Content%20Map.md) and [manual canvas](02%20Content%20Canvas.canvas).
 
-## Archive state — October 2, 2026
+## Archive state — November 10, 2026
 
-All **147 identified uploads** have a transcript: 56 main-channel livestreams/videos and 91 clips. The catalog unions historical inventory, current public tabs and verified episode links. This is a lower bound on uploads; it does not establish completeness for inaccessible or unlisted account content.
+All **168 identified uploads** have a transcript: 77 main-channel livestreams, videos and Shorts and 91 clips. The catalog unions historical inventory, current public tabs and verified episode links. This is a lower bound on uploads; it does not establish completeness for inaccessible or unlisted account content.
 
-Recovered local ASR is explicitly unreviewed. Check names, numbers and wording before quoting. Every transcript has provenance and a source hash; raw captions or local ASR source files are preserved when available. Historical imports retain their original text and identify capture details that are unknown.
+The 21 entries added since the October 2 audit (10 livestreams and videos from 7 October to 5 November, eight Shorts from 30 October and 6 November, and three August uploads that were missing) come from YouTube captions kept in the show app, not local ASR. Their titles and main-channel ownership were checked through YouTube oEmbed on November 10; publication dates come from the app's transcript index, and channel-tab listing was not re-checked.
+
+Recovered local ASR and YouTube captions are explicitly unreviewed. Check names, numbers and wording before quoting. Every transcript has provenance and a source hash; raw captions or local ASR source files are preserved when available. Historical imports retain their original text and identify capture details that are unknown.
 
 The dated [audit snapshot](_admin/docs/audits/2026-10-02/README.md) records the gaps before recovery. The maintained catalog and ledger record the current state.
 

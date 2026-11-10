@@ -1,0 +1,12 @@
+{
+  "youtube_id": "1Rd82x8x-dI",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "85b943b2a7aeb0a823cc3c670a91f662d834720673e19425d983b90b3babdda0",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-10-30-short-1Rd82x8x-dI.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

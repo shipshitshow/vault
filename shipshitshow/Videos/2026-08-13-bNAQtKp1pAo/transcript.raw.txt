@@ -1,0 +1,364 @@
+Two weeks ago, I bought this one,
+Pocket, and it's It is just a recording
+thing, but it works awesome. There is an
+AI behind it, and since we do everything
+on AI, I needed to have one.
+>> The device is called Pocket. It's
+something that you put on the back end
+of your phone. Oh, we we could have done
+a ASMR unboxing.
+>> So, the only thing that you do is
+connect it to your phone, you click it
+up, you press the button, it starts
+recording your entire conversation, and
+you click it again, and the AI inside
+the app makes a summary, it makes
+to-do's, it makes notes, it even makes a
+mind map. You can put it on the table in
+normal conversation, sales
+conversations. It just summarizes
+everything. This was one of my biggest
+to-do's. At the start of your day or
+just in between tasks, you have a small
+conversation with a customer, you need
+to write down what you talked about, you
+made promises, or you even need to know
+how much time you have spent to invoice
+the customer, and at the end of the day,
+you forgot you need to do it, and you
+don't know what you talked about. This
+summarizes everything, and you get an
+email or in the app, you see what you
+talked about, your summary. This is
+where we come in with our AI, because
+they have an API, and I have a ticket
+system. So, the only thing I want to do
+is have the API push it to me, and then
+just create a ticket, connect it to the
+customer, and have everything ready to
+go. And I think today is the day that we
+are going to have Grok build it for us
+and just watch how it goes.
+>> You think that's going to benefit you,
+too? Like, subscribe, and share the
+video to your people.
+>> I had a meeting with a customer this
+morning. I just had my Hip Pocket, I
+didn't put it on my phone, I just put it
+on the table, clicked it, and it
+recorded the entire conversation. And it
+has everything included for I think I I
+paid below 100 euros.
+>> Okay.
+>> So, it is a total solution. It had the
+API, I checked it up front. So, I'm not
+I can build everything, but if it works
+great, I don't need to optimize the
+entire AI model behind it to get the
+exact summary that I want to get the
+to-do's, because they are doing all the
+optimizations.
+>> That's the one you you showed me like a
+few months ago.
+>> Yeah, we did we told everybody that I
+replaced Zendesk with my own ticket
+system.
+>> Yes, and you bring up the channel.
+>> It's really simple, but this is it. And
+I also yeah, you see yeah, this is this
+is a Dutch a question, but that's no
+problem. I also have AI in it. So, you
+click it and it goes into the Codex AI
+API model and it creates a reply.
+>> With your own voice?
+>> Yeah.
+>> Nice.
+>> I can add if I get a really long email,
+I have AI do a summary. So, I added
+functionality that is Zendesk is either
+in a really high subscription or that I
+just wanted I was missing. And from here
+I can also create a ticket and the
+ticket I can register hours. I can
+generate a ticket text so that my my my
+employer employee knows what to do.
+Everything is included. So, this is
+perfect for getting the conversations in
+because from here the end my entire
+company works.
+>> And like the pocket device send a
+webhook to your local host.
+>> Yeah.
+>> Computer.
+>> local host doesn't work, but I'm also
+adding the API because I want to do two
+things. I want to add a webhook and I
+want to add a API connection. So, I just
+click a button and it gets it retrieves
+all the conversations that I didn't have
+yet because sometimes a webhook maybe
+something is offline, maybe we have an
+error or whatever and I'm missing it.
+So, the API button is just a backup, but
+I think that will be the one that we are
+testing here. And most of time it
+already knows how everything is working,
+but you see now Grok is going to explore
+the project structure documentation that
+we wrote down, read everything. He's
+digging into the core route model
+services cuz this is an is a big project
+and we do API connections in two a
+certain way. We have a certain setup for
+the webhooks and I just want to keep on
+building in a way that we do it. So,
+then case that I have a save or hey, I
+don't want to use a pocket anymore
+because Grok has a better alternative, I
+just want to be able to kick it out and
+not break down my entire system. And
+this is the only thing I prepared.
+You're Grok a senior software architect.
+You work on read-only and plan mode. Do
+not implement the code yet. So, first I
+want to know what it thinks it's going
+to do. And I wrote down everything I
+want to have. So, we are live building a
+Hey Pocket integration into Laravel app
+support ticket system. Uh the product
+goals, a webhook endpoint, create a
+support ticket with the call duration.
+That's important for invoicing. Summary
+notes, Pocket action items as a ticket
+to do. API client customer linking when
+possible because if the customer just
+says, "Hi." And Pocket doesn't know the
+name, then I need to manually connect
+customer. Easy action, send summary
+email. Easy actions, create a task. And
+anything else. I already created API
+keys. I'm not going to do it live. They
+are already in my environment files. So,
+that's no problem. The web webhook path
+was already because I need to put it
+into Pocket in my account. Perfect. It
+has a small summary at the top showing
+what URLs it used for getting all the
+information. If it says it's feasible
+for the stated product goals. The
+webhook and summary, that can be done.
+Call duration, present in every webhook
+payload. Summary notes, no problem.
+Action items, it gives me the title,
+incomplete is completed and due date.
+Always only when we discussed it in the
+phone call, of course.
+The recording ID it's using API fallback
+synchronization. So, that's actually
+what I wanted, but it didn't tell it was
+a fallback. But it decided himself
+that's fallback. So, that's perfect. And
+it can get all the recordings or just
+one recording by ID. A signature of
+verification. So, we need that for
+security that not everybody can just
+push all the calls and just call and
+write down, "Mitchell needs to pay us
+1,000 euros." And push it into my
+system. If I say, "Yeah, that's weird.
+Why are you doing this?" And just say,
+"Oh, yeah, because here here here. You
+did it as well for this reason." Because
+it's in the documentation or it's it's
+wrote down in the code. So, we need to
+do it this way. I'm not going to read
+everything. I'm just scrolling down.
+Let's go for it. And here you see it is
+already building and it's going so fast.
+This would have been so perfect, huh? If
+you have in your company, if you have a
+sales force or maybe just two or three
+people,
+>> Yeah.
+>> and you have them use Hey Pocket, by the
+time they are back in the office, you
+already have the summaries in your
+system. And you can also you the the the
+employee in the office can already start
+on quotes, getting information, and
+making preparations for the sales guy to
+send an a quote to the customer. So, you
+can work so optimized with these small
+AI additions, right? 16 minutes.
+>> Yeah. Plus planning vacation plus
+execution, yeah.
+>> Okay, so what shipped? Webhook first in
+just a pocket summary completed into
+support tickets with API sync as
+fallback. We have some information here.
+HMAC verification, cut off recordings
+before. Yeah, that was for now. The
+tickets, the subject call duration line
+at the top, summary plus bullets to
+those from the action items, item potent
+on recording ID, so we know what's
+unique. Don't make any changes, only
+feedback here. What I then just do is
+the entire prompt that I gave Grok, I'm
+going to put it in here. So, the
+implementation plan, so that knows
+exactly what I want it to do. Yeah. And
+I just have it review everything. And it
+doesn't matter if I start with Fable or
+if I start with Grok or if I start with
+Codex, the other model always finds
+>> Yeah. I think they are trained for that,
+like to make you use the model.
+>> On my Mac mini, I have this automated.
+So, if I write down the entire
+explanation into an issue on GitHub, and
+I put a task label on it, then I will
+just do a research and start building,
+and then either Opus or Codex, they will
+do like with Grok a five-round review.
+And I think I have a 95%
+of all the ticket all the issues that we
+have, where they eventually both agree
+within five rounds that the code is good
+enough.
+>> Okay.
+>> And the other 5% then I just need to do
+a manual check and have fable or
+anything say, "Hey, check what the
+issues are. Check what they both
+discussed because I'm writing it down
+into an MD file." And make it final
+decision on what's best and implement
+it. And that works pretty good.
+>> How the are you not burning all of
+your weekly token by running like five
+run of everything all the time?
+>> Yeah, I don't know. It works, but I have
+like the the the biggest account or the
+biggest subscription on Grok Cloud and
+and Chat GPT. I have the biggest
+subscription on everything.
+>> Yeah. Yeah.
+>> And they have the multipliers and the
+resets and I don't know. Everything is
+in it. You see that it it did some
+checks and now it's testing. It's
+running the artisan test for the hit
+pocket webhook test. So, and that's so
+cool. I don't need to explain what it
+needs to test. It just thinks by itself
+and starts testing. And to double check,
+I eventually made him summarize at the
+end what it tested. And it did so much
+more test than do normally. The
+signature scheme duration unit endpoint
+paths, auth header, and the
+summarization blah blah blah. Shape all
+matching official docs. I checked each
+one. Then it had some feedback fixed
+before the live demo. Emailing the
+customer has no dev environment guard.
+Oh, yeah, these are additional. Right
+now, if we by accident email any
+customer, I only have two dummy
+customers in it. So, that's always how I
+test, never with real data. So, I'm
+actually emailing admin@apple.com and
+admin@google.com. I don't think they
+mind. I think they get so much spam
+email from people testing. And if I
+click the email summary button fires on
+a single click with no confirmation, no
+preview. That's a good one. I can do
+that by mistake. And the email summary
+contains internal metadata. Yeah, you
+don't want to do that. Missing created
+at. But I was going fast over it.
+Eventually, this is the first setup and
+I'm always testing and then optimizing.
+So, this is not the final version. So,
+this is a JSON of our webhook that they
+trigger and that is sent to me. Like the
+summary completed, the date, some
+information. So, I'm going to once Grok
+is done reviewing, I'm going to ask it
+to trigger this one just as a demo so we
+can see how it comes into the system.
+And after I'm going to ask him to to one
+API.
+>> Nice. And that's a demo from the
+documentation?
+>> Yeah, and I think my AI already made a
+change. So, demo call with Google about
+DNS. AI is so fast because if you check
+DNS change for google.com. So, that was
+a test ticket.
+>> Okay.
+>> This is what coming in. Call duration,
+summary, discuss a DNA a DNS A record
+update.
+>> So, that's it?
+>> That's it. That's perfect. And from
+here, I can just assign it to a
+customer. I can create a task. If it has
+to do here, right? You see it. It added
+the to-dos to my system where I add the
+to-dos. So, this should work.
+>> Nice. So, now you take a call, you get
+the transcript automatically to your
+ticket system.
+>> Yes. And it says two to two to-dos. And
+the only thing I want to do right now
+because it looks like a real ticket, I
+am going to do optimizations to just
+make sure that it shows a label, this is
+an incoming transcript, this is a
+summary, and everything else. And here I
+need to make some buttons to make sure
+that I can connect a customer easy if it
+didn't do it yet. But yeah, that's it. I
+didn't ask for it but it shows that we
+did a 12-minute call. And here, email
+summary to customer. I don't know I
+don't want to click it right now because
+it says it wasn't ready but
+>> And I think like the transcript should
+be attachment to the ticket created from
+the transcript.
+>> Yeah.
+>> Should be reversed, right?
+>> Yeah. So, I think this is a good first
+step and from now on it is just spending
+an hour on optimizing everything, making
+it look nice, and then give it a go.
+>> Yeah, you are like a five prompt away of
+like shipping to production basically.
+So, basically in 45 minutes, you have
+your own
+your ticket attached to your own system
+of ticketing. So, your own Zendesk is
+just becoming better. So, soon you can
+replace a whole call center with pocket
+devices.
+So, now that's that's it. And yeah, we
+like Go because it's fast. Because it's
+fast. Yes. Favor is smarter and we like
+the plans.
+>> Yes. You just need to find your own way
+in optimizing using the models.
+>> Exactly.
+>> So, I think thank you Mitchel. Thank you
+for your time and thank you for buying
+pocket device so we can do this demo.
+>> Yes. You're already close to sharing
+window, right?
+>> Yes. Subscribe to the channel. We will
+see you next week and we will do more of
+those little demo and workflow videos
+next. So, yeah. Subscribe. Thank you.
+And yeah, share with your friends. Bye.

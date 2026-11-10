@@ -1,0 +1,12 @@
+{
+  "youtube_id": "kH3jy7CK1YU",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "2ccf0650cdb5ca7754cbf219ba2740d9fe9157e3f28e50c46b076505ad7bc46f",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-10-29-video-kH3jy7CK1YU.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

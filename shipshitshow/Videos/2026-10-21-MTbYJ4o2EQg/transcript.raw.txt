@@ -1,0 +1,320 @@
+So, we might see
+OpenAI go bankrupt by
+>> [music]
+>> 2030.
+>> 2030, just a few years.
+>> Like, but yeah, they have 5 years to
+less than [snorts] that, yeah, 26. They
+have They have 3 years to generate to
+triple their revenue by the end of the
+year.
+>> No, good luck.
+>> When
+um
+OpenAI announced those uh numbers, uh
+for example, Oracles who depends of uh
+OpenAI for like No, OpenAI depends of
+Oracles and like the whole ecosystem is
+like linked all together.
+>> Yeah, but the
+20 [clears throat] billion difference is
+big one.
+>> They were talking They said, "Okay,
+we're expecting like 70, then we get
+50." But it was uh yeah, analyzed and um
+so, when they announced the numbers, the
+the market
+uh was afraid of it, but because it's
+basically the same numbers because it's
+um 50 billion at the end of September
+and 20 billion uh below the previous
+reported 70 billion. But it's um the 70
+billion is for December.
+>> Oh, I didn't understand that one.
+>> Yeah.
+>> [clears throat]
+>> And uh accounts cloud partner revenue
+that is uh raised question about AI
+revenue projection. I mean, massive
+infrastructure spending. That's That's
+what could burst the AI bubble if the
+growth of all those two company are
+slowing down, even slowing down compared
+to what we have before. Uh
+it's going to be fun. OpenAI needs to
+show that they are able to grow uh as
+fast as Anthropic to be able to raise
+more money for uh etc. etc. And
+>> [music]
+>> revisiting
+user accounts all the time is not going
+to save them. They need to have a better
+model than the competition and they like
+So, they can attract enterpri-
+enterprise subscription/API
+cost etc. where the real money is,
+right?
+>> Yes, because [clears throat] it's not
+for the $20 subscriptions.
+>> Yeah. No, no, exactly. And consumer like
+revenue is less sexy than it's
+Like if you are Sam Altman, you're not
+sleeping well by that.
+>> You have like one of the biggest
+companies on Earth right now, one of the
+most important ones, and the ones that
+are growing the hardest. Nobody has ever
+seen it, and still you have so many
+issues.
+>> Uh when you are at the frontier of
+finance, [music]
+then it's not like open AI expect to
+burn 280 billion by 2030.
+>> Yeah.
+>> [laughter]
+>> You can't even imagine how much it is.
+>> Yeah, bro.
+>> And it is not for like salaries.
+>> I mean, a part of it I I expect it for
+salary, right? How much space
+>> Yeah, but I think most of it is CPUs and
+electricity, right?
+>> Yeah. So they have some like uh yeah, 4
+years, 5 years to burn that. But uh
+still like uh that's 10 years of SpaceX
+burner, right? And they are sending
+rockets to space.
+>> Yeah, yeah, and they are just telling
+people
+like what the groceries on the list are.
+>> Yeah. Yeah.
+>> Yeah, most of the people, I think the
+bigger companies, of course, they are
+coding, but a lot of people are using
+computers for stupid things. [music]
+>> Uh but that's why they stopped Sora,
+right? Like remember when were the cameo
+video stuff?
+>> Yeah.
+>> Like they they closed it because they
+were spending like 100 million a month
+or something without any
+>> But I I I think [music]
+Yeah, just for people making flowers and
+other images.
+>> Are you all in on Opus 5.5 right now?
+Still?
+>> Yeah, I am. Because I'm not using Codex
+because it's taking so long. Opus is
+actually fast. And if I use
+Codex to just do a review, I'm delaying
+Opus.
+And then still it just Opus did a full
+uh build, and then Codex says
+I have like feedback like this this and
+this and eventually when I ask Opus hey
+what did you improve it did all the
+improvements from Codex and I say was it
+actually needed and it says no because I
+already did this this this and this and
+then you see that [music] everything
+that Codex gave as feedback
+is actually double not not use it or for
+an exception that happens like once
+every 100 years.
+Well I actually optimize my prompt.
+Because I'm not saying do a full
+inspection on security and bugs and how
+the code is built. I just say I only
+have 10 minutes. I need to deploy.
+Please check everything if the code is
+correct and make sure it is secure but
+don't give me any [music]
+>> Yeah.
+>> updates or any improvements that happen
+only once
+or or exceptions or whatever. Better
+than I'm just explaining now but
+eventually you see that Codex then makes
+a difference because he only gives you
+the real big issues
+>> Yeah. [music]
+>> and not like oh this is a possibility. I
+actually think they just
+give it all the compute possible on the
+release because people are doing the
+benchmarks.
+>> Yeah. [music]
+>> And as soon as all the benchmarks are
+out and the bigger companies have done
+them and say this is awesome they just
+scale down.
+>> We use both right? Like I don't
+understand people say oh yeah no I will
+use Codex no matter what.
+>> Yeah.
+>> Like what? Why?
+>> I don't know why but
+>> Cuz that makes sense right?
+>> If there is better software you use the
+better one.
+>> Do I think we we're going to pay like
+the full API price at some point? Like
+those subscription will
+disappear.
+>> eventually you have no no choice.
+>> [music]
+>> Yeah but then we have open weight. I'm
+not paying a API price. I'm not spending
+like 15 grand a month to work on an open
+source project whatever whatever you
+>> No no you're true but but the bigger
+companies who now are just paying like
+50k for an IT team.
+>> Mhm.
+>> If they spend 30 or 40k in tokens,
+[music]
+they don't care.
+>> Yeah.
+Yeah.
+>> Because [music] team is smaller.
+It's more efficient. You can just run
+24/7 and you have like a 20% discount.
+>> Oh yeah, I know. I think it's still
+Yeah, okay. So we have 10 days with the
+20x
+Codex
+usage. So you don't see the difference
+yet. But
+yeah, in 10 days we are going to be
+slashed.
+>> Yes. We will see what it does.
+>> Yeah. No, no, exactly.
+>> I think Anthropic is waiting for them to
+do it.
+Just to get all the customers.
+>> No, no, exactly. Because Yeah, bro, like
+because if their usage is getting [ __ ]
+on the Codex OpenAI side.
+>> Well, the only thing is, do you know
+that my cloud subscription is free?
+>> Okay, say that again.
+>> My cloud My Anthropic subscription is
+free right now.
+>> Okay, how do you do that?
+>> Because they are giving me free money.
+>> [music]
+>> Oh yeah. Oh yeah, no.
+The API credit stuff. [laughter]
+>> Yes, the API credit. Well, the thing is,
+I am using my API credits at at moment.
+>> [music]
+>> So I'm like
+spending it. And normally I had to pay
+for it and now they are giving it for
+free. And I can even bill it to
+customers who I am helping.
+So they are actually
+I am paying them $200 to get $200 free.
+>> That's cool.
+>> Yeah. But just for the people who don't
+have it yet, you need to make sure that
+you
+apply for it in your account. Otherwise
+you're not getting it.
+>> Yeah, you have to claim it in the in the
+account, yeah.
+>> Yes.
+>> That that was definitely a smart move
+from Anthropic to do that. Kind of Yeah.
+>> Yeah, because if you get $200 API
+credits free,
+>> Mhm.
+>> then you are moving your APIs to
+Anthropic and everything over is staying
+at Anthropic because you're not
+switching to Codex or ChatGPT or
+whatever. I [music] just asked
+uh Fable. It was in the time of Fable
+when it just came out to build it for
+me, to just have a normal
+uh board with four columns to do, and
+you know how it works.
+And it pulls down the GitHub issues.
+And the only thing I did was I said,
+"Everything you do, you log it. And
+during the night between 3:00 and 4:00
+a.m., you check the entire logs, and you
+need to find at least five issues or
+points of improvements." But it actually
+found out that to improve itself, it
+needed to have issues. So it was
+building its own project for something.
+I don't even know what. Just to keep on
+coding, to create issues and to improve.
+Yeah.
+And eventually I asked, "When did you
+decide that you were actually had to
+create your own task?" And [music]
+it it turns out I was the one
+complaining because eventually it said,
+"Oh, I found three issues. I only did
+three." And I gave it like a comment
+like, "No, I told you to do five. And I
+don't care how, you just do five every
+night."
+>> [music]
+>> So that's so cool. I don't dare to do
+this on an actually customer project
+because I want to make sure that it's
+safe, that it's not getting hacked. But
+this is locally on a Mac mini behind my
+firewall, and everything's secure. Today
+I need to yesterday I had a customer
+project.
+And I asked
+uh Codex to just check everything, and I
+forgot to say do it fast. So it gave me
+like 70 points of improvements.
+With And I said, "Okay, create an HTML
+page of it with uh
+>> [music]
+>> the issue, where you found it, and what
+do you want to do to improve it?" And
+then I asked Cloud Code to check
+everything. [music]
+And create GitHub issues. So it created
+105 GitHub issues. Then the Mac mini
+went on programming. everything was
+done, everything was merged, and
+everything was going into the
+development branch. And then I had code
+x tested and drug tested and cloud
+tested, so I did three tests and there
+was zero zero issues. I pushed it and it
+was live.
+>> Damn. [music]
+>> So there were 105 pull requests merged.
+>> Autonomously like yeah, basically a
+software
+>> Well,
+the only thing I expect expected to do
+right now is just to keep making the
+models smarter and better because that's
+the only thing as far as I know that
+they can do to compete with each other.
+>> Slash prices and speed.
+>> Yes, prices and speed, but do you think
+they can just
+make it so good that prices go even
+further down?
+>> Yeah, they can like it will like right
+now it's the worst it will ever be,
+right? Except if they release a [ __ ]
+model that go backward. But I am a
+shout, thank you so much and yeah, we'll
+see you next week for our special
+stream. It's going to be fun.
+And yeah, everyone
+like, subscribe, share the video, and we
+will see you next week.

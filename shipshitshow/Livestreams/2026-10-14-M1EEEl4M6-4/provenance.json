@@ -1,0 +1,12 @@
+{
+  "youtube_id": "M1EEEl4M6-4",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "25d6b5295c1d9fb6708a7bceb14d6610d3a6b3858515fbfc410c2238cc32a022",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-10-14-livestream-M1EEEl4M6-4.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

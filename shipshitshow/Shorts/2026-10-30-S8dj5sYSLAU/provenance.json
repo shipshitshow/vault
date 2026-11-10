@@ -1,0 +1,12 @@
+{
+  "youtube_id": "S8dj5sYSLAU",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "1d4b469950e798c66e57d4a5ba6ecd01ebc21a74e5ef2a2cf370788e14b4c99e",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-10-30-short-S8dj5sYSLAU.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

@@ -1,0 +1,591 @@
+WEBVTT
+
+00:00:00.030 --> 00:00:02.530
+You are in a race with the hackers all the
+time.
+
+00:00:02.530 --> 00:00:04.190
+It can take over the entire server.
+
+00:00:04.190 --> 00:00:08.080
+That's the moment when they just put on
+this black screen and say, we want to get
+
+00:00:08.080 --> 00:00:11.510
+free Bitcoins from you for giving you back
+access.
+
+00:00:11.510 --> 00:00:14.550
+And we did that for 400 websites within 24
+hours.
+
+00:00:14.550 --> 00:00:15.710
+Wow.
+
+00:00:15.710 --> 00:00:17.790
+All thanks to Grok and Claude AI.
+
+00:00:17.790 --> 00:00:19.230
+Jesus.
+
+00:00:19.230 --> 00:00:22.030
+You were on that? Just by yourself?
+
+00:00:22.030 --> 00:00:25.510
+A colleague and I did it, the two of us.
+
+00:00:25.510 --> 00:00:29.840
+How many people would it have required to
+do that pre-
+
+00:00:29.840 --> 00:00:35.490
+AI? I don't know. But even if you know
+what the
+
+00:00:35.490 --> 00:00:38.830
+issue is, you still need to know how to
+solve it.
+
+00:00:38.830 --> 00:00:43.150
+If I just download the script and have
+Grok locally scrape the script and
+
+00:00:43.150 --> 00:00:44.150
+say, what is the issue?
+
+00:00:44.150 --> 00:00:48.780
+And I can even just download an entire
+backup of all the websites and say, go
+
+00:00:48.780 --> 00:00:51.670
+through the folders one by one and give me
+a list.
+
+00:00:51.670 --> 00:00:54.870
+Within an hour, I know for 50 websites
+what I need to update.
+
+00:00:54.870 --> 00:00:56.030
+That's nuts.
+
+00:00:56.030 --> 00:00:59.270
+That would have been, like, days of work
+before AI.
+
+00:00:59.270 --> 00:01:03.230
+Because the bug itself was already known
+for more than a year.
+
+00:01:03.230 --> 00:01:08.210
+Yeah, exactly. And the same thing for all
+of the operating system stuff that got
+
+00:01:08.210 --> 00:01:10.430
+used in the last hack.
+
+00:01:10.430 --> 00:01:15.670
+They were known issues for the last 10
+years, but never fixed because it was
+
+00:01:15.670 --> 00:01:20.310
+too complicated to exploit.
+
+00:01:20.310 --> 00:01:23.710
+Yes. Not anymore when you have Fable.
+
+00:01:23.710 --> 00:01:27.710
+They make another suggestion, but they
+look at the issue.
+
+00:01:27.710 --> 00:01:30.070
+How complicated is it to abuse it?
+
+00:01:30.070 --> 00:01:33.910
+And even for themselves, how hard is it to
+fix it?
+
+00:01:33.910 --> 00:01:38.770
+And then they make an educated guess how
+big the chance is that people are going to
+
+00:01:38.770 --> 00:01:44.230
+abuse it. And that makes it a high-
+priority or a low-priority fix.
+
+00:01:44.230 --> 00:01:49.710
+But nobody thought about AI that just does
+a three-minute scan and then
+
+00:01:49.710 --> 00:01:52.110
+says, hey, I know how to solve things
+
+00:01:52.110 --> 00:01:58.070
+for you. It goes further than that, because when
+they publish a fix, the hackers
+
+00:01:58.070 --> 00:02:03.690
+are going to reverse engineer it, scanning
+the Internet for which services
+
+00:02:03.690 --> 00:02:09.950
+are running a version not updated yet, to
+exploit what they fixed in the
+
+00:02:09.950 --> 00:02:11.310
+most recent patch.
+
+00:02:11.310 --> 00:02:14.910
+Yes. You are in a race with the hackers
+all the time.
+
+00:02:14.910 --> 00:02:15.710
+It's crazy.
+
+00:02:15.710 --> 00:02:19.810
+And there are so many companies that still
+have the old software running on the
+
+00:02:19.810 --> 00:02:23.710
+server. I think that most people that come
+into the company now don't even
+
+00:02:23.710 --> 00:02:26.200
+know what it is. They just know: don't
+touch it.
+
+00:02:26.200 --> 00:02:27.510
+Don't take the power off.
+
+00:02:27.510 --> 00:02:32.930
+It is still working. And if those servers
+are connected to the Internet, they are
+
+00:02:32.930 --> 00:02:35.470
+not getting security patches or anything
+anymore.
+
+00:02:35.470 --> 00:02:37.270
+They are all end of life.
+
+00:02:37.270 --> 00:02:41.990
+And I still think that they are just
+hoping nothing goes wrong.
+
+00:02:41.990 --> 00:02:46.450
+The bug sits in code that every Linux
+server runs when it accepts the IPv4
+
+00:02:46.450 --> 00:02:50.750
+TCP connection, before any application
+sees the connection.
+
+00:02:50.750 --> 00:02:55.670
+Anthropic reported that a Claude model
+wrote a working proof-of-concept exploit
+
+00:02:55.670 --> 00:02:59.710
+that runs commands as root on a Linux
+server with a multi-
+
+00:02:59.710 --> 00:03:00.750
+Jesus.
+
+00:03:00.750 --> 00:03:03.430
+So this is big.
+
+00:03:03.430 --> 00:03:05.970
+It can take over the entire server.
+
+00:03:05.970 --> 00:03:12.110
+And Linux is built into so many software
+tools for running servers.
+
+00:03:12.110 --> 00:03:14.440
+Debian, Ubuntu, this one.
+
+00:03:14.440 --> 00:03:18.990
+And everything is patched, but Ubuntu
+didn't.
+
+00:03:18.990 --> 00:03:23.070
+And I was just searching for it, and I
+think they did it six hours ago, but it
+
+00:03:23.070 --> 00:03:24.430
+took them a few days.
+
+00:03:24.430 --> 00:03:30.060
+So every server using Ubuntu, and most
+people don't even know that the software
+
+00:03:30.060 --> 00:03:35.230
+is running on Ubuntu, was open to the
+entire Internet for takeover.
+
+00:03:35.230 --> 00:03:36.150
+Jesus.
+
+00:03:36.150 --> 00:03:37.730
+And then the other issue is
+
+00:03:37.730 --> 00:03:39.430
+that most people say, yeah,
+
+00:03:39.430 --> 00:03:41.590
+Am I hacked? OK, we checked everything.
+
+00:03:41.590 --> 00:03:47.820
+There is no PHP file or any other file on
+the server, but hackers don't just
+
+00:03:47.820 --> 00:03:50.030
+instantly put everything on it.
+
+00:03:50.030 --> 00:03:54.070
+The only thing they do is create a
+backdoor, store additional credentials,
+
+00:03:54.070 --> 00:03:57.430
+reuse your password, and try to break in.
+
+00:03:57.430 --> 00:04:02.040
+And once they know that they can go in,
+they store it, and they take two
+
+00:04:02.040 --> 00:04:03.910
+weeks, three weeks, four weeks.
+
+00:04:03.910 --> 00:04:07.410
+And that's when they go and test
+everything, see how your backups are
+
+00:04:07.410 --> 00:04:11.510
+running. And once they have everything,
+that's the moment when they take over.
+
+00:04:11.510 --> 00:04:17.270
+So they are sure that you are not able to
+just restore a backup because then it's no
+
+00:04:17.270 --> 00:04:22.080
+longer hacked. Once they have the backups,
+the security, everything in their own
+
+00:04:22.080 --> 00:04:26.470
+pocket, that's the moment when they just
+put on this black screen and say, we want
+
+00:04:26.470 --> 00:04:29.870
+to get free Bitcoins from you for giving
+you back access.
+
+00:04:29.870 --> 00:04:32.030
+Because it locked the backup and stuff.
+
+00:04:32.030 --> 00:04:33.550
+It's crazy.
+
+00:04:33.550 --> 00:04:37.630
+This is also why you don't put a backup in
+the building next door.
+
+00:04:37.630 --> 00:04:43.140
+For you, what was the process for all of
+those PHP version
+
+00:04:43.140 --> 00:04:44.310
+issues?
+
+00:04:44.310 --> 00:04:46.310
+We have different customers.
+
+00:04:46.310 --> 00:04:51.010
+So we have big customers who are on a
+single VPS, and while the entire company
+
+00:04:51.010 --> 00:04:53.950
+runs on the VPS, I could not take it
+offline.
+
+00:04:53.950 --> 00:04:59.770
+So what we did is we put a firewall in
+front of it, and we only gave access to
+
+00:04:59.770 --> 00:05:03.790
+the server if you were logged in on a
+remote desktop or on a VPN.
+
+00:05:03.790 --> 00:05:08.490
+So we are sure that only the people in the
+office were able to access the server, and
+
+00:05:08.490 --> 00:05:13.820
+that didn't fix the possible hack, but it
+made sure that nobody could
+
+00:05:13.820 --> 00:05:17.550
+access the server, and we were safe until
+we patched it.
+
+00:05:17.550 --> 00:05:22.510
+And then we have hosting servers with 20
+to 50 websites on them.
+
+00:05:22.510 --> 00:05:24.400
+What I did first was
+
+00:05:24.400 --> 00:05:27.070
+I think around 1 p.m. I took them offline.
+
+00:05:27.070 --> 00:05:29.830
+So they have been offline for three hours
+just to be sure.
+
+00:05:29.830 --> 00:05:34.760
+And then we deleted PHP versions 7.4 to
+8.1, because we
+
+00:05:34.760 --> 00:05:38.870
+have been warning customers for the last
+two years that they need to update, and we
+
+00:05:38.870 --> 00:05:41.270
+now just deleted those versions.
+
+00:05:41.270 --> 00:05:43.760
+We put the server back online after the
+patching.
+
+00:05:43.760 --> 00:05:46.360
+We checked every website if it was still
+working.
+
+00:05:46.360 --> 00:05:51.100
+If it gave issues, we used AI to check the
+logs from the server where the issues
+
+00:05:51.100 --> 00:05:55.250
+were, and we contacted the customers to
+see if we could help them update the
+
+00:05:55.250 --> 00:05:56.830
+website if it was needed.
+
+00:05:56.830 --> 00:05:59.910
+And we did that for 400 websites within 24
+hours.
+
+00:05:59.910 --> 00:06:01.190
+Wow.
+
+00:06:01.190 --> 00:06:03.270
+All thanks to Grok and Claude AI.
+
+00:06:03.270 --> 00:06:05.950
+Jesus.
+
+00:06:05.950 --> 00:06:12.380
+I think it also makes those apps safer,
+because you fix errors like those
+
+00:06:12.380 --> 00:06:17.150
+that were wide open for someone who knows
+where they are.
+
+00:06:17.150 --> 00:06:17.990
+Right. Yes.
+
+00:06:17.990 --> 00:06:22.910
+So all of the websites, your 400 websites,
+are safer than yesterday.
+
+00:06:22.910 --> 00:06:25.670
+Yeah. Until the next one, and then you
+will have to do that again.
+
+00:06:25.670 --> 00:06:29.070
+But we are upgrading the Internet right
+now.
+
+00:06:29.070 --> 00:06:30.990
+We are making it more secure.
+
+00:06:30.990 --> 00:06:34.550
+And I think that's also the difference between what
+the two of us do and what bigger
+
+00:06:34.550 --> 00:06:38.730
+companies do. Because you have the bigger
+companies who have, like, 10k of
+
+00:06:38.730 --> 00:06:41.470
+customers all hosting WordPress websites.
+
+00:06:41.470 --> 00:06:45.830
+The only thing they do is they take out
+PHP 7.4, and they say good luck.
+
+00:06:45.830 --> 00:06:48.150
+And everything else is up to the customer.
+
+00:06:48.150 --> 00:06:50.870
+And that's why they have one-dollar
+hosting per month.
+
+00:06:50.870 --> 00:06:52.510
+They don't get any support.
+
+00:06:52.510 --> 00:06:56.930
+So if you have a website on it for your
+company and you are making money, just
+
+00:06:56.930 --> 00:06:59.190
+make sure that you have a good developer.
+
+00:06:59.190 --> 00:07:02.430
+And don't be cheap and go to a one-dollar
+hosting.
+
+00:07:02.430 --> 00:07:04.390
+OK, last big question.
+
+00:07:04.390 --> 00:07:05.750
+What can we do?
+
+00:07:05.750 --> 00:07:07.550
+I would say rely on the big companies.
+
+00:07:07.550 --> 00:07:12.190
+Make sure it's working through Cloudflare
+with a firewall in front of it and a DDoS
+
+00:07:12.190 --> 00:07:16.350
+protection. Use SSH keys.
+
+00:07:16.350 --> 00:07:19.430
+Don't use passwords. That's so stupid.
+
+00:07:19.430 --> 00:07:24.230
+Rotate your SSH keys every few months.
+
+00:07:24.230 --> 00:07:28.910
+And API keys: don't set them to infinite
+use.
+
+00:07:28.910 --> 00:07:31.030
+Keep rotating those too.
+
+00:07:31.030 --> 00:07:35.060
+And make sure you update and don't push
+your
+
+00:07:35.060 --> 00:07:37.310
+.env file to GitHub.
+
+00:07:37.310 --> 00:07:40.195
+Okay. I did both of those actions.
+
+00:07:40.195 --> 00:07:45.480
+I did that once. Opus 4.8 was not that
+smart.
+
+00:07:45.480 --> 00:07:50.630
+And I did the migration from closed to
+open, and then it published a lot.
+
+00:07:50.630 --> 00:07:55.430
+So I did that rotation, and I have a
+couple of tokens that are not expiring.
+
+00:07:55.430 --> 00:07:58.220
+Yeah, I should definitely change that.
+
+00:07:58.220 --> 00:08:02.920
+I think if you do all these points, you can do them
+even as a developer with not that
+
+00:08:02.920 --> 00:08:05.550
+much money and with just normal capacity.
+
+00:08:05.550 --> 00:08:08.510
+But I'm really sure so many people are not
+doing it.
+
+00:08:08.510 --> 00:08:12.480
+So you're in the top level of people doing
+the basic actions.
+
+00:08:12.480 --> 00:08:15.430
+And all the other ones get hacked first.
+
+00:08:15.430 --> 00:08:20.430
+I mean, it's kind of like crypto, best
+practices.
+
+00:08:20.430 --> 00:08:26.900
+Right? Like, you cannot do crypto. Don't
+put your seed phrase on a Post-it
+
+00:08:26.900 --> 00:08:31.930
+on a computer. A lot of it is common
+
+00:08:31.930 --> 00:08:38.160
+sense. But at some point, there is a high
+chance that
+
+00:08:38.160 --> 00:08:41.270
+small SaaS will be hacked.
+
+00:08:41.270 --> 00:08:42.460
+Use a password manager.
+
+00:08:42.460 --> 00:08:44.230
+Don't store your passwords in Excel.
+
+00:08:44.230 --> 00:08:47.030
+And people laugh about it, but a lot of
+people do it.
+
+00:08:47.030 --> 00:08:51.440
+The only thing left that I want to say: if
+you were watching this stream and
+
+00:08:51.440 --> 00:08:55.300
+you have no idea what we were talking
+about, please hire us and don't do it
+
+00:08:55.300 --> 00:09:00.310
+yourself. Just make sure that you have a
+proper person doing your IT.
+
+00:09:00.310 --> 00:09:01.940
+Exactly. And I think even
+
+00:09:01.940 --> 00:09:05.950
+if it is a vibe coder, an experienced vibe
+coder anyway.
+
+00:09:05.950 --> 00:09:08.030
+Yeah.
+
+00:09:08.030 --> 00:09:10.070
+And I think it's a nice conclusion, man.
+
+00:09:10.070 --> 00:09:11.310
+Yes.
+
+00:09:11.310 --> 00:09:13.430
+Thank you, everyone who watched the video.
+
+00:09:13.430 --> 00:09:15.610
+Please subscribe to the channel.
+
+00:09:15.610 --> 00:09:17.160
+Like and share the video.
+
+00:09:17.160 --> 00:09:20.350
+And we will see you, same time, same
+place.
+
+00:09:20.350 --> 00:09:21.150
+Next week.

@@ -1,0 +1,14 @@
+But believe me, most people who are in
+IT, they just learned a trick. They know
+if they go to a SAS software and they
+click a button, it spins up a server and
+they connect GitHub and everything is
+installed that they built by using AI.
+>> But to actually update the server after
+it has been installed, they don't know
+how to do it.
+>> Yeah.
+>> They just think everything is working
+and AI says it's safe, but AI only
+checked the code that they built and
+didn't check the server.

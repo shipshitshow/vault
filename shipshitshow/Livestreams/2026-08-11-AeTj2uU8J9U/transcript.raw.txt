@@ -1,0 +1,1410 @@
+And we are live. GMGM I mean yeah
+>> good day. Hello. [laughter]
+>> What's up?
+>> How are you, Vincent?
+>> I'm doing good, Mitchell. Busy like uh
+like not prompting looping like graph
+engineering everything.
+>> Uh yeah,
+>> trying to optimize everything still and
+make sure that you use every credit you
+have.
+>> I I have zero problem doing that. Like
+uh the subscription are burning.
+>> Yes. Cool. Yeah, I'm getting like to the
+I'm touching the end of my Gro and Clo
+subscription. So, right on time. Uh, and
+we got a new result of on Codex. So,
+thanks.
+>> Nice.
+>> Yeah. What about you, man? How's the
+day?
+>> Uh, busy doing conversations this
+morning trying to get new customers. And
+now, and that's why we're here. I need
+to write down what we did and what we
+talked about. So,
+>> yes,
+>> we are automating everything. So I want
+to use AI to automate that as well.
+>> That makes sense. That makes sense. Uh
+so do you want to do the introduction?
+You have that like uh
+>> uh I have no intro, but we can do an
+intro.
+>> Okay. Okay. Let's go. I mean, you're
+going to be the lead on the video, so
+that's better if it's you.
+>> Good luck. [clears throat] Yeah. So I
+think
+>> Wait, wait, wait.
+>> Yeah, that's better.
+>> Oh, no. You made it big screen as well.
+>> Yeah. [laughter]
+Okay. Well, um, two weeks ago I bought
+this one, a pocket, and it's, uh, it is
+just a recording thing, but it works
+awesome. There is an AI behind it, and
+since we do everything on AI,
+uh, I needed to have one. So the only
+thing that you do is connect it to your
+phone. You click it up, you press the
+button, it starts recording your entire
+conversation, and you click it again,
+and the AI inside the app makes a
+summary. It makes to-dos, it make notes,
+it even makes a mind map. Um, you can
+put it on the table in normal
+conversations, sales conversations, and
+it just summarizes everything. And this
+was one of my biggest
+to-dos. Uh at the start of your day or
+just in between task, you have a small
+conversation with a customer. You need
+to write down what you talked about. You
+made promises or you even need to know
+how much time you spent to invoice the
+customer and at the end of the day you
+forgot you need to do it and you don't
+know what you talked about. This
+summarizes everything and you get an
+email or in the app you see uh what you
+talked about your summary and this is
+where we come in with our AI because
+they have an API
+>> nice
+>> and I have a ticket system.
+>> So the only thing I want to do is have
+that API push it to me and then just
+create a ticket connect it to the
+customer and have everything ready to
+go. And I think today is the day that we
+are going to have Grog build it for us
+and just watch how it goes. Nice. Oh
+yeah, we're definitely gonna do that.
+That's gonna be funny. Uh okay, bro. I
+have so many questions like because uh
+that's Yeah. Uh because that's an
+interesting AI project for sure and in
+like hardware AI
+it's probably hard.
+>> Yeah. Yeah.
+>> And it looks really good. I'm not
+promoting or anything but I am what we
+are going to build. I'm actually going
+to use it in my own company system. So
+it's our internal system that we are
+building today or adding a
+functionality. Uh so everything is real
+and I didn't build it before. So we are
+actually going to do something that will
+benefit me.
+>> Nice. And so yeah if you think that's
+going to benefit you too like subscribe
+and share the video to your people.
+>> Yeah.
+>> And Okay. So I want to show off some uh
+the website.
+>> Oh yeah.
+>> Yeah. Like just to introduce like
+summarize everything. Pocket
+Tech Path. Nope, not me.
+>> Nope, wrong one.
+>> Okay, so the device is called Pocket and
+like you show it already. It's something
+that you put on the back of of your
+phone, which is a nice user experience
+already, right? Because it's really
+simple. There is like clip it and that's
+it. But
+>> if you have a wallet on the like Okay, I
+don't have my phone, but like you know
+the card behind it, can you put it on
+top of that? No, I just take the wallet
+off and put it on my phone.
+>> Okay. Yeah. Okay. So, you are in a
+communication. So, you take your wallet
+off.
+>> Yeah. And it doesn't use a app. It works
+on the vibration. So, it actually needs
+to be uh on the phone without anything
+in between.
+>> Interesting. Oh, okay. Nice. Okay. Yeah.
+Technote. Tech notes in the real world.
+We are hiring uh YC26. So, yeah, like
+every startup in under the sun or in YC,
+you know. So, yeah, that's cool. Uh, we
+are hiring an exceptional video editor.
+Cool. Yeah, that looks like that. Or we
+could have done a ASMR unboxing.
+[clears throat]
+>> Yeah, I just want to build.
+>> Yeah. Uh, the future of AI is about
+spending more time with technology. It's
+not. It's not. It's not. The future of
+AI is not about spending more time with
+technology. It's about spending time.
+It's about spending more time with
+people. Meet pocket. The future of AI
+for the real world. And yeah, demo. But
+okay,
+>> they have some good sales lines, but
+>> it it helps me a lot. That's it.
+>> Yeah. I mean, okay. So, cool, cool,
+cool. Okay, so that's the uh uh X
+account and the website is nice like
+some I mean, they can use the Apple
+branding because like yeah, it's on the
+back on the phone. So,
+>> pretty cool.
+>> And I do have um a a case on my phone
+and I just stick it on and that works as
+well. So they're showing it without a
+case, but it works with case.
+>> Nice. Oh yeah, because the magnetic.
+Yeah. Okay. Capture your mind uh your
+mind in motion. Reflect. Recall. Take
+action with sort lifting a finger. Cool.
+Testimonials. Okay. Cool. I mean, it's
+pretty straightforward. We understand
+what's the what's what.
+>> Yes.
+>> Uh okay. First, I have question. What
+about chip voice? Why you can't use chip
+voice to do that?
+>> Yeah. Well, I had a meeting with a
+customer this morning. I just had my Hey
+Pocket. I didn't put it on my phone. I
+just put it on the table, clicked it,
+and it recorded the entire conversation,
+and it has everything included for I
+think I I paid below €100.
+>> Okay.
+>> So, it is a total solution. It had the
+API. I checked it up front. So, I'm not
+I can build everything, but if it works,
+great. I don't need to optimize the
+entire AI model behind it to get the
+exact summary that I want to get the
+to-dos
+>> because they are doing all the
+optimizations.
+>> Yeah.
+>> So, I'm lazy. [laughter]
+>> No, I mean that that makes sense, right?
+Like um
+>> it's it's something for Whisper Flow,
+right? I saw some tweet about Yeah, you
+can use an open source application to do
+that or uh yeah, you're going to uh buy
+it because it's simple. you install and
+then you don't think about it twice,
+right?
+>> And that's an a perfect example because
+when I'm using chd voice or whatever, my
+English isn't perfect or some Dutch
+pronouns or whatever in it.
+>> Um,
+in whisper, I just say I use English and
+I use Dutch. And even if I do a Dutch
+sentence with English words in it, uh,
+for tech, uh, or whatever, it works
+perfectly. and me trying to build that
+and optimize it, that would take me so
+much time.
+>> Do you know which model they use in the
+background like for pocket?
+>> Uh, you can even choose. Right now I
+have the Gemini model and you can also
+add the cloud or the the codeex model.
+You can even connect multiple ones. You
+can just connect your own accounts if
+you want to have more.
+>> Um, I didn't try it because I was happy
+so far and I'm just way too busy to test
+everything.
+>> Do they use subscription on API keys?
+Um, I have the free one and you have a a
+subscription option, but I didn't enable
+it. So, I only paid once and I don't
+know if they will will disable the
+option, but if you do the subscription,
+you get more uh storage for a longer
+period. But then again, if we have the
+API and web hooks and I can just store
+everything in my own ticket system, I
+don't need a subscription.
+>> Okay. Oh, yeah. Okay. So they can attach
+a SAS for storage subscription blah blah
+blah and Yeah. Okay. That's interesting.
+That's interesting.
+>> They don't say it on the website that
+they have subscription. You see it after
+you buy.
+>> Yeah. Buy now. Yeah. Yeah. They sell you
+the device and then but I mean it's a
+easy upsell, right? Like if you have the
+device then you buy the subscription
+then it's fine.
+>> And you already paid some money so why
+not additional.
+>> Exactly. Uh languages 120 languages
+supported. Yeah. But that's because of
+the um model behind it. Comparative max
+safe 1.5 charging time 1 hour and a half
+storage 64 GB. I mean uh yeah you you
+got time before you record that much.
+>> Yeah.
+>> Oh yeah. No, but it's a voice file,
+right? So
+>> yeah, but I don't know. I did today I
+already did three and a half hours.
+>> Okay.
+>> Because I had two meetings and like six
+or seven phone calls. to at least three
+and a half hours and everything is on
+it.
+>> Mhm.
+>> So, yeah.
+>> Oh, interesting.
+>> Getting the summary that's enough.
+>> Yeah.
+>> I didn't need to store more.
+>> What about the battery for those three
+hours? Like, do you have the checks or
+>> Yeah, I think I haven't charged it for
+four or five days.
+>> Okay. Okay.
+>> So, that's great.
+>> Nice.
+160 happy plus happy customers. Let's
+go. Okay. Cool. Nice. Uh, so what are we
+going to do? Well, I did the only thing
+I did prepare was some uh prompts so I
+don't have to type like five minutes for
+for nothing and I don't have to use
+visor flow and speak into [laughter]
+that would be weird right uh but we are
+just going to build I have a demo setup
+of my own company system just on local
+host completely empty Google and Apple
+my only two customers
+>> so we can just test everything and I
+think this also shows um how I switch on
+my way of of coding because before I
+always would do a front end first built
+the entire front end because it's easy
+to change optimize it and when I'm
+really happy about how it's going to
+look and what functionality I added then
+I was going to build back end but right
+now we can just prompt whatever we want.
+>> Yeah. So we can build both in parallel
+anyway into
+>> and even if you're not happy rebuilding
+back end would be a lot of work but
+right now it's one prompt.
+>> Yeah. Exactly. Okay. So, ticket system,
+you get the summary. You get the tickets
+from the that Yeah, that's
+>> Yeah,
+>> yeah, maybe I should buy one. I should
+buy one because that's my workflow on
+Google Meets basically.
+>> Like,
+>> the only thing is this only does phone
+calls and I haven't tried with earbuds,
+but I think it only works when you uh
+call actually on the phone and it works
+in meetings when you're actually there.
+But um I don't think I can record right
+now because in the cloud it doesn't
+work. And right now if I press record I
+can do it. But um
+I think it only records me because it
+cannot hear you. You're on my ear plugs.
+>> Okay.
+>> So you see the light it's recording.
+>> Um so maybe if I just keep talking now
+for a minute, you will see this summary
+of everything I'm saying right now in
+the system in a few minutes
+>> if it works.
+Okay, that's a nice demo. Okay, so we're
+going to screen share your screen and uh
+>> see where it goes.
+>> Let me share my whole screen and then we
+will see if it works or not.
+>> If it is
+>> if it is too big just tell me if you
+can't read the code and I will only
+share the the gro.
+>> Uh I see your window. Okay, cool.
+>> Yeah. So this is the ticket system that
+I have.
+Let me refresh. Yes,
+>> that's the one you uh you show me like a
+few months ago.
+>> Yeah, we we did we told everybody that I
+replace Zenesk with my own ticket
+system.
+>> Yes, at the beginning of the channel.
+>> It's really simple, but this is it. And
+I also Yeah, you see Yeah, it is it is a
+Dutch question, but that's no problem. I
+also have AI in it. So you click it and
+it goes into the codeex AI API model and
+it uh creates a reply
+>> with your own voice.
+>> Uh yeah,
+>> nice.
+>> I can add if I get a really long email,
+I have AI do a summary. So I added
+functionality that in Zandesk is either
+in a really high subscription or that I
+just won and I was missing. And from
+here I can also create a ticket and the
+ticket I can register. hours. I can
+generate the ticket text so that my c uh
+my my employer employee knows what to
+do.
+>> Mhm.
+>> Uh everything is included. So this is
+perfect for getting the conversations in
+because from here the my entire company
+works.
+>> Okay. So and like the pocket device send
+a way book to your local host. Uh
+>> yeah to local host it doesn't work. But
+I'm also adding the API because I want
+to do two things. I want to add a web
+hook um and I want to add a API
+connection. So I just click a button and
+it gets uh it retrieves all the
+conversations that I didn't have yet
+because sometimes the web hook maybe
+something is offline. Maybe we have an
+error or whatever and I'm missing it.
+>> So the API button is just a backup but I
+think that will be the one that we are
+testing here. A web hook will only work
+on a live server.
+>> Okay.
+>> Because this is uh locally.
+>> Yeah. And for the people that want to
+know it is a really old system. I've
+been working on it for six or seven
+years. We were building first manually
+now with AI. It is working on Laravel.
+So I have Laravel her running for the
+local host.
+>> Nice.
+>> So first
+can you read the text or is it too
+small?
+>> That's fine. Uh yeah but like it's bit
+cut. Can you recenter the
+>> uh do you want it
+>> like this
+>> or just in the middle?
+>> Okay. Yeah, it should be fine like that.
+Uh we can just see what you're going to
+Yeah. Okay. Cool.
+>> Ah, this is better, right?
+>> Yes, sir.
+Nice.
+>> So, the first thing I always do is uh
+check the entire system so you know what
+it does and how it works.
+No need to show me a summary
+just for yourself.
+And most of time it already knows how
+everything is working. But you see now
+Grock is going to explore the project
+structure add documentation that we
+wrote down read everything. He's digging
+into the core route model services. Um
+because this is is a big project and we
+do API connections into a certain way.
+we have a a certain setup for the web
+hooks and I just want to keep on
+building in the way that we do it.
+>> So then in case that I have a say for
+hey I don't want to use hey pocket
+anymore because Grock has a better
+alternative I just want to be able to
+kick it out and not break down my entire
+system.
+>> Nice. And um uh do you have a scale to
+as a session starts?
+>> Um yes but I don't have them loaded
+already.
+>> Okay. So I have agent docu agent MD
+files in it and all my skills are in a
+separate folder and I just drag them
+into here if I want to do it something.
+>> Okay.
+So digging into core rout
+is normally pretty fast.
+>> Yeah.
+>> So
+>> that's that's weird. One minute to read
+files
+>> here it it is a big project. It has
+everything in it. It's my entire company
+from subscriptions, invoicing, tickets,
+tasks, uh, registrations, customer, a
+CRM, everything in it. See, financial
+services, billing flow, it finds
+everything.
+>> Well, that's that's what I'm saying.
+Like if you have a skill in the session
+start like so what I have is a agent
+folder and all of the memory files in
+there and I tell in the session start
+that to read the agent folder first. So
+then it has the whole architecture in
+there. Uh instead of like reading like
+one million line of codes every time I
+start a session.
+>> Yeah. Well, normally I do that as well,
+but I just have read everything now. I
+don't want it to go wrong live.
+[laughter]
+That would be bad, right?
+>> Uh going through the system end to end.
+Yeah, let's go. I just Yeah, I just I
+just scrapped like one million line of
+codes. I know I know kung fu now.
+>> Yeah, but 1 minute and 36
+seconds. That's fast.
+>> Yeah.
+>> So, uh, let me paste the
+I already, um, made some some prompts so
+I don't have to write everything down
+right now.
+So,
+uh, can I zoom in here?
+Oh, so this is the first one and this is
+the only thing I prepared. You're a Gro,
+a senior software architect. You work on
+read only in plan mode. Do not implement
+the code yet. So first I want to know
+what it thinks it's going to do. And I
+wrote down everything I want to have. So
+we are live building a hey pocket uh
+integration into Laravel app support
+ticket system. Uh the protocols a web
+hook endpoint create a support ticket
+with the call duration that's important
+for invoicing summary notes. uh pocket
+action items as a ticket to do API
+client customer linking when possible
+because if the customer just says hi and
+pocket doesn't know the name then I need
+to manually connect the customer
+um easy actions send a summary email
+easy actions create a task and anything
+else
+um I already uh created API keys I'm not
+going to do it live they are already in
+my environment file so that's no problem
+the web hook path was already because I
+need to put it into pocket in my
+account.
+>> Um do not process uh recordings older
+than I said this because it is my real
+device. So I don't want to show all my
+customer calls here. I just said
+everything after 2 a.m. today can be
+shown.
+>> I think there are one or two customer
+calls in it but that's no problem.
+>> And just some additional stuff.
+So,
+I throw it in and I let it go and it
+goes into plan mode. If that's correct,
+>> let it go. How do you find the gro plane
+mode?
+>> Uh, I just tell it to plan
+>> because it says here shift tab. I don't
+know if I can do it during when it's
+busy.
+>> But
+>> no, but the output quality of the grog
+in plan mode. Do you like it or not? Uh
+well, most of the time I have fabled
+plan, but I don't want to keep switching
+models during this live because that
+will make it really uh hard to view and
+to see what I'm doing. Uh yes, always
+approve because we want to make some uh
+speed.
+>> Um but normally I have at least two
+terminal windows open. At the moment I'm
+still doing everything in terminal. Uh,
+for example, Grog on the left, Fable on
+the right, Fable plans, Grog builds,
+Fable checks, Grog checks, and then we
+do a few checks and then we push it live
+if we are happy. Um, and for the model,
+I don't care that much. I if Fable is
+out of tokens, I just use Opus.
+>> Oh, sorry. I just use um Soul Codeex
+Soul.
+>> Y
+>> So, but most of the time right now,
+Grock is building also because of the
+speed.
+Yeah, I mean that that's that's that's
+um that's a huge features from Grock
+right now. Um Ellen said that 4.6 will
+be a little bit slower but it will be
+more it should be able to dig a little
+bit more though. So the output should be
+better. I'm still waiting for the 4.6.
+So we'll see how it goes. But um yeah
+it's
+>> it was going to put put into uh cursor
+today, right?
+>> I Yeah. So they they leak 4.6 in cursor
+and also maybe we will have a switch
+from cursor to Gro build or Gro IDE
+>> which should be a cursor revamp or
+something.
+>> Yeah. Well to me it makes sense because
+>> cursor is theirs now. So they if they
+first release it in cursor then
+>> they just use both products. That's
+perfect.
+>> Yeah. Yeah. Like yeah if we can use a
+cursor but we if we are going back to
+cursor no called gro code.
+[laughter]
+>> Yeah there needs to be an X in it right?
+>> Yeah they
+not going to call it codeex.
+>> No no no. And then it's code X instead
+of codeex. That's like Sam stole his
+name. Yeah, that would be fun that it's
+called like code space X for sure. Like
+that.
+>> Yeah.
+>> Well, I do like how how smart um Grog is
+because right now I didn't put the
+documentation URL in it
+>> and it also just went online, looked
+into the documentation
+and it it reviewed everything that I
+need to do.
+>> So when I was doing code a year ago,
+>> it it needed a lot more of additional
+information.
+>> Yeah. But it's kind of uh stupid when
+like it's not going like deep enough.
+Like for example, when I update a table
+uh HTML like whatever like um a
+component in one page, it never goes to
+the next page.
+>> Ah I didn't try that one
+>> like like it it's it's really good at
+like doing something like right in the
+front. I mean that's how I use it for
+the
+>> uh for my QA process. So if I have two
+pages with like for example a component
+that is not used and it's using like a
+HTML row HTML instead of a component I
+fix it on one page it will not go to the
+next page to check if there is other
+page or changing it uh on the other page
+too. It's annoying but uh if you want
+something done in one lane this is
+really really good and it's fast.
+>> Well we already have the plan here.
+>> Nice.
+>> It created a plan. It shows it to you.
+So that's perfect. It has a small
+summary at the top showing what URLs it
+use for getting all the information.
+>> Mh.
+>> If ge it says it's feasible for the
+stated product goals.
+Uh the web hook and summary that can be
+done. Goal duration press in the every
+web hook payload. Summary notes no
+problem. Action items it gives me the
+title incompleted is completed and due
+date. Well, always only when we
+discussed it in the phone call, of
+course. Uh the uh recording ID it's
+using um API fallback synchronization.
+So that's actually what I wanted, but it
+didn't tell it was a fallback, but he
+decided himself that it's fallback. So
+that's perfect.
+Um and it can get all the recordings or
+just one recording by ID.
+>> Uh signature verification. So we need
+that for security. Not everybody can
+just push all the calls and just call
+and and write down Mitchell needs to pay
+us €1,000 and push because just for one
+thing I have the web hook set and maybe
+it shows here but I'm changing the web
+hook after so no need to try it.
+>> Yeah.
+>> Um
+>> the only thing is sorry. Yeah.
+>> Yeah. Color ID like the phone customer
+matching maybe aristic manual.
+>> Yeah. It cannot give me the phone number
+because it's not using the app. is only
+listening and nobody's telling his own
+phone number.
+>> Yeah. Okay. I mean, you will need to say
+it in a trans transcript.
+>> Yeah. But that's weird. Hey, Vincent
+phone number blah blah blah blah blah.
+[laughter] Yeah.
+>> Uh web book delivery. Okay. So, you
+can't identify your customers based on
+the ticket or you will have Yeah.
+>> Yeah. So I need to figure out but I
+think eventually um it also has a um
+a connection with your calendar with
+Outlook agenda and everything. So maybe
+I can do something there that it knows
+>> if I have an appointment and I'm going
+somewhere then it should know who it is.
+>> Yeah.
+>> But that's for later. First I want to
+get it set up and see how it works.
+>> So it says something with the web hook
+delivery. Yeah, that's how it goes. Um
+here it has a summary of all the
+services and the commands the models
+that it's going to create.
+So this is all in the Laravel setup.
+>> Mhm.
+>> Yeah. That's okay.
+>> How do you find like the models coding
+in Laravel? Is it good code or is it
+like uh
+>> uh in Laravel it's really good but then
+Laravel at this moment is one of the
+bigger PHP frameworks and it has so much
+documentation. So many people are using
+it.
+U I think that's one of the advantages
+and you see a lot with JavaScript grog
+and the other AIS know a lot about it
+because so many people are using it
+>> and it's the same thing with this. It
+knows the entire documentation.
+>> So honestly I don't even need to check
+how it sets it up because from my years
+of using AI and Laravel I know that it
+just does it properly.
+>> Yeah. That's why also like all of the AI
+vibe coded AI or like react apps and
+using the same text stack again and
+again because it's the data set right
+>> if you use a text tag that it doesn't
+have the knowledge of then you need to
+be a good dev to just keep giving the
+information on how you want to do it or
+have an entire agent file explaining it
+>> so it's going to change some things
+the routes well yeah that's the URLs so
+that's good um the middleware and a
+verify CSRF token otherwise the web hook
+is not going to work. It will deny it.
+So here you see web hook a pocket
+>> uh it will add it to the exception
+uh it will add something to my ticket uh
+models
+and that's more because probably it's
+going to add in the database for the for
+the tickets in the in the table it's
+going to add an additional field. So, it
+needs to add it here that it's fillable.
+Uh, I always do everything in Dutch and
+English. I didn't tell it, but you see
+that it found both languages. So, that's
+perfect. Uh, it's going to create views
+back end support. It makes changes.
+It adds documentation.
+Hey, pocket integration.md. And that's
+in my agent file. Every feature that we
+add, it needs to add something to the
+documentation.
+>> Okay. So you see that Grock read the
+agent MD properly
+>> if reuse as it is. So I'm going a bit
+faster
+>> database migration uh proposal
+and to be honest
+uh I think 6 to 12 months ago I would
+read everything here.
+>> Yeah.
+>> And I would discuss every point that it
+wrote down to see if it is doing it
+properly. But with the last agents like
+from Opus 4.6 and E Fable and Grock
+right now.
+>> Yeah.
+>> Uh every time that I try to discuss
+this, it knows it better than I do.
+[laughter] It has better better results.
+And if I say, "Yeah, that's weird. Why
+are you doing this?" And just says, "Oh
+yeah, because here idea you did it as
+well for this reason because it's in the
+documentation or it's it's wrote down in
+the code. So we need to do it this way."
+>> Yeah. But
+>> for that it's hard to change something
+after that because then it's deep into
+the documentation and if you have in the
+documentation two uh like one
+documentation that went stale and uh the
+other one is updated saying something
+else bro to debug that.
+>> Yeah. Well that's also why you just want
+to do it by the framework rules right.
+>> Yeah I know exactly. Yeah.
+>> Okay.
+>> And yeah let it go. not force it to code
+like you, but like to code like an
+agent. It's way better now that uh uh
+just trying to like jitsu like the agent
+to code your way like
+>> and sometime yeah most of the time it's
+better
+>> I think in the agent files only wrote
+down you need to create documentation I
+want to do everything in English and in
+Dutch because not everybody here speaks
+perfect English and everything. So those
+are I'm not telling it that it needs to
+do two uh spaces instead of a tab or
+something. You just can do whatever you
+want.
+>> Yeah, I don't care that.
+>> Yeah.
+And that's it.
+>> It is I'm not going to read everything.
+I'm just scrolling down
+>> and if plan complete.
+>> Okay.
+Let's go for it.
+Please build.
+You have to approve it like
+>> Oh, I have to approve. Oh, sorry. Um,
+>> just a I think. Yeah,
+>> that's it.
+>> You see, normally I do fable for setting
+up the plan.
+>> Yeah, that's the first time I see the
+planification on Grog too. So,
+>> yeah, I did like it. It was clean and it
+looked really good.
+So, I'm curious about how long it's
+going to take to implement this plan.
+>> Yeah. And here is also um a difference
+because I prepared a
+um
+a prompt to have him code and you see
+that I wrote down everything up front
+but it already created the plan so it
+was not needed the implementation.
+Um,
+>> you can ask it to compare to what you
+had in
+>> Yeah, we can try that.
+>> Yeah,
+>> because you see here in my prompt, I was
+just reading it that I've put in the
+information here where is the the web
+hook secret how I stored it. But
+>> it got it already.
+>> It already got it. So, the preparation I
+did was of no use. And here you see it
+is already building and it's going so
+fast.
+>> Yeah. I mean, yeah, there's like what,
+like 25 to Yeah. to edit. So, that's
+going to be
+>> Yeah, this is an example of something
+that I added to the agents.mmd the try
+and catch.
+>> I want to use that a lot so my system
+doesn't crash. If you don't do any just
+add uh the base URL here and you do a
+voucher try catch, then you get a 500
+error and everything crashes. I just
+want to do a proper uh error file
+>> and when we get an error I have a
+function in it that pushes it to my
+discord or to a system that
+automatically uh starts creating an
+issue in GitHub and then it gets solved
+and built and pushed.
+>> Yeah. Yeah. Because you have the loop of
+like catching on the error fill up the
+issue.
+>> Yeah. And I have that built into Laravel
+itself. So there is no need to put it
+into here. It just does it on every
+arrow. It pushes and creates an issue in
+GitHub.
+>> Nice.
+>> And then
+>> from the framework directly. Yeah. Okay.
+>> Yeah.
+>> So I don't know if you have a better
+solution but that's how I once set it up
+and for me it works perfectly. I
+>> I monitor like the issues on with sentry
+>> and it send like the sentry errors. Uh
+like the GitHub connection to Sentry is
+on the prop plan. So I didn't do that
+yet. I just have a chrome job like not a
+I mean it's a chrome job but in a codex
+checker every morning and uh I just yeah
+based on that
+it's creating the GitHub issues but like
+it's less instant than your system.
+>> Yeah. Well, I just like to see every
+issue directly
+>> and then just solve it to make sure that
+nothing goes wrong. And if I see
+something coming by too many times, we
+need to fix it and automate it so that
+>> Yeah.
+>> Yeah. Everything that we did
+automatically, I don't need an employee
+for it.
+>> Yeah. Yeah. Like [snorts] can you
+imagine like like can you remember like
+how it was uh to work like before like
+in the last two years, three years now?
+>> Yeah. Well, this would have been so
+perfect if you have in your company, if
+you have a sales force or maybe just two
+or three people.
+>> Yeah.
+>> And you have them use Hey Pocket. By the
+time they are back in the office, you
+already have the summaries in your
+system.
+>> And you can also the the the employee in
+the office can already start on quotes,
+getting information, and making
+preparations for the sales guy to send
+an a quote to the customer. So you can
+work so optimized with these small AI
+additions.
+>> That's exactly what I do with all of my
+uh Google Meet demo stuff and even like
+uh so with the workspace you have the
+transcribe um features.
+>> Mhm.
+>> It's just listening. Uh before that I
+was using Fireflies but because I have
+the Google Workspace stuff uh and I just
+want to summarize anyway. So I just use
+that download it. Uh put Fable 5 high
+>> M
+>> on it summarize everything create the
+GitHub issues and if you want uh start
+working on those like in a cloud opus 5
+chip and then let's go.
+>> Yeah,
+>> perfect. Crazy.
+>> Maybe I can add it as an addition
+because this one doesn't do the the
+online calls.
+>> Yeah. So if we can do that as well then
+we have everything.
+>> Yeah. I mean yeah it's easy because like
+it's even the transcript for Google
+workspace is saved on Google uh
+document.
+>> Mhm.
+>> So you re I received the email. You can
+I don't know if you can
+deterministically
+get the real of the but you can check
+the email because you received the email
+you get the transcript.
+>> Perfect.
+>> Yeah.
+>> Scrape the email and do it.
+>> Yes. perhaps that's
+>> yeah and you even have like I think in
+Bravo I do it you can get a fictional
+email address from them and if you do
+the emails to that system they will
+receive it and send a web hook to you
+>> okay
+>> so you don't need to build the entire
+scraping of your emails
+>> and AWS has the same option send the
+send the email to them they will scrape
+it and they will give you a web hook
+with the entire info in it and it
+directly goes into your system That's uh
+it's it's yeah see it's over. It took
+for 4 seconds. [laughter]
+>> Yeah it it is we are running
+>> what? Yeah in total I think right 16
+minutes
+>> plus planification plus execution. Yeah
+>> yeah uh let's do here it wrote down the
+documentation.
+Okay. So what shipped uh web hook first
+in jazz of pocket summary completed into
+support tickets with API sync as
+fallback.
+Uh we have some information here. Hmac
+verification uh cutoff recordings
+before. Yeah that was for now. Uh
+tickets a subject call duration line at
+top summary plus bullets to those from
+the action items
+item potent on recording ID so we know
+what's unique. customer match. Yeah,
+that will be hard, but I'm really
+looking forward to how he does it.
+>> Um, email summary to a linked customer.
+And if if it doesn't match the customer
+or it doesn't do something perfectly, I
+can always use uh an API call to to
+checkg or whatever just to have it do
+additional uh information
+>> to enrich like the transcript with like
+Yeah. like you do like open router query
+that uh take the transcript and try to
+find
+your extract the name of the customers
+or you can even like during the during
+the call you tag all of your call with
+like okay yeah so this is for this
+company ABC uh okay all right
+and you basically talk to close
+>> okay so it gave me a test and I asked it
+to do the test for me. It says it was uh
+was okay. Uh can you run migrations just
+to be sure that it did? Otherwise, my
+database isn't up to date and we get an
+error as soon as we start testing.
+>> Already up to date.
+>> Already up to date. Nothing pending by
+me. Uh anything
+else we need to do before I can start
+testing?
+I can can check it.
+Why?
+>> Why? It knows everything.
+>> Oh, it thought for 7.2 seconds and it
+says you're basically ready. Local stack
+checks out before you test. Yeah, I'm
+already uh have everything up and
+running. So now I'm still going to do it
+because I always do it like this.
+Um,
+let's start. Fable.
+Fable is might be slow, right?
+>> Is it?
+>> Or is faster.
+>> Oh. Um, yeah. I don't know. You can
+>> I think it is.
+>> Yeah.
+>> Set my effort. I'm going to put it on
+high so it doesn't take like forever.
+Um, in this project we just did a full
+hat pocket integration
+cd description below
+slashprompt below. Can you do a check on
+the code that has been built by grock?
+Don't make any changes only feedback
+here.
+And what I then just do is
+the entire prompt that I gave grock, I'm
+going to put it in here. So the
+implementation plan
+>> so that it knows exactly what I wanted
+to do.
+>> Yeah. And I just have it review
+everything.
+Um, and it doesn't matter if I start
+with Fable or if I start with Grock or
+if I start with Codex. the auto model
+always finds something.
+>> I think they are trained for that like
+to make you use the models
+>> like
+>> Yeah. It's like a a security audit
+company, you know, like uh no matter
+what there is something
+>> Yeah. And on [snorts] my Mac Mini I have
+this automated. Mhm.
+>> So if I write down the entire
+explanation into um an issue on GitHub
+and I put a task label on it then Grock
+will just do a research and start
+building and then either Opus or Codeex
+they will do like with Grock a five
+round review and I think I have a 95%
+uh of all the ticket all the issues that
+we have where they eventually both agree
+within five rounds that the code is good
+enough.
+>> Okay.
+>> And the other 5% then I just need to do
+a manual check and have Fable or
+anything say, hey, check what the issues
+are. Check what they both discuss
+because I'm writing it down into an MD
+file.
+>> Um, and make it final decision on what's
+best and implement it. And that works
+pretty good.
+>> How the are you not burning all of
+your weekly token by running like five
+run of everything all the time?
+>> Yeah, I don't know. It works. But I have
+like the the the biggest account on the
+biggest subscription on Grock uh cloud
+and and chat GPT. I have the biggest
+subscriptions on everything.
+>> Yeah. Yeah.
+>> And they have the multipliers and the
+resets and I don't know everything is in
+it.
+>> Uh
+>> you see that it's it did some checks and
+now it's testing. It's running the
+artisan test
+for the hey pocket web hook test.
+So, and that's so cool. I don't need to
+explain what it needs to test. It just
+thinks by itself and starts testing. And
+to double check, I eventually um made
+him summarize at the end what it tested.
+And it did so much more tests than we
+would do normally.
+>> Yeah. Like 100% rolling.
+>> Yeah. Uh
+>> okay. I just put it on auto mode so it
+keeps on going. We don't need to
+approve.
+And once this is done, I think we can do
+an actual uh dummy test of getting a
+ticket in
+and then we can do a real test with the
+API. That should work.
+>> I'm hyped.
+>> Yes.
+>> Nice.
+>> But before, how long would you have been
+trying to build something like this?
+>> Yeah.
+>> Just to get it active and to get it
+working.
+>> Yeah. I mean, yeah, just getting the
+credentials were like, thank
+you.
+>> Yeah,
+>> but still like the uh the apps right
+now, they are not built for agent sign
+up. It's so annoying like to always have
+an action or oh yeah, yeah, you need to
+get the credential here or the way book
+blah blah blah or the webbook secret
+because I can't read it. Oh my god. I
+sign up on the on the CLI for Stripe or
+AWS or whatever like five times. Yeah.
+>> The worst is the Google Cloud uh CLI
+always asking me to create like a new
+profile or whatever. It can't even read
+it like annoying. Uh but yeah, I think
+there is an opportunity for like people
+to
+build an universal agentic
+API CLI credential stuff like that would
+work
+>> well
+>> in all pro like in all or having a
+protocol where you can create a special
+access for the agent.
+Yeah, that will be cool
+>> because I don't want to go to a page to
+create a a webbook to generate a webbook
+secret and then in inject this uh secret
+to my vault. Just
+let me use your app.
+[snorts]
+>> Okay. So, it did a review.
+>> We can see the beginning of the
+sentences. Oh cat. Yes. Nice.
+>> Now you can right. So it reviewed the
+full Hey Pocket integration. 30 new
+files. Uh language everything changed.
+>> Uh I also ran a test suite. Six pass 20
+assertion to verify payload contract.
+Okay. The verdict solid. Well
+>> that makes us happy, right? [laughter]
+>> Well well well structured work. uh the
+signature scheme, duration unit,
+endpoint paths, o header, and the
+summaration blah blah blah. Shape all
+matchy official docs. I checked each
+one.
+Um then it had some feedback fixed
+before the live demo. Emailing the
+customer has no dev environment guard.
+Oh yeah, these are additionals. Um right
+now if we by accident email any
+customer, I only have two dummy
+customers in it. So that's always how it
+never with real data. So, we're actually
+emailing admin@apple.com and
+admin@google.com. I don't think they
+mind. I think they get so much spam
+email from people testing.
+>> If I get the email summary button fires
+on a single click with no confirmation,
+no preview. That's a good one. I can do
+that by my stake. Uh, the email summary
+contains internal metadata. Yeah, you
+don't want to do that. missing created
+at but I was going fast over it.
+Eventually, this is the first setup and
+I'm always testing and then optimizing.
+So, this is not the final version.
+>> Well, we have some mediums. We have more
+mediums.
+It's big. So what I just do,
+I just select everything
+and I go to Grock and I paste it and I
+say have fun.
+>> Yeah. [laughter]
+>> But yeah. Um don't tell the world that
+that's how we walk now.
+>> No. Well, let him do it like like we do
+and eventually you still This is just
+showing the first part. I'm always
+optimizing and I'm going a bit fast
+right now.
+>> Yeah,
+>> because we only have like on top five,
+right?
+>> Yeah, I mean it's it's fine. Like I mean
+I'm pretty sure it's already walking
+anyway.
+>> Oh yeah, let let's do this one and then
+we do a test
+>> because from the documentation, let me
+check for it.
+Uh where is here it is. Copy the JSON.
+This one is what I need. So this is a
+JSON of uh a web hook that they trigger
+and that is sent to me like the summary
+completed
+>> the date some information.
+Uh so I'm going to once Grock is done
+reviewing I'm going to ask it to trigger
+this one just as demo so we can see how
+it comes into the system and after I'm
+going to ask him to do one API.
+>> Nice. And that's a demo from the
+documentation.
+>> Yeah. And I think the my AI already made
+a change. So demo call with Google about
+DNS. Um yeah, AI is so fast because if
+you check uh DNS change for google.com.
+So that was a test ticket.
+>> Nice. Oh yeah. Okay. I'll record. Okay.
+Enough.
+>> And the cool thing is you see our Hank
+support plus Hankella.nl. Well, that's
+my uh uh AI replier.
+>> So, as soon as Dick comes in, Hank is
+going to send you the first answer from,
+"Hey, thank you for sending your
+question."
+>> I I love development.
+>> Okay. So, here we see a lot of changes.
+Croc is already doing additional uh
+code, making changes, adding additional
+functions, checks.
+Also, I never just push it.
+I always uh double check everything
+here, all the changes.
+>> Yeah, bro. You you show a file.
+>> Oh, yeah. I know. These are all the
+files that are edited.
+>> No, but like the that end file.
+>> Oh, that's not good, right?
+>> Yeah.
+>> I will. Ah, I will delete everything
+right now.
+I mean,
+>> it was open so that I could just delete
+everything. [laughter]
+No problem. It's already deleted.
+>> Yes. Okay, fair enough.
+>> Yes. So, let it go and let's continue.
+You legit had your M file open.
+>> Yeah, because I was going to close it
+because I was going to test everything.
+Well, rookie mistake again, right?
+>> We're just learning how to stream, bro.
+That's fine.
+>> I know. [laughter]
+>> So, where were we? I already blocked it.
+Cool.
+Uh can you do a test?
+So it is done fixing this and I said can
+you do a test? Uh and this is the JSON
+that we just had.
+>> Uh
+uh process this one as a web hook.
+Okay.
+Then this one to the side.
+The paint.
+Nice.
+It is processing the web hook.
+Signature rejected.
+Yeah,
+because the HMAG Okay. Uh for the demo
+now, just process it
+and disable the HMAC just for the dummy
+so that we can see however it works.
+carefully.
+Dang.
+>> That's That's coffee time, bro.
+>> Yeah. Yeah, that's coffee time.
+I know it actually takes long while
+normally it is pretty fast.
+>> Yeah, but I mean like you you had a big
+f list to implement like the fs are done
+or not.
+>> I think no no no it's working.
+>> Yeah.
+and expecting skipped for dev local just
+test for verification.
+Cool.
+Okay.
+Tickets. Ah.
+>> Okay.
+>> This is what coming in. Gold duration
+summary. Discuss the DNA. DNS a record
+updates
+>> uh pocket recording.
+>> So that's it.
+>> That's it. That's perfect. And from here
+I can just assign it to a customer.
+>> I can create a task.
+Um if it has to do here, right? You see
+it
+>> it added the to-dos to my system where I
+add the to-dos.
+>> Oh, okay.
+>> It uh here it already created a task.
+So
+>> if I'm correct,
+I know it is. I don't have it here. So I
+need to check why I didn't create it,
+but
+that was my task overview. And this is a
+second one. Ah, I pressed twice to
+create it.
+So that should work.
+>> Nice. That's sick. So [snorts] now you
+take a call, you get the transcript
+automatically
+to
+your ticket system.
+>> Yes.
+>> And here it says to the two to-dos. And
+the only thing I want to do right now
+because it looks like
+uh a real ticket. I am going to do
+optimizations to just make sure that it
+shows a label. This is an incoming
+transcript. This is a summary. uh and
+everything else. And here I need to make
+some buttons to make sure that I can
+connect the customer easy if it didn't
+do it yet. Uh but yeah, that's it. Here
+it says
+>> go.
+>> I didn't ask for it, but it shows that
+we did a 12m minute call and yeah, email
+summary to customer. I don't know. I
+don't want to click it right now because
+it says it wasn't ready. But yeah,
+>> that's sick. And then like the
+transcript should be a attachment to the
+ticket created from the transcript.
+>> Yeah.
+>> Should be reversed, right?
+>> Yeah.
+>> So I think this is a good uh first step
+and from now on it is just spending an
+hour on optimizing everything making it
+look nice and then give it a go.
+>> Yeah. You are like a five prompter way
+of like shipping to production
+basically.
+>> Yeah.
+>> Just keep on going.
+>> Nice. Awesome. So should we Is that a
+stopping point for us?
+>> Yeah, that I think this is good enough,
+right?
+>> Yes. No 100%. Uh 200 result. Nice, nice,
+nice. So basically in 45 minutes you
+have your transcript, your ticket
+attached to your own system of
+ticketing. So your own Zenesk is just
+becoming better.
+>> So soon you can replace a whole call
+center with pocket devices.
+>> Yeah.
+So no, that's that's sick. And uh yeah,
+we like Grog because it's fast.
+>> Because it's fast. Yes.
+>> Fable is smarter and we like the plans.
+>> Yes. You just need to find your own way
+in optimizing using the models.
+>> Exactly.
+So I think thank you Mitchell. Thank you
+for your time and thank you for buying a
+pocket device so we can do this demo.
+>> Yes. You're already close to sharing
+window, right?
+>> Yes. Yeah. Yeah. You you you can rotate
+your
+>> I was looking to the clo close button.
+[laughter]
+>> Yeah,
+you can rotate your keys now.
+>> Oh, I already did.
+>> Nice. Okay,
+>> I did it on the side. So, and I wasn't
+showing fully. They were longer than the
+screen, so that was no problem.
+>> Fair enough.
+>> But, uh, okay. Thanks everyone. Thank
+you so much. Subscribe to the channel.
+We will see you next week. And we will
+do more of those uh little demo and
+workflow videos next. So, yeah,
+subscribe.
+>> Thank you. And yeah, share with your
+friends. Bye.

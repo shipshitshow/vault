@@ -4,11 +4,17 @@
 
 The catalog includes historical inventory and verified episode links. Visibility and ASR review state are recorded per entry.
 
+- [Black October: Is Your AI SaaS Next?](2026-11-04-qAw_zC1_BDM/overview.md) — 2026-11-04
+- [Genfeed.ai: Try Our Open-Source AI Content Studio](2026-10-27-1CFi5rzc2bU/overview.md) — 2026-10-27
+- [OpenAI vs Anthropic: Game Over?](2026-10-21-XCyY0VDiRps/overview.md) — 2026-10-21
+- [Muse Wonder: Better Than Fable?](2026-10-14-M1EEEl4M6-4/overview.md) — 2026-10-14
+- [Grok Bot vs Dots vs Muse](2026-10-07-zjXzkB8z5xg/overview.md) — 2026-10-07
 - [Opus/Sonnet 5.5 vs GPT-6 Sol/Luna vs Grok 4.7: What To Use?](2026-09-30-uSuqoiEaB1k/overview.md) — 2026-09-30
 - [Fable 5.1 vs GPT-6 Astra: Did We Reach AGI?](2026-09-09-KPAyE6KSrQU/overview.md) — 2026-09-09
 - [How The SpaceX Team Ships Grok Bot](2026-09-02-LbCRcGRLYaU/overview.md) — 2026-09-02
 - [Stop Paying For AI. Use OpenRouter Stealth & Free Models.](2026-08-27-eYGDOk2HsOg/overview.md) — 2026-08-27
 - [How to Use Grok 4.6, Grok Bot & Cursor Origin Together](2026-08-19--qsSddwzjpY/overview.md) — 2026-08-19
+- [HeyPocket: Turn Calls Into Support Tickets](2026-08-11-AeTj2uU8J9U/overview.md) — 2026-08-11
 - [AI Engineering Is Cheaper Than Engineers](2026-08-05-ppcMDBiJ5xc/overview.md) — 2026-08-05
 - [LIVE Opus 5 + GPT-5.6 Sol: Build Companies From the Beach](2026-07-29-kRUwZSY7IN8/overview.md) — 2026-07-29
 - [LIVE Fable 5 Is Gone. What Are the Alternatives?](2026-07-08-h0EzR9Sqkz0/overview.md) — 2026-07-08

@@ -1,0 +1,383 @@
+Alexander Wong, chief AI officer at
+Meta. So, that's the guy who launched
+it.
+Um it's not good as Opus 5.5 on coding,
+for sure, but also there's a bunch of
+bug right now that we are looking into.
+>> Well, at least he is honest. That's
+good.
+>> So, Mark uh Zuckerberg announced Muse
+yesterday and
+the benchmark are really good.
+And we are going to see if they are
+true.
+>> Well, it's easy to optimize it for just
+that test to make the benchmark as
+perfect as possible.
+>> Yeah. Uh so, Muse wonderful
+uh 59 and [music] Fable 5.1 49.9
+and Opus uh 5.5 at 55.
+So, yeah. Like Opus 5.5 is really really
+good. Uh can't wait for the Fable 5.1.
+Bec- So, basically they are beating up
+Okay, the latest generation. So, Meta
+would be frontier here.
+Which is interesting. And the one we
+won't is terminal bench four.
+>> Uh Opus is still better.
+>> Opus is still king.
+>> Yeah.
+>> How many people are doing like these
+really long coding sessions?
+>> How do you not monitor something without
+an output with during 13 hours? Like,
+bro, split the task.
+>> Yeah. Yeah. Exactly. Imagine having a
+bug in it that need to search that in in
+13 hours of AI work. That's like 3
+months of normal human work.
+>> Interesting news on our new family of
+frontier model with state-of-the-art for
+personal and professional agency work.
+It's been uh just over a year since we
+started a Meta Superintelligence Lab.
+Muse back was our first family of model
+and uh now Muse wonder is a much larger
+and more advanced class of model that
+bring us uh to the frontier.
+We released two models today.
+Muse wonder and Muse full for the full
+version of the model, aka Fable and Opus
+5, basically. Artificial intelligence,
+metas released.
+Muse wonder and
+wonder Muse wonderful achieving
+artificial intelligence and all.
+Uh 52 and 56 at max reasoning effort.
+Uh each material gain over Muse spark
+like the one we used for free from open
+code right at 48
+with a release gap of only 6 weeks.
+That's [music] pretty cool.
+Uh key takeaway both models exhibit
+material jump in overall intelligence
+index places in the top three on six of
+the 10 intelligence index evaluation.
+Jesus.
+>> That's weird, right? So you're not in
+the top three and are you saying the
+other six we are in the top three?
+>> [laughter]
+>> Uh
+top three on six of the 10 intelligence
+index evaluation. Jesus, what a
+sentence.
+>> Yeah.
+I'm not the best, but I'm the best of
+the losers.
+>> Yeah, exactly.
+>> [laughter]
+>> All right.
+>> And I still think Muse wonder and
+wonderful, I don't like Disney names.
+>> Yeah, I mean like the Muse one, yeah,
+it's pretty It's pretty cool.
+>> read mouse all the time. Mouse
+wonderful.
+>> [laughter]
+>> Uh I have Muse wonderful wonderful. Ah,
+yeah, okay, I see it now. Um and it's
+particularly strong in the authentic
+knowledge work and scientific reasoning.
+Both models use fewer output token than
+Muse spark. That's pretty cool.
+>> [music]
+>> So yeah.
+>> Because output is expensive compared to
+input.
+>> Uh other detail for the two new models
+context window 1 million each. I have
+worse result with like bigger context
+than smallest like a smaller 256.
+>> Yeah, most of the time it's also more
+expensive because above the 200k they
+charge you more.
+>> Yeah.
+No, no, exactly. Claude has that, right?
+>> Yeah, yeah, and I think Grok as well if
+I'm correct.
+>> Yeah.
+>> So I think they have the 1 million, but
+if your input is below 100 or 200k you
+get like half the price and the prices
+they promote, but if you go over they
+double the price.
+>> Yeah, it's
+And you have to search in the small
+letters again to find this.
+>> Uh
+okay, this one is like for Muse 1.0 four
+input 20 cent on cash input and 20
+output [music] per million token.
+Pricing per token is not yet announced
+for Muse 1.0.
+>> [music]
+>> That's even more expensive then.
+>> Yeah. Yeah, cash input input four so
+four and output 20 and on cloud it was
+input 10. So okay, so basically they are
+aligned on the
+>> on the office.
+>> Yeah.
+But I'm pretty sure they're going to be
+aligned to on fable for the full one.
+But I guess I need a subscription now.
+That's what I've done.
+I took the 20 bucks one.
+You can do anything with a 20 euro
+subscription like
+>> [music]
+>> I did one prompt to audit my code base.
+>> And he took your money.
+>> Yeah, like [laughter]
+like the five hours limit went to half
+and 30% on
+on the weekly one. So that was
+>> It was nice to do what nice to do one
+test.
+>> Yeah, exactly.
+Uh just just to tell me that my code
+base is nice. [music]
+>> But what did you have Muse do just to
+get rain 50%?
+>> Uh I'm going to show you that right now.
+So I put it in
+the GenFit code base. Audit the code
+base, the GitHub board, the current pull
+request uh PR's and uh tell me what you
+think of the code base, what's left to
+be done by
+uh
+for the next release and the quality of
+the repo in general.
+>> Uh yeah, well that's a big question.
+>> Yeah. That was a big one.
+>> [laughter]
+>> That's not like check this function and
+and say what you want. You just say
+check everything.
+>> Yeah, I I because I don't want it to
+work right away off my code base, right?
+Every day they don't have the price.
+>> Really?
+>> Well, it's here. It's it's so hard to
+read. $5 for this.
+>> Okay, yeah.
+>> Yeah, so maybe they need to train their
+own on UX and UI because
+>> Yeah, it's that's bad.
+Yeah, it's okay. So, I took this one. I
+took the high usage. So, it's basically
+the 20 bucks
+one, right?
+>> Yeah.
+>> From code.
+>> Because your project is big.
+>> Probably like 1.5 million code,
+basically.
+And yeah, 200 maximum usage. 80
+80 times more usage than the everyday
+usage plan. Let's go.
+Okay, fair enough. So, that's the
+pricing.
+>> Everyday usage, if you check it, it says
+10 to
+five to 10 prompts per day.
+Of every five hours or 10.
+>> Yes. Oh, yeah. Yeah. Yeah.
+>> Every five hours, so
+>> Yes, five prompts.
+>> Well, that's not average.
+>> The prediction audit 64100 risky
+internal betas small run do not cut the
+release on 17 October as currently
+scoped. And engineering is substantially
+better than the release management. The
+code that Yeah, okay, because I had some
+pull requests open. Uh stranded fighting
+the tree real mono repo with client 10 C
+[music] apps six app surfaces. Well, see
+like for example, I think it repeated
+like yeah, it repeated the same sentence
+twice.
+>> Yeah, [music] it did.
+>> What the It didn't talk about like
+yeah, I would
+refactor this part or whatever. So, it's
+a bit superficial audit in a way. It's
+just like current state of the code
+base. It's not that crazy. I ask it like
+how to use in this three code because
+Theo said that
+it's supported. I checked it and I
+didn't see it. So, there is that.
+>> Thank you, Theo.
+>> Yeah. So, yeah, it's a bit like
+expensive
+one question
+mark stuff, I think.
+>> Yeah, it is.
+>> Uh
+>> I would say give it some time and let's
+see on the timeline on X what other
+people are telling about it and then see
+if it is
+>> [music]
+>> worth trying again.
+>> Go to this on a put for Muse wonder. I I
+try to keep it pretty simple so you can
+be creative.
+3GS experience inspired by the artistic
+output
+and this is what it built.
+Yeah, that's not crazy.
+>> Yeah, we have seen far better ones.
+>> Yeah.
+>> But they need to start somewhere.
+>> I mean they if they can do that in just
+one year, that's pretty impressive for
+sure. Muse wonder marks
+lower the price same 3D project scene
+for both model. I prefer this output now
+or maybe I think this one is better.
+I'm not not sure like maybe the gravity.
+>> Yeah, that's that's way better, right?
+>> [music]
+>> Yeah.
+But also two and a half times more
+expensive.
+>> I yeah, but like what do you prefer like
+to have a one shot prompt expensive
+output, but you're going to keep it or
+five times like
+>> Well,
+it also depends if if you still need to
+make changes to Opus because you don't
+like the colors and everything, it will
+cost you $16 again and you're at Muse,
+you can see your first version not
+perfect, but
+you have some budget left to changing.
+>> Yeah, so you would like have a scene
+with Muse and then Opus to polish it.
+>> Yeah, that's what I would do.
+>> Muse wonder full to fix. Yeah, okay. So
+ask Opus GPT and Muse wonder to full to
+fix a bug. [music]
+Opus found the root cause and filled the
+PR.
+GPT 6.1 ask a question, crashed
+from the instant question tool,
+interrupt found the bug, fixed it, wrote
+300 of test and explained it's
+impossible to understand them.
+>> [music]
+>> Yes.
+>> Muse wonder
+full found a small PR. Someone else had
+filled and said
+>> [music]
+>> you should probably merge this into
+>> [laughter]
+>> Well, if the solution is already there,
+that's that's a good reply.
+>> Yeah, but okay, so I don't know if if
+Muse went directly to something else
+than reply oh yeah, you're right. Like
+this pull request [music] solved what he
+asked for.
+>> Yeah, but seeing all this and what you
+tested, are you going to use Muse more
+often or you saying
+>> I was not convinced 100%.
+Um
+>> [music]
+>> I think I will keep the 20 euro
+subscription to as a
+>> [music]
+>> help like on the side if I run out of
+yeah, other models.
+But also for the same price you can you
+can just have another Claude account,
+right?
+>> Yes.
+>> Yeah, but seeing that Opus is just as
+capable. I'm not recommending replacing
+Opus with Muse. I like them [music] a
+similar amount.
+I'm doing most of my work with a combo
+of Opus and Wanda currently.
+>> [music]
+>> I like this model. So yeah, I need to
+use it more like you need to use it more
+to have an opinion on that, but yeah.
+>> Yeah, you need to use it for a few days
+just to
+have a [music] proper opinion and and to
+make sure that you know have tested
+everything.
+>> So yeah, if you want I guess if you want
+to try it,
+maybe wait a bit.
+>> Yeah, make sure that it's probably
+stable and then test it because
+otherwise they'll release a better
+version in a week and you have to do all
+your testing again.
+>> Yeah, exactly. All like the benchmark
+and stuff. Oh, even worse like they
+launch it they max it on the launch and
+then a week after then it's
+>> [music]
+>> Yes.
+>> [laughter]
+>> Yeah. Are you going to give a try to
+Muse?
+>> Well, once you have said it's good
+enough, then I'll try it. But seeing
+your results right now, I don't mind the
+$20. I don't want to spend time on it.
+[music]
+>> Yeah, I know exactly. Like we already
+been served well from Claude.
+>> [music]
+>> Less from Open AI and more
+Okay, so looks like Muse is not too bad,
+but maybe
+>> Maybe they didn't win yet.
+>> Yeah, it's not it didn't
+win a heart yet.
+>> No.
+>> [music]
+>> Yes. So yeah, let's give a a time and
+let's see if uh at the end of the day
+we're going to increase our
+subscription, you know, we go to to 200
+a month
+>> Yeah.
+>> and spend like too much money on AI.
+>> Is it like Muse or Muse or Muse? Which
+one?
+>> I mean, yeah, for now we stand by for
+now, I would say. Yeah, let's see where
+it goes. Let's let's
+uh and Andrew No, Alexander to uh fix
+all of the bugs and see what goes after
+that.
+>> And maybe it's more wonderful next time.
+>> All right, everyone. Thank you so much
+for your time. Uh like, subscribe, share
+the video, and Michelle, I will see you
+next week.
+>> Yes, see you next week.
+>> Cheers. Bye-bye, everyone.

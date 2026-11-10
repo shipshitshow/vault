@@ -30,14 +30,14 @@ Locked on 5 November 2026. Reference values for 1080×1920; the asterisk values 
 | Captions | Bold uppercase, 2 to 4 words per chunk, about y1480, white with the spoken word in red `#E83B3B`, thin dark outline and no box. Timed per word and snapped to real pauses. Never all red or all white. Nothing below y≈1570 |
 | Caption text | Fix grammar, spelling and ASR names (Grok, Claude, PHP, Cloudflare) even where it no longer matches the voice word for word. Never end a chunk on a weak word ("the", "a", "to") |
 | B-roll | 2 to 3 hard-cut cutaways of 2 to 3 seconds on the lines they illustrate, built or cropped for 9:16 with the subject centred. Captions and asterisk stay on top |
-| Open | The take is in the first 2 seconds. Pull the strongest line forward when it sits later in the segment |
+| Open | The take is in the first 2 seconds. Pull the strongest line forward when it sits later in the segment. End on a clean payoff, about 0.25 s after the last word |
 | First line | Must make sense to a stranger. If it starts with "and", "but", "because", "that's why", "so" or an "it" with no subject, pull a later line forward or pick another range |
-| Length | No fixed length: the take decides, under 60 seconds. Prefer the shortest cut that keeps the take; on the channel, Shorts of 60 words or fewer did better (a correlation on a small channel) |
-| Audio | Cuts in silence, 15 to 20 ms audio fades at joins only, no video fades. Two-pass loudnorm to -14 LUFS integrated, true peak at or below -1 dBTP |
+| Length | No fixed length: the take decides, under 60 seconds. Prefer the shortest cut that keeps the take; on the channel, Shorts of 60 words or fewer did better (a correlation on a small channel). Prefer ranges where the speaker looks at the lens with energy over ranges where they look down or at a second screen |
+| Audio | Cuts in silence, 15 to 20 ms audio fades at joins only, no video fades. Two-pass loudnorm to -14 LUFS integrated, true peak at or below -1 dBTP. Re-transcribe every finished clip to check the joins, then a person listens |
 | Cover | Custom cover on every Short, red asterisk per [placement](placement.md), no host faces. It shows the subject of the take, and the covers of one batch differ in colour so they can be told apart. Art direction follows the thumbnail rules |
 | Destination | Shorts publish on the main channel. The clips channel is kept but not maintained. Every Short sets the full episode as its YouTube Related video and links it in the description once the episode is live |
 
-Pick takes that give the viewer a founder lesson or a hot take, never a feature walkthrough, a product compliment or an install demo; those can go to LinkedIn as they are. Keep a host's opinion phrased as opinion.
+Pick takes that give the viewer a founder lesson or a hot take, never a feature walkthrough, a product compliment or an install demo; those can go to LinkedIn as they are. Keep a host's opinion phrased as opinion. Hold a claim that belongs to one guest (numbers, timelines) until that guest confirms it, and put the reason in `HOLD.txt` next to the video.
 
 ## Livestream scenes and broadcast
 
@@ -74,4 +74,4 @@ Separate background, transparent overlay, mark, captions and audible media. A JP
 
 Use native OBS/Restream layouts/names when practical. Test exact placement in the chosen canvas. Restream graphics do not play embedded audio; an audible intro needs the appropriate media source. Recheck [graphics guidance](https://support.restream.io/en/articles/8540835-add-graphics-to-your-stream-in-studio).
 
-Native projects, recordings and large renders stay in the media library. Record kit revision, logo hash, fonts, caption style and approved deviations with the edit. Follow [editing handoff](../production/editing-workflow.md), [overlay](https://github.com/shipshitshow/skills/tree/master/overlays), [dialogue](https://github.com/shipshitshow/skills/tree/master/dialogue) and [recap](https://github.com/shipshitshow/skills/tree/master/recap) contracts.
+Native projects, recordings and large renders stay in the media library. Record kit revision, logo hash, fonts, caption style and approved deviations with the edit. Follow [editing handoff](../production/editing-workflow.md), [overlay](https://github.com/shipshitshow/skills/tree/master/overlays), [dialogue](https://github.com/shipshitshow/skills/tree/master/dialogue), [recap](https://github.com/shipshitshow/skills/tree/master/recap) and [library](https://github.com/shipshitshow/skills/tree/master/library) contracts.
