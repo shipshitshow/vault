@@ -1,0 +1,793 @@
+And welcome back everyone on the ship
+ship show for a special edition.
+>> Yeah, we are ready to ship.
+>> [clears throat]
+>> Yeah, that was hard to start though.
+>> [laughter]
+>> But yeah, Mitchell, thanks for coming
+back one more week.
+>> Yes, always happy to be back here.
+>> Yes,
+that was yeah, it's I I mean it's been a
+couple of weeks since we started like in
+February but uh
+today it's basically a big day.
+>> Yes.
+>> Yeah, how was the week?
+>> My week was busy.
+>> Yeah, still yeah, like so yeah, we are
+we are definitely have to do that then
+go back to producing some line of codes,
+monitoring cloud and cloudnets and then
+So yeah, let's
+let's get into it pretty pretty fast.
+Um yeah.
+We are finally going to launch.
+>> I was going to ask, what is the big
+news?
+>> Damn, that's that's launch day today.
+That's launch day.
+Because yeah, I wanted to get this
+little baby that is almost a teenager
+now out.
+So I told my like I I told myself like
+okay, that needs to go on that Tuesday.
+Let's wrap it up something nice and I
+think after a lot of
+uh
+pull requests and token burn
+it's time to launch it and open it to
+the community. So yeah, I want to launch
+10 fit today with you. It's going to be
+nice.
+>> Yes, that's awesome.
+I just It took some time, but I don't
+think people realize how many times you
+refactor the entire code.
+>> Yeah.
+>> I found something better with the newer
+AI models and just upgraded the entire
+system again.
+>> Yeah, exactly. So, basically, 10Feed is
+it's a AI content factory.
+And I started like almost, yeah, 18
+months ago by
+using the models to cut some tools to
+generate files and cut videos and stuff
+like that.
+Um I was like playing with FM FMPEG and
+like all of those library.
+Um to yeah, just cut uh
+uh engrave subtitles, cut a video, and
+stuff like that. And then the models we
+started to get like images model, video
+models. So, then you start to use those
+models to generate a video.
+Um and then you don't need to do that
+much of editing anymore. So, you change
+everything.
+And uh and also discovering like some
+agentic workflows
+changed everything. Like
+Like so, yeah, it's it's it's it's it's
+took took a minute.
+>> Yeah, but that's the AI age, right?
+Everything goes so fast and you get so
+fast so many updates available that you
+can use in your software. I think this
+is a perfect example, but it also shows
+probably I had some sneak peeks. Um
+on what is possible.
+>> I mean, yeah, you had some sneak peeks
+like uh 80 80 10 months ago.
+>> Yeah, I actually logged in a few a few a
+few days ago, so.
+>> Oh, okay, nice. Uh Thermal, just
+checking out Legends still legendary.
+Make use Okay, bye. Let's add the
+restream boat. Bye-bye.
+Uh we don't want to buy boats.
+>> Nope.
+>> Goodbye.
+>> Um yeah, so yeah, you you saw the first
+version and started with like a studio
+basically like just uh get the models,
+generate an image, then I went into the
+workflow UI
+open source of workflow UI when you have
+to drag and drop the image and stuff
+like that, generate on the fly, generate
+your workflow. And now Gen-Fed is like a
+melting pot of everything all at once.
+>> Yes. And it is not just one social media
+that or anything. It's big.
+>> Yeah, I Yeah, maybe maybe too big.
+That's why I want
+I want more people to help me code this
+one because again, yeah, like the fact
+that it's open source
+>> Mhm.
+>> it will allow people to join and use
+that at the model and yeah, all of those
+plugins and stuff that I want in the app
+for the agent
+then they can they they will be able to
+use it.
+But yeah, okay. So, let's
+start
+right
+away.
+>> Yes, show us.
+>> Yes. So,
+first I want to go back to the
+thread. Yeah.
+Uh tag. So, that's what I posted like
+yeah, 1 hour ago.
+>> Feel free to retweet it.
+>> Yes.
+>> Or repost.
+>> Uh
+basically a video little video edited
+with the MCP. All of those video when AI
+AI generated of course.
+And it's it's kind of cool.
+Um tag. And so, the
+main mission of Gen-Fed is not to just
+use the model and be a wrapper of
+models, but offering brand context a
+harness of like what works and what
+doesn't work, so you don't throw away
+videos and post on Instagram etc.
+because
+um we are able to get what works and how
+the post should look like to like looks
+good on social like etc. etc. Uh so,
+yeah, that's the brand context. So,
+you upload your website and then it will
+fill up all of the links, uh voice that
+it can generate. So, all of the post and
+uh content will be on the same brand
+with the same brand kit, etc.
+Uh you can decide to uh approve or to
+roll the dice and just publish
+everything that you want. You can just
+pump the web with like more and more uh
+assets. And of course, there is an MCP
+server because then uh you can use it on
+Codex Cloud, whatever, directly. And
+yeah, the CLI and you can self-host it,
+and that's why we're here uh because
+again, it's open source. So, you can
+more instead of like doing oh yeah,
+uh the Gen Z the website looks good. Uh
+do it do it do do something like that.
+You just uh download everything. You can
+self-host it, and then you relaunch your
+own company with the same core. Because
+again, what matter is the harness
+and uh how do you collect the context
+and the honest of the content because
+the goal at the end of the day is to
+build the best uh content in the world,
+and you can do that by keeping your um
+by uh by protecting your harness of
+content. So, I have some default harness
+in the cloud version of it.
+>> Mhm.
+>> The goal is like per uh per brand like
+uh build your
+uh
+branded harness, and even if you want to
+uh to like have a pea stack like a
+potato stack of uh content, then you can
+also load it directly uh in the app.
+>> Okay, one question.
+>> Yeah.
+>> If you have a bigger company and you
+don't want to do the entire setup
+yourself, you just want to have you
+manage it for them and help them with
+your experience that you already have,
+is that possible?
+>> Exactly because uh there's also like um
+um an aspect of the AI uh setup where
+basically, I will do all of that just
+for you for a little retainer and some
+contract like a B2B contract. Then we
+can talk, and uh then I can run the
+whole content for you using my own
+workflow, but for your brand. And that's
+what I'm saying like I can load your
+website, get all of your information,
+get your brand kit off from your
+designer, whatever,
+and run your content and I can post it
+uh to directly from your account because
+also all of the social will be
+connected. We can schedule etc. etc.
+>> Yeah. Okay.
+>> So
+>> Awesome.
+>> That is that and yeah again if you want
+to fork it if you are convinced do not
+hesitate to go on the repository, start
+it, fork it.
+Open pull request issue whatever
+that's what makes
+>> tells today.
+Yes. So
+>> Uh tak tak tak next it's time to show
+the app application.
+Uh path so I'm going to resize that
+properly.
+path
+Okay, that looks good.
+Okay.
+So this is the workspace of the
+uh the first application is basically a
+workspace of everything that happened on
+the app
+>> Mhm.
+>> because
+it's just like not a playground slash
+studio to generate asset it's way more
+than that. And that's what that will be
+your main welcome page and I'm on the
+cloud version right now and like that's
+the SAS.
+Um so we have the main agent where you
+can talk to like in app agent where you
+can have your chat GPT uh Gen Feed agent
+where you can
+uh
+yeah have all of the post generated in
+one sentence and then you will use the
+rest of the SAS to organize everything.
+You can prompt, you can uh create videos
+directly in the agent you got the
+expense you have you want to have. You
+will have your library
+of all of the asset that you have
+generated.
+Um on brands and you can have also
+export different style, different preset
+etc. Um
+the uh publishing calendar where all of
+your posts uh go
+and you can schedule, publish, whatever,
+whatever, um
+everything. So, tweet, Instagram,
+TikTok, everywhere, even like a blog
+article for SEO, uh it will go there,
+and then you have like calendar of
+publication, etc.
+Uh cool.
+Yeah, uh
+that's where I'm going to push more and
+more data because that's that's the
+first that's day zero right now.
+>> Yes.
+>> And yeah, and approval will be for Yeah,
+if you want See like for example here, I
+generated some content with my uh Yeah,
+my MCP, so directly from Connects.
+>> Mhm.
+>> And
+uh I want to approve all of that
+content,
+so I can review everything from here.
+>> Yeah. So, it's more than just creating
+content. It's like planning, publishing,
+connecting social accounts. There's so
+much in it.
+>> Exactly. Like it's the whole loop that I
+want to close is see what's trending
+everywhere on social, remix, publish,
+get the the KPIs of the content,
+and
+uh
+re- re- remix again all of you
+outliners, winners, and stuff like that.
+>> Yeah. So, it's like a fully social
+marketing app for
+from start to end.
+>> Yes. And I think that's
+uh
+where the value proposition of the whole
+context of uh the Agentyk SaaS makes
+sense because
+Okay, like Post is I'm a highly inspired
+by that guy like, right? It's just It's
+just a scheduler like
+uh still making like 3 million in
+revenue, right? So, GG, but he's just
+scheduling the post, right? But if you
+want to schedule the post, you also need
+to know what you want to do
+what you want to post, right? And
+because the internet uh is now full of
+AI-generated like
+uh content that's is generated by
+hundred of uh
+and thousand of agent every day
+publishing something 24/7,
+how do you
+control your pipeline and how do you
+like still provide good content without
+having slop and be unique at the same
+time? Then you need all of that. You
+need all of the part of the um
+Yeah.
+>> Oh, you need a a well-oiled machine to
+do everything for you and give you one
+good overview.
+>> Exactly. And yeah, so that's
+uh the core actions of the app of
+uh it's that like having an overview the
+agent, the library, and the publishing
+schedule. I don't even have the
+playground analytics. I don't even have
+the playground in the main core apps
+because it will be generated by the
+agent. But if you want to go to uh
+classic uh prompt bar and generate all
+of the assets yourself, you can do it.
+And you can generate image, video,
+music, avatar, voices.
+And
+uh if you know what you're doing and you
+want to use some
+uh
+like a dedicated model, you can. But you
+can also go into auto and then the agent
+will
+uh pick the best one or the the one that
+will give you the best output for what
+you do etc. etc.
+But uh yeah, like for example, we have a
+ton of model for videos.
+Uh we have all of the version too. Like
+everything that you want based on your
+budget etc.
+You can just use the best one, the most
+expensive one, or if you just want to
+uh do some draft, you can or you can
+also generate those assets.
+Um yeah, okay. So that's this is some
+pretty good content here. Like for
+example, here this video that was
+>> [laughter]
+>> Oh, I'm going bald.
+That was some test before, right?
+Uh not the best content out there. All
+of that will go to trash. But uh yeah,
+we we will make better content than
+that. And uh
+Yeah, and obviously you don't have the
+same
+um
+quality of output based on the model,
+right? So, if you are going to use
+a cheap one, then you want to go into
+draft mode, etc. But, if you want a base
+on this draft, you remix it with the
+more expensive model, but this model
+have the base to work on, right?
+>> Yeah.
+>> Uh so, yeah.
+>> You don't have to spend a lot of cash
+just trying to get to the point where
+you want to start and know what you
+want.
+>> Exactly.
+Um so, yes, the data is that and I I
+have like way more like apps, uh but I
+need to polish for later, but like the
+storyboard where on this one you give
+what you want to do and then you will
+have the whole storyboard.
+Uh see, that's that's to another
+workflow of writing content
+where
+uh you you get the images and then you
+generate the video and then you will get
+the final video based on that.
+And yeah, this one
+It's the preview in the board. Yeah,
+okay. Yeah, she
+I have some photo requests coming in.
+Uh so, yeah, storyboard turbo where you
+generate more content faster.
+Um all that one is that I need to check
+it and
+we also have the trends
+where I can see
+um
+what I've published and what works on
+for my channel, but also what's trending
+in some
+other country on social, etc. And what I
+can replicate based on my brand. Like
+for example, yeah, this video
+it's from Make UGC, so it's like
+another like
+software that make AI content just for
+UGC.
+I want to watch the video, I want to
+remix, I want to get a
+um
+I want to generate like um
+um yeah, like a short for them, a clip,
+whatever. I can remix from that
+trending
+that trend.
+Uh and something I will get all of the
+topics.
+Uh okay. Okay, wait. Wait. I don't have
+Maybe this one.
+>> All the
+um
+>> Yes. That was a big
+>> The images and the placeholders that
+have been created for our show were made
+with Genfeed as well, right?
+>> Yes.
+Uh, but from the
+Uh, yeah. So, from the MCP. So, yeah,
+like uh
+both There's a mix of both.
+>> Yeah. Yeah. Yeah.
+But still, it is a Genfeed
+>> Yeah.
+>> product that made the
+>> Um, yes. And it's it's even like you can
+use Genfeed just as the skill because uh
+I also have a Genfeed AI/skills
+where people can basically
+productize Genfeed just with the skill
+when they want to inject what they can
+without using the app, without paying,
+whatever, but just uh having a free
+version of the application.
+But again, what mattered like the most
+is like That's why all of those tools
+are free because nothing really matters.
+What matters is the honest and the
+context that you get, right?
+>> Mhm.
+>> And those are private because that's
+where the IP is.
+>> Yes.
+>> [clears throat]
+>> And that's why I want like people to
+install their their self-hosted version
+because they will create uh their own uh
+brand and content
+with their own honest
+starting with like a Genfeed experience
+of all of the tools to do everything uh
+they what they what they
+>> Yeah. So, everybody has the exact same
+code and the application and they can
+even do pull requests and everything
+that everybody else uses, but the mix of
+your own content creates a unique
+um
+engine for you to create everything.
+>> Exactly. Yeah, like the
+Basically, you have the body of uh the
+workflow that what you need to create
+good content, but the bone and muscle
+will be built by yourself because you
+inject your even your own brand into it.
+So, yeah, the goal will be to have like
+a 10
+10 us like running Genfeed, but it's not
+Genfeed, but it's just a fork of
+Genfeed.
+>> Yeah, yeah, yeah. And each one does
+different content and different style
+and different results.
+>> Exactly.
+Um,
+yes. So, that and
+yeah, also like another app, but again,
+it's a secondary app, so it's a plugin
+like it's the social where you can talk
+to people and generate.
+>> Mhm.
+>> Basically, you DM based on because then
+it will create engagement, so you will
+distribute your video and you can do
+that with Genfeed.
+>> [clears throat]
+>> And that's the That's all of the
+features
+that we have right now.
+Um
+And yeah, of course, we have those like
+the organization and the brands all of
+the accounts that I will push content
+for.
+>> Mhm.
+>> Um
+with a different output. Yes, okay. Uh
+and what matter the most will be No, I
+want to brand.
+That
+uh
+That yeah.
+And
+That uh nope.
+I want that. I want the brand kit.
+>> [clears throat]
+>> See, like all all of those information,
+identity, strategy, visual will help us
+to build like a predefined content.
+Uh and it will be injected in the prompt
+of the asset.
+Um every time you call something,
+basically.
+>> Yes.
+>> Yeah.
+So, yeah, that's it. So, yeah, we have
+some stuff to fix it. It's a
+really didn't went through, but yeah,
+it's whatever. That will do for now. And
+of course, yeah, you can connect all of
+your account, publish directly, and
+that's it.
+And all all a ton of settings that
+you can manage via MCP server.
+>> Can you show what accounts are possible?
+>> Say again?
+>> Uh if you click connect account, yeah,
+here you see all the options.
+>> Yeah, Facebook, LinkedIn, uh
+thread, I will need to validate the app.
+YouTube, TikTok, Restream, that's it
+should go to the chat. It's not ready
+yet, so
+but here fun view which is like a only
+fun but for AI
+for AI
+avatars. I want to explore this for
+different purposes.
+>> [laughter]
+>> And advertising meta ads and Google ads
+to get all of the Instagram ads so we
+can remix and ads
+or even work with company that have ads
+program and where we can basically work
+with them, generate the ads and we get
+paid by
+or even of an affiliate program or
+then you can have a lead from those
+accounts.
+And if you push good content, then they
+can pay you after afterwards like after
+you have something promoted with them.
+Um
+and then that's it. It's It's pretty
+simple took like a freaking forever to
+build that but it's It makes so much
+sense.
+>> Yeah, but you also gave a company away,
+right? Because
+if I install this and add all my
+customers, I can't just use Gen feeds
+to provide all my customers with content
+for their social media.
+>> Exactly.
+>> So you have built a company for us.
+>> Yeah, I mean it's Yeah, it's like and
+especially like if you want to keep the
+data to yourself, right? It's not on the
+Gen feeds server or whatever. That's why
+it's self-hosted for you and that's
+good, right? And so yeah, if you want If
+you want to install that and like fix
+the bug with me
+>> Why not?
+>> Yeah, I'm open for you to fork it, pull
+request and then I will see we'll see
+you how you pull request get get merged
+in the
+so you can be a contributor.
+Um yes, so that's
+on the website. Yeah, so all of that was
+generated with
+uh
+um with Gen feeds like this little
+LinkedIn article
+>> that I like. Okay, it's not million of
+views yet but
+>> Yeah, but it's start.
+>> starting point.
+>> Uh yeah, ask rates, grow
+models, one workspace. So, yeah,
+basically a model wrapper, but better
+more than that.
+Uh
+job define, whatever, and start with one
+brief. Yeah, so like the tagline I found
+is like a brief in
+content out. I think.
+No, one brief. Okay, wait.
+Uh
+I put it in the I forgot.
+Okay, whatever.
+Where is the tagline? Oh, it's on
+Reddit.
+>> Follow us on Reddit as well, and you
+will see it.
+>> Gen feed
+AI.
+Oh, it's private. Oh, that's why it's
+it's nobody's can see it. Um it's
+private. I have to change it.
+>> Yeah.
+>> Um I'll check. But yeah, one brief and
+then you get the content posted
+everywhere. Yeah, one brief
+and post it everywhere. That's what I
+want to say. Uh cool.
+Anything else? Uh
+what so the demo Okay, self host.
+>> How do you start?
+>> Yes.
+Thanks. Thanks, Mitchell.
+>> Oh, no, no, I was just curious.
+I can choose between installing
+everything myself or just email you and
+say, "Hey, I'm interested
+>> Yes, exactly.
+>> and working together and you would do
+everything for me?"
+>> Yes.
+No, no, exactly. So, uh yeah, it's open
+source, self-host on your own
+infrastructure.
+And all you need to do is to run this uh
+NPX
+uh it's NPM package.
+>> Mhm.
+>> Um
+configure your variable because you can
+bring your own key like replicate, open
+router,
+um
+11 labs, etc., etc. Um you need 50 GB of
+uh free disk.
+I think it's a lot of services and I can
+probably
+uh improve that
+uh because yeah, that seems a lot. The
+when I set up like when I check the
+installation and stuff, it's like,
+"Okay, that's a lot." So, I want to see
+if the community is going to find
+something and some improvement here.
+>> Feel free to optimize it.
+>> Yeah, because so, it will it will have
+like uh three services. So, the web app,
+the API, and like the workers, MCP. You
+will have your own MCP. You have the
+everything um installed with that,
+basically.
+And yeah, Self Hosted, common question,
+really free. You just uh bring your your
+keys. What's the license? AGPL3. So,
+yeah, you can fork it. You just need to
+keep the
+um on the repo, you need to say it's um
+it's coming from Genfeed. You you can't
+scrap everything.
+>> Yeah, you can say it's my own build. You
+did it.
+>> Exactly. Uh fully covered open source
+license, cool.
+Uh
+and yeah, so yeah, if you want some
+uh
+help to install Self Hosted, you can
+just just DM me, whatever. But, uh
+Claude will be able to do that, too. I
+even Grok Bot did it to test the
+install, so that that was the
+um
+how I tested it. My Grok Bot told me,
+"Yeah, it's it works." So, I said,
+"Okay, thank you."
+>> That's awesome.
+>> Yeah.
+Um and I think that's it. That's what I
+want to put out there. I really want to
+have people uh using it now. It's time.
+Uh and we will use Genfeed to grow
+Genfeed and all of the other company we
+work with and uh we work for and every
+everything
+we can do.
+So, uh yeah, everything we can basically
+push. But, I want to like code a little
+bit less and use my subscription to do
+some growth hacking parts now.
+>> Yeah.
+And if you have installed it and you're
+creating content, please tag us. Let us
+know what you created with Genfeed.
+>> Yeah, yeah, like tag us on yeah, on the
+on the accounts, so we can increase the
+reach and uh uh yeah, at genfeed.ai and
+you have all of the information here.
+Um yeah, that was the first tweet and we
+are going viral. Let's go.
+>> Yes.
+>> But yeah, that's the beginning of the uh
+run for Genfeed. That's for sure.
+>> Oh yeah, from brief to feed. Yeah, that
+was the catchphrase. From brief to feed.
+>> [laughter]
+>> There it is.
+>> Yes.
+And thanks, Claude. It's kind of cool.
+Um but yeah, like 100% like
+the the the content, like all of the
+content creators everything is already
+AI generated on LinkedIn and on X. It's
+just going like only get bigger and
+bigger for sure.
+>> Yes.
+>> So, but with this studio like it's been
+only getting better, too, because again,
+like your brand context, your the honest
+I even like the reinforcement learning
+of what works, what doesn't.
+It just It just
+it makes sense to
+push that kind of product.
+Um
+yeah.
+>> Let people uh let them start using it
+and I'm curious for the feedback.
+>> Me, too. Me, too. Me, too. And uh yeah,
+if people will start to open pull
+requests to even improve the honest,
+then everyone win need uh wins because
+we get better content on the platform.
+Um
+and everyone Yeah, everyone wins.
+Anyway, we less slow we have less slow
+on internet, so let's save internet from
+the death dead internet theory and let's
+push some good content.
+>> Make better AI quality.
+>> Yeah, exactly.
+>> Awesome.
+>> Yeah, I think that was it. Yeah, okay.
+That was the I think that will do
+because yeah, I have like this little
+video to push and then like some uh
+post to uh yeah, like grow, so hopefully
+put some eyes on it.
+>> Well, I shared, so let's see.
+>> So, yeah, that's I think that's it. We
+should we wrap it up here?
+>> Yeah. Um
+I have no questions left. I would just
+say for everybody uh
+fork it, install it, and let us know
+what you created.
+>> Exactly. So, yeah.
+Fork it, baby.
+>> Yes. [laughter]
+And let us know.
+>> Thank you so much, everyone, for
+watching this video. Uh well, we'll see
+you on GitHub in the pull request or in
+the comment section. Uh Mitchell, thank
+you so much, and yeah, I will see you
+next week.
+>> See you next week.
+>> Cheers. Bye.

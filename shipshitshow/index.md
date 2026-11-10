@@ -11,6 +11,7 @@ url: https://www.youtube.com/@shipshitshow
 
 - [[shipshitshow/Videos/_Index|Videos]]
 - [[shipshitshow/Livestreams/_Index|Livestreams]]
+- [[shipshitshow/Shorts/_Index|Shorts]]
 
 ## YouTube
 

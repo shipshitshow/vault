@@ -1,0 +1,21 @@
+I don't think people realize how many
+times you refactor the entire code and
+found something better with the newer AI
+models and just upgraded the entire
+system again.
+>> Yeah, exactly. And I started like almost
+yeah, 18 months ago by
+using the models to code some tools to
+generate files and cut videos and stuff
+like that. And then the models we
+started to get like images model, video
+models. So then you start to use those
+models to generate a video. Um and then
+you don't need to do that much of
+editing anymore. So you change
+everything. Or and also discovering like
+some agentic workflows change
+everything. It's it's it's it's still
+took a minute.
+>> Yeah, but that's the AI age, right?
+Everything goes so

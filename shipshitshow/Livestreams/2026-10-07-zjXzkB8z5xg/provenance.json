@@ -1,0 +1,12 @@
+{
+  "youtube_id": "zjXzkB8z5xg",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "7c6322c9bdafbbd8f51845fe83e6de617606c152680ae54f5816f93e8cbb2560",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-10-07-livestream-zjXzkB8z5xg.txt",
+  "language": "en",
+  "clock": "full-livestream",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

@@ -1,0 +1,12 @@
+{
+  "youtube_id": "lmLaYAEpFDc",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "66ec99f9ba3182146a6f9350abc83cd3db26b1be4d2682ed162e52121411f62c",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-11-06-short-lmLaYAEpFDc.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

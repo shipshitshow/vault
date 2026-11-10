@@ -1,0 +1,12 @@
+{
+  "youtube_id": "gR_daNttW88",
+  "channel_id": "UCxuriP32znodU-8N7zkwuew",
+  "imported_on": "2026-11-10",
+  "method": "youtube-captions-normalized",
+  "source_sha256": "00cf7ad4a6aa2e2b2e119f7cbf5a03680fdeedbb53d3cc05ec1e445dd0e9fce4",
+  "source_file": "show.shipshit.dev/apps/app/data/transcripts/clean/2026-11-06-short-gR_daNttW88.txt",
+  "language": "en",
+  "clock": "published-asset",
+  "review_status": "asr-unreviewed",
+  "visibility_note": "Public title and channel verified through YouTube oEmbed; channel-tab listing not checked"
+}

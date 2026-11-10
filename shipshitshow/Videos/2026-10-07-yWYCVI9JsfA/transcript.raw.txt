@@ -1,0 +1,325 @@
+I am talking to my my PA
+>> and I want her to fix everything [music]
+>> and then come back to me and ask for
+approvals and if she's doing four task
+at the same time she is just mixing up
+approval showing me everything at once
+and then I press approved and she is
+talking about a different one again and
+that that makes it really hard to get a
+good overview
+>> you know. So today we're going to talk
+about like all of the personal AI
+assistant grogbot muse and [music] dots.
+Yeah. Well, I am actually curious. So
+many people are using chat still.
+[music]
+So, do you think that all the bots will
+eventually replace the chat boxes where
+people like chat with with chat GPT and
+and everything that the bots are more
+like a future option than the chat?
+>> Yeah.
+>> It's like an a different app, a
+different way of working.
+>> Yeah. like those new personal assistant
+AI personal assistant are more about
+okay I'm going to talk to you and you're
+going to manage my life for for me chat
+GPT is more like okay I I have a task
+and you are going to build something
+like it's coded related for me like I
+never use chat GPT as a therapist
+[music]
+>> but the new UI and new UX of Grogot and
+all of those uh little browsers that
+came after [music] it feels like it's a
+it's a new Facebook Messenger/ WhatsApp
+and instead of talking to your group
+group of friends, you talk with your
+group of agents.
+>> Yeah, true. [music] But it's also more
+uh more proactive.
+>> Yeah. Yeah,
+>> that helps a lot.
+>> Yeah.
+>> But [music] the biggest thing is that it
+looks smarter. You can u I have the idea
+that every time that I chat with JG GPT
+it has a memory and you can create
+projects where you could put everything
+in but still it messes up the memory
+>> and Grockbot does it so much better
+and in Grockbot you have like different
+bots each with a dedicated task and
+maybe that's a difference because if you
+split task they have less to remember
+because only a certain niche is what
+they need to remember. I think that
+works a lot and it doesn't work like
+that in
+And then yeah, it's dedicated to one
+task instead of a generic task. Yeah.
+Okay. Makes sense. Kind of it's often
+better to focus on one task and do it
+vertically really well instead of having
+a big one that's salesforce and then you
+do everything average. But uh yeah like
+So did you try Muse and
+>> Well, I I tried to try it. Yeah. I
+couldn't get through the app store and
+everything and maybe I need to spend
+some more time but
+>> I had to put in my personal data and
+that's where it went wrong again.
+>> Okay. So, yeah, I I didn't test it like
+it's still on my to-do list.
+>> Yeah. So, if anybody has any tips
+>> Yeah.
+>> to get Muse or do in the EU, let us
+know.
+>> Yeah. Okay. Cool. So, because we cannot
+really test it. Uh personally, I found
+uh Peter Yang. Yeah. [laughter]
+Uh here's here's my take on openai dot
+versus the other personal agent. [music]
+There are really two separate races. Dot
+and grogbot are going after work task.
+Muse is going after personal task. So I
+don't think dots compete with directly
+with muse. [music] Dot's biggest
+advantage is that it live inside chat
+GPT on boarding was seamless
+because everything was already connected
+which is yeah that's true like
+>> but it's a good start. So we have like a
+team that is doing tasks that we
+normally spend a lot of hours on.
+>> It's replying faster. So if tickets are
+incoming, you can have a web hook send
+it to the agent
+>> in Crockpot or Muse or whatever and it
+handles it. And even if you say don't
+give it a full reply, you can still
+reply to your customer. Hey, we received
+it. I see I'm missing some information.
+Could you please send that as well? Then
+I will have a senior dev manage it for
+you. And that can be me or whoever. So
+[music]
+it I think it improves the quality of
+your of your company.
+>> Yeah.
+>> It can prioritize and everything.
+>> And if I see the ticket after an hour
+and I'm still missing information,
+>> well, the customer doesn't like waiting
+an hour and then getting a question.
+Hey, I need this before I can do
+anything. And now I see it after an hour
+and everything is already here.
+>> Yeah. And and the bug is fixed. You just
+need to deploy and then that's it. Yeah.
+>> Yeah. Most of the time my agent already
+told me what the bug is and he gave me a
+solution with the question am I allowed
+to fix it.
+>> Oh, that's pretty cool. That's late. But
+is it because of those Grogboard/muse
+slash dots personal assistant or you had
+that before before those launches?
+[music]
+>> Yeah. Um, no. before I still needed
+support from a real human
+>> because I can't be everywhere at once.
+And [music] if if something the best
+thing is if in case a hosting server
+goes offline with like 20 websites on
+it.
+>> Mhm.
+>> Um I get an instant notification so I
+can fix it. [music]
+>> Yeah.
+>> But still I get like 10 emails from
+people who say, "Hey, my website is
+offline."
+>> Yeah.
+>> And now Grubbot just emails them all.
+Hey, your we know that your website is
+offline. Really sorry for this. Uh
+something went wrong. We had to restart.
+It will take a max of 10 minutes and
+everything will be live again.
+>> Um so it's taking out all the
+communication for me so I can focus on
+the real issue and and fix it um [music]
+instead of communicating with everybody
+before I can start fixing it because I
+can only focus on one or two things at
+the same time. [music]
+>> Exactly.
+And if somebody asks for a meeting, I
+already have drugbot give me, hey
+Vincent askked you for a meeting. I
+think it will take two hours for the
+meeting and two hours to build this. You
+only have time on Friday and next Monday
+between these times or the rest of the
+week is booked. [music] So
+>> it does a filter of all the information
+I normally need to look up manually.
+>> That's the only thing I use it for.
+Yeah,
+>> chatting with my dot in the app is the
+worst experience since it's juggling
+several task at once. It's hard to tell
+which one is responding uh it's
+responding to. Yeah, that's true. And
+that was also on Open CL, right? That's
+why at during Open CL mana, we switched
+to Discord because each thread on
+Discord had a topic of discussion,
+right?
+>> Yes. And Crockbot has the same issue. If
+your your main assistant is handling
+seven butts, she does [music] like every
+talk just
+all together at once. Uh I have like
+group chats where I have topics and then
+when there is some agents talking then
+they go into their own chat and they tag
+me. You don't have the approval to the
+other agent?
+>> No. No. She gives me uh the approval the
+other I don't talk to my other agents.
+>> Okay. Is it because you have one agent
+per project or you have [music]
+uh vertical agents that can be shared
+between project?
+>> Yeah, I have project agents and I have
+uh subject agents. So I have a support
+agent, I have a WordPress specialist
+agent and then I have a project agent
+for my bigger customers.
+>> Yeah. Okay. [music]
+And that means that they can interact.
+So if the the the project agent needs
+WordPress specialty, then he asks the
+other one. But my PA is the only one I
+talk with. I'm not talking to everybody.
+[music]
+>> Yeah. Okay. And your PA is delegating to
+the CEO main agent of the group chat,
+whatever.
+>> Exactly.
+>> And delegating. Yeah. Well, actually the
+thing that I want is just to have
+Discord and create topics and it doesn't
+matter who replies as long as it gets
+done.
+>> Yeah.
+>> But [snorts]
+I'm still doing it in a company way. You
+have a manager below you. The manager
+manages the team and you only talk with
+the manager
+>> unless the team is not satisfied with
+the manager. But that doesn't happen in
+Grogbot. [laughter]
+>> Yeah. Like the goal was to uh stop
+middle management. I know we have middle
+management with agents.
+>> Yeah.
+>> But um Okay. So um also yeah I wanted to
+talk about the demos effect of those
+agent because I don't know if they are
+that good. Um, so have you watched this
+demo stuff like the presentation of the
+dots because uh, [music]
+so they launching during the Dave day
+but they had issue with the Wi-Fi or
+whatever and so the dot architecture was
+[music] broken so she had a failed demo
+and then she um, she demo like Rockbot
+but from OpenAI.
+>> Mhm.
+>> Yeah. She's booking a flight.
+>> Yeah. Uh,
+>> why do I want to see a demo of people
+booking a flight? I want to know what do
+you put in your prompt to get your
+crockbot or your open AI dot to use uh
+maximum quality or to get the best
+results or to make sure that she doesn't
+that the bot doesn't forget what I want
+to get. [music]
+>> Yeah,
+>> exactly. [laughter]
+So I want to know why does my bots reply
+three times in a perfect order and the
+fourth time just make a stupid reply
+that I would never send.
+>> Yeah. But yeah, what they could shown to
+uh to normies is read my email for my
+kids school and help me prepare for
+school, review all charges of my credit
+card and help me stay on track, help me
+book a haircut, help me hold the uh
+flowers for my wife. Uh
+yeah I [music] yeah she just opened the
+bank account I will re it I don't know
+uh but yeah like still those demos it's
+you can do that in chat GPT basically
+that's not covering the gap between like
+what's new right compared to a chat GP
+thread and what are we missing to have a
+full we are that close for a full
+autonomous company because again like
+you have inbound
+>> Mhm. they fix something or they
+implement a new features or whatever and
+then you push it to production
+>> trust there is but is a quality I still
+have the idea that the quality of the
+bot varies per day or per week
+>> yeah that's true as built from the
+ground up for privacy and security the
+current M secure VM isolate all data
+from other agent but meta state it does
+not prevent ma from accessing data when
+necessary to support secure and operate
+the the service [music]
+um you need to give your whole life to
+to those personal assistant to really
+see the potential of it too, right? And
+uh it took me four years to connect my
+Gmail and my Slack to uh the GPT
+connectors, [music]
+>> but to summarize all of the conversation
+that I had with customers and the email
+thread and have a proof of what the
+decision we took uh three weeks ago on a
+Slack thread
+and have it in in a GitHub issue. Oh,
+that's powerful. And when you do that to
+your grog boat with emails and blah blah
+blah, uh, that's amazing.
+>> Yeah, that can be big.
+>> Yeah, that's pretty cool. It's like kind
+of like having another conversation
+thread repackaging for daily life. Um,
+but yeah, it's going to be interesting
+to see how it goes for sure.
+>> As soon as we have real access, we will
+test it and we will let everybody know.
+>> Yes. So, yeah. Which uh which person
+agent is your favorite one?
+>> Yeah, the only one. Ground
+>> the usage is generous but still like uh
+the more web books you have the faster
+the go away. Right. Yeah. Please
+subscribe, like and share uh the video.
+I I hope we hope we hope it was helpful
+to you and we will see you next week.
+Bye
+>> bye.

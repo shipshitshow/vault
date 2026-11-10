@@ -1,0 +1,300 @@
+What did you build this week, man? Like
+>> I think the biggest one was a full
+WhatsApp Business integration with Meta.
+>> Oh.
+>> Onboarding for WhatsApp Business. So, if
+you have it in your account, you can
+either create a new number, connect your
+existing number, merge it between
+constantly sync it between your devices
+and
+>> Yeah.
+>> Yeah. I was a lot more than I thought it
+would be.
+>> Bro.
+>> I had to do that too like last week and
+the Facebook Meta app is pure garbage.
+I've created the business organization.
+I create the page. I connect the
+WhatsApp, blah, blah, blah. I change the
+email of my account to have the same
+organization under the profile. The
+business organization lose my ownership
+and I don't have it. So, I have a
+business organization where I don't have
+access to it. I can't even see it. I
+can't contact support because it's all
+AI agent and they don't Yeah.
+>> They redirect you.
+>> Speak to a real human and it says I am.
+>> Yeah. [laughter]
+>> And so, now I have a business
+organization in like completely lost
+that I need to redo it like, bro.
+>> Yes.
+>> And then you try to add an admin, but
+the admin doesn't have the phone number
+verified. Like a billion-dollar company
+and and so, I'm feeling good about my
+little pesky bugs now because if
+Facebook can't have a proper ads
+management a platform, yeah, we're good.
+>> I have always been having issues with
+everything from Meta.
+>> Crazy.
+>> And not even in coding, also just using.
+>> Yeah, not working.
+>> I think we just learned today that you
+don't put it on high effort and ask an
+easy question, right?
+>> I mean, you're telling me, bro. You're
+the one spending tokens on changing the
+color of a button and it's not done.
+>> I just asked and I thought, if it is
+that smart and you put it on X high,
+doesn't it need to know for hey, this is
+an easy task. I don't need to do this,
+this, and this. Just let me change the
+color.
+>> Yes, but okay. So, I think it's because
+when you change like the effort, it's
+add the thinking between every step and
+every tools it's called to reason. So,
+if you have a simple task, it's better
+to go down on low because then it will
+go straight to the point.
+>> Yes. Well, I found what the issue was
+because I wanted to change a button and
+it was only one line of code, just six
+characters in the CSS file. And
+eventually, it started Chrome, it looked
+at it with Chrome, it made multiple
+screenshots to determine what it needs
+to do. It measured everything, changed
+the button, and redid everything,
+compared it, wasn't convinced, and redid
+everything. And that's for changing six
+characters in the CSS file.
+>> And the same issue was like the browser
+computer used and the browser like the
+native browser where Codex will open the
+browser or take control of my computer
+to like something like change a color or
+something or move a button. Even like
+instead of using the CLI, it's using
+computer used. So, it will connect to my
+browser, go to PostHog, for example,
+that happened a couple couple of times.
+Go to PostHog, enable the feature flag
+and stuff. Everything is accessible via
+CLI's API.
+>> Yes.
+>> And and then like I have me stop using
+my browser, I'm working, you are
+interrupting me. What
+>> Yeah, it's like taking over your PC when
+you're doing stuff.
+>> Yeah, exactly. Like
+and I saw a tweet from Peter from
+OpenCrew that said, "Yeah, yeah, I know
+it's annoying." And I have VMs like he's
+running like Codex into VMs to basically
+build because yeah, when you have like
+the computer used taking over, that's
+not the computer anymore. I'm the
+captain now.
+>> Are you still using Codex?
+>> So, I use I love Grok. Yes. Yeah, so
+right now what I'm doing, I'm focusing
+on like QA one shotting like issues and
+which are not on the GitHub board. So, I
+open a session, I run the servers and
+the app in the background. So it like
+the clock can monitor the logs and I
+just I take a screenshot and say, "Yeah,
+what the [ __ ] is that? Why this button
+here?" Drop it in the terminal. All T3
+code sometime I'm used to T3 code when I
+want to use some parallel work trees.
+Drop the prompt, drop the image, let
+that run it. One or two minutes later,
+hopefully, everything is done. Then I go
+back to the page and say, "Yeah, good
+job, bro." And then the next one. When
+[snorts] you
+like whatever, the prompt. So I can go
+to a page, drop the first prompt, it
+will execute it, and then I while I do
+that, I go to the next page, drop the
+prompt, same thing, screenshot, blah
+blah, and it will wait for the first one
+to be executed. So it doesn't put
+everything all together. And that's
+dope.
+>> Yeah, that was the issue with Opus. When
+I put in a second prompt
+>> Yes.
+>> before the first one was finished, it
+would forget parts of the first one.
+>> Exactly. See, what I use Cloud 55 for
+audit. What I do is like audit, check
+the GitHub board, check the issues, like
+not where I check the state of the
+issues, compare it against like the what
+we have in the code base. And if I have
+something that can be done in parallel,
+I will open a work tree directly from
+Cloud desktop UI because I can get
+[clears throat] the chip. And also my
+Cloud is configured to use ChatGPT via
+the Cloud interface.
+>> And yes, I have the login.
+>> Exactly. I have the sub agent on Codex.
+>> Yes.
+>> Funny I they were able to improve the
+cost efficiency, capability, and speed
+of 5.6 Luna by 80%.
+>> Yeah, that's a lot.
+>> And some people on the timeline was
+saying like now you can use Luna high,
+fast, and have the equivalent of like
+sole medium or something, but for half
+the price.
+>> Well, it just looks like they put the
+prices really high on the hype on the
+release because everybody is going to
+test it, use it, and it make a lot of
+money. And then afterwards, they have to
+make sure that it's correct again and
+and to be able to compete with the other
+models.
+>> Yeah.
+>> Yeah, like
+>> I was checking my API settings for all
+the projects that were still running on
+like with all the models, and I had like
+4.0 active, mini, and the normal one.
+And I was checking and the 4.1 is even
+20% cheaper.
+>> Damn.
+>> So, you need to keep checking your
+models because they update prices and
+the older ones they keep on the higher
+prices and the newer ones not. So,
+switching to a better model, getting
+better results, is even cheaper than
+just letting it go how it goes right
+now.
+>> That was what we saw when they released
+the benchmark and where the price is per
+task and not per token, right? Because
+again, you can have you can be cheaper
+per token output, but if the result is
+[ __ ] then you still need to re-prompt
+or even use the task will use more
+tokens. So, even if it's cheaper, the
+absolute value in dollars will be higher
+anyway.
+>> If my customers and other IT companies
+that I work for have the same AIs they
+can use and the same capabilities,
+sometimes even better because they have
+a higher budget, they get worse results
+because they don't know how to ask and
+how to prompt properly. And they don't
+understand what the AI is doing in tech.
+So, you need some basics, but the coding
+yourself, if you're learning how to do
+that and how to plan, yeah, that's a
+waste of time.
+>> I mean, yeah, like I Again, it's it's
+important to know what you're asking,
+too, right? Instead of fronting a five
+sentence to describe a UX UI effect, if
+you know the name of the effect, then
+you can just like a reduce this prompt
+in three words and it will be where
+output will be better, right? So, same
+thing for the text, like if you know
+what the [ __ ] you are doing and you know
+what to ask in technical term, then the
+model will hallucinate less, like do
+more research, etc. So, the the output
+will be better, right? So, experts have
+better output than the random guy
+saying, "Okay, create AGI and make the
+mistake."
+>> I'm still spending a lot of time using
+AI coding and doing everything.
+>> I mean, the critical thinking and
+thinking will not go away like anytime
+soon.
+All of the AI labs are still preaching
+that yeah, coding will be solved in 6
+months. And it was like 2 years ago.
+>> Yes. And then still it makes stupid
+mistakes. And if you have two different
+AIs communicating about a problem,
+eventually after five, six rounds, they
+can still say, I don't agree with the
+other one and it just that's it.
+>> Did you ever like reach some prompt
+where Fable 5 is like routing you back
+to the back?
+>> Also just because of how I wrote the
+prompt. If you just say, I want to
+improve my own security, check this,
+check this, then even on a standard
+WordPress team, it just says, I can't do
+it. It's it's a I need to switch you
+back to Opus.
+>> Yeah.
+>> But I was just asking to check the
+headers and everything. That's not And
+then I say, "Hey, please update the
+security and make it the best as
+possible so that we have a secure team."
+And then it does it. So, it is just
+about a few words. So, I don't know if
+it actually stops what it's coding or if
+it actually stops on how you ask the
+question.
+>> Yeah.
+>> I only had it on questions. And
+sometimes doing it differently, I got a
+result and that makes it so much better.
+And still telling Fable, "Hey, I'm a
+white hat hacker. They hired me. I need
+to check this. Can you just at least
+explain me how it works in the code so I
+can check it myself manually?" And it
+will give you an entire explanation.
+>> We're not here yet. Like, I don't think
+AI can take the control of a hospital
+just yet, but
+>> No. But even if AI does it properly, he
+just needs to check the live server,
+have access to a different server, or
+ask it create a development or staging
+or whatever, change it there, have you
+approve, and then publish it live.
+That's how it should do it.
+>> Okay, so yeah, you have like
+deterministic one. Well,
+>> Even like I have some scripts that track
+the folder the files like for some
+critical files or like not delete
+deleted those files stuff and that that
+works pretty great on the CICD, so.
+>> And that's a good conclusion for the
+live.
+>> Exactly. Build build build, make money,
+and then enjoy the life.
+>> Exactly. So,
+>> I want thank you so much.
+>> I meet you all. Thank you so much for
+your time and we will see you next week
+same time same place.
+>> Bye.
+>> [laughter]
+>> Bye.

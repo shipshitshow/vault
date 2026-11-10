@@ -4,11 +4,18 @@
 
 The catalog includes historical inventory and verified episode links. Visibility and ASR review state are recorded per entry.
 
+- [Your SaaS Will Get Hacked. Do This Now!](2026-11-05-timLg3kKS4s/overview.md) — 2026-11-05
+- [Genfeed.ai: The Open-Source Higgsfield Alternative](2026-10-29-kH3jy7CK1YU/overview.md) — 2026-10-29
+- [OpenAI Will Go Bankrupt Before 2030](2026-10-21-MTbYJ4o2EQg/overview.md) — 2026-10-21
+- [Is Meta Muse Wonder Any Good?](2026-10-14-mYkxfB4ib7E/overview.md) — 2026-10-14
+- [Grok vs. Muse vs. Dots](2026-10-07-yWYCVI9JsfA/overview.md) — 2026-10-07
 - [Sonnet 5.5 vs Opus 5.5: Why Anthropic Won](2026-10-01-WOTzkAWvb0w/overview.md) — 2026-10-01
 - [GPT Astra: How Do We Make Money Post-AGI?](2026-09-10-r6o5wFD4P-w/overview.md) — 2026-09-10
 - [pstack: How The SpaceX Team Actually Runs Grok Bot](2026-09-02-1ZbR2qie8rk/overview.md) — 2026-09-02
 - [Stop Paying for AI Models. Free Ones Are Good Enough](2026-08-28-mz5xo-QX1VM/overview.md) — 2026-08-28
 - [I Gave Grok Bot One Job: Find Me Customers While I Sleep](2026-08-19-zyQEwa5IYvk/overview.md) — 2026-08-19
+- [The State of AI Engineering in 2026](2026-08-14-tdxdLBxAJ0Q/overview.md) — 2026-08-14
+- [HeyPocket Meets My Vibe-Coded Zendesk](2026-08-13-bNAQtKp1pAo/overview.md) — 2026-08-13
 - [Fable 5: One More Week to Leave the Underclass](2026-07-08-0BsdC05aQp4/overview.md) — 2026-07-08
 - [Fable 5 Is Back. Sonnet 5 Got Complicated.](2026-07-03-mTMojeiIX0o/overview.md) — 2026-07-03
 - [How To Use AI Loops With Claude & Codex](2026-06-24-B2Sw4FqemtI/overview.md) — 2026-06-24

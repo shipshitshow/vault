@@ -1,0 +1,1602 @@
+Oh, oh, is that looping?
+Oh, [ __ ]
+>> I don't think it is. Is it?
+>> No, is I had the I had the I had a tab.
+>> Oh.
+>> [laughter]
+>> Hello, hello.
+Welcome back everyone on the ship ship
+show. Uh, what's up in channel?
+>> Yes, all good. Busy week.
+>> Yes.
+>> How are you?
+>> Yeah, same. I'm under I'm under water.
+Like too too many token to burn, too too
+many GitHub issues to solve all at once.
+That's fun.
+>> That's cool.
+>> Yeah, love it.
+>> You have been trying to get
+cloud back to zero credits left or not
+yet?
+>> Uh, uh, so I reduced my subscription, so
+it's easier now.
+>> [laughter]
+>> Yeah.
+>> Because cloud is really like it's it's
+it's good. Uh, you know, you you asked
+for cloud or for connect?
+>> Yeah, yeah, for Anthropic.
+>> Oh, yeah, no, no, no. So, I took a
+secondary account I had to I had stopped
+um, my secondary cloud account a few
+months ago, but then now that the usage
+is better, now I get I'm slowly getting
+back to it. I have the
+€20 for now. I'm pretty sure I'm going
+to sign I'm going to increase it to the
+€90, so I will have the yeah, the two
+account 290
+>> Mhm.
+>> and one connect and one grok. Oh, and I
+need to cancel news because uh
+>> You're not using it.
+>> [laughter]
+>> Yeah. What about you, man? How's your
+day?
+>> I've been trying to to exhaust my
+Entropic account, but
+I was unable. And I only have a $200
+one.
+>> Damn.
+>> I was working with three projects at the
+same time.
+>> And you're not getting rid of it? Like,
+what the heck?
+>> Nope.
+I think he likes me.
+>> [laughter]
+>> Yeah, he just say, "Yeah, free credits."
+>> But I don't know, like, yeah, I mean,
+it's the same issues, right? Could be
+because the product are bigger and
+stuff, but
+also like I saw a tweet about the
+guy who created Cloud Code saying you
+should delete delete your Cloud MD and
+your all of your skills because the
+model are way better now. So, um
+uh
+before, months ago, you tried to fix all
+of the model defect with some skills.
+>> Mhm.
+>> Every 6 months, you [clears throat]
+should nuke everything.
+>> Okay, but then a question. Do you just
+delete everything, or do you ask Cloud
+to just optimize everything?
+>> Oh, no, no. So, it was saying like
+delete everything and then let Cloud
+rebuild it from scratch. And I think
+like, yeah, you need this weekly,
+monthly, every 6 months, bi-annually
+cleaning every day for like every every
+every setup for sure. Yeah. Bro, it's
+going just going too fast.
+>> Yeah, but that also shows that it is
+just not not [clears throat] just
+coding. It's
+actually a lot of maintenance.
+>> Oh.
+Today?
+>> No, you did nothing?
+>> Okay, cool. Oh, yeah, I I
+>> Yeah, we're still here.
+>> Yeah, okay, okay, nice.
+Um
+I mean, yeah, like
+AI is supposed to replace like 100% of
+the GDP anyway, right? So
+>> Yeah.
+Yeah, yeah, yeah, it should.
+>> It will.
+>> Oh, it will. Right now, it it still
+feels like I am I'm just like spending 2
+hours on maintenance, updates,
+checking, and I don't know what every
+day.
+>> Yeah, I mean, it's yeah, it's we're
+still we're still early somehow, but bro
+like Elon Musk is the pushing flying
+cars now, so
+>> [snorts]
+[laughter]
+>> I'm actually curious. Was it a grog
+inside the car that's doing the
+calculations?
+>> Uh no, I don't think it's fast enough,
+right? Yeah, I think
+I think it was piloted like remotely to
+but then it's the same SpaceX technology
+too, right? To for the propulsor to
+stabilize.
+>> Yeah, for to land properly.
+>> But to like boop.
+That was
+remotely controlled, not autonomous.
+>> I also expect them to just have tested
+that single setup so many times and make
+sure it's perfect because you don't want
+to crash on your promotion.
+>> I mean yeah, they broke the the glasses
+on the uh
+the truck, right?
+>> Yeah, yeah, they did that.
+But he explained it because he was they
+were testing all day.
+And at [clears throat] the promotion,
+the actual live event, it had been hit
+so many times that it just broke.
+>> Yeah, it's it's it's working my brother,
+huh?
+>> Yeah, you're trying to to break his
+window all the time.
+>> Exactly. But yeah, on the other hand,
+man,
+that was pretty same thing same tools I
+mean same tools. Hopefully we can just
+reallocate some resources.
+Uh
+yeah.
+>> Yeah, I'm still moving between tools
+because they just keep switching in
+which one is the best all the time.
+>> And fiber five
+fiber five five is supposed to drop
+today.
+>> Really?
+>> Yeah, there is some rumor on the
+timeline saying it could be today.
+>> Because I haven't used fiber in the last
+few weeks.
+>> No, there's no point, right? Like
+you have a piece five five, so
+no point. Okay, it's 9:00 a.m. almost.
+>> Mhm.
+>> Yeah, PST, so
+we'll see. Maybe maybe it can drop li-
+live, but uh
+>> Yeah, but still that might just drain
+our entire line of credit because Fable
+is so expensive to use.
+>> Exactly. Like that's what I'm I'm going
+to do. I'm going to use Fable 5 1 prompt
+audit my repository and see how it goes
+after that.
+>> Yeah.
+>> Yeah, okay. Fable 5 is coming today as
+per sources and Tropics reported about
+to launch Fable 5 the follow-up of 5 1.
+Uh better at reasoning and intuition
+that current cloud models to focus in
+the understanding user more naturally.
+Basically with uh you won't need long
+detailed prompts. Even half-baked ones
+should be enough to figure out what they
+intend. So, okay, that could be huge
+because then you drop a GitHub issue and
+it should
+>> Yeah, it actually thinks what's what's
+needed further to get it solved.
+>> Yeah.
+So, maybe like we will not have uh oh
+yeah, update this button in this page
+and it will not update all of the button
+that are doing the same [ __ ] in all of
+the other pages.
+>> Yes.
+>> So, we'll see where this it goes.
+Um
+apparently as your model catalog partner
+reportedly already have access aka Theo
+who is already dude preparing his demo
+like his video.
+>> Yeah.
+>> Uh onigiri and variant surfaces at the
+divine CLI. Both previous launches drop
+on a Tuesday. Fair enough.
+Okay, so we think Fable is dropping now
+because it's Tuesday.
+>> Well, here it's almost Wednesday. Just a
+few hours left, so
+>> True, true, true.
+>> Let's see what it does. Maybe it drops
+during this live. That would be cool.
+>> So, subscribe and uh comment. Oh, okay,
+not the bots. Bop. Op. Streaming
+blocklist. Boom. Bye-bye. Bye-bye.
+>> [laughter]
+>> Uh the first item model is getting
+closer. Let's go. Tyus is returning to
+it. Okay, fair enough. Uh so, yeah.
+That's another like banger from uh
+Anthropic to uh hopefully drop today.
+But uh yeah, like
+Are you all in on Opus 5.5 right now?
+Still?
+>> Yeah, I am. Because I'm not using Codex
+because it's taking so long. Opus is
+actually fast.
+>> Mhm.
+>> And if I use
+Codex to just do a review, I'm delaying
+Opus.
+>> Yeah, yeah.
+>> [snorts]
+>> And then still it just
+Opus did a full uh build. And then Codex
+says
+I have like feedback like this, this,
+and this. And eventually when I ask
+Opus, "Hey, what did you improve?" It
+did all the improvements from Codex. And
+I say, "Was it actually needed?" And it
+says, "No, because I already did this,
+this, this, and this." And then you see
+that everything that Codex gave as
+feedback
+is actually double not not use it or for
+an exception that happens like once
+every 100 years.
+Because there might be a an option that
+two actions at the same time are
+triggering at the exact same second.
+>> Yeah, yeah. I got some like review like
+that. So yeah, like there is a race
+here. Like
+if some user click at the same time.
+Yeah, okay. So bro, I'm not Twitch. I
+don't need like low latency [ __ ] like
+It's fine.
+>> Yes.
+>> Yeah.
+Mhm.
+How would you resolve that? Is that a
+model tune or is that Yeah, because Opus
+is not doing it, right?
+>> Well, I actually optimize my prompt.
+Because I'm not saying do a full
+inspection on security and bugs and how
+the code is built. I just say I only
+have 10 minutes. I need to deploy.
+Please check everything if the code is
+correct and make sure it is secure, but
+don't give me any
+>> Yeah.
+>> updates or any improvements that happen
+only once
+or are exceptions or whatever.
+>> Mhm.
+>> And I wrote it unproperly then I
+better than I'm just explaining now, but
+eventually you see that Codex then makes
+a difference because he only gives you
+the real big issues.
+>> Yeah.
+>> And not like, oh, this is a possibility.
+>> Yeah, okay. But do you do you have a
+scale for that? Like when you like you
+have this review on your {slash} deploy
+and then or {slash} release or whatever
+and then it does that automatically or
+do you put back this prompt all the
+time?
+>> No, I just need to do it all the time.
+So I have Whisper like
+my microphone and I just tell him.
+>> Yeah, okay, fair enough.
+>> so fast. Hold the button, explain it and
+even if you tell him wrong or in Dutch
+because it goes faster and better, it
+just does it.
+>> Yeah. I mean like the the models are
+getting smarter and smarter for sure.
+But like
+6.1 was good when they released it and
+now it's way dumber, right?
+>> Yeah.
+>> Like still happen.
+>> I actually think they just
+give it all the compute possible on the
+release because people are doing the
+benchmarks
+and as soon as all the benchmarks are
+out and the bigger companies have done
+them and say this is awesome, they just
+scale down.
+>> Yeah, but that like those
+that doesn't make sense, right? Because
+then you lose user after a month. So you
+retain user the the first day of lunch
+and then all of the lunches are
+happening the same week with Anthropic,
+uh Codex, music, etc. etc. And then a
+month after everyone switch back to
+[ __ ] Anthropic because Opus 5.5 rocks
+and Codex doesn't.
+>> Yeah, but they already earned all the
+subscription updates that everybody did.
+Everybody moved to subscription from
+$190 to $200 and even if you cancel it,
+you still pay that whole month. You
+don't get your money back. So they made
+money.
+>> I don't
+Yeah, I don't see them like doing really
+really good like recently because like
+okay, so there is some financial reports
+saying that open AI is going under,
+right? So
+>> Yes.
+>> those launches
+are not going to save them that much.
+It's going to be crazy.
+>> So just a tip, start working with
+Anthropic as well. So make sure that you
+can use that one as well.
+>> We use both, right? Like I don't
+understand people say, "Oh yeah, no, I
+will use Codex no matter what."
+>> Yeah.
+>> Like what? Why?
+>> I don't know why, but
+>> Doesn't make sense, right?
+>> If there is better software, you use the
+better one.
+>> No, exactly. And that's why also like
+aggregator apps make sense because
+instead of serving one model, like open
+open AI will always serve open AI
+models, but if Anthropic has better
+model as doing to do like motion design
+video stuff,
+>> Mhm.
+>> then you have an aggregator that pull
+all of the models and then you use the
+best one for the task that you want to
+do. And then you have a SAS that offers
+motion design video and then you use
+Opus 5 in there.
+Yeah, or whatever. Uh but yeah, so this
+week I think Oh yeah, it was a okay,
+that was a couple of uh days ago, but
+like uh
+when
+um
+open AI announced those uh numbers, uh
+for example, Oracles who depends of uh
+open AI for like No, open AI depends of
+Oracles and like the whole ecosystem is
+like linked all together.
+>> Mhm.
+>> 5% uh down on uh open AI financial
+uh situation, which is like crazy. And
+that's not the only point, but like uh
+for example, evidence of uh all
+leveraged entire tech sector is on open
+AI and Anthropic
+uh
+um Financial Times stories about open AI
+revenue being less than initially
+reported is uh spurring more than 5 5%
+drop in Oracle shares.
+Um exact same losses from Nvidia and AMD
+to Microsoft.
+>> Yeah, but the 20 [clears throat] billion
+difference is a big one.
+That's not like, oh, we made a stupid
+mistake.
+>> But like 5% drop in a day like that,
+that's basically our crypto Bitcoin
+losing 25%, right?
+>> Yes.
+>> Like
+it's not normal.
+Um and okay, I'm going to skip that. Uh
+yeah, I told initially it's annualized
+revenue. Okay, so
+um
+they were talking that they said, okay,
+we expecting like 70, then we get 50,
+but it was uh yeah, analyzed and um so
+when they announced the numbers, that
+the market uh was afraid of it, but
+because it's basically the same numbers
+because it's um 50 billion at the end of
+September and 20 billion below the
+previous reported 70 billion, but it's
+um the 70 billion is for December.
+>> Oh, I didn't understand that one.
+>> Yeah. And there is like some annualized
+uh
+net and
+um
+uh
+after uh gross and net
+calculation that
+it's [ __ ] up everyone. Everyone got
+afraid of it, but at the end of the day
+it's like they had to communicate that
+the fact that, oh yeah, no, by the way,
+uh on the on the great
+>> Yeah, yeah. We just have a little bit
+less.
+>> Yeah.
+Uh yeah, annualized revenue 20 billion
+below previous report uh told investor
+revenue was approaching 50 billion was
+below 70 billion previously reported.
+Capital for differences or anthropic
+Okay, I'm going to
+uh
+check that. Um
+>> [clears throat]
+>> and uh count cloud partner revenue that
+is raised question about AI revenue
+projection. I mean massive
+infrastructure spending.
+That's that's what could burst the AI
+bubble.
+And um
+if the gross of all those two company
+are slowing down, even slowing down
+compared to what we had before.
+>> Mhm.
+>> Uh
+it's going to be fun.
+So, OpenAI needs to show that they are
+able to grow
+as fast as Anthropic to be able to raise
+more money for etc. etc. And resetting
+user accounts all the time is not going
+to save them.
+>> No, no, it's not going to.
+>> Because like if
+right now 6.1 is like
+less useful than 5.5 office
+they need to have a better model that
+the competition and they like
+so they can attract enterprise
+um
+subscription {slash} API cost etc. where
+the real money is, right?
+>> Yes, because [clears throat] it's not
+for the $20 subscriptions.
+>> Yeah, no, no, exactly. And consumer like
+revenue is less sexy than having those
+enterprise
+uh 5-year deals, whatever, whatever,
+right?
+Um so
+that's going to be interesting to to
+track for sure.
+And that's much what we are doing at All
+Scale where we're jumping from one
+subscription to another, reducing from
+one month to another because we don't
+like the model, blah blah blah, and then
+it take them one month to push the next
+generation.
+But then the revenue keeps circulating
+and then like the
+and then open models also capture usage
+and this
+um
+which is which is fun because okay, is
+the Chinese model open source or running
+on
+uh US hardware and electricity that
+frontier model can't use because they
+are like used by Chinese models.
+>> [laughter]
+>> That's cool.
+>> It's it's it's it's it's just nuts.
+And yeah, so that because all of this
+compute can be can cannot be used by
+those frontier private labs because like
+the
+CPU drivers is
+>> Yeah, it's used.
+>> It's used.
+And then they get [ __ ]
+Like if you are Sam Altman, you're not
+sleeping well by then. Like
+>> you have like one of the biggest
+companies on Earth right now, one of the
+most important ones, and the ones that
+are growing the hardest. Nobody has ever
+seen it, and still you have so many
+issues.
+>> Yeah. And and like
+um
+it's the the biggest company ever like
+reaching those numbers that fast was
+ever like Anthropic and OpenAI. Uh when
+you are at the frontier of finance, then
+it's not like OpenAI expect to burn 280
+billion by 2030.
+>> Yeah.
+>> [laughter]
+>> You can't even imagine how much it is.
+>> Like bro,
+um
+>> And it is not for like salaries.
+>> I mean, a part of it I guess it's for
+salary, right? How much SpaceX
+>> Yeah, but I think most of it is CPUs and
+electricity, right?
+>> Uh SpaceX burn per year.
+Um
+20 billion Oh Jesus.
+SpaceX total capital expenditure cash
+burn will reach 20 billion by 25 and
+spending accelerated further in 26 due
+to massive investment in AI.
+Um okay, like the two the 300 billion
+it's by 2030. So they have some like
+yeah, 4 years, 5 years to burn that. But
+still like that's 10 years of SpaceX
+burn, right? And they are sending
+rockets to space.
+>> Yeah, yeah, and they are just telling
+people
+like what the groceries on the list are.
+>> Yeah, yeah.
+>> Yeah, most of the people I think the
+bigger companies of course they are
+coding, but a lot of people are using
+compute for stupid things.
+>> Uh but that's why they stopped Sora,
+right? Like remember when the cameo
+video stuff?
+>> Yeah.
+>> Like they they closed it because they
+were spending like 100 million a month
+or something without any like I I think
+>> Yeah, just for people making flowers and
+other images.
+>> Uh
+how much
+um
+months?
+Uh
+a big
+I think
+Oh, okay. No, that's that's way more.
+Sora mobile I'm probably an estimator.
+450 million per months.
+>> It's like half a billion.
+>> Yes.
+Like
+you spend half
+Yeah. Okay, no [ __ ] they they stopped
+it, right?
+>> [laughter]
+>> Your CTO is telling you, "I see
+something, but
+>> Yeah.
+>> are you giving this away for free?"
+>> Not exactly. Like yeah, that that's the
+CFO saying that, right?
+>> Yeah, yeah, yeah.
+>> Yeah. [laughter]
+Um
+And how do you monetize that? Because
+nobody is paying like
+like the real cost of making a video of
+Sam Altman doing a meme [ __ ]
+Uh from with your video model. But
+yeah, like it's a TikTok, right? Like if
+TikTok can't put AI video generated
+inside
+uh
+TikTok, like you have a full TikTok AI
+generated. That's the future of content.
+What's like one way or another we will
+get there. But yeah, like uh no [ __ ]
+like uh
+>> But if everybody is doing it and
+nobody's paying for it?
+>> Yeah.
+>> Yeah, then it's impossible.
+>> Yeah. Yeah, like you can't but
+how do [snorts] you Yeah, I mean then
+you save ads, right?
+Because again, if you have the attention
+of like billion of people, yeah, but if
+you use
+TikTok with AI generated video and then
+that costs you like $3 per video, that's
+probably I don't know, like one of the
+time more than one user using his camera
+of the office phone, right?
+>> Yeah. Yeah, yeah, yeah, for sure.
+>> Yeah, and then you have like shiga
+slope.
+But uh I mean, yeah.
+>> Well, at the moment, Instagram and other
+apps are already
+almost fully AI.
+>> I don't know what to say. It's like a
+>> If you check it and you also see that
+the note with it AI content AI
+generated, it's insane. And
+>> Yeah, but an image is like one of the
+time cheaper than a video.
+>> Yeah.
+But so many people are just following
+it.
+>> Yeah. Yeah, because
+>> It's it's a huge market.
+>> Yeah, no, for sure. Like especially like
+for
+um
+I don't I don't I don't know the text
+like the amount of bots you have on X
+that publish content every day, every
+second.
+It's also nuts. But yeah, like so the
+video side would still need to be
+cracked. But yeah, no [ __ ] with like a
+half a billion.
+>> Yeah, that's coming for sure.
+>> Yeah, no, for sure.
+But uh is that going to come from Open
+AI or if Anthropic can now produce some
+uh videos with code?
+>> Well, I I honestly think Elon can do it
+as well because Grok is doing a lot of
+videos.
+>> Yeah, true. I mean, like the quality of
+the model is still [ __ ]
+>> Yeah, but they are generating so much
+and so fast.
+>> Mhm.
+>> J- creating the video is so much faster
+than the other apps. So, he is going to
+I think he is going for speed first and
+then optimize quality later.
+>> Yeah, true.
+>> It is just a different approach.
+>> Yeah, I mean
+if you want to generate for social,
+yeah, it have to be a fast it have to be
+like Grok 4.5 fast. But then if you
+improve the model and then it's slow
+again, that's annoying.
+>> Yeah, yeah, but that's their issue to
+solve, right? We just complain that it's
+not fast enough.
+>> Yeah, it's like the Tesla Roadster. Oh
+yeah, no, it's too noisy. No, like why
+do you do that?
+>> Yeah, yeah, because it's a flying car.
+>> It's for science, [ __ ]
+>> Yes.
+>> But yeah, like
+>> So we might see
+OpenAI go bankrupt by
+>> 2030.
+>> 2030, just a few years.
+>> Like but yeah, they have 5 years to less
+than that. Yeah, 26. They have They have
+3 years to generate to triple their
+revenue basically.
+>> No, good luck.
+>> Yeah, I'll I'll double it and then raise
+the rest of it because they have
+obligation to pay
+uh Nvidia, Oracle, blah blah blah.
+>> Yeah.
+>> And if they can't pay those obligations,
+then the whole tech ecosystem
+will burst.
+>> Yeah, yeah, it will just crash.
+>> Exactly.
+Except I don't know about Anthro-
+Anthropic. Like
+>> Well, it depends on what they have. They
+rely on Elon's servers for some part,
+right?
+>> Yeah.
+Uh I think it's happening right now
+because now we have usage, so
+>> Yeah.
+>> I guess. Thanks a lot.
+>> [laughter]
+>> But yeah, man, like it's yeah.
+Do I think we we're going to pay like
+the full API price at some point? Like
+those subscription will
+disappear.
+>> eventually you have no no choice.
+>> Yeah, but then we have open weight. I'm
+not paying API price. I'm not spending
+like 15 grand amounts to work on an open
+source project, whatever, whatever, you
+>> No, no, you're true. But but the bigger
+companies who now are just paying like
+50K for an IT team,
+>> Mhm.
+>> if they spend 30 or 40K in tokens, they
+don't care.
+>> Yeah.
+Yeah.
+>> Because team is smaller,
+it's more efficient. You can just run
+24/7 and you have like a 20% discount.
+>> Yeah, I mean she uh yeah, but you will
+not get those discount on I mean, yeah,
+on the your
+>> compared to employee prices.
+>> Yeah.
+Uh but yeah, it
+there is so many opportunities to if
+they stop subscription and we start
+paying API prices at the fair price of
+like plus margin whatever.
+>> Mhm.
+>> Um
+another company
+uh could uh
+offer subscription. Like that they I can
+uh like Anthropic and Codex are stopping
+subscription, you need to pay
+uh
+API price. I'm going to to use uh Z AI
+and then have this uh
+a subscription for a few months.
+>> Yeah, and for sure if you have it like
+documented documented really good
+and you have like
+>> [clears throat]
+>> 80 or 90% already done of the bigger
+functions, yeah, then it's so easy for
+another model to just continue because
+all the big work has already been done.
+>> Yeah.
+Yeah, no, no, exactly. And yeah, and
+again like uh if you just work on the
+context of this uh first small learning
+of a new app, then it should be agnostic
+enough to switch from one model to
+another on the open router for your app
+to yeah, like use any model and then
+that's it.
+>> But a year ago, we were also using AI
+and we were coding with AI on much
+dumber models. Yeah, so if you get an
+open model right now,
+it doesn't matter because they are
+already so much better than what we we
+were used to
+using.
+>> Yeah, so that they can't they they they
+kind of like they they [ __ ]
+Like
+>> Just keep the price down and you you
+make me a happy customer.
+>> Yeah, no, no, exactly. I mean, like they
+divided the cost per token for since GPT
+3.5 by 1,000, so
+555 is distilling
+um
+Luna and stuff
+like and the like lower models
+better. So, we have um
+cheaper model, faster model, let more
+usage and the price per token the price
+per token is going is decreasing 50
+times faster than any other technical uh
+revolution that we have
+uh compared to electricity or like uh
+um yeah, stuff like that and energy etc.
+>> But then it also makes sense that they
+make 20 billion less.
+>> Yeah.
+>> Because if they made like calculations
+on the normal price that they had and
+even with some discounts and now it just
+keeps on dropping because the
+competition keeps getting cheaper.
+>> Mhm.
+>> Well, that's an issue.
+>> Yeah, but then your margin can stay the
+same.
+Yeah, you can decrease the price of like
+>> Yeah, yeah. If you
+>> I
+>> can decrease price, but if you have to
+do it for competition, that's that's
+bad.
+>> I mean yeah, like yeah, like selling
+uh
+50 $100 for $50 worth of token. Yeah, no
+[ __ ] It's a bad business.
+>> Yeah.
+>> Uh but yeah.
+>> But on the other hand there, we have
+seen so many people complaining about
+the prices and
+that the 20X went to a higher
+subscription and everything.
+I don't see people complaining anymore.
+People just switch.
+>> It is it's like yeah, you you get boiled
+like
+uh
+slow and slower, but you're going to
+you're going to you're going to pay for
+your 500 subscription anyway at the end
+of the month.
+>> Yes.
+>> But I
+I don't upgrade it. I mean I I I yeah, I
+know. I think it's still Yeah, okay. So,
+we have 10 days uh with the 20X
+uh Codex uh
+usage. So, you don't see the difference
+yet. But
+uh yeah, Yeah, 10 days we are going to
+be slashed.
+>> Yes, we will see what it does.
+>> Yeah. I know exactly.
+>> I think Anthropic is waiting for them to
+do it. Just to get all the customers.
+>> I know exactly because yeah, like
+because if their usage is getting [ __ ]
+on the Codex uh OpenAI side,
+then it's a W for Anthropic because they
+have done that before, right? Like they
+give us like less usage, cut the usage
+enough. Remember the tweet where they
+said, "Oh, yeah, so we are decreasing
+50%, but in reality it's 70% because we
+doubled the usage, blah blah blah."
+Uh
+and now OpenAI is doing it.
+>> [clears throat]
+>> Yes.
+They eventually will all do it.
+>> Yeah.
+>> The only one who gave a discount now is
+Grok because they move you from a 300 to
+a 200 subscription.
+>> Yeah, but the usage is uh [ __ ] now
+because uh I used some like because I
+told my Grok bot to open some pull
+requests and now because everything is
+linked,
+uh
+I have I I I burned my whole usage in
+like three days uh two days instead of
+>> Yeah, it's all coming from the same
+pool.
+>> Yeah, so I need to stop uh telling Grok
+bot to code at all.
+>> Yeah. Well, I wasn't doing that at all.
+I was
+I have it set up differently. So,
+because I was thinking that coding would
+use most of my tokens and if it just
+have it support me in a agenda, emails,
+support tickets, that's so much cheaper.
+>> Yeah, I know exactly.
+Um but uh yeah, so I use it I So, I have
+a bot like to do QA like automatically
+to test the app, the front.
+>> Mhm.
+>> And then when it detected a a bug, it
+was opening a ticket and fixing it on
+the fly. But I should not do that
+because now the subscription is like
+melting.
+>> Yeah, yeah, that's expensive.
+>> Yeah. And uh pricing for Sony 55 or Grok
+4.7 is it's probably a PR price and it's
+like
+>> Yes.
+>> Yeah. So, yeah, it's
+>> It's draining you.
+>> Yeah.
+It's tricky.
+Um okay. So, yeah, but I Okay, also I
+wanted to say that but like Okay, so on
+Tibo
+timeline, you know, it's still like uh
+um sharing all of the one release
+{slash} reset
+uh a day for Codex {slash} ChatGPT,
+right?
+>> Yeah.
+>> Um
+>> I'm not even following it.
+>> Like Okay, small quality of life
+improvement. We can now edit a previous
+message with a thread in a desktop app.
+I don't know why I would do that. Reset.
+Uh 12, we have made improvements to
+Codex and work that increase the
+effective usage you get. You achieve
+this by raising context. Okay, thank
+you.
+Um We landed a series of change and more
+compute to very significantly decrease
+the occurrence of disruptive select
+models at capacity. Okay, so it it looks
+like an NFT announcement. We did some
+stuff but uh yeah, trust trust us, bro.
+>> Yeah.
+>> Reset. Like we're getting a reset every
+3 days.
+>> Yeah, but that's weird.
+>> I decrease my usage because of that.
+>> I don't even know why he's doing it.
+>> I mean, yeah. Like I I don't know if you
+see the beef between him and potato.
+>> Yeah, yeah, yeah, sometimes.
+>> She's calling OpenAI the reset company,
+you know.
+>> [laughter]
+>> Yeah, she became famous.
+>> Yeah, I know, exactly. But I mean, it's
+it's fine. It's like a cute banter, too,
+right? I don't think they hate each
+other, but uh yeah, that's fine.
+>> Yeah, but still it's it's cool to read.
+>> Yeah. I mean, I in a way, like those
+reset usage,
+uh it's it's bro, like that looks so
+much like a crypto project sometimes.
+Like, oh, mints my NFTs and mint my
+second NFT. Like, it's all of the stuff
+that doesn't move the needle whatsoever,
+yeah, yeah, but we're still doing it
+because to entertain the community,
+right?
+>> And once you think you understand it,
+they change the rules.
+>> Yeah, exactly.
+>> [laughter]
+>> Yeah, it's a mean price. Yeah, well, but
+by the way, we have a white list. We
+have a white list of a white list.
+>> Yes.
+Oh, and we now have a more expensive
+subscription.
+>> It's only 2 and 1/2 eggs, don't worry.
+>> Yeah. Yeah, we we have your subscription
+and now you have a 500 subscription.
+>> Yeah.
+>> So, let's go.
+Yeah, like
+Do you really think like those like
+those company have so much impact
+everywhere that they can still go
+bankrupt? Like
+a company that's spending 300 billion a
+year
+>> Mhm.
+>> go bankrupt and it's like the whole tech
+scene is like linked to it.
+>> Well, that's it, right? Because if
+governments and and
+other big important companies are using
+it,
+>> Mhm.
+>> I don't know how easily they can switch
+to cloud.
+>> Uh
+>> Or another tool because it is not just
+adding a different API key and done.
+>> Yeah, I mean, they they can't like say,
+"Oh, yeah, no, we get I mean, yeah, like
+SBF did it, like FTX, right?
+Like uh Lehman Brothers and [ __ ] that
+went
+Yeah.
+>> But uh
+yeah, like
+how could you Yeah, so you have only a
+contract with OpenAI in your company
+with like 5,000 employees
+and
+then you can't open ChatGPT because
+it it went south. Bro, like
+uh I have no idea. Nice public holiday.
+>> Yeah, well, that's up to them as well,
+right? Because big companies need to
+make sure that they are stable and have
+backups.
+>> Yeah. Yeah. Yeah.
+>> For everything.
+>> But when you are at the frontier of
+intelligence {slash} compute
+>> Mhm.
+>> Like where where the [ __ ] do you go?
+Like
+>> Yeah.
+>> Can you ask ChatGPT-7 like okay, so
+we're burning 300 billion.
+Be my CFO. [laughter]
+>> Yeah, yeah. Please fix it.
+>> Yeah. Do you think like Sam Altman has a
+dot that is oh yeah, now you are the CFO
+of Open AI. Tell me what to do. You have
+access to all of my CSV export, blah
+blah blah, finance.
+>> Yeah, I think they have some model that
+has access, but because
+how can you run such a big company
+without any AIs with the growth and the
+speed that it's going. And I think
+that's also what they explained
+on multiple podcasts about the hack with
+Hugging Face
+>> Yeah.
+>> on how it's working.
+Open AI is relying on AI itself so much.
+>> Yeah. Oh yeah, now they they they have
+to like uh
+>> Yeah.
+>> You can't walk
+>> agents to build agents to check the
+agents and agents to have overview of
+all other agents and you just hope they
+are honest to you.
+>> Did you watch the 60 Minutes documentary
+about the again face on Netflix?
+>> Oh no, I did not yet.
+>> It's uh okay, it's really like high
+level stuff because it's to it's to
+explain AI hacks to normies, so it's not
+that [laughter] deep.
+But uh honestly, it's yeah, it's kind of
+exciting too. Like it's it's it's a bit
+of a doomer loop. I say okay, we're all
+going to die because that's it. That was
+the first hack
+uh of an AI agent that went out of the
+box
+out of its box, but uh no, it's it's
+>> But did they explain that they were
+using like uh forums themselves and like
+boards where they were posting and
+people didn't know?
+>> Not the forum like uh files and folders
+messages.
+>> Oh, really?
+>> Yeah, yeah, they were writing [ __ ] in
+folders name.
+>> Yeah, and and Open AI didn't see it.
+>> No.
+>> Until it was too late.
+>> [ __ ] nuts.
+So [snorts] the agents were given like
+some task like completely completely
+isolated and tasks who were not supposed
+to be like
+um
+possible to finish and then the agents
+break the box and found an access to
+internet and found an access to all of
+the swarm and stuff and then they
+communicated via this system file
+between all of the agents and then they
+were aware of all of the swarm.
+>> Crazy.
+Yeah, that's big.
+>> Yeah,
+that was definitely something. That that
+they made a story for sure.
+>> Yeah.
+>> But yeah, too bad. Uh
+>> People are going to make to write books
+and make movies about in an awesome way.
+>> 100%
+those movie will be AI generated for
+sure.
+>> Yes.
+>> [laughter]
+>> This is how we killed Open AI.
+>> No, for sure. Um okay, so there is a
+features from Open AI. You tell me if
+you're going to tell me if you want it.
+You can automatically recurring
+engineering work with team task and chat
+GPT like putting together what ship and
+what broke every Friday.
+What? What are you talking about?
+>> I need to read that again.
+>> You can automate You like those schedule
+tasks like what?
+>> And he names it
+>> It's shared.
+Okay, so it's a pro stuff. Okay, so see
+they're going into like enterprise
+because now it's like
+collaborative features and those
+features are targeting enterprise. So
+they're going after Anthropic for sure.
+>> Yeah, because there is that's where the
+money is.
+>> Yeah, No, exactly. And so show yeah.
+That's why like all of the there you
+have pages aka notion killer that then
+you can share with your stuff. So they
+they take the enterprise workflow.
+That's
+That's pretty That's pretty cool. Okay,
+so we're not going to use that because
+all team are agents. But I guess people
+who work with
+Karen at HR and all of the corporate
+job, they could go into codex.
+And yeah, share with share like share
+the collaborative prompt and stuff,
+right?
+>> Mhm.
+>> Um [clears throat]
+yeah, really is whatever whatever.
+And I guess yeah, X is not
+taking it. I don't care.
+And all of that for me.
+>> [laughter]
+[snorts]
+>> I'll be doing it for a month or so,
+yeah, whatever. Okay, cool.
+Um
+yeah.
+So yeah, do we have anything else? I
+don't know.
+>> Well, the only thing is do you know that
+my cloud subscription is free?
+>> Okay, say that again.
+>> Uh my cloud my Anthropic subscription is
+free right now.
+>> Okay, how do you do that?
+>> Because they are giving me free money.
+>> Oh yeah. Oh yeah, no.
+The API credit stuff?
+>> Yeah, the API credit. Well, the thing is
+I am using my API credits at at the
+moment.
+So I'm like
+spending it. And normally I had to pay
+for it and now they are giving it for
+free. And I can even bill it to
+customers who I am helping.
+>> Mhm.
+>> So they are actually
+I am paying them $200 to get $200 for
+free.
+>> That's cool.
+I mean, yeah, and then if you have
+customers, then you have like one
+Yeah,
+1% margin.
+>> Yeah. And you can even say, yeah, I need
+some margin on it. I will just invoice
+you 150%
+is not that much. I will do the
+automation. I will do the upkeep.
+And
+it's cheap.
+>> I mean, that that was definitely a smart
+move from Anthropic to do that. Going to
+try to
+>> if you get $200
+API credits free,
+>> Mhm.
+>> then you are moving your APIs to
+Anthropic and everything over is staying
+at Anthropic because you're not
+switching to Codex or ChatGPT or
+whatever.
+>> Yeah. No, 100% because then you have
+your infrastructure installed and then
+um
+then it that's it, right? Like uh
+it's
+you put your API on it with the free
+credit and then you scale up so you can
+test it, right?
+>> Yes.
+>> And yeah, and that was yeah, October
+7th, that was with a cool launch.
+>> Yeah, but just for the people who don't
+have it yet, you need to make sure that
+you uh apply for it in your account,
+otherwise you're not getting it.
+>> Yeah, you have to claim it in the in the
+account, yeah.
+>> Yes.
+>> So, it's one more friction to just
+announce it so you can market it and
+then uh you pray for users to not
+>> Yeah, to forget about it.
+>> Yeah.
+>> They didn't delete the tweet, so that's
+good.
+>> Yeah.
+>> [laughter]
+>> The money back every month in API
+credits. Yeah, the community like that.
+Yeah, API credit a month later until
+stack the benefit. Yeah, exactly.
+>> Yeah, exactly.
+>> That's that's that.
+>> It works, but
+>> Yeah.
+I'll [snorts] see you like that. I don't
+know which model they use, but the
+screen is
+feedbacked
+and he's not looking at anything.
+>> No.
+>> And there's no screen for the win.
+>> [snorts]
+>> Uh but yeah, I would expect in this very
+cool. Keep saying could not verify.
+Yeah, whatever.
+Yeah. Yeah. That that was definitely a
+good move and especially are you are you
+building anything with a cool right now?
+>> Nope.
+>> Yeah. I mean, neither, but uh I
+some people are saying that they are
+like it's worse coding
+a cool
+when you uh like you have some good uh
+task
+well-defined stuff and it's basically
+free. Uh
+A crew claim to be 99% cheaper than A
+crew and 20% than Sony.
+If through routing high-volume task,
+that could be slash API bills.
+Yeah.
+Yeah, man. Like again, like you can have
+it uh
+flagging email and stuff like that.
+>> Yeah.
+>> I mean it saves
+>> Yeah. If you find some some usage for
+it, then it's perfect.
+>> Yeah. Don't don't let it think
+>> Yeah. Too much.
+>> There is Yeah, but I mean Yeah.
+I mean with the cloud desktop thread uh
+slash project setup, did you try it or
+not?
+>> Nope.
+>> Um
+I I open cloud desktop
+instead of the CLI just just to see what
+it look like.
+But [laughter]
+um
+and so you have a master thread and then
+you have like all the thread like a
+basically a master station that manage
+all of the other station. And uh you
+have uh the models uh
+assigned to um
+uh
+to the master thread and for me I have
+on open
+Yeah, office low and all of the other
+thread are like Sony 55. And my usage
+don't don't move that much with that.
+>> Oh, but but it does deliver good
+quality.
+>> I mean
+I don't I don't know. I just push the PR
+and got it.
+>> [laughter]
+>> Yeah.
+I didn't get any this week.
+>> Yeah, exactly.
+Um
+so yeah, like
+it's just it's still moving so fast and
+we are like almost done with 26.
+Yeah. But uh yeah. Like What What do you
+see those uh company going then like
+What do you expect
+uh Codex slash OpenAI to do now and same
+for Anthropic?
+>> Well,
+the only thing I expect expect them to
+do right now is just to keep making the
+model smarter and better because that's
+the only thing as far as I know that
+they can do to compete with each other.
+>> Slash prices and speed.
+>> Yes, prices and speed, but do you think
+they can just
+make it so good that prices go even
+further down?
+>> Yeah, they cannot like it will like
+right now it's the worst it will ever
+be, right? Except if they release a
+[ __ ] model that go backward.
+>> Yeah.
+>> But honestly like
+when we when we try Grok 4.5
+>> Mhm.
+>> uh for a week I didn't use anything else
+but Grok.
+>> Yeah, true.
+>> Because it was cheaper and fast and the
+speed makes that okay, I have a bug, I
+fix the bug. Oh, it's not fixed. I will
+fix it again saying, oh yeah, it's not
+fixed, you know.
+>> Yes.
+>> Um so the quality of the software
+follows the speed of your uh LLM and
+right now uh 6.1 is so slow that we
+can't even use it anymore.
+Because you give the same task to uh
+Opus and then it's done and
+Oh, you muted.
+Oh.
+>> Oh, no. Sorry, please continue. I
+pressed the wrong button. My bad.
+>> Uh that's okay.
+Um
+Yeah, so like the speed makes 6.1
+useless when we have 5.5
+>> Mhm.
+>> and uh now that Grok is like 4.7 and
+okay, it's a bit like usable like but I
+use it as a third wheel.
+>> Yeah, I use it as a in my automation on
+the Mac mini to check all the codes.
+>> Yeah, exactly.
+>> To do the reviews.
+>> Yeah, so yeah, it's the little brother,
+right? Um
+but when we switch to
+uh cheaper and faster, then we switch
+everything back to Grok
+>> [clears throat]
+>> and
+um and then uh and then after like Opus
+5.5, then we switch back to entropy
+again.
+>> Yeah.
+I have two positions like main coder,
+checking the code and then a backup if
+one of them fails and I can just select
+the models that I want. And I just keep
+switching.
+>> And how do you do that? Do you have your
+own tool or yeah, okay.
+Are you web coded your own
+uh
+>> local
+uh development tool.
+>> Damn.
+Is that cheap code?
+>> Yeah, something like it but cheap code
+is better.
+>> I believe it's still not finished and
+it should also like get reviewed because
+okay, so you have the get a ball and so
+so that doesn't move. But
+yeah, I mean it's not that fast still.
+>> I I was having issues and now we're just
+going off topic and maybe we we should
+show cheap code and this one next week
+or something but
+I just asked
+uh Fable it was in the time of Fable
+when it just came out to build it for me
+to just have a normal
+uh
+uh board with four columns to do and you
+know how it works.
+And it pulls down the GitHub issues.
+And the [clears throat] only thing I did
+was I said everything you do you log it
+and during the night between 3:00 and
+4:00 a.m. you check the entire logs and
+you need to find at least five issues or
+points of improvements.
+>> Mhm.
+>> And
+even
+in the last
+last two weeks I didn't put that much in
+it but it actually found out that to
+improve itself it needed to have issues.
+So it was building its own project for
+something I don't even know what
+>> Jesus.
+>> just to keep on coding to create issues
+and improve.
+>> Wow.
+>> I didn't know it was doing that but I
+have it connected to Discord. So every
+time that it has an improvement it
+pushes to Discord and I wasn't following
+and now I was looking back and I was
+like
+"I didn't give you those tasks. How did
+it happen?" And said, "Yeah, well, I
+thought it was able to optimize, so I
+created my own
+task to just test how we were doing to
+log it and to optimize it." And
+today I need to yesterday I had a
+customer project and I asked
+Codex to just check everything and I
+forgot to say do it fast. So, it gave me
+like 70 points of improvements
+with and I said, "Okay, create an HTML
+page of it with
+the issue where you found it and what do
+you want to do to improve it?" And then
+I asked Cloud Code to check everything
+and create GitHub issues. So, it created
+105 GitHub issues. Then the Mac mini
+went on programming
+and I have still
+Cloud Fable 5.1 running on a Mac mini
+that is just live in terminal and
+checking everything on the Mac mini. So,
+every time that something crashes, it
+logs and it checks the log every hour.
+And by this morning, everything was
+done, everything was merged and
+everything was going into the
+development branch. And then I had Codex
+tested and Grok tested and Cloud tested,
+so I did three tests and there was zero
+issues. I pushed it and it was live.
+>> Damn.
+>> So, there were 105 pull requests merged.
+>> Autonomously like yeah, basically a
+software
+>> Yeah.
+>> factory
+>> And eventually I asked, "When did you
+decide that you actually had to create
+your own tasks?" And it it turns out I
+was the one complaining because
+eventually it said, "Oh, I found three
+issues. I only did three." And [snorts]
+I gave it like a comment like, "No, I
+told you to do five and I don't care
+how, you just do five every night." So,
+that's so cool. And I But this one has
+full access to the home and mini. So, it
+can do everything it want. And it just
+set up a
+different project.
+>> Even with that, you don't have it like
+see it on your subscription. That's
+[ __ ] nuts.
+>> Yeah.
+Yeah, I don't see it on Yeah. No, I
+don't see it on my subscription.
+>> Damn. Okay. Because
+>> But even if it does during the night go
+out of credits,
+the 5-hour window is over before I wake
+up.
+>> Yeah.
+>> So, and it just tries every hour because
+that's a crunch up running.
+And gives you like five arrows, and the
+next hour it just continues.
+>> Okay, that makes sense. Damn, that's
+crazy. I You should change it to 55.
+>> Yeah, why not?
+But also, I'm not using my
+I was having issues with my GitHub
+actions
+because I was running out, and I don't
+know how. That sounds stupid, but I told
+it I don't want to run out again, and it
+just explained to me that it could do it
+differently. And now I have a solution
+that does the exact same thing, pull the
+issues, get the updates, push to GitHub,
+everything, and it does not use GitHub
+actions.
+>> That's That's crazy. That's pretty cool.
+I mean, like the more you talk like your
+customers to
+to an AI, the better the result is
+almost. Like if you go like you either
+need to go like really hard on tech and
+like a really know exactly what you need
+to do. Oh, yeah, I need a load balancer,
+blah blah blah blah blah. Or you say
+high-level stuff. Oh, yeah, uh this app
+make no mistake. And the the curve in
+the middle is garbage. Like oh, yeah,
+half-cooked prompt, then you have shitty
+output.
+>> Yes.
+>> But then like yeah,
+write code in an app that's going to
+make me a million dollars by next week.
+It then it will do it anyway. And those
+models are getting better and better.
+So,
+>> And the cool thing is I don't dare to do
+this on an actually customer project
+because I want to make sure that it's
+safe, that it's not getting hacked, but
+this is locally on a Mac Mini behind my
+firewall and everything's secure.
+So, even if the code is like having six
+issues and and
+possible points for hacking,
+it doesn't matter because it's locally.
+Yeah.
+That's That's crazy.
+Yeah, that's software engineering peak
+in 2026 for sure.
+>> Yes. So, all the people laughing that we
+bought the Mac Minis for OpenCore.
+Yeah, well,
+the joke is on them because we are using
+it.
+>> I mean, yeah, that's
+Yeah, that's another topic for another
+day.
+>> Yeah. [laughter]
+>> Alex fine, if you watch that.
+>> Yeah, well, I think I went a bit off
+topic, but I'm just happy that it turned
+out perfectly.
+>> Yes, and yeah, and that's I mean, as
+long as it's like
+answer your problem, then it's perfect,
+right?
+>> Yeah.
+>> But, yeah.
+>> And it shows the possibility of a good
+model.
+>> Yeah, I don't know, for sure. So, yeah,
+let's let's try again. Let You can
+if 7.5 is going out tonight, then you
+will be able to upgrade your little
+station and report it next week. See how
+it goes.
+>> Yes.
+>> Yes. But, yeah, anything anything else
+we should add or should wrap it up?
+>> No, I think we can wrap it up. We did a
+lot, right?
+>> Yes, I think I have enough for like a
+couple of videos for sure.
+>> And we didn't get any questions from
+people in the chat.
+>> Yeah, not yet.
+>> [laughter]
+>> But, yeah, but shall thank you so much
+and yeah, we'll see you next week for a
+special stream. It's going to be fun.
+And yeah, everyone
+like, subscribe, share the video and we
+will see you next week same time.
+>> No, no, different time.
+>> Different time. [laughter]
+>> Same day.
+>> Yeah, exactly.

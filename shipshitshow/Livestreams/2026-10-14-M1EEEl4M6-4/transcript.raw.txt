@@ -1,0 +1,1353 @@
+And we are live again on the Ship Show.
+Welcome everyone. Welcome back Mitchell.
+What's up?
+>> Yes, good to be back.
+>> Yes, I I love our little rendezvous.
+>> Yes.
+>> Every [laughter] week.
+>> It still feels like every week that we
+see each other here again,
+so much has happened in
+>> And so much had has happened like since
+yesterday.
+>> Yes.
+>> [laughter]
+>> That we really need to talk about it.
+But I mean it's good because on
+if they're doing something on Monday,
+then we can be one of the first to talk
+about it and share something and blah
+blah blah. So that's good.
+>> So we are here on Tuesday just for the
+special Monday news.
+>> Exactly.
+But yeah, like what did you do this
+week? Like how was your week in the AI
+world?
+>> Well, I flipped my my main coding agents
+again.
+>> Mhm.
+>> Because before I had my automation still
+on Grok and on Codex.
+On on Astra.
+>> Mhm.
+>> And I flipped back to the main one to
+Opus 5.5.
+>> Yeah, it's good.
+>> Just to do everything.
+>> Like bro, like for the first time since
+I have the subscription, I have a Grok
+subscription weekly. I didn't touch it.
+>> Yeah.
+>> Like
+nothing. And but we have so many like
+reset coming from OpenAI. That's that's
+cool. So I'm also like we are Tuesday
+and I have two subscriptions at 100%
+weekly.
+>> That's weird, right? Normally we would
+say you're doing something wrong.
+>> Exactly. And yeah, and okay, so yeah,
+same thing. I switched to connect to
+connect to Claude
+because Opus and Sony are really really
+good models now.
+>> But you know what is weird? I was
+testing so so Opus 5.5 was doing the
+entire coding.
+And then I was going to test which one
+is better to review, Grok 4.7
+or
+Code XL.
+>> [snorts]
+>> And I asked them both
+and like Grok was still so much faster
+and it found less bugs. So I thought,
+okay, let's do Grok first.
+I had Opus fix everything from Grok.
+Then I had Code XL recheck all the bugs
+and it said everything was fixed.
+So that's really weird. It found more
+issues, but after all the fixes from
+Grok, it says everything was okay. And
+it took like triple the amount of time
+to find everything.
+>> Yeah, that's
+Yeah, I mean
+it's it's happening to me sometimes too
+where
+um
+you yeah, you do something and it's
+supposed to work in a way and then yeah,
+the agent will say, "Okay, it is done."
+And then you you look at the pull
+request because why not?
+>> Yeah.
+>> And it's not like So there is so many
+things that I don't even look at it
+anymore and 100% like it sleeps like
+between all of the pull requests shipped
+and
+>> Yeah. And the most annoying thing is
+>> [clears throat]
+>> I never set it up, but they have no idea
+this parking mode. So every time that
+you code something
+it just decides that some of the
+features that you talked about and said
+need to be built, he parked them to do
+for later.
+>> Wait, what? Where is it?
+>> Yeah, is doing it.
+>> It parked features?
+>> Yeah, yeah. So, I said, "Okay, you have
+to build this, this, and this, and
+eventually we also have to do a
+double-check here, and as a secondary do
+this, this, and this." And then all the
+secondaries he parked them, and he says,
+"I'm ready. I'm done." And I check
+everything, and I say, "I'm uh missing
+functions." And he says, "Oh, yeah, I
+parked them for later. They were not a
+priority, so I didn't build them in
+yet." But if you don't check your code,
+you are missing features while you think
+that they are in it.
+>> Yeah.
+Uh yeah, that happens to me this week,
+too. Like, I prompt something, and I
+say, "Okay, it's probably done." I
+didn't check it, and then I prompt it
+again like couple of days after, "Where
+is the commit?" They say, "Oh, yeah, we
+didn't do it." Oh, yeah, okay, that's
+new.
+>> And normally you would expect if I ask
+him to do everything, he does
+everything, but he doesn't.
+>> Yeah. I mean, they are way more capable
+of doing something like first try, but
+yeah. Like, there is some of those
+shenanigan from the models that uh yeah.
+>> Yeah, but it tells you always everything
+it does, so you actually need to read
+the feedback that it gives you.
+>> You need to read
+And then if you have a GitHub attached
+to it, then you have the PRD, and it
+should check it, right?
+Because you have criterias to set it as
+done. So, if you have everything as
+document
+on GitHub as a pull like a PRD like an
+issue, then it should do it, right?
+>> Yeah, but not all of my projects are so
+big that I have everything completely
+documented in GitHub.
+>> Yeah, okay.
+Yeah.
+Because like for
+for example, like the task he didn't do,
+it was the to animate the icons on who
+like just Uh, for linear icons, you can
+use the pack and on hover it will change
+some stuff. So, it's nice UI.
+>> Yeah.
+>> I saw that on Twitter and then I said,
+"Oh, yeah, that's cool. Let's try it."
+>> Let's do that.
+>> Yeah, but I I think it was not
+um
+a GitHub issue. So, maybe that's why.
+And then I And then Oh, yeah, also I
+have an orchestrator now.
+>> Mhm.
+>> So, I have an orchestrator session and
+it probably archived the session because
+it was I
+ideal ideal ideally
+How do you How do you say this word?
+>> It was best scenario.
+>> Uh No, it was like a standby. So, then
+it archived the session and I missed it.
+Like I think he archived Yeah, I think
+that's what happened. But, yeah,
+whatever. It's
+crazy.
+>> But, I think you also tested Muse,
+right?
+>> Yes, sir. Because that's
+Yeah, that's going to be the topic of
+the video that we going to have to edit
+with AI after this.
+>> Yes. So, this this was fluent, eh? It
+was like like we actually were supposed
+to do it this way.
+>> Yes. And
+okay, yeah. So, Mark Zuckerberg
+announced Muse yesterday.
+And
+the benchmark
+are really good.
+And we are going to see if they are
+true.
+>> Yeah.
+>> Uh, tech but
+>> It's easy to optimize it for just that
+test to make the benchmark as perfect as
+possible.
+>> Yeah.
+Uh, so Muse wonderful
+uh, 59 and Faber 5.1 49.9
+and Opus 5.5 at 55.
+So, yeah, like Opus 5.5 is really really
+good. Uh, can't wait for the Faber 5.1.
+Because so, basically they are beating
+up Okay, the latest generation. So, Meta
+would be frontier here.
+Which is interesting.
+Uh, yeah, personal superintelligence
+index. Avela Labs, that's for yeah,
+legal agent work.
+That's pretty cool.
+Um
+and the one we want is terminal bench
+four. Okay, so
+uh Opus is still better.
+>> still king.
+>> Yeah.
+Uh deep sweep
+um it's better, but yeah. Long horizon
+coding, yeah, for big session and stuff,
+yeah. I don't know. Um
+>> How many people are doing like these
+really long coding sessions?
+>> Like like how do you not monitor
+something without an output with during
+13 hours? Like bro, split the task.
+>> Yeah. Yeah, yeah, exactly. Imagine
+having a bug in it and I need to search
+that in in 13 hours of AI work. That's
+like 3 months of normal human work.
+>> exactly. Like I don't know I don't know
+if it's like a super deep mathematical
+research stuff that but even even that,
+like split it up.
+>> Yes.
+>> Like yeah, yeah.
+Uh I SWE marathon, ultra long horizon
+engineering. Okay, fine enough. So, they
+have the long one and they have the
+ultra long one. Let's go.
+And program bench from scratch
+programming, 70 and artificial
+intelligence index, 56 and 5.5 is still
+at 58.
+Um cool.
+Tech path. So, yeah, interesting news
+you want on your family of frontier
+model with state-of-the-art for personal
+and professional agency work.
+It's been just over a year since we
+started a meta superintelligence lab.
+New Spark was our first family of model
+and uh now Muse Wonder is a much larger
+and more advanced class of model that
+bring us uh to the frontier.
+We released two models today.
+Muse Wonder and Muse Full for the full
+version of the model aka Fable and
+Office 5 basically.
+Uh you can use a model to power your
+Muse by sub- uh subscribing today. I try
+we can still access Muse. It's you can
+subscribe to the subscription
+um
+to um
+to use Muse card
+>> Mhm.
+>> on the terminal but you can't use Muse
+the aka Grok bot but from Meta
+in Europe still.
+Uh
+yeah, Muse Wonda is also through uh
+available through Muse card in the Meta
+model API and rolling out in product
+soon.
+Cool. Uh measure lip guess I need a
+subscription now. That's what I've done.
+Uh I took the 20 bucks one.
+You can't do anything with a 20 euro
+subscription like
+I did one prompt to audit my code base.
+>> And he took your money.
+>> Yeah, like
+>> [laughter]
+>> like the 5 hours limit went to half
+and 30% on
+on the weekly ones. So, yeah.
+>> Yeah.
+>> It was nice to do what nice to do one
+test.
+>> Yeah, exactly.
+Uh just just to tell me that my code
+base is nice.
+Uh okay, so that's cool.
+Uh yeah, open AI okay, whatever
+whatever. Where are the weight mark?
+>> [laughter]
+>> Oh yeah, also yeah, we passing the
+frontier, right?
+And then uh yeah,
+there is also that. But okay, so that
+was the announcement.
+>> Mhm.
+>> Uh that was
+uh
+artificial intelligence Meta's released
+Muse Wonda and Muse Wonda Muse Wonda
+full achieving artificial intelligence
+uh uh
+uh 52 and 56 at max resuming efforts.
+Uh each material gain over Muse Spark
+like the one we used for free from open
+code, right?
+Uh
+>> [clears throat]
+>> at 48
+with a release gap of only 6 weeks.
+That's pretty cool.
+Uh key takeaway, both models exhibit
+material jump in overall intelligence
+index.
+Uh place the top three of the
+places in the top three on six of the 10
+intelligence index evaluation. Jeez,
+that's weird, right?
+>> So, you're not in the top three and I
+assume the other six
+>> We are in the top three.
+>> [laughter]
+>> Uh top three on six of the 10
+intelligence index evaluation. Jesus,
+what a sentence.
+>> Yeah.
+I'm not the best, but I'm the best of
+the losers.
+>> Yeah, exactly.
+>> [laughter]
+>> Sorry. I
+>> And I still think that Muse one and
+wonderful. I don't like Disney names.
+>> Yeah, I mean like the Muse one, yeah,
+it's pretty it's pretty cool.
+>> read mouse all the time. Muse wonderful.
+>> [laughter]
+>> Uh I am Muse wonderful wonderful. Ah,
+yeah, okay, I see it now.
+Uh places on top three, okay, whatever.
+Um and it's particularly strong in
+authentic knowledge work and scientific
+reasoning.
+Both models use fewer output token than
+Muse but that's pretty cool. So, yeah.
+>> output is expensive compared to input.
+>> And and and you gain like 10 point of
+intelligence. Clearly, there is like so
+much gap between
+like
+um
+for example, Opus uh
+5.4 No, what did we had before? 5.5?
+We got up No, we went from Opus 5 to 5
+5.5, right?
+>> Mhm.
+>> Um
+>> Yes.
+>> Yeah.
+>> know. We have so many models.
+>> But like the fact that it's way cheaper
+for the same compute usage,
+thanks, right? Like thank you for that.
+Um so, yeah, that's that's those point
+are really important, I think.
+>> All right. But still,
+it's
+Having fewer output tokens is good
+because those are expensive, and you
+can't control what it gives an output.
+>> Yeah, true. Yeah, I'm all Hmm, can you
+can you?
+>> No, you can't because you give an input
+and it does something and it gives you a
+up All you need to say I want the output
+in this this and this way, but
+>> I don't think it Yeah, that would be a
+nice experiment. Can we limit the output
+token?
+>> Yeah, say it has to be in JSON, and you
+can only use Boolean, and don't put in
+my entire question, just put in Q1 as
+question one, Q2 as question two, just
+to make the output smaller. I don't know
+if that works, but
+>> Oh, yeah, that's right.
+>> save you a lot of money.
+>> True. But so, maybe it's not possible.
+>> Yeah.
+>> [snorts]
+>> Um, both model can significantly coding
+agent coding agent performance. Okay,
+thank you. Uh, other detail for the two
+new models, context window 1 million
+each. I don't
+like
+I have worse result with like bigger
+context than smallest like a smaller
+256.
+>> Yeah, most of time it's also more
+expensive because above the 200k, they
+charge you more.
+>> Yeah.
+No, no, exactly. So, yeah,
+Claude has that, right?
+>> Yeah, yeah, and And Grok as well, I
+think.
+>> Yeah, correct. Yeah.
+>> So, I think they have the 1 million, but
+if your input is below 100 or 200k, you
+get like half the price and the prices
+they promote, but if you go over, they
+double the price.
+>> Yeah, it's
+>> And you have to search in the small
+letters again to find this.
+>> No, it's crazy. It's crazy.
+Um,
+and yeah, and for that because can that
+justify
+the compute if you have a bigger context
+all the time, to double the price,
+that's That feels weird, no? I don't
+know.
+>> Yeah, it's weird, but
+>> Yeah.
+Uh so, yeah.
+>> it's also for competing. They need a
+bigger price, but they want to compete
+with the rest, so they give a discount
+on a smaller input. Maybe that one.
+>> Yeah. Yeah.
+Uh Okay, this one is one like for Muse 1
+uh four input 20 cent on cash input and
+20 output per million token. Pricing per
+token is not yet announced for Muse 1 uh
+full.
+>> That's even more expensive than
+>> Yeah. Like
+Uh yeah, cash input input four So, four
+and output 20, and on Claude, it was
+input 10. So, okay. So, basically,
+they're lying on the on
+>> the Opus.
+>> Yeah.
+But, I'm pretty sure they're going to be
+aligned to on Fable for the full one.
+>> Yeah.
+>> See, that's why you want to ask to try
+and do that with Haiku, because that's
+so cheap.
+>> Yeah, but like Do you bro, do you use
+Haiku?
+>> I use it on some stuff.
+>> To code?
+>> No, not to code, for other stuff.
+>> Yeah, yeah, habit.
+>> No, for for analyzing tickets
+>> Oh, yeah, yeah, yeah, yeah. Yeah.
+>> Yeah, I'm not not sending that to Opus.
+>> Yeah, no.
+Like even the Opus 5 or Sonnet, maybe.
+But, like if you put in in your
+like you have a SAS, you put in the chat
+of the agent there,
+uh you don't want to Opus.
+And I'm not sure you want Sonnet 5 5,
+neither.
+>> No.
+>> Like yeah.
+>> No, no. Imagine your competitor just
+automating so many questions and getting
+you bankrupt.
+>> Yeah. No, it's Yeah, exactly. I mean,
+yeah, but like then you use the credit
+usage of the user, but like still
+it's Yeah, you you just ask one question
+one round and then you out.
+>> Yeah.
+>> So yeah, it's annoying.
+Um
+Okay, so yeah, like office 55 max 50 58.
+And Muse is above 51. Yeah, okay.
+And six where is the
+GPT six sold at max is below Astra?
+Really?
+>> I thought Astra was worse.
+>> At max max.
+Okay.
+>> Since it came out the newest one, I'm
+not using Astra anymore.
+>> Yeah, yeah, yeah, it's too expensive
+like you prompt yeah, you prompt twice
+and then bye-bye. You next.
+>> Exactly.
+>> Yeah, it's annoying.
+>> [clears throat]
+>> Uh okay, GPT GPT GDP file.
+Okay.
+Back.
+>> But what did you have Muse do just to
+get rain 50%?
+>> Uh I'm going to show you that right now.
+Performance warning. No.
+Just change replace.
+Replace
+window. Terminal.
+Cool.
+Uh back.
+Okay.
+Um
+So I put it in
+the GenFit code base.
+>> Mhm.
+>> I did the code base the GitHub board the
+current pull request PRs and tell me
+what you think of the code base what's
+left to be done by
+uh
+for the next release and the quality of
+the repo in general.
+>> Uh yeah, well, that's a big question.
+>> Yeah, that would be
+>> [laughter]
+>> like
+>> That's not like check this function and
+and say what you want. You just say
+check everything.
+>> because I don't want it to work right
+away of my code base, right? I mean,
+yeah, okay. Okay, that's a 2 million
+line. Yeah, whatever.
+>> Yeah, okay, you're right.
+>> [laughter]
+>> Um
+>> Compared to other people have a few
+thousand lines,
+>> Yeah.
+>> then it's a big difference.
+>> Uh okay, and I want to show
+the usage.
+Um Meta API
+>> Yeah.
+>> Uh
+>> The only thing I'm always curious about
+is
+is everybody
+at Meta using Mouse internally as well?
+>> Oh, yeah, like 1% like for example, I'm
+pretty sure like potato only use Grok
+now.
+>> Yeah.
+Yeah, yeah, because that's a company and
+they don't use the other ones.
+>> Exactly. And uh okay, so I have
+that
+uh subscribed and I have the
+code high subscription,
+which is yeah, the 5x. Uh yeah, 12 $13.
+>> Mhm.
+>> So, I don't uh
+I didn't choose the most expensive one.
+I didn't I didn't do the 200 one.
+>> Yeah.
+>> But yeah, just this audit one prompt
+um
+I didn't show my card, right? Payment
+method cool.
+>> No, I didn't see it.
+>> Yep, okay.
+Uh tech okay, because uh
+>> But then again, how was the result?
+>> Um I'm going to show you.
+>> Oh, I'm going too fast.
+>> Uh no, I want to see the
+Dev Meta pricing.
+Dev Meta AI
+projects overview [snorts]
+Where are the subscription?
+What?
+Okay. Here they are, right?
+>> Uh everyday
+they don't have the price.
+>> Well, it's here. It's It's so hard to
+read. $5 a month.
+>> Oh, [ __ ] Okay, yeah.
+>> Yeah, so maybe they need to train their
+own on UX and UI because
+>> Yeah, it's that's bad.
+Uh yeah, okay. So, I took this one. I
+took the high usage. So, it's basically
+the 20 bucks
+uh
+one, right?
+>> Yeah.
+>> From Claude.
+>> Because your project is big.
+>> Yeah, like probably like 1.5 million
+code, basically.
+Uh tag, block list, path. Okay.
+Um and yeah, 200 maximum usage, 80 80
+80 times more usage than the everyday
+usage plan. Let's go.
+Okay, fair enough. Cool. So, that's the
+price plan.
+>> But everyday usage, if you check it, it
+says 10 to
+>> Okay.
+>> five to 10 prompts per day. Of every
+five hours.
+>> Yes. Oh, yeah, yeah, yeah.
+So, Yes, five prompts.
+>> Well, that's not average.
+>> Oh.
+>> That's like a
+Oh, you hear the dog in the background?
+>> Yes.
+>> Yeah, somebody was ringing the door.
+>> Oh, okay. Yeah, it does that, too.
+>> Yeah, yeah, yeah. And this is a bigger
+dog, not a small one.
+Uh yeah. Well, they are already gone,
+so.
+>> Okay.
+Um okay. So, yeah, I'm going to show
+what I've
+done. Okay. Path.
+>> This is the best protection for our AI
+software, right? All the Mac minis here,
+and we have two guard dogs.
+>> [laughter]
+>> Yeah, for real. Like I especially with
+your dogs.
+I want to want to Yeah. Play with them.
+Too big for that. Uh okay. So,
+production audit 64 100, risky internal
+beta, small do not get the release on 17
+of October as currently scoped. Engine
+engineering is substantially better than
+the release management. The code base
+Yeah, okay, because I had some pull
+requests open.
+Yeah, whatever.
+Uh strength and finding the tree, real
+mono repo with client 10 C apps, six app
+surfaces,
+uh extension, 46 package. Jesus.
+Um merge the quad rail, release
+engineering is
+unusually mature for uh 0.x really uh
+release.
+Releasing, blah blah blah.
+There are 37 workflow
+workflow flows including code QL, secure
+security scan, coverage, blah blah.
+Okay, cool.
+>> [snorts]
+>> Well, C app for example, I think it
+repeated like yeah, it repeated the same
+sentence twice.
+>> Yeah, it did.
+>> Like, what the [ __ ]
+Uh strength, weakness, real report. So,
+that's the same [ __ ]
+Scale [snorts] is not risk. 10,000
+46 package mean the dependency ratchet
+and constructor limit the PR keep
+hitting. Okay, whatever.
+Um one is before tagging in root package
+say 2.7.
+Seven. Okay.
+Yet get tag listed 0.7 at the top. What?
+Under the old version contract. Okay, I
+will have a look at that.
+Uh the board is the problem, not the
+code. Open PR, blah blah blah.
+94 open. Yeah, I mean
+Okay, I did not I have backlog, in
+progress.
+You might need review and down and I
+think he counted like everything.
+>> Yeah.
+Uh QA peak, whatever. Open pull are
+mergeable but blocked. So, that's done,
+it's fixed. And must fix blocker. It
+didn't talk about like yeah, I would
+uh refactor this part or whatever. So,
+it's a bit superficial audit in a way.
+It's just like current state of the code
+base.
+>> Mhm.
+>> [clears throat]
+>> So,
+yeah.
+It's not that crazy. I asked it like how
+to use in T3 code Theo's said that uh
+it's supported. I checked it and it
+didn't see it, so there is that.
+>> Thank you, Theo.
+>> Yeah.
+Um thanks.
+So, we have that. Uh
+tick tack.
+So, yeah, it's a bit like uh
+expensive.
+One question
+mark stuff, I think.
+>> Yeah, it is, but
+>> Yeah.
+Uh yeah.
+>> give it some time and let's see on the
+timeline on next what other people are
+telling about it and then see if it is
+worth trying again.
+>> Alexandre Wong said the uh responsible
+for like chief
+Oh, yeah, chief AI officer at Meta. So,
+that's the guy who launched it.
+Um it's not good as Opus 55 on coding
+for sure, but also there is a bunch of
+bug right now that we are looking into.
+>> Well, at least he is honest. That's
+good.
+>> Yeah. I took 200 views on that, so yeah,
+it's interesting.
+All right, okay.
+Um yeah.
+Thanks. Uh so, yeah, if you want I guess
+if you want to try it, uh
+maybe wait a bit.
+>> Yes. Make sure that it's probably stable
+and then test it because otherwise
+they'll release a better version in a
+week and you have to do all your testing
+again.
+>> Yeah, exactly. All right, the benchmark
+and stuff. I haven't watched like they
+launched it, they max it on the launch
+and then a week after then it's [ __ ]
+>> Yes.
+>> So, yeah.
+Sorry.
+Uh okay, so what else do we have? Um
+So, Zach Stone.
+No artificial intelligence. We good. We
+good.
+Tick tack. Okay, so that's it. Oh, yeah.
+Um Alexandre like share some videos
+down with uh Muse.
+And that's kind of good. Like even like
+uh you can see on the timeline a lot of
+people are sharing like Claude Claude uh
+um Office 55 uh videos like build
+as um yeah, animate motion animation and
+stuff. And those video are freaking
+cool.
+Um yeah, I don't know if it's uh
+if it's a Muse video. I don't think they
+have an image or video model inside,
+right?
+>> I don't know. I didn't test it.
+>> Um new sort of my image pointing. Okay,
+so that's
+image pointing benchmark. Really?
+Dedicate
+dedicated and specified
+bench.
+>> You have to find something that you're
+good at.
+>> Yeah.
+>> I don't say we are better than the rest.
+>> Yeah, exactly.
+Uh doc, so that's pretty cool. Go to
+this output from Muse wonder. I try to
+keep the prompt really simple so I can
+be creative.
+Uh 3GS experience inspired by the
+artistic output uh uh uh
+and this is what it builds.
+Uh that's not crazy.
+>> [snorts]
+>> Hell, we have seen far better ones.
+>> Yeah.
+>> But they need to start somewhere.
+>> Yeah.
+I mean if if they can do that in just 1
+year, that's pretty impressive for sure.
+Um
+Muse wonder so far
+uh Muse wonder marks
+uh lower the price and 3D project seen
+for both model.
+I prefer this output.
+>> Mhm.
+>> No?
+Or maybe I think this one is better.
+I've not not sure like maybe the
+gravity.
+Yeah, that's that's way better, right?
+>> Yeah.
+But also two and a half times more
+expensive.
+>> Yeah.
+>> [clears throat]
+>> Yeah, but like what do you prefer like
+to have a one shot prompt expensive
+output, but you're going to keep it or
+five time like Because
+>> It also depends if if you still need to
+make changes to Opus because you don't
+like the colors and everything, it will
+cost you $16 again. And you're at Muse,
+you can see a first version not perfect,
+but
+you have some budget left to
+changing.
+>> Yeah, so you would like to have a scene
+with Muse and then Opus to polish it.
+>> Yeah, that's what I would do.
+>> Yeah.
+Uh
+thanks is a work of art. I appreciate
+>> Yeah.
+>> All right, okay. Okay, that's cool.
+Uh
+Muse wonder just got better.
+>> Everybody look at my flying cow.
+>> Yeah.
+Expect the unexpected. Oh.
+Muse wonder made this video just based
+on the lyrics of the song itself. I
+literally told it to build every scene.
+>> Breaking news, every city across America
+is feeling the effects of the recession.
+The American people are looking for a
+sign of change. From city to city, black
+and silver American flags are popping up
+as a symbol of that change.
+Record high gas prices, staggering
+unemployment rates.
+>> That's not bad.
+Uh
+Okay, we have identified and fixed the
+issue that was causing the unusually
+fast quote. Oh, okay. Fair enough.
+Muse got Rosetta.
+Fair enough.
+Muse wonder, yeah.
+>> Yeah, but seeing all this and what you
+tested, are you going to use Muse more
+often or are you saying
+>> I was not convinced 100%.
+I think I will keep the 20 euros
+subscription to as a
+help like on the side.
+>> Mhm.
+>> if I run out of uh yeah other models.
+But uh also for the same price you can
+you can just have another cloud account,
+right?
+>> Yes.
+>> Like okay.
+Uh feels great using this free card with
+10 sub agent at once for code review.
+Already found a lot of issue left over
+by his previous 6.1 Soul Walker. And
+yeah, Voxel Coliseum with one the X I.
+Okay.
+But okay, so Theo did a video
+um
+about Muse and he shared his thought
+about it.
+Back.
+Uh so
+okay, so that's the front end for Muse.
+Kind of [ __ ]
+Like it's it's a bit like 220 lovable
+websites.
+224
+um
+The gap is so weird that both are nearly
+identical in token efficiency, but BF so
+different full scores equivalent to Opus
+6 side with fewer token on artificial
+analysis. None full score below uh
+6.1 Soul with the same token usage as
+full higher than Soul.
+Opus yeah. Like
+those benchmark are like we already
+talked about that last time, right? Like
+When you code something with it then and
+it's not working like
+>> Yeah, it's going to have a good
+benchmark, but it needs to work
+properly.
+>> Yeah.
+And now for example like Rock
+uh it can't finish a task anymore.
+Like
+>> [snorts]
+>> I have hard time using 4.7.
+>> Yeah, I'm really hoping he comes with
+4.8 or 4.9 fast.
+>> Yeah, because I mean if they still ship
+some models like that that's on par of
+that. Yeah, the
+of the other models like
+people can switch for sure. I don't
+know.
+Um because also I mean there is a play
+for Muse to publish their Muse
+and to use those model inside Muse like
+Grokbot.
+>> Mhm.
+>> And [clears throat] have some
+interesting play for sure. Like for
+example
+um
+Alex Finn shared
+Nope, this one.
+Uh one of his
+like the first autonomous dollars
+generated with our Grokbot. Couple of
+days ago Grokbot built a micro business
+for me that has been maintaining by
+itself.
+I've run the social media. It will add
+gen use cases.
+So it's just a website to tell what's
+the use case you can have with um
+um
+for AI.
+Because I think that's a lot of question
+that people ask Alex what should I do
+with this model blah blah blah and he
+basically built a website for that and
+he's selling sponsors on it.
+>> Okay.
+>> So
+that's what it did
+and the first sponsor already sponsored
+a spot for 500. Here how it will go on
+so far. Grok built a business, announced
+it on X. 10 of thousands of people went
+to the site. Grokbot added a newsletter
+support and collected 1500 newsletter
+signups.
+>> That would take us like a year.
+>> Yeah, but I mean a newsletter is nice
+because
+you can sign up people
+yourself.
+>> Mhm.
+>> So you can find like and then then you
+send the newsletters and then you see
+where it where it sticks. I I need to do
+that with uh Forgenfit because that's a
+good way to capture other attention
+passively from other people.
+>> Yes.
+>> Uh shipped 40 plus PR to fix issues and
+maintain improvement. Decided to
+monetize via sponsors.
+Added it to the website. Matt from Paint
+app bought a sponsor with a link will
+now be in the site and in his
+newsletters. GrokBot has improved SEO.
+Now getting hundreds of people from
+Google. Growth compounding.
+Autonomous. So
+>> It sounds so easy, but I've tried it and
+for me it didn't go as easy as he writes
+down here.
+>> Yeah. I mean, that's that's another
+piece of content, too, right? But uh
+Um and also like if everyone is trying
+to take these tweets, drop it into
+GrokBot, and then launch their own
+[ __ ] website
+uh with like 200 followers, that's not
+going to work the same way than Alex
+with
+half a million followers.
+>> Yeah.
+>> Like, but again, like those use cases
+are good to see again like what uh
+um what I want to do with like
+cornershop.dev and stuff like that to
+have like autonomous
+um
+small businesses to um
+talk to people who sell something even
+small. And if it's completely
+autonomous, the only cost is just a
+usage, right? So you don't really care.
+>> Yeah, yeah. And if he sells like $500 a
+week or sorry, a month, that's good
+enough for one.
+>> Yeah. It's paid for the subscription by
+itself, right?
+>> Exactly.
+Subscription, VPS server, everything is
+paid for. So now he can just keep on
+going and scaling.
+>> Oh, they are
+>> Also shows he's at 10,000s of visitors
+and 1,500 newsletter subscribers. If you
+compare that to his followers, then you
+know what percentage did it.
+>> Exactly.
+>> Then you know how hard it is if you
+don't have the following.
+>> But also like it's a it's a really small
+project. But it's also a proof that the
+most important thing is to have the
+audience because
+you can do that like unlimited amount of
+time.
+Uh
+again and again and again, right? So,
+yeah.
+It's uh top view of my website, probably
+the first ever screenshot, whatever.
+Normal person will have to sit a lot for
+5 years. There is nothing I have done
+anyone else can do.
+It helps to be popular YouTuber and he
+ran though who tries to do the same
+thing and get much more different
+results.
+>> It doesn't work the same as
+normal people like, bro.
+>> Yeah, exactly.
+>> Yeah.
+>> He just says below, he puts in the work
+and has been building for so many years
+and this this is the result.
+>> Yeah. Orpheus is not wrong. I'm just
+telling everyone that can start a boat
+business like you did won't yield them
+the same result. Yeah.
+>> Yeah.
+>> The Grow Bot said the 600 I you did.
+Grow Bot decided to make the price 500
+and increase it for every sponsor after.
+Yeah.
+>> Oh, that's cool.
+>> Yeah.
+>> That's like creating FOMO if you want to
+be on it.
+>> Yeah, but that that's all of the odd
+beat.lol websites uh process, too.
+>> Yes.
+>> Um you sell it for cheap and then every
+time you have a buyer, then the price
+increase, blah blah blah.
+>> It goes up.
+>> Yeah.
+Um micro business that generate 10,000 a
+year. Yeah, okay, whatever.
+Um cool.
+So, that was the tweet. So, yeah. What I
+want wanted to say is like Mews can have
+the same playbook and then if they have
+those Mews wonder model inside,
+then they can compete uh in the
+execution of
+those um
+autonomous business.
+>> Mhm.
+>> And Facebook/Meta has
+billion of users. Like, I don't know how
+many users are using Facebook still
+after 25 years every day.
+>> Yeah, it's it's still amazing that he
+kept it going for so long.
+>> Yeah, but also it's not the same crowd
+than X, right?
+>> Yeah, yeah, it's fully different.
+>> Exactly. Like if they give Muse access
+to Facebook people,
+uh
+then there is money to be made for sure.
+Because uh if you can contact leads the
+same way you can contact leads on
+LinkedIn on X, bro, that's that's
+amazing.
+Uh okay, so that was Alex stuff and just
+quickly reviewed what's the Theo said
+above above on his like uh use cases.
+Um because
+he said that
+I need to I need to use it more, but
+like okay.
+Uh 5.5 Muse wonder like as a S tier one,
+A for 6.1 gap I don't know, okay.
+>> Yeah.
+>> I'm not saying that Opus is just as
+capable. I'm not recommending replacing
+Opus with Muse. Saying like the um I
+like them a similar amount.
+I'm doing most of my work with a combo
+of Opus and Wonder currently. I like
+this model. Um
+it's all different. It feels like bro, I
+don't really care about like how it I
+mean
+>> We want results.
+>> Exactly.
+Uh
+entire different flavor that I Muse to
+from other LLMs.
+Um when I start
+to do this stuff all day, the stuff that
+are all different matters a lot. I find
+it really
+direct and readable on on yeah, okay,
+whatever.
+Back.
+Um
+So yeah, he he likes the way it speak.
+>> Mhm.
+>> Um so yeah, I need to use it more. Like
+you need to use it more to have an
+opinion on that, but yeah. I don't know.
+>> Yeah, you need to use it for a few days
+just to
+have a proper opinion and and to make
+sure that you know I've tested
+everything.
+>> And like for example, if you just go
+from scratch and then you have that kind
+of input for front end. I'm not putting
+Muse on top of that right? Like
+It's not it's not good.
+>> [clears throat]
+>> Uh page here, okay.
+Muse wonder full to fix Yeah, okay. So
+ask Opus GPT and Muse wonder to full to
+fix a bug. Opus found the root cause and
+filled the PR.
+GPT 6.1 asked a question, crashed
+from an [snorts] insane question to
+interrupt found the bugs, fix it, wrote
+300 line of test, and explain it's
+impossible to understand them.
+>> Yes.
+>> Muse wonder
+full found a small PR. Someone else had
+filled and said, "You should probably
+merge this in
+>> [laughter]
+>> Well, if the solution is already there,
+that's that's a good reply.
+>> I mean, yeah, but I okay, so I don't
+know if if Muse went directly to
+something else
+than reply or yeah, you're right. Like
+this pull request solved what he asked
+for.
+>> Mhm.
+>> I don't know.
+Um
+That would be interesting. Confirm
+fix will not even work. I found so much
+more readable.
+They broke and do [ __ ] anymore. Yeah.
+Why not Grok model?
+>> No reply.
+>> Yeah.
+Unlikely Gemini for I going to be yours
+next five. Yeah.
+This record yes, okay. Ah, the nightly,
+okay. I I need to
+try the nightly then.
+Uh how do we fix a bug up in it? Really?
+They created that to me.
+>> Yeah.
+>> Yeah, maybe
+>> Some people are like
+having no life and creating
+>> I mean, no, but
+>> comic book strips of everything.
+>> Yeah. But that's one prompt.
+I mean, [snorts] so they can use men.
+>> Yeah, I know, but still.
+>> Mhm.
+>> I have better things to do.
+>> [laughter]
+[snorts]
+>> Yeah.
+And that's probably what we should go
+back to it, right? It's like, yeah, it's
+already four.
+Uh but
+I mean, again on the timeline and also
+like
+the
+um
+Mark
+Zuck
+the reach
+of Zuckerberg on the timeline is it's
+not that crazy, 5 million.
+Like, for model release that's nothing.
+>> No.
+>> So, yeah, I don't know if the X the the
+the people on X will uh use Muse or not.
+>> But do you follow Mark Mark on X?
+>> Yes.
+>> Okay.
+>> Uh oh, no.
+>> I don't.
+>> No, he's missing the devs.
+>> Yeah.
+Like, 2.5 2.4 million followers. It's
+nothing. It's [ __ ] Zuckerberg.
+Yeah.
+But
+>> I think if you ask most devs, who do you
+like more
+Elon or Mark, everybody will say Elon.
+>> Yeah, because he's an engineer. I mean,
+Mark too, but
+>> Yeah, but
+he's different.
+>> Yes. He's a
+reptilian.
+>> Yeah.
+>> [laughter]
+>> But yeah, are you going to give a try to
+Muse?
+>> Uh
+well, once you have said that it's good
+enough, then I will try it, but seeing
+your result right now, I don't mind the
+$20. I don't want to spend time on it.
+>> Yeah. Yeah, I know exactly. And like um
+we already been served well from uh
+Claude. Less from OpenAI and more
+>> winning.
+>> Yeah. Yeah, like um
+>> I just small one.
+I activated my promotion on Claude
+because I have the 20X subscription and
+it gave me a monthly $200 free API
+budget.
+>> Yes.
+Yeah. Are are are you going to do
+something with those API budget
+allocation or yeah? Oh yeah, because you
+use it on your Mac Mini, right?
+>> I use it on my Mac Mini, but also my
+ticket system and
+for the stuff that I want to automate
+online,
+but I haven't done it. The $200 is
+perfect to just start testing and
+building.
+>> Mhm.
+>> And they are smart because eventually
+when it works and I see that it saves
+time, then I don't mind going to four or
+$500.
+>> Yeah. Oh,
+okay.
+>> And you are testing now the
+for the $200, I'm for sure going to test
+the Haiku, Sonnet, and Opus.
+And I'm not going to test the Codex
+models anymore in API.
+>> Mhm.
+>> Because I have free budget, so I think
+they are just buying my usage really
+cheap.
+>> Yeah.
+That's [snorts] pretty smart.
+Mhm.
+I need to
+>> Because if you know that it works,
+you're not going to switch to other
+models and retest everything.
+>> No, exactly. And like 200 a month, yeah.
+That's
+That's not a lot of session, but yeah,
+if you like you're not going to do all
+your refactor this mono repo, but you're
+going to like uh
+again, check email, stuff like that.
+>> Analyze this, analyze this PDF, give me
+a summary, and stuff like that.
+>> Okay, so looks like Muse is not too bad,
+but maybe
+>> It didn't win a heart yet.
+>> Yeah, it's not It didn't
+win a heart yet.
+>> No.
+>> Yes. So yeah, let's give it a a time and
+let's see if at the end of the day we're
+going to increase our subscription in a
+week or two to 200 a month
+>> Yeah.
+>> and spend like
+too much money on AI.
+>> And there is one more thing.
+I have such a bad experience with all
+the meta
+uh platforms.
+I don't want to start and have to get
+another platform, and that's so
+complicated with so many options.
+>> Yeah. Oh, yeah, yeah, the meta business
+uh
+>> Yeah, meta business for the WhatsApp and
+for the ads.
+It's so big and so hard to find
+everything and once you know something,
+they just flip everything.
+>> Yeah, yeah, that's
+But yeah, okay, so that's the that's
+where we conclude our live stream and
+then uh yeah.
+>> Yes.
+>> I'm going to make a video out of it.
+>> Is it like muse or muse or muse? Which
+one?
+>> I mean, yeah, for now we stand by for
+now, I would say.
+And uh
+yeah, let's see where it goes. Let's
+let's
+uh And Andrew No, Alexander to uh fix
+all of the bugs and see where it goes
+after that.
+>> And maybe it's more wonderful next time.
+>> Yes. Yeah,
+oh, yeah.
+>> [laughter]
+>> But yeah, everyone, thank you so much
+for your time. Uh like, subscribe, share
+the video. And Michel, I will see you
+next week.
+>> Yes, see you next week.
+>> Cheers. Bye-bye, everyone.

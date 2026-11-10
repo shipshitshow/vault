@@ -1,0 +1,1587 @@
+And welcome back everyone on the ship
+[ __ ] show.
+What's up, Mitchell?
+>> Yes, hello, hello.
+>> What's up? How How was your week?
+>> Busy.
+>> Yeah.
+>> [laughter]
+>> It I don't know. It feels like we say it
+every week, but last week felt even
+busier than before.
+>> And that's true. Like we never like
+yeah, we're getting replaced by AI, but
+we never
+worked as much, right? That's
+>> Yes.
+>> Yeah.
+>> Still AI should give you less hours to
+work, but
+>> Yeah.
+>> to me it feels like it just keeps on
+going. Never stops.
+>> one more prompt for
+from the next fix, right? So, that's
+what's up.
+But yeah, like
+now we are in November and
+what happened last month aka last week?
+>> Yeah. Maybe maybe maybe maybe we can
+even do a small catch-up because I'm
+pretty curious. Last week we did the
+GenFit show.
+>> Yeah.
+>> Uh how was your week?
+>> I yeah yeah yeah. Okay, okay. So, yeah,
+after this
+lunch like OS lunch stuff, I went I
+tried to post on everywhere like
+Reddit
+and some
+Okay, that's funny. And some other
+forums that I that I follow
+Claude Claude to tell me where to post
+it or even
+the Nivo
+MCP server about like growth and stuff
+like how the Nivo grow
+post this to 4 million revenue a year.
+And so I follow that. And so I try to
+post on Reddit. I'm I just got banned
+every 2 hours because I was posting
+messages.
+So there's that. I I need to check if
+the Reddit Genfin page is still on. But
+yeah, whatever.
+Um just
+uh yeah, and also I
+I follow a link. It's called like uh Lem
+Lemmy World.
+>> Mhm.
+>> And I check the forum. It's like another
+like mirror site of Reddit. But yeah,
+whatever. And but and Claude told me to
+post the live stream and the video on
+there. So fair enough. I'm going to do
+that.
+Uh then I try to sign up. And then you
+have to read the term and condition
+about the forum.
+You click the link. It's it's a Marxist
+later
+about like some communist stuff like
+from not
+Marx's law or whatever.
+I start to read that. I ask the
+What what is it? Like read that and
+summarize. Why do I have to quote that
+to sign up to this forum? And then I try
+to
+Then I check the topics and what the
+discussion are. It's it was completely
+anti-AI, anti-Trump, anti-like
+>> [laughter]
+>> transgender, you kid, whatever,
+whatever. Like so all woke leftist
+stuff. Then I ask him, "Should I post
+Genfin here?"
+>> [laughter]
+>> So yeah, I didn't post it there.
+Uh but yeah, I got basically canceled
+all the time like well on my Reddit post
+because it was a new account. I just
+created an account for like a Vincent
+ships it. I didn't use my previous one
+whatever.
+Um
+But uh so yeah, that was fun. And then I
+yeah, got like some uh sign up from it
+like
+organically from other GitHub or for um
+from all of those like tweets and videos
+that I posted left and right.
+>> Mhm.
+>> And uh yeah, I got some support ticket
+and uh some people using it. So yeah,
+that's uh that was a successful soft
+launch for sure.
+>> Okay, that's cool. So, people are
+actually using it.
+>> Yeah, I'm uh yeah, they tried on
+boarding [clears throat]
+and uh I don't have like a clear sign up
+subscription yet. Yeah, you will know
+about it when it will be the first uh uh
+money in into Genfeed. But uh yeah, like
+couple of sign up, they went on the
+boarding, they don't I need to send them
+an email. But uh it's all about Gmails
+uh emails anyway, it's not corporate
+email stuff. So, yeah, I'm not really
+interested in that. And
+>> It's like the the tech guys first trying
+it like private account.
+>> Exactly. And I saw the output and that
+was not as good as expected. So, I
+understand why they're not coming back.
+Uh so, yeah, I have some updates to do
+on the um
+scanning the brands. So, then I have a
+clear context. And uh some more outbound
+to do, that's for sure.
+>> Okay, but at least it was a start. You
+had sign ups, you had people using it.
+People even retweeted something and
+>> Exactly. I yeah, in in China, right?
+Like it was
+>> Yeah, yeah, they interacted.
+>> Yeah, no, no, exactly. I mean, looks
+like when you start talking about your
+stuff, then people are coming. So, yeah,
+definitely need to do. And uh yeah, I
+want to start like building public, but
+not building like building public like a
+software, building a public like a
+marketing campaign slash growth. That
+will be more interesting to um to talk
+about with uh
+80-90% ready software with some rough
+edges. So, yeah. And uh yeah,
+just fixing
+like early customer support ticket
+stuff.
+>> Okay, so if
+anybody wants to create images with AI
+and didn't test it yet, sign up for it.
+>> Exactly. Yes, uh genfeed.ai uh slash
+sign up. Thanks, Michal.
+>> [snorts]
+>> And uh
+>> [laughter]
+>> Um yeah, so that was like the quick
+recap for based on the um last week uh
+live stream. But uh yeah, how how was
+your
+security audits be after everything that
+we have seen so far in this black octo
+Um maybe we should recap first, right?
+>> Yeah, maybe we can recap.
+>> Yeah, okay.
+>> And then I'm curious because here in the
+Netherlands, it was like really big and
+amazing news everywhere, but I
+understood it wasn't in every country
+that way.
+>> Yeah, I mean
+uh did they talk about it in France? I
+don't know. And I'm not even watching
+any Maltese news and stuff, but I know
+my my yeah, my dad told me the river was
+down and one of the ISP was down, too.
+So uh
+>> was like a
+Google
+data center problem in the UK or
+Ireland, somewhere there.
+>> Okay, so it was not related to that,
+right?
+>> No, that was just a problem in the data
+center, but just one data center and
+then Revolut goes offline.
+>> [ __ ]
+>> So, normally I would say they have a
+setup that has multiple data centers,
+but apparently there was something in
+that that was so important that when it
+crashed, even other data centers
+couldn't solve it.
+>> Jesus.
+Hey, it's like
+>> let let's do a recap. Let's see what
+happened.
+>> Yes.
+Uh it it remind me like one of the
+um
+Okay, still maybe. Oh, yeah, yeah, okay.
+Uh yeah, okay, cool. Yeah, so I saw your
+your I'm just preparing your tweet that
+you sent me. Um
+one of the French uh cloud company
+uh had a a fire in a building and the
+backup of the data
+was in the same building than the data
+center or it was like two different
+building, but they were like close
+together, so they both uh
+>> They shared a wall.
+>> Yeah, exactly. Yeah, it's segregated.
+Don't don't worry. Your data is safe.
+>> Yeah. Just to make sure, uh when we say
+that we put it on a different location,
+that means like the servers are in
+Amsterdam and the backup is in Paris or
+Frankfurt or in London, I don't know,
+but it's like a few hundred kilometers
+>> Yeah.
+>> It's not like house number A and house
+number B.
+>> Yeah, exactly. Like you go to the back
+up up floor, it's like a level three.
+>> Yeah, yeah, yeah. If I say I need to go
+to pick up the backup manually, I need
+to go by plane. Otherwise, it's
+>> [laughter]
+[snorts]
+>> Exactly. So,
+uh yes, Black October, what does it
+mean? It means that in a couple in a
+matter of weeks, um we saw uh
+com- in computer incident. Yeah,
+incidents that
+uh are supposed to happen every 10
+years, but we had a chain of events that
+introduced
+not introduced, but like got discovered
+week after week, even days after days,
+right? Like it was just crazy. So, I
+have a small recap here.
+And okay, so Bots Warm timeline, CVEs,
+and what follows. Uh so, it's focused on
+the PHP uh issues that got discovered uh
+in August. Uh Remi Austin of Kali found
+the flaws during the audit of the PHP
+source because PHP Foundation um it's a
+foundation and they have 10 employees, I
+think, and the budget per year is like
+600,000 or like
+it's crazy nothing for
+a foundation and a language that it's
+supported by about 70% of uh of the
+internet. It's It's crazy.
+>> 2/3 of all the servers run PHP.
+>> Yeah. Like
+>> And still people are screaming that PHP
+is an old language and nobody should use
+it, but just these [snorts] figures and
+how many companies built something
+successful and making millions of money
+all on PHP. Well, that shows that it's
+still big and important.
+>> Yeah. I remember like when uh I started
+development to to learn how to code
+manually without prompting like we're
+learning the language.
+>> Yeah. We actually buy books
+>> [laughter]
+>> to learn how to code PHP.
+>> Yes, kids, you can learn how to code
+>> [laughter]
+>> from a book.
+>> Uh yeah, from a book, yeah. And And then
+to pass an interview from a book, too,
+right? Like
+crack the coding interview.
+Um
+it was PHP 3 or 4?
+All right. And no, I didn't even know
+like it was like PHP 8. No.
+>> Yeah, yeah. We are at 8.5 and 8.6 is
+already yeah, people are working on it.
+>> Yeah.
+So, yeah. [snorts]
+Uh yeah, in August uh it was discovered
+like the first like in the lab like uh
+everything Yeah, it was Gemini 4, GPT 5,
+6, and so on tool, yeah, whatever. PHP
+to shell
+uh Wiz, which is um
+it's another company
+of Oh, yeah, I forgot exactly the detail
+of Wiz, but it's it's another lab, I
+think.
+Uh that's Okay, so first the the
+um the opening and the bug is discovered
+and then this Wiz is like uh this Wiz
+lab is um
+discovered a way to exploit
+>> Yeah, because the bug itself was already
+known for more than a year.
+>> Yeah. Yeah, yeah, I
+system and stuff
+uh that got used in the
+uh last uh
+hack.
+It It was an a known issue for the last
+10 years,
+but never fixed because it was wh- it
+was why it was too complicated to uh
+exploit.
+>> Yes.
+>> Not anymore when you have Fable.
+>> [laughter]
+>> Yeah. So, they make us
+They make How do you say it? Another
+suggestion, but they look at the issue,
+how complicated is it to abuse it, and
+even for themselves, how hard is it to
+fix it, yeah, and then they make an
+educated guess on how how big is the
+chance that people are going to abuse
+it. And that makes it a high priority to
+fix or low priority fix. But nobody
+thought about AI that just does like a
+3-minute scan Mhm. And then says, "Hey,
+I know how to uh
+>> Yeah.
+>> make
+>> And then
+it goes worse on that because when they
+publish a fix
+then the hackers is going into reverse
+engineering scanning the internet of
+which services are running the a version
+not updated yet
+to exploit what they fix in the most
+recent patch. Yes.
+It's nuts. You are in a race with the
+hackers all the time. Yeah, it's crazy.
+Okay, so yeah, October 20 that's like
+news on the patch leaks before the
+embargo ends
+patches and full disclosure sites start
+to go offline
+yeah to update
+on the 21st. That was when you send me
+everything right? That was the day no?
+Yeah, and the biggest issue was they in
+Dutch time they said that the patch
+would come out at I think 4:00 p.m.
+Yes, but the issue was already known for
+24 hours and that sites were already
+getting hacked but you had no patch. And
+they gave you like a fast check where
+you could make a change in the PHP.ini
+but they said yeah, that will not fix
+it. It will only make it harder and even
+CloudFlare had firewall rules activated
+to make sure that people
+were stopped from hacking but also that
+wasn't a
+a final solution. So that's the reason
+why people took websites offline and
+here in the Netherlands even the
+government big companies everything was
+going offline because they were afraid
+that they were getting hacked in a few
+hours before the release of the patch.
+Because the hack were allowing
+attacker to
+take control of your application
+remotely
+without you knowing about it and
+whatever. So you can take control of the
+server via this PHP
+issues and updating the app doesn't save
+you to anything or updating WordPress or
+whatever because it's the protocol
+behind it.
+>> Exactly. So, yeah.
+And
+how many application are running like
+okay like PHP 5?
+>> Still a lot.
+>> Yeah.
+>> Because so many companies created
+something and are working on legacy
+systems
+because that's how they built the
+company and they bought the software
+because
+years ago you wouldn't like rent
+software or lease software use a SaaS.
+You would buy software, install it and
+every two or three years you would need
+to buy a new license and give you the
+updates.
+Um
+and there are so many companies that
+still have the old software running on a
+server. Well, I think that most people
+that come into the company now don't
+even know what it is. They just know
+don't touch it, don't take the power
+off, it is still working.
+Um yeah, and if those servers are
+connected to the internet
+they are not getting like security
+patches or anything anymore. They are
+all end of life and
+>> Yeah.
+>> I still think that
+they are just hoping nothing goes wrong.
+>> And
+how is it
+to hard to how is it how is it hard to
+update from PHP 5 to 8?
+Oh,
+whatever.
+>> Well, updating the PHP is yeah, it's
+still it is some work but with AI
+you can just do it.
+>> Yeah.
+>> But all the other software around it is
+also connected to it and dependent on
+that server. So, if you update that
+server with the PHP to 8.5 or whatever
+you need to update the connections with
+all the other software. So, it's it's a
+bigger impact.
+>> Yeah, okay. Okay, so if I have a
+integration like yeah, and even like the
+library moved on some stuff like that.
+So yeah.
+There is not like a wizard that can
+uh
+tell you oh yeah, like this is the
+upgrade I'm going to do the upgrade for
+you.
+>> Yeah, because they need to have you
+can't just get an IT guy and say hey,
+welcome to the company upgrade it
+because he needs to know how everything
+in the background works.
+>> Mhm.
+Yeah, okay.
+>> It's It is a big issue.
+>> [snorts]
+>> And then I still think if you have it
+locally hosted behind the firewall
+>> Yeah.
+>> um you can only log in on it when you're
+logged into a a VPN or a remote desktop.
+It's not not optimal, but then it might
+be workable because it's not connected
+to the public internet.
+>> Yeah.
+>> And that makes it easier, but if it's
+open to everything
+>> Yeah.
+>> Well, yeah, you have big issue right
+now.
+>> I mean like
+um
+Yeah, if it's a SSH uh
+server that you only uh you are the only
+one who can access it
+I don't think you have million of dollar
+behind it neither, right? Like
+>> No.
+>> So, yeah.
+Uh but yeah, AI will find it.
+>> Yeah, yeah, eventually there will be an
+issue.
+>> Yeah.
+Uh exploitation in a while, yes, so
+okay, ransomware affiliate intrusion,
+yeah, okay, so yeah, like you can go to
+the server, put a ransomware, and then
+uh you say, "Oh yeah, pay me a one
+Bitcoin
+or maybe 10 now,
+um
+so I can uh yeah, unlock your act your
+app."
+>> Yes.
+>> Um a third issue a third PHP issue CV 26
+uh 11 55 60 reported to affect the patch
+build.
+Really?
+>> [laughter]
+>> Damn.
+>> At this moment there are so many, and
+you said it like the CVE reports with
+such a high score, we had like one a
+year or maybe one every two or three
+years.
+>> Yeah.
+>> And then still there was no AI, so
+nobody could be so fast to exploit so
+many servers worldwide.
+But I think
+just on big software, not like smaller
+software parts, but on Linux, on PHP,
+Python, Node.js, and everything
+>> Mhm.
+>> we had at least 10 in the last 2 weeks.
+>> Yeah, that's nuts. That's that's crazy.
+Like yeah, again, it's once a year, once
+a decade, whatever. Like yeah, I mean I
+was listening to a podcast from
+like one dev from the Mozilla
+Foundation.
+>> Mhm.
+>> AKA like okay, it's CV10, it means
+uh
+you have the browser and there is an
+attack vector that can take control of
+your computer.
+>> Yes.
+>> Yeah, the browser. You go to and one
+example that I was that they gave was
+a Russian website.
+If you go on it,
+you lose the control of your computer
+with that Mozilla like opening or
+whatever.
+I bro.
+And we got those kind of
+loophole
+>> Mhm.
+>> five in a week. Like
+>> Yes. Okay.
+>> Panic.
+>> And then everybody says, "Oh, don't
+worry. I have an IT guy who knows what
+to do." But believe me, most people who
+are in IT,
+they just learn the trick. They know if
+they go to a SaaS software and they
+click a button, it spins up a server.
+And they connect GitHub and everything
+is installed that they build by using
+AI.
+But
+to actually update the server after it
+has been installed, they don't know how
+to do it.
+>> Yeah.
+>> They just think everything is working.
+Let's keep on going. And AI says it's
+safe, but AI only check the code that
+they built and didn't check the server.
+>> Yeah.
+>> So many
+people still have open issues who are
+not aware of it and where the developer
+says, "Oh, don't worry. I fixed
+everything."
+>> Yeah, I mean which which is true, right?
+>> Yeah, for sure.
+>> [laughter]
+>> Do you think a vibe coder will be able
+to patch
+PHP 7 now
+without knowing the whole architecture
+and stuff like No?
+>> No, because they don't know what a
+patching.
+>> Yeah, but then you say fix it. That
+there this is the bug. You drop the
+[ __ ] tweet with the the issue and
+say, "Oh yeah, look at that. Inspect my
+architecture."
+And like in
+tell me if I'm affected by that.
+>> Mhm.
+>> And upgrade everything.
+>> Yeah. Well, I think you need to do it
+better in the setup of your
+architecture. Disable everything that
+you're not using.
+You can just disable functionality in
+PHP. You don't have to You don't need to
+have everything active. Disable what
+you're not using.
+>> Yeah.
+>> Make sure that everything is up to date.
+Um don't run on a Digital Ocean server
+that you set up and don't update for 3
+years.
+Um
+but
+also understand what Linux uh is
+working
+of what Linux server you installed. What
+software did you use? Ubuntu, did you
+use DBN, uh CentOS, or something else?
+Because they have issues as well. It is
+not just PHP.
+>> Yeah, that one of the like
+uh fable
+launch teas was like, "Okay, we fixed a
+Linux kernel issue that was there for 30
+years."
+>> Yeah.
+>> Hey, yeah, the the next few months will
+be wild.
+>> Yes, it will be. But still, it If we
+also need to I give you that tweet from
+steal my Bitcoin.
+>> Uh
+>> Yes, this one.
+>> Yep.
+>> So, for the PHP leak here in the
+Netherlands, it was big. It was on every
+news channel, on every talk show. Um
+websites that were doing like millions
+of visitors per day were going offline
+just to be sure.
+And
+it still was a complicated uh hack. So,
+somebody created a website steal my
+Bitcoin,
+put for $2,000 of Bitcoin on it.
+And then it said, uh "This is my server.
+I didn't patch the leak. Steal it or try
+to hack it and you can steal the
+Bitcoin."
+>> Mhm.
+>> And it took some hacker like 19 hours to
+do it.
+>> Yes, yeah. 15, yeah, like it's it's
+crazy.
+>> So, that that still shows that
+it it they say it's it's it is easy to
+hack, but still it's hard to do it
+properly.
+>> Yeah.
+Um I mean, yeah, because and even like
+the the the patch, the exploit, etc. was
+um
+drived by
+uh
+not black hat like a hacker or like
+security expert.
+>> Mhm.
+>> So,
+you still need to drive the AI model to
+do something
+to to get to those level of exploit
+anyway. Like, you need to know like
+exactly what the [ __ ] you're doing and
+ask AI to basically brute force
+uh the solution, which is with what
+that's what happened with the with the
+mathematical
+uh problem that they solved, right? Like
+say um they put the they give the model
+to mathematician and they give like uh
+15 million dollars worth of token and
+compute to solve the $1 million problem.
+>> Yes.
+>> Like
+>> That also uh on cloud uh and open AI,
+they will probably say I'm not allowed
+to do it and it just stopped the prompt.
+They are not continuing and and and so
+you need an open source model or
+whatever just to do this.
+>> Yeah. I mean, yeah, and you probably
+need open source model to defend
+yourself, no?
+>> Yeah, yeah. So, that's the next one.
+>> Yeah.
+>> Why don't we going to use AI to defend
+ourselves instead of just getting
+attacked by AI?
+>> That's why maybe we should be like
+product just to be like, okay, like get
+paid and get that comfortable revenue
+out of it, but don't go too crazy
+because then like everyone will
+want to attack you. Like, can you
+imagine the week of the Vessel security
+team right now?
+Like, what do they do? Even like the
+open code
+Jacks
+Open Open Source founder said that yeah,
+we we don't sleep and
+we have agents uh
+helping us to conduct attacks 24/7.
+>> Yeah, it's impossible to do it without.
+>> Yeah, I know exactly like
+what the [ __ ] do you do defend yourself
+against like 24/7?
+Tentative of attack it's it's nuts.
+Okay, so AI don't reach entrepot
+business system in another 12 hours. The
+Washington Post story is based on
+Cathedral draft report and entrepot got
+some access to a limited set of cells at
+shrine IT's
+IT systems and customers conversation
+output. Okay, fair enough.
+Cloud output source code and model
+weight were not reached and said it got
+access to same day. Okay, thank you.
+Yeah, okay. So shrine to nice cloud code
+extension on the Q cell marketplace and
+that happened yeah, in the last four
+days.
+That was a problem because it led to
+Q cell pull pull the bill, shut the
+marketplace down and rotate the keys of
+the marketplace because an extension
+foreclosed
+was compromised.
+>> Yeah, this is big for Q cell. This is
+like big impact. This is not something
+they do every day.
+>> Yeah, like
+it's just sort of like yeah, critical.
+Yeah, shut down a product.
+>> Yeah, on such a big company.
+>> [snorts]
+>> It's nuts.
+Okay, and yeah, that's the summarize of
+the CV CVE PHP to shell to shell like
+second floor in the pair. Fair enough.
+Fragment of Linux scanner local
+privilege escalation. 48
+40 client CMS authentication bypass used
+by Phantom ransomware framework.
+Okay, okay, I'm not sure exactly what
+what is it but yeah, whatever.
+Simple help pass
+traversal used by same operators.
+Marked active exported
+by the IKEA news. What is that?
+I don't know.
+Set PHP issue said to affect patch
+version.
+>> Yes.
+>> Um yeah, so the only PHP version that
+are safe or 4.
+7.4 and all onward or even the retired
+ones.
+>> And now these are the retired ones like
+7.4, 8.0, and 8.1 are not getting any
+security updates anymore?
+Uh only 8.2 and up?
+>> Okay.
+>> And 8.2 is I think even by the end of
+the year is going end of life.
+>> Okay.
+>> But like most of the websites
+are still working on 7.4 because 7.4 was
+like a big PHP update. You could do a
+lot with it. And when you go over to 8.0
+you had to update so many functions and
+like everybody is using WordPress,
+buying teams.
+And the teams are just
+for making money and they don't update
+it. So, everybody was updating from 7.4
+to 8.0
+uh their website crashes. You get a 500
+error and that's it.
+So, that's the reason why so many
+servers still support 7.4.
+And
+um
+eventually they just released updates
+for these versions as well. But it's an
+exception. So, if you are running 7.4
+and you think, "Well, they patched it
+now and we are safe."
+You are now, but you don't know you're
+not never sure for the next update
+because it is not supposed to get
+security updates and you must update to
+at least 8.2 and if you can to 8.4 or
+8.5.
+>> Yeah, just like stay to the latest
+version. Like do the work of like
+properly update your system.
+>> Yeah, yeah. So, a server and a website
+is no longer that something you can buy
+and just let sit for 10 years.
+>> Yeah.
+I mean
+>> You need to do upkeep.
+>> Yeah.
+No, exactly.
+Um okay, so
+you're you were the most exposed because
+I don't have any PHP application.
+>> Yeah, I think we had issues before on
+our websites.
+>> Yeah.
+>> [laughter]
+>> I I just updated my uh node version
+uh on Vercel and then I was down uh
+for you like what was the process to
+solve all of those PHP version issues?
+>> Yeah, well we have different customers.
+So we have like big customers who have
+single VPS and where the entire company
+runs on the VPS.
+Um, I could not take it offline. So what
+we did is we put a firewall in front of
+it
+and we only gave access to the server if
+you were logged in on the remote desktop
+or on the VPN.
+>> Okay.
+>> So we are sure that only the people in
+the office were able to access the
+server and
+that didn't fix the the the possible
+hack, but that
+just
+made it sure that nobody could access
+the server and we were safe until we
+patched it.
+Um, and then we had like our hosting
+servers with like 20 to 50 websites on
+it.
+Um, eventually what I first did was I
+think around 1:00 p.m. I took them
+offline so they have been offline for 3
+hours just to be sure.
+And then we deleted the PHP version 7.4
+to 8.1
+because we have been warning customers
+for the last 2 years that they need to
+update.
+And we now just deleted the versions. We
+put the server back online after the
+patching. We checked every website if it
+was still working. If it gave issues, we
+used AI to check the logs from the
+server where the issues were and we
+contacted the customers to see if we
+could help them update the server of
+update the website if it was needed.
+>> Okay.
+>> And we did that for 400 websites within
+24 hours.
+>> Wow.
+>> All thanks to Grok and Cloud AI.
+>> Jesus.
+>> Yeah.
+>> Uh
+you were on that you just by yourself?
+>> Yeah, yeah. I me and a colleague we did
+it with the two of us.
+>> Uh, whole how many people it would have
+required to do that
+pre-AI?
+>> Yeah, I don't know, but even if you
+um
+even if you know what the issue is,
+yeah, you still need to know how to
+solve it. And if I know just download
+the script and I have Grok locally
+scrape the script and say, "What is the
+issue?"
+>> Yeah.
+>> And I can even just download an entire
+backup of all the websites and say, "Go
+through the folders one by one and give
+me a list."
+>> Yeah.
+>> Within an hour, I know for 50 websites
+what I need to update.
+>> Yeah, I don't know. It's not
+>> That would have been like days of work
+before AI.
+>> I mean, we thought AI will not have
+found those issues anyway, but uh
+>> No, no. You would just enable uh PHP
+debug and you would enable the logs and
+showing all the errors and you would
+just go one by one, go to the file, see
+what the issue is, update it and then
+see if there are more issues. It's like
+a trial and error.
+>> I think it's it's also makes those apps
+more safe than because you fix errors
+that uh or like
+those that were right open for someone
+who knows where they are, right?
+>> Yes.
+>> So, now all of the website, your 400
+website are more safe than yesterday.
+>> Yes.
+>> Until the next one and then you will
+have to do that again, but
+we are upgrading the internet right now.
+>> Oh, yeah. We are making it more secure.
+And I think that's also the difference
+of what the two of us do versus bigger
+companies. Because you have the bigger
+companies who have like 10K of customers
+all hosting WordPress websites. The only
+thing they do is they take out PHP 7.4
+and they say, "Good luck."
+And everything else is up to the
+customer and that's why they have like a
+$1 hosting per month.
+They don't get any support. So, if you
+have a website on it for your company
+and you are making money, just make sure
+that you have a good developer
+>> Yeah.
+>> and don't be cheap and go to a $1
+hosting.
+>> I mean, yeah, especially when your whole
+business and which business doesn't
+depend of like internet app or website
+anymore, right?
+>> Yeah.
+>> It's like something with like uh the
+post is like so never from post it. Uh
+Uh, he used a railway before because it
+was a one-click solution to deploy a
+server or whatever.
+And after they went offline for
+24 hours or something, they got hacked
+again.
+>> Yes, Railway got hacked.
+>> Yeah, and he completely switched to AWS.
+>> Yeah.
+>> And then you have your own architecture
+and it like and that's it. At least you
+own that and you just pray for Amazon to
+not have a
+uh
+>> [laughter]
+>> issues. But uh yeah, again, like it's
+it's you increase the the
+probability of like big [ __ ] up if it
+touch Amazon, Vercel, or something like
+that, right? Like okay, it kind of
+touched WordPress, so that's a big
+>> Yeah, yeah. Well, we we also have like a
+lot of Laravel installations.
+>> Mhm.
+>> And before we used uh we used to set up
+every server ourselves because that's a
+cheaper way you can run everything on a
+server. And now we're using the Laravel
+cloud solution. That is just like
+working in
+uh in like in
+uh Docker containers on AWS.
+>> Mhm.
+>> But the the biggest thing is
+they have their architects that know the
+entire system.
+And they have them actively working
+on the cloud platform to keep everything
+safe. So, they they patch all the
+servers within 1 or 2 hours after they
+come out.
+And instantly all your Docker containers
+are like redeployed.
+>> Yeah, okay, that's nice.
+>> So, everything is safe. Everything is an
+AWS, Cloudflare's in front of it. And it
+is a bit more expensive, but
+>> Yeah.
+>> just having an another technical team
+who knows what to do behind you, that's
+perfect.
+>> Yeah. I mean, and yeah, those solutions
+are nice when I I guess like Railway
+grew too fast at the age of like AI
+deployment lane, then they were like
+used by all of the agents, so it was
+hard to have their system
+uh
+strong enough to handle all of this
+traffic and stuff.
+But yeah, they had huge
+um
+reliability issues. And when it's about
+your server, then it's not like just a
+feature you can patch. It's like they
+need to fix your server.
+>> Yes.
+>> So, yeah. It's
+>> And I think we can say that for Genfeed
+as well, right? You have the solution
+where you can install it yourself, but
+if you are not sure how to keep
+everything safe,
+>> Yeah.
+>> they can also just use Genfeed or ask
+you to host it for them.
+>> Exactly. And just send me a ticket if
+there is an issue.
+>> Yeah, yeah. Well,
+>> Yeah, yeah.
+>> But imagine if there was a patch needed
+and you host like 10 or 20 servers, you
+patch every one of them.
+>> Exactly.
+>> So, there is also like security and
+reassurance included. And that's that's
+worth a lot.
+>> Yeah, no, no, for sure. And I mean
+people want the one-click
+one-click solution anyway, right? Like
+you just need to make sure this
+one-click solution is built properly.
+>> I I still don't think people
+realize that they say, "Yeah, we know."
+And it didn't go wrong, but once it goes
+wrong and your data is out in the
+public,
+I don't think people realize what the
+impact is.
+>> Yeah. I mean, like
+they don't need to know when you serve
+the service, right? Like
+>> Yeah.
+>> It's
+it's a double-edged sword. Like you
+build something on top of another
+architecture and you just pray for
+have a better service than the
+competition and it's strong and
+whatever, right?
+>> Yeah.
+Um
+tweets
+my I'm just like I get the slideshow. I
+want to fix something on it.
+So, it's a to-do list for later.
+Tweets slideshow
+slideshow link
+uh
+for the stream. Yes.
+>> By the way, do you know what what what
+I'm still amazed about?
+People are like even the verb coders,
+they are adding their API keys for
+cloud, open AI, and
+uh in every solution they built.
+Because they know that when I verb code
+and I I it and I let the
+let the app that I've built connect to
+Cloud Code. It can answer every question
+and do everything in there.
+>> And then they
+don't put any measurements on the
+account and enable automatic billing.
+And when they get hacked,
+I am sure if you search X, you can find
+people saying, "I lost 18k, 100k, 200k."
+And people are abusing the code and
+within 24 hours, they have spent over
+100k of cost.
+>> Yeah, no. I I don't use
+metric billing for any AI stuff.
+>> No, me neither, but
+>> No, no, no.
+>> Like I just upload money and
+>> Yeah.
+And I at least put a limit on your
+credit card. Like I'm not spending 100k
+on a loop.
+>> No.
+>> [laughter]
+>> On the like February 5.1 loop that is
+building like something completely
+useless.
+>> Yeah, but people are blaming Cloud Code
+11 labs and and everything where the AI
+code is abused.
+>> Yeah.
+>> And then they say, "I want my money
+back." But I don't even know how they
+are going to pay for the cost.
+>> I mean, yeah, you I mean, you can go
+bankrupt. Yeah, you're not solvable.
+Like I'm pretty sure they can't void the
+invoice anyway. Like
+Who Who's going to like [ __ ] prompt
+for 100 grand
+uh from like yeah, I don't know.
+Like
+I don't know. I don't
+I don't know. Yeah, because you're
+entitled to pay the bill, right?
+>> Mhm.
+>> Yeah, that's a problem.
+>> Yeah, yeah, that's a big problem. So,
+So, doing a good solution and setting
+everything up properly, making sure that
+your security is in order and you take
+measurements against hacks and update
+regularly,
+it's so much more important than it used
+to be.
+>> No, no, no, exactly. I mean, I always
+have like a command to update everything
+all the time. Like
+even when I was coding with Angular,
+like as soon as possible, like I just
+pause the development and like update
+the framework.
+>> Yes.
+>> You rewrite everything and like just
+just just pause the features for 3 days,
+clean some [ __ ] up. And when we had to
+code finally, it was also a nice way to
+uh
+um just clean up the product too, right?
+Because there is a a lot of garbage that
+nobody used for the last
+uh 17 years. So, yeah, just put that
+away.
+>> Best solution is to delete it.
+>> Yeah.
+>> [laughter]
+>> Yeah.
+>> I mean, a good pull request is when you
+delete code, right?
+>> Yeah, yeah.
+>> [laughter]
+>> And it still keeps working after you
+have merged.
+>> Exactly.
+Um okay, so yeah, Kirso we talk about
+it. Uh
+that's my personal profile. I won't talk
+about it. Uh we have Oh, yeah, Ubuntu.
+We don't talk about Ubuntu.
+>> Yeah, I I was I was complaining about
+it, right?
+>> Uh
+>> Just before the call.
+>> Yes. So,
+>> Yes.
+>> You sent me this uh little notification.
+So, it was
+um
+uh
+Yeah, okay. So, that's the tweet about
+like I have like uh levels. Um so,
+uh I will say you want to VPS port all
+closed. What it was it about? What the
+heck?
+>> Yeah.
+>> Oh, okay. So, cool. Oh, yeah, 3 million
+views. Let's go. So, on October 31st,
+Linux October
+2026 TCP use after free CVS 2026
+9 8432,
+which is uh it's pretty bad because it's
+red.
+>> Yeah, and it's a 9.8
+out of 10.
+>> Yeah.
+>> So, that's big.
+>> Like
+And in fact, yeah, everything like 5 10
+distro fix only, okay?
+Um is a remote user after free Linux IP
+TCP and shake fixed upstream. Cool,
+cool, cool. Uh what does it do?
+What was the issue?
+>> Uh let's see what it is. Oh, why it's
+urgent.
+>> The back seat in
+in code every Linux server runs when it
+accept the IPv4 TCP connection before
+any application see the connection.
+Uh Entropik reported that say cloud
+model wrote a working proof of concept
+exploit that runs command as root on
+Linux server with a multi Jesus.
+>> So, this is big. This just thinks it can
+take over the entire server.
+And Linux is built in as a basic in so
+many software tools for running servers.
+Like you have DBN
+Ubuntu this one. And like everything
+patched but Ubuntu didn't.
+And I was just searching it and I think
+they did it like 6 hours ago but it took
+them a few days. So, every server using
+Ubuntu and most people don't even know
+that a software is running on Ubuntu.
+Uh
+was like open to the entire internet for
+takeover.
+>> Jesus.
+>> And then the other the other issue is
+well most people say yeah, am I hacked?
+Okay, we checked everything there is no
+weird PHP file or any other file on the
+server but hackers don't just instantly
+put everything on it. The only thing
+they do is create a backdoor, store
+additional credentials, read your
+password and try to break in. And once
+they know that they can go in, they
+store it and they take like 2 weeks, 3
+weeks, 4 weeks and that's when they go
+and test everything, see why your
+backups are running. And once they have
+everything, that's the moment when they
+take over. So, they are sure that you
+are not able to just restore a backup
+because
+then it's no longer hacked. And once
+they have the backups, the security,
+everything
+in their own pocket, that's the moment
+when they just put on this black screen
+and say we want to get free bitcoins
+from you for giving you back access.
+>> Yeah, because it locked the backup and
+stuff. Yeah, yeah, okay.
+>> Yeah.
+>> Yeah, it's it's crazy.
+>> This is also why you don't put a backup
+in the next door building.
+>> Exactly. [laughter]
+And like okay, so
+uh okay, it's coming from Anthropic.
+How much you want you want to bet that
+it's like February 5 5 plus?
+>> Yeah, I'm really sure.
+>> Yeah.
+>> They are just giving all these bigger
+companies who build like the basic
+stones over our entire internet.
+>> Mhm.
+>> Yeah, they get priority to all the newer
+models.
+>> And uh it was teased that uh 6.2 Astra
+No, 6.1 Astra was coming like today
+maybe tomorrow. So maybe next week we
+will be able to do a live stream about
+those models and say, "Wow, it's a GI."
+>> Yeah.
+>> So get ready for that.
+>> [laughter]
+>> Um and if we have 6.1 Astra, then we
+should be able to get like uh February 5
+in the next 48 hours after that.
+>> Yeah, they are always going to making a
+big competition of it, right?
+>> Exactly. So yeah, that would be
+interesting to see. Because like also
+the other point is okay, now we have all
+of the CVE etc. Right now that happened
+right now next month whatever.
+>> Mhm.
+>> Um
+that makes internet more safe etc. etc.
+But then it also uh it will be harder
+and harder for AI to act new stuff. So
+maybe it will take a few months to
+figure out everything out with the next
+new models.
+And in 6 months maybe we will patch the
+internet.
+>> Yeah, the only thing is we did like 20
+years of normal work within a few
+months.
+>> [laughter]
+>> No, exactly. But I mean under the
+uh urgency of like saving your
+multi-billion dollar company, then uh
+yeah, you're just like uh dev dev uh
+the dev con 5 No, 5 or 1? That you you
+go dev con 1?
+>> Yeah, I think one is the the the
+>> Yeah, exactly.
+>> the worst one.
+>> Exactly. So you go dev dev con 1 and
+then you fix everything and you sleep
+later.
+>> Yeah, but this is the one of the reasons
+why every IT guy who is using AI right
+now and following the news has more work
+than ever.
+>> Not exactly. We should launch a security
+company, mate.
+>> Yeah, for sure. We will patch
+everything.
+>> Yeah.
+>> Doesn't matter.
+>> Exactly. And audit the system.
+Yeah, fix everything here. Make no
+mistake.
+>> [laughter]
+>> Make no mistake.
+And if you do, tell me.
+>> I mean, yeah. But I mean I'm
+There is a world when like some low
+uh low-bar level entry software security
+are actually doing that.
+>> Yeah, yeah, for sure. People are just
+selling uh subscriptions where they say
+we patch everything and we keep
+everything secure.
+And most of them are scammers as well.
+Because how will you even check if they
+actually do it?
+>> And and even like uh if you're an
+average security guy, not like a crazy
+expert that goes to
+all of those hackathons and then you
+hack the bank's central bank or
+whatever.
+>> Yeah. But like if you're an average
+security guy, you know you know more
+about like the average developer, but
+you still an average hacker. You're not
+like a North Korean hacker.
+>> [laughter]
+>> Stealing 6.3 million in Bitcoin.
+>> If you're not part of the Lazarus Group,
+I'm pretty sure you you you prompt like
+uh Opus 5.5 like us.
+>> Yes.
+>> Yeah.
+>> And even the the the people who know so
+much, they're so expensive that you
+can't even afford them.
+>> Yeah. No, no, exactly. And also like
+they use so much in a vertical
+knowledge. Like in one I don't know like
+a HTTP protocol, they can do everything
+they want with HTTP.
+>> Yes.
+>> But you have TCP, you have like uh FTP,
+you have all of the language. Yeah, and
+and you can even like okay, I know very
+well like a Rust or Go or whatever or
+like C# or whatever. But then if you
+have then you you you are not able to
+see all of the opening in TypeScript
+because uh you only know this language.
+Opus 5.5 doesn't give a [ __ ] about that.
+>> No, no, it just runs everything. So, if
+you're if your IT guy is
+very good socially,
+>> Yeah.
+>> that's weird. IT guys who know
+everything about hacks are not socially
+like a 10 of 10. And if he says, "I
+don't need AI. I just fix everything
+manually." Well, that are two big red
+flags.
+>> [laughter]
+>> I mean, yeah, I I I listened to a
+podcast talking about like all of those
+security in the Binance hack stuff.
+>> Mhm.
+>> And
+a lot of a big part of those hacks are
+social engineering.
+>> Yes.
+>> So, those guys, they are kind of like
+they have a high EQ and a high technical
+skills, too. Like,
+and also they they are afraid of like
+the consequences of what happened if
+they fell. So, there is also that.
+That's That's what motivates you.
+>> We got We have a few minutes, right? I
+don't know if people noticed it, but it
+was in news. Binance got hacked.
+>> Yeah.
+>> And I think the eventual issue was that
+one of the developer's laptop was
+abused.
+>> Exactly. A developer's guy.
+>> Yeah. So, if you are a like a high-level
+developer,
+>> Yeah.
+>> and you get a girl walking over to you
+who is a 10 of 10 and ask if you want to
+go out,
+>> Yeah.
+>> that probably is socially a social
+engineering.
+>> Do not swap right, bro.
+>> Yeah. Yeah, even if you go over to her
+place and have your laptop there, always
+lock it. Never leave it open.
+>> Yeah. No, yeah.
+>> Don't connect to her Wi-Fi, nothing.
+You see what happens.
+>> I mean, no, but that's true. And even
+like in the same podcast, those guys
+were saying like
+there is two type of company in the
+Silicon Valley right now. There is
+companies that know they have North
+Korean spy in the employees or
+contractor or in the supply chain of
+like software. And there is a company
+who don't know about it.
+>> Yeah.
+>> But all of them, they have spies in it.
+Like
+>> There's no choice.
+>> Bro, like how many spies do you do you
+think they have in open-source and
+tropic like
+>> Yeah, probably.
+>> And contractors could be contractors,
+right? It can
+>> be anything.
+>> Exactly. You you can be like you can be
+Forknox and then you you
+you you use a third-party provider who
+is not Forknox, but then those spies
+know about it. And boom.
+>> Yes.
+>> Yeah. So, that's
+>> Uh okay, last big question.
+How the [ __ ] do I protect my SaaS
+against all of those AI swarm agents
+at my scale because I don't have
+unlimited money like open-source and
+tropic. How what can we do?
+>> Yeah. I would say rely on the big
+companies. Make sure it's working
+through Cloudflare with a firewall in
+front of it and as a J of a a DDoS
+protection.
+Um use SSH keys. Don't use passwords.
+That's so
+That's so stupid. Uh rotate your SSH
+keys every
+every
+a few months.
+>> Yeah.
+>> And your API keys, don't have them set
+on infinite use. Just also keep rotating
+those.
+>> I need to change it.
+>> And make sure that you update and don't
+push your M file ENV file to a GitHub.
+>> Uh okay, I did both two of those
+actions. I I did that once.
+>> Yeah.
+>> Cuz uh yeah, Opus Opus 4.8 was not that
+smart.
+And I did the migration from closed to
+to open and then it's it's it's
+published a lot. So, I I did that
+rotation stuff and I have a couple of
+tokens that are not expiring.
+>> Yeah.
+>> But uh yeah, I should definitely change
+that.
+>> I think if you do all these points, you
+can do them even as a developer with not
+that much money and with a just a normal
+capacity.
+But
+I'm really sure so many people are not
+doing it. So, you're in the top level of
+people doing the basic actions and all
+the other ones get hacked first.
+>> I mean, it's kind of like uh crypto
+best practices, right? Like checking out
+your crypto like put a don't put your uh
+seed seed phrase on a post-it on a
+computer. Like a lot of it's like yeah,
+it's a lot of it is like common sense.
+Um but yeah, at some point we will uh
+there's a high chance that small SaaS
+will be
+uh hacked.
+>> Use a password manager. Don't store your
+passwords in Excel. And people laugh
+about it, but a lot of people do it.
+>> Yeah.
+Um yeah, actually I I have a password
+manager for the last 10 years. I don't
+understand why everyone don't have one
+like
+>> Yeah, but also just if you have
+customers and you need to share a
+password, use a password tool where they
+have a link that they can use only once
+to get it. And don't send passwords on
+the email. If email gets hacked and they
+scan
+>> Yeah.
+>> with AI the entire mail history, they
+take out all the passwords that have
+been used.
+And if people then
+uh reuse that password on multiple
+locations, it is just a brute force of
+everything and they are in all your
+accounts.
+>> Yeah. Oh yeah, no, it's it's it's a
+nightmare. Like I almost lost my uh
+Gmail box and I said okay, yeah,
+whatever. If if I lost it, I lost it.
+And then I stopped during the process.
+But uh I said yeah, and then I I like
+the day after I was thinking about it
+and said well no, maybe I should have
+kept it. I kept it. But
+uh yeah, if I would have lost it, there
+is a lot of history in there and that
+would have been [ __ ] So
+>> Yeah. Domains are a good earning for a
+lot of IT people because you ask your
+customer, did you have an email attached
+to domain? Oh yes, I had. Did you send a
+password using that email? Yes. Did you
+change that email address in the
+accounts? I don't know. Okay, somebody
+uses your domain, registers it after you
+stopped it.
+They can just create your email
+addresses, do forgotten password and
+they are in all your accounts.
+>> No, exactly. And uh I mean like um it
+happened less and less now, but like for
+example when you ask for forget password
+and they they give you the password in
+string.
+>> Yes.
+>> I'm bro.
+That means like nothing is like properly
+reverted like there is a double
+encryption like reverse.
+>> Yes.
+Well, the only thing left that I want to
+say, if you were watching this stream
+and you would have no idea what we were
+talking about.
+Yeah, please hire us and don't do it
+yourself.
+>> Yeah, and [laughter] thank you for
+watching the stream right now. You know
+what the [ __ ] we're talking about.
+>> But still, if this is all too
+complicated, yeah, then just make sure
+that you have a proper person doing your
+IT.
+>> Exactly. And I think yeah, even if
+it's a vibe coder, but experience vibe
+coder anyway.
+>> Yeah.
+>> [laughter]
+>> And I think it's a nice conclusion, man.
+>> Yes.
+>> So, yeah, okay. Thank you.
+Thank you everyone who watched the
+video. Thank you. Please subscribe to
+the channel, like and share the video.
+And we will see you same time
+same place
+>> next week.
+>> Yeah, in front of your laptop, same
+place.
+>> [laughter]
+>> And bye.
+>> Bye-bye.

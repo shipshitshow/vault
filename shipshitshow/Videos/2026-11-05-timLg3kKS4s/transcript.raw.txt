@@ -1,0 +1,260 @@
+You are in a race with the hackers all the
+time.
+It can take over the entire server.
+That's the moment when they just put on
+this black screen and say, we want to get
+free Bitcoins from you for giving you back
+access.
+And we did that for 400 websites within 24
+hours.
+Wow.
+All thanks to Grok and Claude AI.
+Jesus.
+You were on that? Just by yourself?
+A colleague and I did it, the two of us.
+How many people would it have required to
+do that pre-
+AI? I don't know. But even if you know
+what the
+issue is, you still need to know how to
+solve it.
+If I just download the script and have
+Grok locally scrape the script and
+say, what is the issue?
+And I can even just download an entire
+backup of all the websites and say, go
+through the folders one by one and give me
+a list.
+Within an hour, I know for 50 websites
+what I need to update.
+That's nuts.
+That would have been, like, days of work
+before AI.
+Because the bug itself was already known
+for more than a year.
+Yeah, exactly. And the same thing for all
+of the operating system stuff that got
+used in the last hack.
+They were known issues for the last 10
+years, but never fixed because it was
+too complicated to exploit.
+Yes. Not anymore when you have Fable.
+They make another suggestion, but they
+look at the issue.
+How complicated is it to abuse it?
+And even for themselves, how hard is it to
+fix it?
+And then they make an educated guess how
+big the chance is that people are going to
+abuse it. And that makes it a high-
+priority or a low-priority fix.
+But nobody thought about AI that just does
+a three-minute scan and then
+says, hey, I know how to solve things
+for you. It goes further than that, because when
+they publish a fix, the hackers
+are going to reverse engineer it, scanning
+the Internet for which services
+are running a version not updated yet, to
+exploit what they fixed in the
+most recent patch.
+Yes. You are in a race with the hackers
+all the time.
+It's crazy.
+And there are so many companies that still
+have the old software running on the
+server. I think that most people that come
+into the company now don't even
+know what it is. They just know: don't
+touch it.
+Don't take the power off.
+It is still working. And if those servers
+are connected to the Internet, they are
+not getting security patches or anything
+anymore.
+They are all end of life.
+And I still think that they are just
+hoping nothing goes wrong.
+The bug sits in code that every Linux
+server runs when it accepts the IPv4
+TCP connection, before any application
+sees the connection.
+Anthropic reported that a Claude model
+wrote a working proof-of-concept exploit
+that runs commands as root on a Linux
+server with a multi-
+Jesus.
+So this is big.
+It can take over the entire server.
+And Linux is built into so many software
+tools for running servers.
+Debian, Ubuntu, this one.
+And everything is patched, but Ubuntu
+didn't.
+And I was just searching for it, and I
+think they did it six hours ago, but it
+took them a few days.
+So every server using Ubuntu, and most
+people don't even know that the software
+is running on Ubuntu, was open to the
+entire Internet for takeover.
+Jesus.
+And then the other issue is
+that most people say, yeah,
+Am I hacked? OK, we checked everything.
+There is no PHP file or any other file on
+the server, but hackers don't just
+instantly put everything on it.
+The only thing they do is create a
+backdoor, store additional credentials,
+reuse your password, and try to break in.
+And once they know that they can go in,
+they store it, and they take two
+weeks, three weeks, four weeks.
+And that's when they go and test
+everything, see how your backups are
+running. And once they have everything,
+that's the moment when they take over.
+So they are sure that you are not able to
+just restore a backup because then it's no
+longer hacked. Once they have the backups,
+the security, everything in their own
+pocket, that's the moment when they just
+put on this black screen and say, we want
+to get free Bitcoins from you for giving
+you back access.
+Because it locked the backup and stuff.
+It's crazy.
+This is also why you don't put a backup in
+the building next door.
+For you, what was the process for all of
+those PHP version
+issues?
+We have different customers.
+So we have big customers who are on a
+single VPS, and while the entire company
+runs on the VPS, I could not take it
+offline.
+So what we did is we put a firewall in
+front of it, and we only gave access to
+the server if you were logged in on a
+remote desktop or on a VPN.
+So we are sure that only the people in the
+office were able to access the server, and
+that didn't fix the possible hack, but it
+made sure that nobody could
+access the server, and we were safe until
+we patched it.
+And then we have hosting servers with 20
+to 50 websites on them.
+What I did first was
+I think around 1 p.m. I took them offline.
+So they have been offline for three hours
+just to be sure.
+And then we deleted PHP versions 7.4 to
+8.1, because we
+have been warning customers for the last
+two years that they need to update, and we
+now just deleted those versions.
+We put the server back online after the
+patching.
+We checked every website if it was still
+working.
+If it gave issues, we used AI to check the
+logs from the server where the issues
+were, and we contacted the customers to
+see if we could help them update the
+website if it was needed.
+And we did that for 400 websites within 24
+hours.
+Wow.
+All thanks to Grok and Claude AI.
+Jesus.
+I think it also makes those apps safer,
+because you fix errors like those
+that were wide open for someone who knows
+where they are.
+Right. Yes.
+So all of the websites, your 400 websites,
+are safer than yesterday.
+Yeah. Until the next one, and then you
+will have to do that again.
+But we are upgrading the Internet right
+now.
+We are making it more secure.
+And I think that's also the difference between what
+the two of us do and what bigger
+companies do. Because you have the bigger
+companies who have, like, 10k of
+customers all hosting WordPress websites.
+The only thing they do is they take out
+PHP 7.4, and they say good luck.
+And everything else is up to the customer.
+And that's why they have one-dollar
+hosting per month.
+They don't get any support.
+So if you have a website on it for your
+company and you are making money, just
+make sure that you have a good developer.
+And don't be cheap and go to a one-dollar
+hosting.
+OK, last big question.
+What can we do?
+I would say rely on the big companies.
+Make sure it's working through Cloudflare
+with a firewall in front of it and a DDoS
+protection. Use SSH keys.
+Don't use passwords. That's so stupid.
+Rotate your SSH keys every few months.
+And API keys: don't set them to infinite
+use.
+Keep rotating those too.
+And make sure you update and don't push
+your
+.env file to GitHub.
+Okay. I did both of those actions.
+I did that once. Opus 4.8 was not that
+smart.
+And I did the migration from closed to
+open, and then it published a lot.
+So I did that rotation, and I have a
+couple of tokens that are not expiring.
+Yeah, I should definitely change that.
+I think if you do all these points, you can do them
+even as a developer with not that
+much money and with just normal capacity.
+But I'm really sure so many people are not
+doing it.
+So you're in the top level of people doing
+the basic actions.
+And all the other ones get hacked first.
+I mean, it's kind of like crypto, best
+practices.
+Right? Like, you cannot do crypto. Don't
+put your seed phrase on a Post-it
+on a computer. A lot of it is common
+sense. But at some point, there is a high
+chance that
+small SaaS will be hacked.
+Use a password manager.
+Don't store your passwords in Excel.
+And people laugh about it, but a lot of
+people do it.
+The only thing left that I want to say: if
+you were watching this stream and
+you have no idea what we were talking
+about, please hire us and don't do it
+yourself. Just make sure that you have a
+proper person doing your IT.
+Exactly. And I think even
+if it is a vibe coder, an experienced vibe
+coder anyway.
+Yeah.
+And I think it's a nice conclusion, man.
+Yes.
+Thank you, everyone who watched the video.
+Please subscribe to the channel.
+Like and share the video.
+And we will see you, same time, same
+place.
+Next week.
