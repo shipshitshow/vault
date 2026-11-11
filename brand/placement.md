@@ -48,6 +48,7 @@ If the asterisk hides the subject, move the crop, not the mark.
 Edited video, livestream scenes and slates use the 16:9 rows. Captions and lower thirds stay left of and below the mark so it is never covered; verify against the actual camera and caption positions. Names are small, and edited video carries no topic label.
 
 - **Colour follows the video the image belongs to, not the source it was cut from.** A recap or other edited video, and its thumbnail, is white on dark (black on light), even when the footage came from a livestream. Only a thumbnail, scene or slate of an actual livestream is red. The one exception is Shorts: the Short video and its cover both use the red master.
+- **Safe zone (proposed; confirm with Vincent).** Keep text, captions and readable UI inside the same 5% margin on every edge (96 px at 1920×1080) and clear of the mark's box (x1680 to 1824, y96 to 240 at 1920×1080) wherever the mark appears. Full-frame b-roll may fill the frame; its subject stays inside the margin. Scale uniformly for other sizes.
 - **Screen shares: product UI wins.** There is no persistent corner watermark on edited video. The mark appears on thumbnails, slates and host scenes. If a scene template carries it over a screen share, use the same corner only when it covers no readable product text or UI; otherwise leave it out of that scene rather than moving it. (Proposed; confirm with Vincent.)
 
 ## Who must follow this
