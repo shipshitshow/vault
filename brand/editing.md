@@ -148,7 +148,7 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 
 ## Known gaps
 
-- No reusable chapter-by-chapter runner: chapter boundaries are hard-coded per episode in the 261111 plan scripts (`editing/scripts/README.md` in the show repo lists what is reusable).
+- The chapter-by-chapter runner exists for plain cuts (`editing/scripts/chapters/` in the show repo: `plan`, `chapter <n>`, `all`, `stitch`; one 720p clip per chapter, only changed chapters re-render, stinger between chapters plus the outro). It does not yet do matte, b-roll or mascot layers, J/L split edits, the music lift under the goodbye or independent caption sync; those still come from the per-episode plan scripts. Only dry-run on 261111 so far, never listened to on a real episode.
 - `tsrct` (Tesseract) is not installed on the Studio; the 261111 edit was built with ffmpeg and the scripts.
 - The 261111 end-screen backdrop was never code; the template matches it by look, not by pixel.
 - The Restream kit is a first draft and waits on the owner's check in Restream Studio.
@@ -156,3 +156,4 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 ## Change log
 
 - 2026-11-13: merged `docs/show-prep/edit-style.md` and the earlier version of this page with the 11 to 13 Nov decisions: hosts first, Claude-built integrated motion, music bed, split edits, the stacked two-host Shorts layout, the goodbye and outro template, the standard transition, chapter gates, red asterisk on all Shorts covers, length by story.
+- 2026-11-13: known gaps updated: a chapter-by-chapter runner now exists for plain cuts.
