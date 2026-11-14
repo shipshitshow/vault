@@ -22,6 +22,7 @@ Use the actual episode or final edit for claims. The video title and art must pr
 - **Generation.** Generate the whole frame in one pass with the image generation CLI. Never paste or composite a face patch onto a finished image. Host likeness comes from the approved host references.
 - **Real things only.** Real logos, real profile pictures and the show's own assets. Do not invent vendor logos or replace requested generated artwork with static SVG portraits.
 - **Existing thumbnails.** Published thumbnails are not mass-updated to this layout (13 Nov).
+- **Masters.** The thumbnail masters folder keeps only thumbnails the owner has validated. Tests and rejected versions do not go there (owner, 14 Nov 2026).
 
 Prefer operator/business-use and head-to-head framings; pure model-news framing is the weakest. That ranking comes from view counts of the channel inventory, without CTR or retention, so treat it as a hypothesis.
 
