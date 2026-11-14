@@ -166,7 +166,7 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 - `tsrct` (Tesseract) is not installed on the Studio; the 261111 edit was built with ffmpeg and the scripts.
 - The 261111 end-screen backdrop was never code; the template matches it by look, not by pixel.
 - The Restream kit is a first draft and waits on the owner's check in Restream Studio.
-- No tracked script builds the stacked two-host Shorts layout. `editing/scripts/shorts/` in the show repo still builds the 261103 single-speaker layout; the approved 261111 Short 01 v2 came from per-episode scripts.
+- `editing/scripts/shorts/stacked.py` in the show repo now builds the stacked two-host Shorts layout (seam captions, red asterisk, hard cuts, `--still` check). Only one 25 second Short from 261111 was rendered with it, and nobody has listened to the audio. Its true peak after AAC measured -1.4 dBFS against the -1.5 dBTP rule (the `finalize.py` chain); that is open. It does not place animation or b-roll, and `build.py` there still builds the 261103 single-speaker layout.
 - Take-picking is done by reading the transcript in a session with the `clips` rubric. No script scores the transcript or writes the ranked Gate 3 plan.
 - Nothing checks the title automatically. Two of the three 261111 title options were 50 characters against "about 45 at most".
 - The burned-caption X copy has no caption style spec, and no script builds it or checks a tweet draft against the three checks.
@@ -180,7 +180,7 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 
 - A caption style spec for the burned-caption X copy.
 - An automatic length and Title Case check for titles.
-- Automation for the next episode: take-picking from the transcript, a stacked Shorts builder, chapter runner layers, a cut audit, a package generator with checks.
+- Automation for the next episode: take-picking from the transcript, chapter runner layers, a cut audit, a package generator with checks.
 - Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit, versioned outputs with a revisions log, a privacy sweep before upload.
 
 ## Change log
@@ -190,5 +190,6 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 - 2026-11-14: no rule changed. Known gaps extended from the editing automation audit (Shorts builder, take-picking, title check, tweet and X copy, Related video, true peak mismatch, stale placement and skill references) and a "Proposed, not decided" section added that points to the audit.
 - 2026-11-14: owner decisions locked. Shorts length is 45 to 90 seconds (was under 60). Shorts true peak is -1.5 dBTP (was -1). Tweet standard added: take first, one real receipt, burned-caption video attached, link in the first reply, three checks. Tweet and X copy added to the deliverables. The thumbnails row now points to the host-and-topic layout in applications (owner, 11 to 13 Nov). The 16:9 safe zone and no persistent corner watermark on screen shares are confirmed in placement. The radical-take prep steps are rules in show preparation.
 - 2026-11-14: three owner rules from 13 and 14 Nov recorded. Titles are in Title Case (13 Nov). The X copy is full quality and is not shrunk to fit a smaller upload size (13 Nov). The thumbnail masters folder keeps only validated thumbnails (14 Nov, in applications).
+- 2026-11-14: no rule changed. Known gap on the stacked Shorts builder updated: `stacked.py` exists in the show repo and is removed from the proposed automation list.
 - 2026-11-14: colour rule added (owner, 14 Nov): every recording is measured and colour-corrected automatically from its own footage before the recap and the Shorts are cut, with no fixed look. The step is `editing/scripts/grade/` in the show repo.
 - 2026-11-14: no rule changed. Audio section notes a new default: the voice is levelled from its own measured loudness, compressed and de-essed automatically before the master. It is not an owner decision yet; the values were set by meter and wait on the owner's ear.
