@@ -162,7 +162,7 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 
 ## Known gaps
 
-- The chapter-by-chapter runner exists for plain cuts (`editing/scripts/chapters/` in the show repo: `plan`, `chapter <n>`, `all`, `stitch`; one 720p clip per chapter, only changed chapters re-render, stinger between chapters plus the outro). It does not yet do matte, b-roll or mascot layers, J/L split edits, the music lift under the goodbye or independent caption sync; those still come from the per-episode plan scripts. Only dry-run on 261111 so far, never listened to on a real episode.
+- The chapter-by-chapter runner exists for plain cuts (`editing/scripts/chapters/` in the show repo: `plan`, `chapter <n>`, `all`, `stitch`; one 720p clip per chapter, only changed chapters re-render, stinger between chapters plus the outro). A chapter may carry an optional `motion` list in `chapters.json` (b-roll overlay or cut-away, mascot at a corner, layout switch to a named closeup or two-up, keyword pop in white or red); `plan` validates it against the rules on this page (overlaps, out-of-range times, missing assets, nothing over faces, the 5% safe margin, the asterisk box, the lower-third band, no zoom on people without the owner's approval on the layout) and chapters without it render as before. It does not yet do a host matte, J/L split edits, the music lift under the goodbye or independent caption sync; those still come from the per-episode plan scripts. Motion was checked on still frames of one 36 second slice of 261111 only: the animation (slide in and out, pop scale) was not watched and no audio was heard; the faces rects that keep overlays off the hosts are written by hand per layout, not detected. Only dry-run on 261111 so far, never listened to on a real episode.
 - `tsrct` (Tesseract) is not installed on the Studio; the 261111 edit was built with ffmpeg and the scripts.
 - The 261111 end-screen backdrop was never code; the template matches it by look, not by pixel.
 - The Restream kit is a first draft and waits on the owner's check in Restream Studio.
@@ -181,7 +181,7 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 
 - A caption style spec for the burned-caption X copy.
 - An automatic length and Title Case check for titles.
-- Automation for the next episode: matching picked takes to the planned Short cards, chapter runner layers, a cut audit (now built: `editing/scripts/cutaudit/audit.py`, reports only, never applies its nudges, nobody has listened to a flagged join yet), a package generator with checks.
+- Automation for the next episode: matching picked takes to the planned Short cards, the rest of the chapter runner layers (host matte, J/L split edits, music lift, caption sync), a cut audit (now built: `editing/scripts/cutaudit/audit.py`, reports only, never applies its nudges, nobody has listened to a flagged join yet), a package generator with checks.
 - Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit (built, see above), a privacy sweep before upload (now built: `editing/scripts/privacy/sweep.py`, review the flagged ranges before upload). (Versioned outputs with a revisions log and b-roll credits now exist, see Known gaps.)
 
 ## Change log
@@ -196,3 +196,4 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 - 2026-11-14: no rule changed. Audio section notes a new default: the voice is levelled from its own measured loudness, compressed and de-essed automatically before the master. It is not an owner decision yet; the values were set by meter and wait on the owner's ear.
 - 2026-11-14: no rule changed. Known gaps updated: a transcript take-picker now exists in the show repo (`editing/scripts/takes/`). It ranks candidates by the `clips` rubric; the 45 to 90 second length rule and the owner's pick are unchanged.
 - 2026-11-14: no rule changed. Known gaps updated: a revisions log and a b-roll credits file now exist in the show repo (`editing/scripts/revisions/`) and are removed from the proposed automation list. Nothing is credited until a clip has a creator and licence recorded.
+- 2026-11-14: no rule changed. Known gaps updated: the chapter runner now has an optional per-chapter motion layer (b-roll, mascot, layouts, keyword pops) in the show repo (`editing/scripts/chapters/`). It enforces the hard cuts, no-zoom, safe-zone and 80 percent hosts rules by validation; the animation has not been watched.
