@@ -16,6 +16,22 @@ Move sound/image and source-window checks before the substantive opening. Start 
 
 Use `## Sources — <viewer question>` and `###` subheadings in app topic Markdown. Keep sources and cue bullets together. Preserve topic frontmatter. For multiple topic files, maintain a separate run-of-show note for episode order. Confirm the current renderer instead of assuming older talking-points filters.
 
+## Takes and planned Shorts
+
+The on-air rules live in the show repo's [editorial format](https://github.com/shipshitshow/show.shipshit.dev/blob/master/docs/show-prep/editorial-format.md). In short:
+
+- Every episode carries at least one controversial angle and three to five standalone Short topics, named before recording (owner, 8 Oct 2026).
+- Before the show each host writes a one-line verdict per segment. Where the verdicts differ, that is the segment (10 Nov 2026).
+- Each planned Short has a card: working title, point, open, challenge, payoff, capture (10 Nov 2026).
+- Plan the question, not the disagreement. Nobody writes a view for a host, a host never defends a view they do not hold, and separate answers are never stitched into a stronger claim (10 Nov 2026).
+
+Proposed on 14 Nov 2026, not decided, after the owner asked for more radical takes so the Shorts get better. Detail in the [editing automation audit](../_admin/docs/audits/2026-11-14/editing-automation-audit.md):
+
+- Each host turns their own verdict into a headline-shaped sentence (a named target, a number or an absolute). The board runs the first-line test on it and reports pass or fail without rewriting it.
+- The board adds two or three provocation questions per segment: the strongest uncomfortable version of the question, never an answer.
+- A headline cue at each segment close: say the verdict to the lens as one standalone sentence that names the subject, then pause for a second.
+- After the stream, an automated pass over the transcript ranks the takes for the Shorts plan and reports which planned Shorts were actually said.
+
 ## Review the execution
 
 Record actual timings, unexpected tangents, demo result and unclear transitions. Compare like-for-like live and replay retention, average view duration, concurrent/return viewers, impressions, CTR and traffic. Inspect dips around setup, ads and transitions. Public cumulative views alone cannot identify a cause.

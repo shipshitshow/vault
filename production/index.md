@@ -11,6 +11,7 @@ Production foundation: natural source-led discussion by two founders using AI in
 - [Premiere retirement](premiere-retirement.md)
 - [Community workshop proposal](community-workshop.md)
 - [October 2 audit](../_admin/docs/audits/2026-10-02/project-audit.md)
+- [November 14 editing automation audit](../_admin/docs/audits/2026-11-14/editing-automation-audit.md)
 
 Reusable viewer skills: https://github.com/shipshitshow/skills. Producer Home: https://show.shipshit.dev/studio. Sign-in: https://show.shipshit.dev/sign-in. Public show: https://show.shipshit.dev. Public production board: https://github.com/orgs/shipshitshow/projects/2.
 
