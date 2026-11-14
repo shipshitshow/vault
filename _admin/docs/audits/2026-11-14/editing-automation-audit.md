@@ -144,6 +144,8 @@ In the order that removes the most hand work for the next episode:
 
 ## Radical takes (proposed)
 
+Update, 14 Nov 2026: the owner made steps 1 to 3 rules for every episode. They now live in `production/show-preparation.md`. Steps 4 to 6 stay proposals.
+
 The limits already decided stay: plan the question, not the disagreement; nobody writes a view for a host; a host never defends a view they do not hold; nothing is stitched into a stronger claim than what was said; the title must describe what the recording supports. Inside those limits, what is missing is not opinions but sentences. On 261111 the takes existed, and the Shorts still had to be found afterwards.
 
 1. **Headline verdict at prep.** Each host turns their own one-line verdict per segment into a headline-shaped sentence: a named target, a number, or an absolute ("X is dead"). The prep board runs the `clips` first-line test on it and reports pass or fail. It never rewrites it.
@@ -155,9 +157,11 @@ The limits already decided stay: plan the question, not the disagreement; nobody
 
 ## Decisions for the owner
 
-1. Thumbnails and covers: reverse "no host faces" (26 Oct) and lock the podcast-layout template, or keep topic-first.
-2. Adopt the radical-take steps 1 to 3 as dated rules.
-3. The tweet standard: take first, one real quote or number from the episode, the burned-caption video attached; and where the link goes (last line with a UTM tag, or first reply).
-4. Shorts true peak: -1 or -1.5 dBTP.
-5. Confirm the 16:9 safe zone in `brand/placement.md`.
-6. Shorts length in the planned Short cards: under 60 seconds everywhere, or keep 45 to 90 for planning.
+All six were answered by the owner on 14 Nov 2026. Each outcome follows its question.
+
+1. Thumbnails and covers: reverse "no host faces" (26 Oct) and lock the podcast-layout template, or keep topic-first. **Outcome:** already decided on 11 to 13 Nov, before this audit: hosts appear, large at the edges, with the topic person centred behind them and no title text. The audit missed it because the vault still carried the 26 Oct rule. Now in `brand/applications.md`.
+2. Adopt the radical-take steps 1 to 3 as dated rules. **Outcome:** adopted, 14 Nov.
+3. The tweet standard: take first, one real quote or number from the episode, the burned-caption video attached; and where the link goes (last line with a UTM tag, or first reply). **Outcome:** adopted, 14 Nov, with the link in the first reply and three checks: a real line, number or host clash; the opinion first; short and blunt in the owner's voice.
+4. Shorts true peak: -1 or -1.5 dBTP. **Outcome:** -1.5 dBTP, 14 Nov.
+5. Confirm the 16:9 safe zone in `brand/placement.md`. **Outcome:** confirmed, 14 Nov, together with no persistent corner watermark on screen shares.
+6. Shorts length in the planned Short cards: under 60 seconds everywhere, or keep 45 to 90 for planning. **Outcome:** 45 to 90 seconds, 14 Nov; the rulebook now says the same.
