@@ -168,6 +168,7 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 - The Restream kit is a first draft and waits on the owner's check in Restream Studio.
 - `editing/scripts/shorts/stacked.py` in the show repo now builds the stacked two-host Shorts layout (seam captions, red asterisk, hard cuts, `--still` check). Only one 25 second Short from 261111 was rendered with it, and nobody has listened to the audio. Its true peak after AAC measured -1.4 dBFS against the -1.5 dBTP rule (the `finalize.py` chain); that is open. It does not place animation or b-roll, and `build.py` there still builds the 261103 single-speaker layout.
 - A take-picker exists (`editing/scripts/takes/pick.py` in the show repo): it scores the transcript with the `clips` rubric heuristics and writes ranked candidate Shorts with source ranges and a `segs` fragment for `short.json`. It reads text only, so it cannot judge delivery, does not map takes to the planned Short cards or report which planned Shorts were said, and has only been run on the 261111 transcript. The owner still picks the Shorts at the gate, after listening.
+- A revisions log and a b-roll credits file exist (`editing/scripts/revisions/revlog.py` in the show repo): `add` appends a hash-chained record (source and output hashes, loudness, an EDL summary) to `out/revisions.jsonl` and renders `revisions.md`; `diff` compares two versions; `credits` writes `credits.md` from per-clip sidecars. A clip is credited only with a creator and a licence (or `original: true`), otherwise it prints as UNVERIFIED. The 261111 scratch run listed 9 b-roll clips, 0 credited, 9 UNVERIFIED, because no episode has sidecar metadata yet. The EDL reader is generic and has not been run against the trimmer's real output. The kit revision, logo hash, fonts and caption style are not recorded by the script, so that part of the rule above is still by hand.
 - Nothing checks the title automatically. Two of the three 261111 title options were 50 characters against "about 45 at most".
 - The burned-caption X copy has no caption style spec, and no script builds it or checks a tweet draft against the three checks.
 - A Short's Related video and its "Full episode" link are set by hand after publish.
@@ -181,7 +182,7 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 - A caption style spec for the burned-caption X copy.
 - An automatic length and Title Case check for titles.
 - Automation for the next episode: matching picked takes to the planned Short cards, chapter runner layers, a cut audit, a package generator with checks.
-- Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit, versioned outputs with a revisions log, a privacy sweep before upload.
+- Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit, a privacy sweep before upload. (Versioned outputs with a revisions log and b-roll credits now exist, see Known gaps.)
 
 ## Change log
 
@@ -194,3 +195,4 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 - 2026-11-14: colour rule added (owner, 14 Nov): every recording is measured and colour-corrected automatically from its own footage before the recap and the Shorts are cut, with no fixed look. The step is `editing/scripts/grade/` in the show repo.
 - 2026-11-14: no rule changed. Audio section notes a new default: the voice is levelled from its own measured loudness, compressed and de-essed automatically before the master. It is not an owner decision yet; the values were set by meter and wait on the owner's ear.
 - 2026-11-14: no rule changed. Known gaps updated: a transcript take-picker now exists in the show repo (`editing/scripts/takes/`). It ranks candidates by the `clips` rubric; the 45 to 90 second length rule and the owner's pick are unchanged.
+- 2026-11-14: no rule changed. Known gaps updated: a revisions log and a b-roll credits file now exist in the show repo (`editing/scripts/revisions/`) and are removed from the proposed automation list. Nothing is credited until a clip has a creator and licence recorded.
