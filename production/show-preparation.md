@@ -33,7 +33,7 @@ Radical-take prep, a rule for every episode (owner, 14 Nov 2026), after the owne
 
 Planned automation, not built yet:
 
-- After the stream, an automated pass over the transcript ranks the takes for the Shorts plan and reports which planned Shorts were actually said.
+- After the stream, an automated pass reports which planned Shorts were actually said. The ranking half exists: `editing/scripts/takes/pick.py` in the show repo ranks candidate takes from the transcript.
 
 ## Review the execution
 
