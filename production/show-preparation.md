@@ -25,11 +25,14 @@ The on-air rules live in the show repo's [editorial format](https://github.com/s
 - Each planned Short has a card: working title, point, open, challenge, payoff, capture (10 Nov 2026).
 - Plan the question, not the disagreement. Nobody writes a view for a host, a host never defends a view they do not hold, and separate answers are never stitched into a stronger claim (10 Nov 2026).
 
-Proposed on 14 Nov 2026, not decided, after the owner asked for more radical takes so the Shorts get better. Detail in the [editing automation audit](../_admin/docs/audits/2026-11-14/editing-automation-audit.md):
+Radical-take prep, a rule for every episode (owner, 14 Nov 2026), after the owner asked for more radical takes so the Shorts get better. Detail in the [editing automation audit](../_admin/docs/audits/2026-11-14/editing-automation-audit.md):
 
 - Each host turns their own verdict into a headline-shaped sentence (a named target, a number or an absolute). The board runs the first-line test on it and reports pass or fail without rewriting it.
 - The board adds two or three provocation questions per segment: the strongest uncomfortable version of the question, never an answer.
 - A headline cue at each segment close: say the verdict to the lens as one standalone sentence that names the subject, then pause for a second.
+
+Planned automation, not built yet:
+
 - After the stream, an automated pass over the transcript ranks the takes for the Shorts plan and reports which planned Shorts were actually said.
 
 ## Review the execution

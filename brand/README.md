@@ -1,6 +1,6 @@
 # Ship Sh*t Show brand kit
 
-Maintained identity, tokens and production rules. Updated **3 November 2026** for top-right thumbnail signatures and format-specific safe margins. Newer explicit owner instructions take precedence.
+Maintained identity, tokens and production rules. Updated **3 November 2026** for top-right thumbnail signatures and format-specific safe margins, and **14 November 2026** for the host-and-topic thumbnail layout. Newer explicit owner instructions take precedence.
 
 **Ship Sh*t Show** is the full name. **Think AI** is the baseline, without punctuation. The compact mark is the standalone **six-arm asterisk**. Start with [placement](placement.md), the one-table lookup for asterisk position, size and the Short layout. Use [identity](identity.md), [applications](applications.md), [editing](editing.md), [production](production.md), [tokens](tokens.json) and the [inventory](inventory.json) together.
 
@@ -9,7 +9,7 @@ Maintained identity, tokens and production rules. Updated **3 November 2026** fo
 - Both websites use dark charcoal foundations and broad, compact typography. The show uses Space Grotesk; the business retains its approved Inter Tight/Inter type roles.
 - The show uses red #E83B3B. The commercial shipshit.dev identity uses black, white and charcoal.
 - Main-channel avatar: red asterisk on charcoal. Clips: white asterisk on charcoal.
-- Thumbnails lead with the topic and show no host faces (the hosts are not yet recognized). Use source-grounded topic subjects and official topic logos in their own colors on monochrome backgrounds. White/black signature for edited video; red for live, always top-right inside the [thumbnail safe margins](thumbnail-safe-zones.md).
+- Thumbnails show both hosts as large face close-ups at the left and right edges, with the topic person or subject centred behind them in greyscale over a simple colour background that illustrates the topic. No title text, real logos only (owner, 11 to 13 November 2026, replacing the 26 October no-host-faces rule; see [applications](applications.md)). White/black signature for edited video; red for live, always top-right inside the [thumbnail safe margins](thumbnail-safe-zones.md).
 - Photography, headlines and graphic marks share one composition. Preserve likeness and full shoulders; use native image proportions with soft background integration.
 
 ## Source and maintenance
