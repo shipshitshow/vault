@@ -20,10 +20,10 @@ Input: the raw livestream recording (one composited 1080p stream, no separate ca
 | Recap video | About 10 minutes by default. Longer (15 to 20) is fine when the story holds; length never beats storytelling (13 Nov). 1080p60 master plus a 720p review proxy |
 | Chapters, captions, description, tags | From the final timeline, never the full-stream clock |
 | 5 Shorts | 9:16, 45 to 90 s each (14 Nov), with covers, titles and descriptions |
-| Title | About 45 characters at most, short and radical. No "[LIVE]" |
+| Title | About 45 characters at most, short and radical, in Title Case: every word capitalised (13 Nov). No "[LIVE]" |
 | Thumbnails | Hosts at the edges, topic person centred behind them, no title text (11 to 13 Nov). Rules in [applications](applications.md) |
 | Tweet | Take first, one real receipt from the episode, link in the first reply (14 Nov). See [Tweet and X copy](#tweet-and-x-copy) |
-| X copy | The final video with captions burned in, attached to the tweet (14 Nov) |
+| X copy | The final video with captions burned in, at full quality, attached to the tweet (13 Nov) |
 | Upload | Private, with metadata, only after the owner approves |
 
 ## Pipeline and gates
@@ -124,7 +124,7 @@ Decided by the owner on 14 Nov 2026.
 - **Shape.** Open on the take. One real receipt from the episode: a real line, a number or the hosts' clash. The burned-caption copy of the video is attached.
 - **Link.** The episode's YouTube link goes in the first reply, not in the tweet.
 - **Three checks before it reaches the owner.** It quotes a real line, number or host clash from the episode. It leads with the opinion, not with how the video was made. It is short and blunt, in the owner's voice, and does not read as AI-written.
-- **X copy.** The final video with captions burned in. Size, caption style and length limit are not specified yet (see known gaps).
+- **X copy.** The final video with captions burned in, at full quality. It is not recompressed or downscaled to fit a smaller upload size (owner, 13 Nov). Caption style is not specified yet (see known gaps).
 - Nothing is posted or scheduled without the owner's OK on a card.
 
 ## Livestream scenes and broadcast
@@ -167,7 +167,7 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 - No tracked script builds the stacked two-host Shorts layout. `editing/scripts/shorts/` in the show repo still builds the 261103 single-speaker layout; the approved 261111 Short 01 v2 came from per-episode scripts.
 - Take-picking is done by reading the transcript in a session with the `clips` rubric. No script scores the transcript or writes the ranked Gate 3 plan.
 - Nothing checks the title automatically. Two of the three 261111 title options were 50 characters against "about 45 at most".
-- The burned-caption X copy has no spec for size, caption style or length limit, and no script builds it or checks a tweet draft against the three checks.
+- The burned-caption X copy has no caption style spec, and no script builds it or checks a tweet draft against the three checks.
 - A Short's Related video and its "Full episode" link are set by hand after publish.
 - [Placement](placement.md) still shows the 5 Nov Short video layout next to the 12 Nov stacked layout on this page. A note there marks the superseded rows.
 - The `clips` skill named at the top of this page lives in the show repo's `skills/`, not in the public skills repo linked above, and its layout section predates 12 Nov.
@@ -176,8 +176,8 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 
 Nothing in this section is a rule. The [14 Nov editing automation audit](../_admin/docs/audits/2026-11-14/editing-automation-audit.md) holds the detail and records what the owner decided on 14 Nov.
 
-- A full spec for the burned-caption X copy: size, caption style and length limit.
-- Title Case and an automatic length check for titles.
+- A caption style spec for the burned-caption X copy.
+- An automatic length and Title Case check for titles.
 - Automation for the next episode: take-picking from the transcript, a stacked Shorts builder, chapter runner layers, a cut audit, a package generator with checks.
 - Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit, versioned outputs with a revisions log, a privacy sweep before upload.
 
@@ -187,3 +187,4 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 - 2026-11-13: known gaps updated: a chapter-by-chapter runner now exists for plain cuts.
 - 2026-11-14: no rule changed. Known gaps extended from the editing automation audit (Shorts builder, take-picking, title check, tweet and X copy, Related video, true peak mismatch, stale placement and skill references) and a "Proposed, not decided" section added that points to the audit.
 - 2026-11-14: owner decisions locked. Shorts length is 45 to 90 seconds (was under 60). Shorts true peak is -1.5 dBTP (was -1). Tweet standard added: take first, one real receipt, burned-caption video attached, link in the first reply, three checks. Tweet and X copy added to the deliverables. The thumbnails row now points to the host-and-topic layout in applications (owner, 11 to 13 Nov). The 16:9 safe zone and no persistent corner watermark on screen shares are confirmed in placement. The radical-take prep steps are rules in show preparation.
+- 2026-11-14: three owner rules from 13 and 14 Nov recorded. Titles are in Title Case (13 Nov). The X copy is full quality and is not shrunk to fit a smaller upload size (13 Nov). The thumbnail masters folder keeps only validated thumbnails (14 Nov, in applications).
