@@ -182,7 +182,7 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 - A caption style spec for the burned-caption X copy.
 - An automatic length and Title Case check for titles.
 - Automation for the next episode: matching picked takes to the planned Short cards, chapter runner layers, a cut audit, a package generator with checks.
-- Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit, a privacy sweep before upload. (Versioned outputs with a revisions log and b-roll credits now exist, see Known gaps.)
+- Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit, a privacy sweep before upload (now built: `editing/scripts/privacy/sweep.py`, review the flagged ranges before upload). (Versioned outputs with a revisions log and b-roll credits now exist, see Known gaps.)
 
 ## Change log
 
