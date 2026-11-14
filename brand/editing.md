@@ -152,8 +152,27 @@ Follow [editing handoff](../production/editing-workflow.md), [overlay](https://g
 - `tsrct` (Tesseract) is not installed on the Studio; the 261111 edit was built with ffmpeg and the scripts.
 - The 261111 end-screen backdrop was never code; the template matches it by look, not by pixel.
 - The Restream kit is a first draft and waits on the owner's check in Restream Studio.
+- No tracked script builds the stacked two-host Shorts layout. `editing/scripts/shorts/` in the show repo still builds the 261103 single-speaker layout; the approved 261111 Short 01 v2 came from per-episode scripts.
+- Take-picking is done by reading the transcript in a session with the `clips` rubric. No script scores the transcript or writes the ranked Gate 3 plan.
+- Nothing checks the title automatically. Two of the three 261111 title options were 50 characters against "about 45 at most".
+- The 261111 package also shipped a tweet and a burned-caption X copy of the video. Neither is in the deliverables table and neither has a spec on this page.
+- A Short's Related video and its "Full episode" link are set by hand after publish.
+- The Shorts table says true peak at or below -1 dBTP; the Shorts scripts and the recap master use -1.5 dBTP. Waits on the owner.
+- [Placement](placement.md) still shows the 5 Nov Short video layout next to the 12 Nov stacked layout on this page. A note there marks the superseded rows.
+- The `clips` skill named at the top of this page lives in the show repo's `skills/`, not in the public skills repo linked above, and its layout section predates 12 Nov.
+
+## Proposed, not decided
+
+Nothing in this section is a rule. The [14 Nov editing automation audit](../_admin/docs/audits/2026-11-14/editing-automation-audit.md) holds the detail and the list of decisions for the owner.
+
+- A standard for the tweet and the burned-caption X copy.
+- Title Case and an automatic length check for titles.
+- Radical-take prep: a headline-shaped verdict per host, provocation questions and a headline cue at each segment close.
+- Automation for the next episode: take-picking from the transcript, a stacked Shorts builder, chapter runner layers, a cut audit, a package generator with checks.
+- Ideas from the ForwardEditor study: one standing brief per episode, a syllable-to-waveform cut audit, versioned outputs with a revisions log, a privacy sweep before upload.
 
 ## Change log
 
 - 2026-11-13: merged `docs/show-prep/edit-style.md` and the earlier version of this page with the 11 to 13 Nov decisions: hosts first, Claude-built integrated motion, music bed, split edits, the stacked two-host Shorts layout, the goodbye and outro template, the standard transition, chapter gates, red asterisk on all Shorts covers, length by story.
 - 2026-11-13: known gaps updated: a chapter-by-chapter runner now exists for plain cuts.
+- 2026-11-14: no rule changed. Known gaps extended from the editing automation audit (Shorts builder, take-picking, title check, tweet and X copy, Related video, true peak mismatch, stale placement and skill references) and a "Proposed, not decided" section added that points to the audit.

@@ -34,6 +34,8 @@ Not covered by this table: the default 1200×630 website OG card keeps its separ
 
 The edited Short itself has its own locked template, set by Vincent after the 261103 Shorts and recorded in the show repo's `docs/show-prep/edit-style.md`. Since 5 Nov 2026 the Short cover uses the same red mark, placed lower at y345 since 7 Nov 2026 (the 9:16 cover row above).
 
+Note, 14 Nov 2026: the Frame, Captions and Bottom clear rows below are superseded by the stacked two-host layout the owner approved on 12 Nov, described in [editing](editing.md), which wins. The Asterisk row stands. The values are left here unchanged as the record of the 5 Nov template.
+
 | Element (1080×1920) | Locked value |
 | --- | --- |
 | Asterisk | [Red master](assets/asterisk-red.svg), unmodified, 120×120 viewport centred at x940 / y290 (x880, y230; clearance 230 top, 80 right). Never moved or resized per Short |
