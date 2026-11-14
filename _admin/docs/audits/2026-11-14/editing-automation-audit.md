@@ -142,6 +142,11 @@ In the order that removes the most hand work for the next episode:
 8. **Privacy and text sweep.** Flag frames with readable personal data, keys or third-party names in screen shares before upload.
 9. **After publish.** Add the "Full episode" link to each Short's description. Related video stays manual until an API route is verified.
 
+### Built since this audit
+
+- **Dead-air and filler trimming (14 Nov).** `editing/scripts/trim/trim.py` in `shipshitshow/show.shipshit.dev` (PR 241). Reads the word-level transcript plus the source media and writes a cut list (keep ranges in source time, thresholds, per-cut reason codes) and an audit report listing every cut with timestamp, duration, reason and surrounding words. Dry-run by default; `--apply` renders a new file and never overwrites a source or final. Cuts land on quiet frames from the audio energy, keep the 18 ms join fade, and are refused when they would clip a word. Defaults: silences over 0.6 s with 0.25 s of breath kept; fillers um, uh, er, ah, hmm; "like" only when flagged. Its cut list is the input for item 4 (cut audit) and the revisions log.
+- Known gaps: nobody has listened to a trimmed render yet, so the first run on a real episode needs a full listen of every join. On the one real slice tried, both filler tokens in the transcript were fused with neighbouring speech and refused, so filler removal is proven on synthetic audio only; whisper word timings are too loose to separate fused fillers. Default dead-air cuts can be shorter than the 0.5 s calm-cutting rule (reported as a warning; use `--min-silence 0.8` to follow it). Background noise louder than the room floor, such as a passing car, still counts as speech. The video apply path is unit-tested but not yet rendered on real footage.
+
 ## Radical takes (proposed)
 
 Update, 14 Nov 2026: the owner made steps 1 to 3 rules for every episode. They now live in `production/show-preparation.md`. Steps 4 to 6 stay proposals.
