@@ -104,12 +104,14 @@ Brian's post was the topic of episode 261111. His video is a sponsored demo: he 
 
 | Topic | One page says | Another says |
 | --- | --- | --- |
-| Short video layout | `brand/placement.md`: speaker fills the frame, uppercase captions at y1480 (5 Nov) | `brand/editing.md`: stacked two-host layout (12 Nov), which replaces it. The `clips` skill still shows the 5 Nov layout |
+| Short video layout | `brand/placement.md`: speaker fills the frame, uppercase captions at y1480 (5 Nov; moved to y1056, 3 words, x48-888 on 15 Nov, see the note below) | `brand/editing.md`: stacked two-host layout (12 Nov), which replaces it. The `clips` skill still shows the 5 Nov layout |
 | Host faces | `brand/applications.md`: topic first, no host faces in thumbnails (26 Oct) | `brand/editing.md`: Shorts cover is a host close-up (13 Nov). The draft thumbnail template puts both hosts on every thumbnail |
 | Shorts true peak | `brand/editing.md` Shorts table: -1 dBTP | The Shorts scripts and the recap master: -1.5 dBTP |
 | Shorts length | `brand/editing.md` and the `clips` skill: under 60 seconds (5 Nov) | `editorial-format.md` in the show repo: roughly 45 to 90 seconds |
 | 16:9 safe zone, screen-share watermark | `brand/placement.md`: both still "proposed" | `brand/editing.md`: no persistent watermark over screen shares |
 | X link | 261111 drafts: link in the first reply, no tag | `x` skill: one link, last, UTM-tagged |
+
+Update, 15 Nov 2026: Shorts captions and the Short video asterisk moved out of YouTube's Shorts UI zone. Captions stay inside x48-888 / y288-1248 (at most 3 words, 780 px wide, centred on x468; full-frame at y1056, stacked on the seam), and the asterisk and any b-roll, mascot or pop stay inside the graphics safe box x48-888 / y400-1248. The `placement.md` Asterisk, Captions and Bottom clear rows and the `editing.md` Shorts rows now say so (editing change log, 15 Nov). This closes the y1480 / y1570 mismatch in the row above for captions and the asterisk; the 5 Nov Frame row there is still superseded by the stacked layout.
 | Skill links | `brand/editing.md` links the overlay, dialogue, recap and library contracts to the public skills repo and says the `clips` skill loads the page | `clips`, `hooks`, `cues` and `x` exist only in the show repo's `skills/` |
 
 ### Stale pages

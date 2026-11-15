@@ -44,14 +44,25 @@ layout = shorts['video_layout']
 vmark = layout['signature']
 if (vmark['x'] + vmark['width'] / 2, vmark['y'] + vmark['height'] / 2) != tuple(vmark['centre']) or (vmark['x'] + vmark['width'] + vmark['inset_right'], vmark['y']) != (layout['reference_canvas'][0], vmark['inset_top']):
     errors.append('Short video signature centre and insets disagree.')
-if any(short_mark[key] != vmark[key] for key in ('x', 'width', 'height', 'inset_right', 'color')):
-    errors.append('The Shorts cover signature must use the same x, size, right clearance and colour as the Short video signature (owner decision 2026-11-05).')
-if (short_mark['y'], short_mark['inset_top']) != (345, 345) or short_mark['y'] <= vmark['y']:
-    errors.append('The Shorts cover signature sits lower than the Short video mark, at y345 (owner decision 2026-11-07).')
+if any(short_mark[key] != vmark[key] for key in ('width', 'height', 'color')):
+    errors.append('The Shorts cover signature must use the same size and colour as the Short video signature (owner decision 2026-11-05).')
+if (short_mark['y'], short_mark['inset_top']) != (345, 345):
+    errors.append('The Shorts cover signature sits at y345 (owner decision 2026-11-07).')
 if vmark['width'] != vmark['height'] or vmark['inset_right'] < 50 or vmark['inset_top'] < 50:
     errors.append('Short video signature must be square with at least 50px clearance.')
-if layout['captions']['bottom_clear_from_y'] < layout['reference_canvas'][1] - 400 or layout['captions']['centre_y'] >= layout['captions']['bottom_clear_from_y']:
-    errors.append('Short video captions must leave the bottom ~350px clear.')
+box = layout['graphics_safe_box']
+if (box['x'], box['y'], box['x'] + box['width'], box['y'] + box['height']) != (safe['x'], 400, safe['x'] + safe['width'], safe['y'] + safe['height']):
+    errors.append('The Shorts graphics safe box must be the ad safe area (x48-888, y288-1248) with its top moved down to y400.')
+if not (box['x'] <= vmark['x'] and box['y'] <= vmark['y'] and vmark['x'] + vmark['width'] <= box['x'] + box['width'] and vmark['y'] + vmark['height'] <= box['y'] + box['height']):
+    errors.append('The Short video signature must sit inside the graphics safe box.')
+caps = layout['captions']
+safe_bottom = safe['y'] + safe['height']
+if caps['bottom_clear_from_y'] > safe_bottom or caps['top_clear_to_y'] < safe['y'] or not caps['top_clear_to_y'] < caps['centre_y'] < caps['bottom_clear_from_y']:
+    errors.append('Short video captions must stay inside the ad safe area (y288-1248): the bottom 672px stay clear.')
+if caps['centre_x'] != safe['x'] + safe['width'] / 2 or caps['centre_x'] - caps['max_width'] / 2 < safe['x'] or caps['centre_x'] + caps['max_width'] / 2 > safe['x'] + safe['width']:
+    errors.append('Short video captions must be centred on the ad safe x range (x468) and fit inside it.')
+if caps['max_words'] != 3:
+    errors.append('Short video caption chunks are at most 3 words (owner, 2026-11-15).')
 palette = json.loads((root / 'colors.json').read_text())
 if palette['brands'] != tokens['brands']:
     errors.append('Color summary and canonical brand roles differ.')
