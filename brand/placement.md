@@ -26,22 +26,24 @@ Size and clearances are measured on the **whole 96×96 viewport**, transparent p
 | 9:16 Short cover — 2160×3840 | 240 | 1760 / 690 | 690 / 160 | 11.1% |
 | 9:16 Short video — 2160×3840 | 240 | 1760 / 460 | 460 / 160 | 11.1% |
 
-Clearances are 5% of frame width on the left/right edge in 16:9. In 9:16 the Short cover and the Short video use the same red master at 120 px (owner decision, 5 Nov 2026). Since 7 Nov 2026 the cover mark sits lower, at y345 (centre y405), because the Shorts grid and other surfaces crop the top of the cover and the mark at y230 was partly cut off; the Short video mark stays at y230 (owner decision, 7 Nov 2026). The 1920×1080 row is exactly 1.5× the 1280×720 row; any other 16:9 size scales the same way.
+Clearances are 5% of frame width on the left/right edge in 16:9. In 9:16 the Short cover and the Short video use the same red master at 120 px (owner decision, 5 Nov 2026). Since 7 Nov 2026 the cover mark sits lower, at y345 (centre y405), because the Shorts grid and other surfaces crop the top of the cover and the mark at y230 was partly cut off; the Short video mark was moved separately on 15 Nov 2026 (see the Short video section below). The 1920×1080 row is exactly 1.5× the 1280×720 row; any other 16:9 size scales the same way.
 
 Not covered by this table: the default 1200×630 website OG card keeps its separately documented red bottom-right asterisk. An image that already has the star baked in gets no second one.
 
-## 9:16 Short video (locked by the owner, 5 Nov 2026)
+## 9:16 Short video (locked by the owner, 5 Nov 2026; mark and caption zone revised 15 Nov 2026)
 
 The edited Short itself has its own locked template, set by Vincent after the 261103 Shorts and recorded in the show repo's `docs/show-prep/edit-style.md`. Since 5 Nov 2026 the Short cover uses the same red mark, placed lower at y345 since 7 Nov 2026 (the 9:16 cover row above).
 
-Note, 14 Nov 2026: the Frame, Captions and Bottom clear rows below are superseded by the stacked two-host layout the owner approved on 12 Nov, described in [editing](editing.md), which wins. The Asterisk row stands. The values are left here unchanged as the record of the 5 Nov template.
+Note, 14 Nov 2026: the Frame row below is superseded by the stacked two-host layout the owner approved on 12 Nov, described in [editing](editing.md), which wins. The Asterisk, Captions and Safe box rows were revised on 15 Nov 2026 (below).
 
 | Element (1080×1920) | Locked value |
 | --- | --- |
-| Asterisk | [Red master](assets/asterisk-red.svg), unmodified, 120×120 viewport centred at x940 / y290 (x880, y230; clearance 230 top, 80 right). Never moved or resized per Short |
+| Asterisk | [Red master](assets/asterisk-red.svg), unmodified, 120×120 viewport centred at x820 / y460 (x760, y400; clearance 400 top, 200 right), inside the graphics safe box. Since 15 Nov 2026 (was centred x940 / y290: under the header chips and clipped by the right edge on a phone). Never moved or resized per Short |
 | Frame | The speaker fills the whole 9:16 frame (static cam crop, no blur, tile or bars). No title text |
-| Captions | White, bold uppercase, spoken word in #E83B3B, centred at about y1480, at most ~920 px wide |
-| Bottom clear | Nothing below y≈1570 |
+| Captions | White, bold uppercase, spoken word in #E83B3B, at most 3 words a chunk. Full-frame Shorts: centred at x468 and y1056 (about 55% down), at most 780 px wide. Stacked layout: same x and width, on the seam at y960. Inside x48-888 / y288-1248 (Google's universal ad safe zones reserve 48 left, 192 right, 288 top, 672 bottom). Since 15 Nov 2026 (was y1480, about 920 px wide) |
+| Bottom clear | Nothing below y1248 (was y1570) |
+| Graphics safe box | x48-888, y400-1248, for the asterisk, b-roll, mascots and pops: below the header and chips (to about y375 on a phone), left of the right rail (from about x917, y995) and above the title block (from about y1660). Captions keep the larger y288 top |
+| Animation format | From the next episode (week of 22 Nov 2026) animations (b-roll, mascots, pops) are made natively for each format: a 9:16 version inside the graphics safe box for Shorts and a 16:9 version for the long video, never a shrunken 16:9 clip placed in a Short. The published 261111 Shorts are not rebuilt |
 
 If the asterisk hides the subject, move the crop, not the mark.
 
