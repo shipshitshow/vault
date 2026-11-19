@@ -41,10 +41,13 @@ A gate is where Claude stops and shows the owner something before going on.
 9. **Chapter review. Gate 2b:** the cut is split at its chapter boundaries into one 720p clip per chapter (`ch1-<slug>.mp4`, and so on). The owner reviews and gives notes chapter by chapter. A fix re-sends only the chapter clips it touches, plus any chapter a changed beat falls in. The full render waits until every chapter is approved.
 10. **Full render and checks.** Probe, loudness, SAR and DAR, caption sync, filler at cut edges, subscribe asset and end screen.
 11. **Shorts.** Plan first: candidate takes with source ranges, and one layout example. **Gate 3: the owner approves the Shorts plan before a batch is cut.**
-12. **Package.** Title, description, chapters, tags, Shorts copy, the tweet and the burned-caption X copy.
-13. **Upload private with metadata. Gate 4:** nothing is scheduled or made public without the owner's OK on a card. Each Short sets the full episode as its Related video once it is live.
+12. **Final export sign-off. Gate 3b:** a named human watches and listens to the complete export and explicitly approves that revision before delivery. Record the reviewer, approval reference, timestamp and export SHA-256 in the delivery manifest. A changed export goes back through this gate.
+13. **Package.** Title, description, chapters, tags, Shorts copy, the tweet and the burned-caption X copy.
+14. **Upload private with metadata. Gate 4:** nothing is scheduled or made public without the owner's OK on a card. Each Short sets the full episode as its Related video once it is live.
 
 Render success is not review. Report technical checks separately from whether anyone has watched and listened; nobody has listened unless the owner says so.
+
+Record when the recording is available to edit and when the first complete cut is ready for review. Measure time to first cut from ingest to that reviewable cut, and time to approved final from ingest to Gate 3b. Keep earlier chapter samples separate.
 
 ## Recaps and edited videos (16:9)
 
@@ -162,6 +165,8 @@ Vincent cannot play local files in the app: every render goes into the thread as
 
 Follow [editing handoff](../production/editing-workflow.md), [overlay](https://github.com/shipshitshow/skills/tree/master/overlays), [dialogue](https://github.com/shipshitshow/skills/tree/master/dialogue), [recap](https://github.com/shipshitshow/skills/tree/master/recap) and [library](https://github.com/shipshitshow/skills/tree/master/library) contracts.
 
+For FFmpeg, preserve the cut map, pinned source files and assets, tool versions, and the exact rebuild command with the project. Identify any retained checkpoints the command needs. Rebuild in a clean output directory and record the matching SHA-256 before delivering the export.
+
 ## Known gaps
 
 - The chapter-by-chapter runner exists for plain cuts (`editing/scripts/chapters/` in the show repo: `plan`, `chapter <n>`, `all`, `stitch`; one 720p clip per chapter, only changed chapters re-render, stinger between chapters plus the outro). A chapter may carry an optional `motion` list in `chapters.json` (b-roll overlay or cut-away, mascot at a corner, layout switch to a named closeup or two-up, keyword pop in white or red); `plan` validates it against the rules on this page (overlaps, out-of-range times, missing assets, nothing over faces, the 5% safe margin, the asterisk box, the lower-third band, no zoom on people without the owner's approval on the layout) and chapters without it render as before. It does not yet do a host matte, J/L split edits, the music lift under the goodbye or independent caption sync; those still come from the per-episode plan scripts. Motion was checked on still frames of one 36 second slice of 261111 only: the animation (slide in and out, pop scale) was not watched and no audio was heard; the faces rects that keep overlays off the hosts are written by hand per layout, not detected. Only dry-run on 261111 so far, never listened to on a real episode.
@@ -186,6 +191,7 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 
 ## Change log
 
+- 2026-11-19: require a named human's final-export sign-off, record first-cut and approved-final times, and verify an FFmpeg rebuild before delivery.
 - 2026-11-13: merged `docs/show-prep/edit-style.md` and the earlier version of this page with the 11 to 13 Nov decisions: hosts first, Claude-built integrated motion, music bed, split edits, the stacked two-host Shorts layout, the goodbye and outro template, the standard transition, chapter gates, red asterisk on all Shorts covers, length by story.
 - 2026-11-13: known gaps updated: a chapter-by-chapter runner now exists for plain cuts.
 - 2026-11-14: no rule changed. Known gaps extended from the editing automation audit (Shorts builder, take-picking, title check, tweet and X copy, Related video, true peak mismatch, stale placement and skill references) and a "Proposed, not decided" section added that points to the audit.

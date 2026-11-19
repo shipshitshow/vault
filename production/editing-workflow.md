@@ -1,6 +1,6 @@
 # Editing library and public handoff
 
-Canonical media workspace on Studio: `~/www/tesseract`. Editing uses the installed Tesseract plugin with GPT/Claude. The workspace is local-only; do not initialize/publish the whole media library as a Git repository.
+The media workspace is local-only. Use the [current workspace contract](https://github.com/shipshitshow/show.shipshit.dev/blob/master/editing/README.md) for the folder layout and delivery commands. The structure below describes the earlier Tesseract library.
 
 ## Folder ownership
 
@@ -28,7 +28,9 @@ For thumbnails, captions, overlays, slates and motion, start with the [canonical
 
 `outputs` holds current work; `versions` preserves milestones; `final` is an identified reviewed version. A finished render is not sufficient approval. Record technical metadata, source-meaning comparison, playback, listening and sync checks independently. Preserve replacement history and external mastering recipes so the final remains reproducible from its native project and sources.
 
-Make checkpoints for meaningful changes: first assembly, reviewed cut, audio/captions and approved export. Do not automatically delete historical versions. September 29 currently has 62 packaged native archives and uses about 37 GB; choose retention after identifying authoritative deliverables.
+Make checkpoints for meaningful changes: first assembly, reviewed cut, audio/captions and approved export. Keep the first complete review cut and record its elapsed time from ingest. The approved-final clock ends when a named human explicitly approves the exact master after watching and listening. Store the time, approval reference and master hash in the delivery manifest.
+
+For a script-built FFmpeg delivery, retain the runnable recipe, input hashes and tool versions with the project. Preserve any rendered checkpoints it needs. Replay the recipe into an empty output directory and record the rebuilt master's matching SHA-256 with the delivery.
 
 ## Tool and audio checks
 
