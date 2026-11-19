@@ -76,6 +76,7 @@ Record when the recording is available to edit and when the first complete cut i
 
 - **Built with Claude, not Codex (11 Nov).** HTML and SVG with GSAP, rendered frame by frame, at the quality bar of `yihui-dev/awesome-opus5-5-videos`. One animation per idea change, planned before rendering. The renderer is Playwright with Chromium or Brave. HeyGen's HyperFrames (Apache-2.0) can also render transparent MOV and WebM; it is an allowed alternative, not the default.
 - **Integrated, not overlaid (11 Nov).** Matte the hosts with Apple Vision person segmentation (`editing/scripts/matte/` in the show repo). The layer order is plate, then motion, then the hosts on top.
+- **Build for the shot (19 Nov).** Design motion against the actual camera frame. Rebuild any full-frame artwork as independent elements on a transparent canvas before placing it over footage. Keep sourced photos as separate elements and integrate them into the animation.
 - **Visible zones only (12 Nov).** The key element of each beat sits above the heads, on the centre seam, or at the edges. Measure how much of it the host matte covers. More than 15% means move or rescale it. If a beat cannot read behind the hosts, put it in front, clear of faces.
 - **Motion from the first seconds (12 Nov).** No static opening.
 - **No zoom or scale on the hosts.** Brand colours only: charcoal, white, red `#E83B3B`. Generated art has no text, no faces and no logos, and is logged in the episode's `assets/manifest.json` with prompt, tool, date and rights.
@@ -191,6 +192,7 @@ Nothing in this section is a rule. The [14 Nov editing automation audit](../_adm
 
 ## Change log
 
+- 2026-11-19: require shot-specific motion on a transparent canvas for graphics that sit over footage.
 - 2026-11-19: require a named human's final-export sign-off, record first-cut and approved-final times, and verify an FFmpeg rebuild before delivery.
 - 2026-11-13: merged `docs/show-prep/edit-style.md` and the earlier version of this page with the 11 to 13 Nov decisions: hosts first, Claude-built integrated motion, music bed, split edits, the stacked two-host Shorts layout, the goodbye and outro template, the standard transition, chapter gates, red asterisk on all Shorts covers, length by story.
 - 2026-11-13: known gaps updated: a chapter-by-chapter runner now exists for plain cuts.
